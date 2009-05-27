@@ -1,0 +1,8 @@
+﻿## Interface: 30100
+## Title: LibTextbook
+## Notes: Provides info about spell teaching items.
+## Author: TAP3AH
+## X-Email: tap3ahchina@gmail.com
+## X-Category: Library
+
+LibTextbook.lua
