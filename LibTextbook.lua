@@ -288,7 +288,7 @@ LibTextbookReference = {}
 --end
 
 LibTextbookDB = {
-	[728] = {--Recipe: Westfall Stew
+	[728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2543,--
 		["itemName"] = "Recipe: Westfall Stew",
@@ -296,7 +296,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 75,
 		},
-	[1132] = {--Horn of the Timber Wolf
+	[1132] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 580,--Timber Wolf
 		["itemName"] = "Horn of the Timber Wolf",
@@ -307,7 +307,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[2406] = {--Pattern: Fine Leather Boots
+	[2406] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2158,--
 		["itemName"] = "Pattern: Fine Leather Boots",
@@ -315,7 +315,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 90,
 		},
-	[2407] = {--Pattern: White Leather Jerkin
+	[2407] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2163,--
 		["itemName"] = "Pattern: White Leather Jerkin",
@@ -323,7 +323,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 60,
 		},
-	[2408] = {--Pattern: Fine Leather Gloves
+	[2408] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2164,--
 		["itemName"] = "Pattern: Fine Leather Gloves",
@@ -331,7 +331,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 75,
 		},
-	[2409] = {--Pattern: Dark Leather Tunic
+	[2409] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2169,--
 		["itemName"] = "Pattern: Dark Leather Tunic",
@@ -339,7 +339,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 100,
 		},
-	[2411] = {--Black Stallion Bridle
+	[2411] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 470,--Black Stallion
 		["itemName"] = "Black Stallion Bridle",
@@ -350,7 +350,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[2414] = {--Pinto Bridle
+	[2414] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 472,--Pinto
 		["itemName"] = "Pinto Bridle",
@@ -361,7 +361,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[2553] = {--Recipe: Elixir of Minor Agility
+	[2553] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3230,--
 		["itemName"] = "Recipe: Elixir of Minor Agility",
@@ -369,7 +369,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 50,
 		},
-	[2555] = {--Recipe: Swiftness Potion
+	[2555] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2335,--
 		["itemName"] = "Recipe: Swiftness Potion",
@@ -377,7 +377,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 60,
 		},
-	[2598] = {--Pattern: Red Linen Robe
+	[2598] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2389,--
 		["itemName"] = "Pattern: Red Linen Robe",
@@ -385,7 +385,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 40,
 		},
-	[2601] = {--Pattern: Gray Woolen Robe
+	[2601] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2403,--
 		["itemName"] = "Pattern: Gray Woolen Robe",
@@ -393,7 +393,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 105,
 		},
-	[2697] = {--Recipe: Goretusk Liver Pie
+	[2697] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2542,--
 		["itemName"] = "Recipe: Goretusk Liver Pie",
@@ -401,7 +401,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[2698] = {--Recipe: Cooked Crab Claw
+	[2698] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2545,--
 		["itemName"] = "Recipe: Cooked Crab Claw",
@@ -409,7 +409,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 85,
 		},
-	[2699] = {--Recipe: Redridge Goulash
+	[2699] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2547,--
 		["itemName"] = "Recipe: Redridge Goulash",
@@ -417,7 +417,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 100,
 		},
-	[2700] = {--Recipe: Succulent Pork Ribs
+	[2700] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2548,--
 		["itemName"] = "Recipe: Succulent Pork Ribs",
@@ -425,7 +425,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 110,
 		},
-	[2701] = {--Recipe: Seasoned Wolf Kabob
+	[2701] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2549,--
 		["itemName"] = "Recipe: Seasoned Wolf Kabob",
@@ -433,7 +433,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 100,
 		},
-	[2881] = {--Plans: Runed Copper Breastplate
+	[2881] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2667,--
 		["itemName"] = "Plans: Runed Copper Breastplate",
@@ -441,7 +441,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 80,
 		},
-	[2882] = {--Plans: Silvered Bronze Shoulders
+	[2882] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3330,--
 		["itemName"] = "Plans: Silvered Bronze Shoulders",
@@ -449,7 +449,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 125,
 		},
-	[2883] = {--Plans: Deadly Bronze Poniard
+	[2883] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3295,--
 		["itemName"] = "Plans: Deadly Bronze Poniard",
@@ -457,7 +457,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 125,
 		},
-	[2889] = {--Recipe: Beer Basted Boar Ribs
+	[2889] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2795,--
 		["itemName"] = "Recipe: Beer Basted Boar Ribs",
@@ -465,7 +465,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 10,
 		},
-	[3393] = {--Recipe: Minor Magic Resistance Potion
+	[3393] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3172,--
 		["itemName"] = "Recipe: Minor Magic Resistance Potion",
@@ -473,7 +473,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 110,
 		},
-	[3394] = {--Recipe: Potion of Curing
+	[3394] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3174,--
 		["itemName"] = "Recipe: Potion of Curing",
@@ -481,7 +481,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 120,
 		},
-	[3395] = {--Recipe: Limited Invulnerability Potion
+	[3395] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3175,--
 		["itemName"] = "Recipe: Limited Invulnerability Potion",
@@ -489,7 +489,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 250,
 		},
-	[3396] = {--Recipe: Elixir of Lesser Agility
+	[3396] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2333,--
 		["itemName"] = "Recipe: Elixir of Lesser Agility",
@@ -497,7 +497,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 140,
 		},
-	[3608] = {--Plans: Mighty Iron Hammer
+	[3608] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3297,--
 		["itemName"] = "Plans: Mighty Iron Hammer",
@@ -505,7 +505,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 145,
 		},
-	[3609] = {--Plans: Copper Chain Vest
+	[3609] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3321,--
 		["itemName"] = "Plans: Copper Chain Vest",
@@ -513,7 +513,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 35,
 		},
-	[3610] = {--Plans: Gemmed Copper Gauntlets
+	[3610] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3325,--
 		["itemName"] = "Plans: Gemmed Copper Gauntlets",
@@ -521,7 +521,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 60,
 		},
-	[3611] = {--Plans: Green Iron Boots
+	[3611] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3334,--
 		["itemName"] = "Plans: Green Iron Boots",
@@ -529,7 +529,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 145,
 		},
-	[3612] = {--Plans: Green Iron Gauntlets
+	[3612] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3336,--
 		["itemName"] = "Plans: Green Iron Gauntlets",
@@ -537,7 +537,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 150,
 		},
-	[3678] = {--Recipe: Crocolisk Steak
+	[3678] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3370,--
 		["itemName"] = "Recipe: Crocolisk Steak",
@@ -545,7 +545,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 80,
 		},
-	[3679] = {--Recipe: Blood Sausage
+	[3679] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3371,--
 		["itemName"] = "Recipe: Blood Sausage",
@@ -553,7 +553,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 60,
 		},
-	[3680] = {--Recipe: Murloc Fin Soup
+	[3680] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3372,--
 		["itemName"] = "Recipe: Murloc Fin Soup",
@@ -561,7 +561,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 90,
 		},
-	[3681] = {--Recipe: Crocolisk Gumbo
+	[3681] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3373,--
 		["itemName"] = "Recipe: Crocolisk Gumbo",
@@ -569,7 +569,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 120,
 		},
-	[3682] = {--Recipe: Curiously Tasty Omelet
+	[3682] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3376,--
 		["itemName"] = "Recipe: Curiously Tasty Omelet",
@@ -577,7 +577,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 130,
 		},
-	[3683] = {--Recipe: Gooey Spider Cake
+	[3683] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3377,--
 		["itemName"] = "Recipe: Gooey Spider Cake",
@@ -585,7 +585,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 110,
 		},
-	[3734] = {--Recipe: Big Bear Steak
+	[3734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3397,--
 		["itemName"] = "Recipe: Big Bear Steak",
@@ -593,7 +593,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 110,
 		},
-	[3735] = {--Recipe: Hot Lion Chops
+	[3735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3398,--
 		["itemName"] = "Recipe: Hot Lion Chops",
@@ -601,7 +601,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 125,
 		},
-	[3736] = {--Recipe: Tasty Lion Steak
+	[3736] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3399,--
 		["itemName"] = "Recipe: Tasty Lion Steak",
@@ -609,7 +609,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 150,
 		},
-	[3737] = {--Recipe: Soothing Turtle Bisque
+	[3737] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3400,--
 		["itemName"] = "Recipe: Soothing Turtle Bisque",
@@ -617,7 +617,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[3830] = {--Recipe: Elixir of Fortitude
+	[3830] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3450,--
 		["itemName"] = "Recipe: Elixir of Fortitude",
@@ -625,7 +625,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 175,
 		},
-	[3831] = {--Recipe: Mighty Troll's Blood Elixir
+	[3831] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3451,--
 		["itemName"] = "Recipe: Mighty Troll's Blood Elixir",
@@ -633,7 +633,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 180,
 		},
-	[3832] = {--Recipe: Elixir of Detect Lesser Invisibility
+	[3832] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3453,--
 		["itemName"] = "Recipe: Elixir of Detect Lesser Invisibility",
@@ -641,7 +641,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 195,
 		},
-	[3866] = {--Plans: Jade Serpentblade
+	[3866] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3493,--
 		["itemName"] = "Plans: Jade Serpentblade",
@@ -649,7 +649,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 175,
 		},
-	[3867] = {--Plans: Golden Iron Destroyer
+	[3867] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3495,--
 		["itemName"] = "Plans: Golden Iron Destroyer",
@@ -657,7 +657,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 170,
 		},
-	[3868] = {--Plans: Frost Tiger Blade
+	[3868] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3497,--
 		["itemName"] = "Plans: Frost Tiger Blade",
@@ -665,7 +665,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
 		},
-	[3869] = {--Plans: Shadow Crescent Axe
+	[3869] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3500,--
 		["itemName"] = "Plans: Shadow Crescent Axe",
@@ -673,7 +673,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
 		},
-	[3870] = {--Plans: Green Iron Shoulders
+	[3870] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3504,--
 		["itemName"] = "Plans: Green Iron Shoulders",
@@ -681,7 +681,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 160,
 		},
-	[3871] = {--Plans: Golden Scale Shoulders
+	[3871] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3505,--
 		["itemName"] = "Plans: Golden Scale Shoulders",
@@ -689,7 +689,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 175,
 		},
-	[3872] = {--Plans: Golden Scale Leggings
+	[3872] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3507,--
 		["itemName"] = "Plans: Golden Scale Leggings",
@@ -697,7 +697,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 170,
 		},
-	[3873] = {--Plans: Golden Scale Cuirass
+	[3873] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3511,--
 		["itemName"] = "Plans: Golden Scale Cuirass",
@@ -705,7 +705,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 195,
 		},
-	[3874] = {--Plans: Polished Steel Boots
+	[3874] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3513,--
 		["itemName"] = "Plans: Polished Steel Boots",
@@ -713,7 +713,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 185,
 		},
-	[3875] = {--Plans: Golden Scale Boots
+	[3875] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3515,--
 		["itemName"] = "Plans: Golden Scale Boots",
@@ -721,7 +721,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
 		},
-	[4213] = {--Grimoire of Doom
+	[4213] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 18540,--Ritual of Doom
 		["itemName"] = "Grimoire of Doom",
@@ -730,7 +730,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		},
-	[4292] = {--Pattern: Green Woolen Bag
+	[4292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3758,--
 		["itemName"] = "Pattern: Green Woolen Bag",
@@ -738,7 +738,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 95,
 		},
-	[4293] = {--Pattern: Hillman's Leather Vest
+	[4293] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3762,--
 		["itemName"] = "Pattern: Hillman's Leather Vest",
@@ -746,7 +746,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 100,
 		},
-	[4294] = {--Pattern: Hillman's Belt
+	[4294] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3767,--
 		["itemName"] = "Pattern: Hillman's Belt",
@@ -754,7 +754,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 120,
 		},
-	[4296] = {--Pattern: Dark Leather Shoulders
+	[4296] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3769,--
 		["itemName"] = "Pattern: Dark Leather Shoulders",
@@ -762,7 +762,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 140,
 		},
-	[4297] = {--Pattern: Barbaric Gloves
+	[4297] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3771,--
 		["itemName"] = "Pattern: Barbaric Gloves",
@@ -770,7 +770,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 150,
 		},
-	[4298] = {--Pattern: Guardian Belt
+	[4298] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3775,--
 		["itemName"] = "Pattern: Guardian Belt",
@@ -778,7 +778,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 170,
 		},
-	[4299] = {--Pattern: Guardian Armor
+	[4299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3773,--
 		["itemName"] = "Pattern: Guardian Armor",
@@ -786,7 +786,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 175,
 		},
-	[4300] = {--Pattern: Guardian Leather Bracers
+	[4300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3777,--
 		["itemName"] = "Pattern: Guardian Leather Bracers",
@@ -794,7 +794,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 195,
 		},
-	[4301] = {--Pattern: Barbaric Belt
+	[4301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3779,--
 		["itemName"] = "Pattern: Barbaric Belt",
@@ -802,7 +802,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
 		},
-	[4345] = {--Pattern: Red Woolen Boots
+	[4345] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3847,--
 		["itemName"] = "Pattern: Red Woolen Boots",
@@ -810,7 +810,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 95,
 		},
-	[4346] = {--Pattern: Heavy Woolen Cloak
+	[4346] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3844,--
 		["itemName"] = "Pattern: Heavy Woolen Cloak",
@@ -818,7 +818,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 100,
 		},
-	[4347] = {--Pattern: Reinforced Woolen Shoulders
+	[4347] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3849,--
 		["itemName"] = "Pattern: Reinforced Woolen Shoulders",
@@ -826,7 +826,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 120,
 		},
-	[4348] = {--Pattern: Phoenix Gloves
+	[4348] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3868,--
 		["itemName"] = "Pattern: Phoenix Gloves",
@@ -834,7 +834,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 125,
 		},
-	[4349] = {--Pattern: Phoenix Pants
+	[4349] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3851,--
 		["itemName"] = "Pattern: Phoenix Pants",
@@ -842,7 +842,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 125,
 		},
-	[4350] = {--Pattern: Spider Silk Slippers
+	[4350] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3856,--
 		["itemName"] = "Pattern: Spider Silk Slippers",
@@ -850,7 +850,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 140,
 		},
-	[4351] = {--Pattern: Shadow Hood
+	[4351] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3858,--
 		["itemName"] = "Pattern: Shadow Hood",
@@ -858,7 +858,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 170,
 		},
-	[4352] = {--Pattern: Boots of the Enchanter
+	[4352] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3860,--
 		["itemName"] = "Pattern: Boots of the Enchanter",
@@ -866,7 +866,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 175,
 		},
-	[4353] = {--Pattern: Spider Belt
+	[4353] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3863,--
 		["itemName"] = "Pattern: Spider Belt",
@@ -874,7 +874,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 180,
 		},
-	[4354] = {--Pattern: Rich Purple Silk Shirt
+	[4354] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3872,--
 		["itemName"] = "Pattern: Rich Purple Silk Shirt",
@@ -882,7 +882,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 185,
 		},
-	[4355] = {--Pattern: Icy Cloak
+	[4355] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3862,--
 		["itemName"] = "Pattern: Icy Cloak",
@@ -890,7 +890,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 200,
 		},
-	[4356] = {--Pattern: Star Belt
+	[4356] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3864,--
 		["itemName"] = "Pattern: Star Belt",
@@ -898,13 +898,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 200,
 		},
-	[4401] = {--Mechanical Squirrel Box
+	[4401] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 4055,--Mechanical Squirrel
 		["itemName"] = "Mechanical Squirrel Box",
 		["quality"] = 1,
 		},
-	[4408] = {--Schematic: Mechanical Squirrel Box
+	[4408] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3928,--
 		["itemName"] = "Schematic: Mechanical Squirrel Box",
@@ -912,7 +912,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 75,
 		},
-	[4409] = {--Schematic: Small Seaforium Charge
+	[4409] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3933,--
 		["itemName"] = "Schematic: Small Seaforium Charge",
@@ -920,7 +920,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 100,
 		},
-	[4410] = {--Schematic: Shadow Goggles
+	[4410] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3940,--
 		["itemName"] = "Schematic: Shadow Goggles",
@@ -928,7 +928,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 120,
 		},
-	[4411] = {--Schematic: Flame Deflector
+	[4411] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3944,--
 		["itemName"] = "Schematic: Flame Deflector",
@@ -936,7 +936,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 125,
 		},
-	[4412] = {--Schematic: Moonsight Rifle
+	[4412] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3954,--
 		["itemName"] = "Schematic: Moonsight Rifle",
@@ -944,7 +944,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 145,
 		},
-	[4413] = {--Schematic: Discombobulator Ray
+	[4413] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3959,--
 		["itemName"] = "Schematic: Discombobulator Ray",
@@ -952,7 +952,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 160,
 		},
-	[4414] = {--Schematic: Portable Bronze Mortar
+	[4414] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3960,--
 		["itemName"] = "Schematic: Portable Bronze Mortar",
@@ -960,7 +960,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 165,
 		},
-	[4415] = {--Schematic: Craftsman's Monocle
+	[4415] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3966,--
 		["itemName"] = "Schematic: Craftsman's Monocle",
@@ -968,7 +968,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 185,
 		},
-	[4416] = {--Schematic: Goblin Land Mine
+	[4416] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3968,--
 		["itemName"] = "Schematic: Goblin Land Mine",
@@ -976,7 +976,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 195,
 		},
-	[4417] = {--Schematic: Large Seaforium Charge
+	[4417] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3972,--
 		["itemName"] = "Schematic: Large Seaforium Charge",
@@ -984,7 +984,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 200,
 		},
-	[4597] = {--Recipe: Discolored Healing Potion
+	[4597] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 4508,--
 		["itemName"] = "Recipe: Discolored Healing Potion",
@@ -992,7 +992,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 50,
 		},
-	[4609] = {--Recipe: Barbecued Buzzard Wing
+	[4609] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 4094,--
 		["itemName"] = "Recipe: Barbecued Buzzard Wing",
@@ -1000,7 +1000,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[4624] = {--Recipe: Lesser Stoneshield Potion
+	[4624] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 4942,--
 		["itemName"] = "Recipe: Lesser Stoneshield Potion",
@@ -1008,7 +1008,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 215,
 		},
-	[5083] = {--Pattern: Kodo Hide Bag
+	[5083] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 5244,--
 		["itemName"] = "Pattern: Kodo Hide Bag",
@@ -1016,7 +1016,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 40,
 		},
-	[5482] = {--Recipe: Kaldorei Spider Kabob
+	[5482] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6412,--
 		["itemName"] = "Recipe: Kaldorei Spider Kabob",
@@ -1024,7 +1024,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 10,
 		},
-	[5483] = {--Recipe: Scorpid Surprise
+	[5483] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6413,--
 		["itemName"] = "Recipe: Scorpid Surprise",
@@ -1032,7 +1032,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 20,
 		},
-	[5484] = {--Recipe: Roasted Kodo Meat
+	[5484] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6414,--
 		["itemName"] = "Recipe: Roasted Kodo Meat",
@@ -1040,7 +1040,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 35,
 		},
-	[5485] = {--Recipe: Fillet of Frenzy
+	[5485] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6415,--
 		["itemName"] = "Recipe: Fillet of Frenzy",
@@ -1048,7 +1048,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[5486] = {--Recipe: Strider Stew
+	[5486] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6416,--
 		["itemName"] = "Recipe: Strider Stew",
@@ -1056,7 +1056,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[5487] = {--Recipe: Dig Rat Stew
+	[5487] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6417,--
 		["itemName"] = "Recipe: Dig Rat Stew",
@@ -1064,7 +1064,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 90,
 		},
-	[5488] = {--Recipe: Crispy Lizard Tail
+	[5488] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6418,--
 		["itemName"] = "Recipe: Crispy Lizard Tail",
@@ -1072,7 +1072,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 100,
 		},
-	[5489] = {--Recipe: Lean Venison
+	[5489] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6419,--
 		["itemName"] = "Recipe: Lean Venison",
@@ -1080,7 +1080,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 110,
 		},
-	[5528] = {--Recipe: Clam Chowder
+	[5528] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6501,--
 		["itemName"] = "Recipe: Clam Chowder",
@@ -1088,7 +1088,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 90,
 		},
-	[5543] = {--Plans: Iridescent Hammer
+	[5543] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6518,--
 		["itemName"] = "Plans: Iridescent Hammer",
@@ -1096,7 +1096,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 140,
 		},
-	[5578] = {--Plans: Silvered Bronze Breastplate
+	[5578] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2673,--
 		["itemName"] = "Plans: Silvered Bronze Breastplate",
@@ -1104,7 +1104,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 130,
 		},
-	[5640] = {--Recipe: Rage Potion
+	[5640] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6617,--
 		["itemName"] = "Recipe: Rage Potion",
@@ -1112,7 +1112,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 60,
 		},
-	[5642] = {--Recipe: Free Action Potion
+	[5642] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6624,--
 		["itemName"] = "Recipe: Free Action Potion",
@@ -1120,7 +1120,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 150,
 		},
-	[5643] = {--Recipe: Great Rage Potion
+	[5643] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6618,--
 		["itemName"] = "Recipe: Great Rage Potion",
@@ -1128,7 +1128,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 175,
 		},
-	[5655] = {--Chestnut Mare Bridle
+	[5655] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6648,--Chestnut Mare
 		["itemName"] = "Chestnut Mare Bridle",
@@ -1139,7 +1139,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5656] = {--Brown Horse Bridle
+	[5656] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 458,--Brown Horse
 		["itemName"] = "Brown Horse Bridle",
@@ -1150,7 +1150,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5665] = {--Horn of the Dire Wolf
+	[5665] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6653,--Dire Wolf
 		["itemName"] = "Horn of the Dire Wolf",
@@ -1161,7 +1161,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5668] = {--Horn of the Brown Wolf
+	[5668] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6654,--Brown Wolf
 		["itemName"] = "Horn of the Brown Wolf",
@@ -1172,7 +1172,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5771] = {--Pattern: Red Linen Bag
+	[5771] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6686,--
 		["itemName"] = "Pattern: Red Linen Bag",
@@ -1180,7 +1180,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 70,
 		},
-	[5772] = {--Pattern: Red Woolen Bag
+	[5772] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6688,--
 		["itemName"] = "Pattern: Red Woolen Bag",
@@ -1188,7 +1188,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 115,
 		},
-	[5773] = {--Pattern: Robes of Arcana
+	[5773] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6692,--
 		["itemName"] = "Pattern: Robes of Arcana",
@@ -1196,7 +1196,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 150,
 		},
-	[5774] = {--Pattern: Green Silk Pack
+	[5774] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6693,--
 		["itemName"] = "Pattern: Green Silk Pack",
@@ -1204,7 +1204,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 175,
 		},
-	[5775] = {--Pattern: Black Silk Pack
+	[5775] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6695,--
 		["itemName"] = "Pattern: Black Silk Pack",
@@ -1212,7 +1212,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 185,
 		},
-	[5786] = {--Pattern: Murloc Scale Belt
+	[5786] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6702,--
 		["itemName"] = "Pattern: Murloc Scale Belt",
@@ -1220,7 +1220,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 90,
 		},
-	[5787] = {--Pattern: Murloc Scale Breastplate
+	[5787] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6703,--
 		["itemName"] = "Pattern: Murloc Scale Breastplate",
@@ -1228,7 +1228,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 95,
 		},
-	[5788] = {--Pattern: Thick Murloc Armor
+	[5788] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6704,--
 		["itemName"] = "Pattern: Thick Murloc Armor",
@@ -1236,7 +1236,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 170,
 		},
-	[5789] = {--Pattern: Murloc Scale Bracers
+	[5789] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6705,--
 		["itemName"] = "Pattern: Murloc Scale Bracers",
@@ -1244,7 +1244,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 190,
 		},
-	[5864] = {--Gray Ram
+	[5864] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6777,--Gray Ram
 		["itemName"] = "Gray Ram",
@@ -1255,7 +1255,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5872] = {--Brown Ram
+	[5872] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6899,--Brown Ram
 		["itemName"] = "Brown Ram",
@@ -1266,7 +1266,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5873] = {--White Ram
+	[5873] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6898,--White Ram
 		["itemName"] = "White Ram",
@@ -1277,7 +1277,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5875] = {--Harness: Blue Ram
+	[5875] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6897,--Blue Ram
 		["itemName"] = "Harness: Blue Ram",
@@ -1286,7 +1286,7 @@ LibTextbookDB = {
 		["reqLevel"] = 40,
 		["note"] = "fake",
 		},
-	[5972] = {--Pattern: Fine Leather Pants
+	[5972] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7133,--
 		["itemName"] = "Pattern: Fine Leather Pants",
@@ -1294,7 +1294,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 105,
 		},
-	[5973] = {--Pattern: Barbaric Leggings
+	[5973] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7149,--
 		["itemName"] = "Pattern: Barbaric Leggings",
@@ -1302,7 +1302,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 170,
 		},
-	[5974] = {--Pattern: Guardian Cloak
+	[5974] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7153,--
 		["itemName"] = "Pattern: Guardian Cloak",
@@ -1310,7 +1310,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 185,
 		},
-	[6039] = {--Recipe: Giant Clam Scorcho
+	[6039] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7213,--
 		["itemName"] = "Recipe: Giant Clam Scorcho",
@@ -1318,7 +1318,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[6044] = {--Plans: Iron Shield Spike
+	[6044] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7221,--
 		["itemName"] = "Plans: Iron Shield Spike",
@@ -1326,7 +1326,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 150,
 		},
-	[6045] = {--Plans: Iron Counterweight
+	[6045] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7222,--
 		["itemName"] = "Plans: Iron Counterweight",
@@ -1334,7 +1334,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 165,
 		},
-	[6046] = {--Plans: Steel Weapon Chain
+	[6046] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7224,--
 		["itemName"] = "Plans: Steel Weapon Chain",
@@ -1342,7 +1342,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 190,
 		},
-	[6047] = {--Plans: Golden Scale Coif
+	[6047] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3503,--
 		["itemName"] = "Plans: Golden Scale Coif",
@@ -1350,7 +1350,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 190,
 		},
-	[6053] = {--Recipe: Holy Protection Potion
+	[6053] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7255,--
 		["itemName"] = "Recipe: Holy Protection Potion",
@@ -1358,7 +1358,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 100,
 		},
-	[6054] = {--Recipe: Shadow Protection Potion
+	[6054] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7256,--
 		["itemName"] = "Recipe: Shadow Protection Potion",
@@ -1366,7 +1366,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 135,
 		},
-	[6055] = {--Recipe: Fire Protection Potion
+	[6055] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7257,--
 		["itemName"] = "Recipe: Fire Protection Potion",
@@ -1374,7 +1374,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 165,
 		},
-	[6056] = {--Recipe: Frost Protection Potion
+	[6056] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7258,--
 		["itemName"] = "Recipe: Frost Protection Potion",
@@ -1382,7 +1382,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 190,
 		},
-	[6057] = {--Recipe: Nature Protection Potion
+	[6057] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7259,--
 		["itemName"] = "Recipe: Nature Protection Potion",
@@ -1390,7 +1390,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 190,
 		},
-	[6068] = {--Recipe: Shadow Oil
+	[6068] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3449,--
 		["itemName"] = "Recipe: Shadow Oil",
@@ -1398,7 +1398,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 165,
 		},
-	[6211] = {--Recipe: Elixir of Ogre's Strength
+	[6211] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3188,--
 		["itemName"] = "Recipe: Elixir of Ogre's Strength",
@@ -1406,7 +1406,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 150,
 		},
-	[6270] = {--Pattern: Blue Linen Vest
+	[6270] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7630,--
 		["itemName"] = "Pattern: Blue Linen Vest",
@@ -1414,7 +1414,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 55,
 		},
-	[6271] = {--Pattern: Red Linen Vest
+	[6271] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7629,--
 		["itemName"] = "Pattern: Red Linen Vest",
@@ -1422,7 +1422,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 55,
 		},
-	[6272] = {--Pattern: Blue Linen Robe
+	[6272] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7633,--
 		["itemName"] = "Pattern: Blue Linen Robe",
@@ -1430,7 +1430,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 70,
 		},
-	[6274] = {--Pattern: Blue Overalls
+	[6274] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7639,--
 		["itemName"] = "Pattern: Blue Overalls",
@@ -1438,7 +1438,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 100,
 		},
-	[6275] = {--Pattern: Greater Adept's Robe
+	[6275] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7643,--
 		["itemName"] = "Pattern: Greater Adept's Robe",
@@ -1446,7 +1446,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 115,
 		},
-	[6325] = {--Recipe: Brilliant Smallfish
+	[6325] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7751,--
 		["itemName"] = "Recipe: Brilliant Smallfish",
@@ -1454,7 +1454,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[6326] = {--Recipe: Slitherskin Mackerel
+	[6326] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7752,--
 		["itemName"] = "Recipe: Slitherskin Mackerel",
@@ -1462,7 +1462,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[6328] = {--Recipe: Longjaw Mud Snapper
+	[6328] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7753,--
 		["itemName"] = "Recipe: Longjaw Mud Snapper",
@@ -1470,7 +1470,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[6329] = {--Recipe: Loch Frenzy Delight
+	[6329] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7754,--
 		["itemName"] = "Recipe: Loch Frenzy Delight",
@@ -1478,7 +1478,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[6330] = {--Recipe: Bristle Whisker Catfish
+	[6330] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7755,--
 		["itemName"] = "Recipe: Bristle Whisker Catfish",
@@ -1486,7 +1486,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 100,
 		},
-	[6342] = {--Formula: Enchant Chest - Minor Mana
+	[6342] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7443,--
 		["itemName"] = "Formula: Enchant Chest - Minor Mana",
@@ -1494,7 +1494,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 20,
 		},
-	[6344] = {--Formula: Enchant Bracer - Minor Spirit
+	[6344] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7766,--
 		["itemName"] = "Formula: Enchant Bracer - Minor Spirit",
@@ -1502,7 +1502,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 60,
 		},
-	[6346] = {--Formula: Enchant Chest - Lesser Mana
+	[6346] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7776,--
 		["itemName"] = "Formula: Enchant Chest - Lesser Mana",
@@ -1510,7 +1510,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 80,
 		},
-	[6347] = {--Formula: Enchant Bracer - Minor Strength
+	[6347] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7782,--
 		["itemName"] = "Formula: Enchant Bracer - Minor Strength",
@@ -1518,7 +1518,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 80,
 		},
-	[6348] = {--Formula: Enchant Weapon - Minor Beastslayer
+	[6348] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7786,--
 		["itemName"] = "Formula: Enchant Weapon - Minor Beastslayer",
@@ -1526,7 +1526,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 90,
 		},
-	[6349] = {--Formula: Enchant 2H Weapon - Lesser Intellect
+	[6349] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7793,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Lesser Intellect",
@@ -1534,7 +1534,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 100,
 		},
-	[6368] = {--Recipe: Rainbow Fin Albacore
+	[6368] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7827,--
 		["itemName"] = "Recipe: Rainbow Fin Albacore",
@@ -1542,7 +1542,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[6369] = {--Recipe: Rockscale Cod
+	[6369] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7828,--
 		["itemName"] = "Recipe: Rockscale Cod",
@@ -1550,7 +1550,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[6375] = {--Formula: Enchant Bracer - Lesser Spirit
+	[6375] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7859,--
 		["itemName"] = "Formula: Enchant Bracer - Lesser Spirit",
@@ -1558,7 +1558,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 120,
 		},
-	[6377] = {--Formula: Enchant Boots - Minor Agility
+	[6377] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7867,--
 		["itemName"] = "Formula: Enchant Boots - Minor Agility",
@@ -1566,7 +1566,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 125,
 		},
-	[6390] = {--Pattern: Stylish Blue Shirt
+	[6390] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7892,--
 		["itemName"] = "Pattern: Stylish Blue Shirt",
@@ -1574,7 +1574,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 120,
 		},
-	[6391] = {--Pattern: Stylish Green Shirt
+	[6391] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7893,--
 		["itemName"] = "Pattern: Stylish Green Shirt",
@@ -1582,7 +1582,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 120,
 		},
-	[6401] = {--Pattern: Dark Silk Shirt
+	[6401] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3870,--
 		["itemName"] = "Pattern: Dark Silk Shirt",
@@ -1590,7 +1590,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 155,
 		},
-	[6454] = {--Manual: Strong Anti-Venom
+	[6454] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7935,--
 		["itemName"] = "Manual: Strong Anti-Venom",
@@ -1599,7 +1599,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 130,
 		["note"] = "removed",
 		},
-	[6474] = {--Pattern: Deviate Scale Cloak
+	[6474] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7953,--
 		["itemName"] = "Pattern: Deviate Scale Cloak",
@@ -1607,7 +1607,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 90,
 		},
-	[6475] = {--Pattern: Deviate Scale Gloves
+	[6475] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7954,--
 		["itemName"] = "Pattern: Deviate Scale Gloves",
@@ -1615,7 +1615,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 105,
 		},
-	[6476] = {--Pattern: Deviate Scale Belt
+	[6476] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7955,--
 		["itemName"] = "Pattern: Deviate Scale Belt",
@@ -1623,7 +1623,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 115,
 		},
-	[6661] = {--Recipe: Savory Deviate Delight
+	[6661] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8238,--
 		["itemName"] = "Recipe: Savory Deviate Delight",
@@ -1631,7 +1631,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 85,
 		},
-	[6663] = {--Recipe: Elixir of Giant Growth
+	[6663] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8240,--
 		["itemName"] = "Recipe: Elixir of Giant Growth",
@@ -1639,7 +1639,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 90,
 		},
-	[6672] = {--Schematic: Flash Bomb
+	[6672] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8243,--
 		["itemName"] = "Schematic: Flash Bomb",
@@ -1647,7 +1647,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 185,
 		},
-	[6710] = {--Pattern: Moonglow Vest
+	[6710] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8322,--
 		["itemName"] = "Pattern: Moonglow Vest",
@@ -1655,7 +1655,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 90,
 		},
-	[6716] = {--Schematic: EZ-Thro Dynamite
+	[6716] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8339,--
 		["itemName"] = "Schematic: EZ-Thro Dynamite",
@@ -1663,7 +1663,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 100,
 		},
-	[6735] = {--Plans: Ironforge Breastplate
+	[6735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8367,--
 		["itemName"] = "Plans: Ironforge Breastplate",
@@ -1671,7 +1671,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 100,
 		},
-	[6892] = {--Recipe: Smoked Bear Meat
+	[6892] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8607,--
 		["itemName"] = "Recipe: Smoked Bear Meat",
@@ -1679,7 +1679,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 40,
 		},
-	[7084] = {--Pattern: Crimson Silk Shoulders
+	[7084] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8793,--
 		["itemName"] = "Pattern: Crimson Silk Shoulders",
@@ -1687,7 +1687,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 190,
 		},
-	[7085] = {--Pattern: Azure Shoulders
+	[7085] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8795,--
 		["itemName"] = "Pattern: Azure Shoulders",
@@ -1695,7 +1695,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 190,
 		},
-	[7086] = {--Pattern: Earthen Silk Belt
+	[7086] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8797,--
 		["itemName"] = "Pattern: Earthen Silk Belt",
@@ -1703,7 +1703,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 195,
 		},
-	[7087] = {--Pattern: Crimson Silk Cloak
+	[7087] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8789,--
 		["itemName"] = "Pattern: Crimson Silk Cloak",
@@ -1711,7 +1711,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 180,
 		},
-	[7088] = {--Pattern: Crimson Silk Robe
+	[7088] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8802,--
 		["itemName"] = "Pattern: Crimson Silk Robe",
@@ -1719,7 +1719,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 205,
 		},
-	[7089] = {--Pattern: Azure Silk Cloak
+	[7089] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8786,--
 		["itemName"] = "Pattern: Azure Silk Cloak",
@@ -1727,7 +1727,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 175,
 		},
-	[7090] = {--Pattern: Green Silk Armor
+	[7090] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8784,--
 		["itemName"] = "Pattern: Green Silk Armor",
@@ -1735,7 +1735,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 165,
 		},
-	[7091] = {--Pattern: Truefaith Gloves
+	[7091] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8782,--
 		["itemName"] = "Pattern: Truefaith Gloves",
@@ -1743,7 +1743,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 150,
 		},
-	[7092] = {--Pattern: Hands of Darkness
+	[7092] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8780,--
 		["itemName"] = "Pattern: Hands of Darkness",
@@ -1751,7 +1751,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 145,
 		},
-	[7114] = {--Pattern: Azure Silk Gloves
+	[7114] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3854,--
 		["itemName"] = "Pattern: Azure Silk Gloves",
@@ -1759,7 +1759,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 145,
 		},
-	[7288] = {--Pattern: Rugged Leather Pants
+	[7288] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9064,--
 		["itemName"] = "Pattern: Rugged Leather Pants",
@@ -1767,7 +1767,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 35,
 		},
-	[7289] = {--Pattern: Black Whelp Cloak
+	[7289] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9070,--
 		["itemName"] = "Pattern: Black Whelp Cloak",
@@ -1775,7 +1775,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 100,
 		},
-	[7290] = {--Pattern: Red Whelp Gloves
+	[7290] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9072,--
 		["itemName"] = "Pattern: Red Whelp Gloves",
@@ -1783,7 +1783,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 120,
 		},
-	[7360] = {--Pattern: Dark Leather Gloves
+	[7360] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3765,--
 		["itemName"] = "Pattern: Dark Leather Gloves",
@@ -1791,7 +1791,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 120,
 		},
-	[7361] = {--Pattern: Herbalist's Gloves
+	[7361] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9146,--
 		["itemName"] = "Pattern: Herbalist's Gloves",
@@ -1799,7 +1799,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 135,
 		},
-	[7362] = {--Pattern: Earthen Leather Shoulders
+	[7362] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9147,--
 		["itemName"] = "Pattern: Earthen Leather Shoulders",
@@ -1807,7 +1807,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 135,
 		},
-	[7363] = {--Pattern: Pilferer's Gloves
+	[7363] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9148,--
 		["itemName"] = "Pattern: Pilferer's Gloves",
@@ -1815,7 +1815,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 140,
 		},
-	[7364] = {--Pattern: Heavy Earthen Gloves
+	[7364] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9149,--
 		["itemName"] = "Pattern: Heavy Earthen Gloves",
@@ -1823,7 +1823,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 145,
 		},
-	[7449] = {--Pattern: Dusky Leather Leggings
+	[7449] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9195,--
 		["itemName"] = "Pattern: Dusky Leather Leggings",
@@ -1831,7 +1831,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 165,
 		},
-	[7450] = {--Pattern: Green Whelp Armor
+	[7450] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9197,--
 		["itemName"] = "Pattern: Green Whelp Armor",
@@ -1839,7 +1839,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 175,
 		},
-	[7451] = {--Pattern: Green Whelp Bracers
+	[7451] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9202,--
 		["itemName"] = "Pattern: Green Whelp Bracers",
@@ -1847,7 +1847,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 190,
 		},
-	[7452] = {--Pattern: Dusky Boots
+	[7452] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9207,--
 		["itemName"] = "Pattern: Dusky Boots",
@@ -1855,7 +1855,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
 		},
-	[7453] = {--Pattern: Swift Boots
+	[7453] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9208,--
 		["itemName"] = "Pattern: Swift Boots",
@@ -1863,7 +1863,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
 		},
-	[7560] = {--Schematic: Gnomish Universal Remote
+	[7560] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9269,--
 		["itemName"] = "Schematic: Gnomish Universal Remote",
@@ -1871,7 +1871,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 125,
 		},
-	[7561] = {--Schematic: Goblin Jumper Cables
+	[7561] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9273,--
 		["itemName"] = "Schematic: Goblin Jumper Cables",
@@ -1879,7 +1879,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 165,
 		},
-	[7613] = {--Pattern: Green Leather Armor
+	[7613] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3772,--
 		["itemName"] = "Pattern: Green Leather Armor",
@@ -1887,7 +1887,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 155,
 		},
-	[7678] = {--Recipe: Thistle Tea
+	[7678] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9513,--
 		["itemName"] = "Recipe: Thistle Tea",
@@ -1895,7 +1895,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 60,
 		},
-	[7742] = {--Schematic: Gnomish Cloaking Device
+	[7742] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3971,--
 		["itemName"] = "Schematic: Gnomish Cloaking Device",
@@ -1903,7 +1903,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 200,
 		},
-	[7975] = {--Plans: Heavy Mithril Pants
+	[7975] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9933,--
 		["itemName"] = "Plans: Heavy Mithril Pants",
@@ -1911,7 +1911,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 210,
 		},
-	[7976] = {--Plans: Mithril Shield Spike
+	[7976] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9939,--
 		["itemName"] = "Plans: Mithril Shield Spike",
@@ -1919,7 +1919,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 215,
 		},
-	[7978] = {--Plans: Barbaric Iron Shoulders
+	[7978] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9811,--
 		["itemName"] = "Plans: Barbaric Iron Shoulders",
@@ -1927,7 +1927,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 160,
 		},
-	[7979] = {--Plans: Barbaric Iron Breastplate
+	[7979] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9813,--
 		["itemName"] = "Plans: Barbaric Iron Breastplate",
@@ -1935,7 +1935,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 160,
 		},
-	[7980] = {--Plans: Barbaric Iron Helm
+	[7980] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9814,--
 		["itemName"] = "Plans: Barbaric Iron Helm",
@@ -1943,7 +1943,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 175,
 		},
-	[7981] = {--Plans: Barbaric Iron Boots
+	[7981] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9818,--
 		["itemName"] = "Plans: Barbaric Iron Boots",
@@ -1951,7 +1951,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 180,
 		},
-	[7982] = {--Plans: Barbaric Iron Gloves
+	[7982] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9820,--
 		["itemName"] = "Plans: Barbaric Iron Gloves",
@@ -1959,7 +1959,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 185,
 		},
-	[7983] = {--Plans: Ornate Mithril Pants
+	[7983] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9945,--
 		["itemName"] = "Plans: Ornate Mithril Pants",
@@ -1968,7 +1968,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 220,
 		},
-	[7984] = {--Plans: Ornate Mithril Gloves
+	[7984] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9950,--
 		["itemName"] = "Plans: Ornate Mithril Gloves",
@@ -1977,7 +1977,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 220,
 		},
-	[7985] = {--Plans: Ornate Mithril Shoulder
+	[7985] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9952,--
 		["itemName"] = "Plans: Ornate Mithril Shoulder",
@@ -1986,7 +1986,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 225,
 		},
-	[7986] = {--Plans: Ornate Mithril Breastplate
+	[7986] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9972,--
 		["itemName"] = "Plans: Ornate Mithril Breastplate",
@@ -1995,7 +1995,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 240,
 		},
-	[7987] = {--Plans: Ornate Mithril Helm
+	[7987] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9980,--
 		["itemName"] = "Plans: Ornate Mithril Helm",
@@ -2004,7 +2004,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 245,
 		},
-	[7988] = {--Plans: Ornate Mithril Boots
+	[7988] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9979,--
 		["itemName"] = "Plans: Ornate Mithril Boots",
@@ -2013,7 +2013,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 245,
 		},
-	[7989] = {--Plans: Mithril Spurs
+	[7989] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9964,--
 		["itemName"] = "Plans: Mithril Spurs",
@@ -2021,7 +2021,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 235,
 		},
-	[7990] = {--Plans: Heavy Mithril Helm
+	[7990] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9970,--
 		["itemName"] = "Plans: Heavy Mithril Helm",
@@ -2029,7 +2029,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 245,
 		},
-	[7991] = {--Plans: Mithril Scale Shoulders
+	[7991] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9966,--
 		["itemName"] = "Plans: Mithril Scale Shoulders",
@@ -2037,7 +2037,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 235,
 		},
-	[7992] = {--Plans: Blue Glittering Axe
+	[7992] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9995,--
 		["itemName"] = "Plans: Blue Glittering Axe",
@@ -2045,7 +2045,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 220,
 		},
-	[7993] = {--Plans: Dazzling Mithril Rapier
+	[7993] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10005,--
 		["itemName"] = "Plans: Dazzling Mithril Rapier",
@@ -2053,7 +2053,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 240,
 		},
-	[7995] = {--Plans: Mithril Scale Bracers
+	[7995] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9937,--
 		["itemName"] = "Plans: Mithril Scale Bracers",
@@ -2061,7 +2061,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 215,
 		},
-	[8028] = {--Plans: Runed Mithril Hammer
+	[8028] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10009,--
 		["itemName"] = "Plans: Runed Mithril Hammer",
@@ -2069,7 +2069,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 245,
 		},
-	[8029] = {--Plans: Wicked Mithril Blade
+	[8029] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9997,--
 		["itemName"] = "Plans: Wicked Mithril Blade",
@@ -2078,7 +2078,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 225,
 		},
-	[8030] = {--Plans: Ebon Shiv
+	[8030] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10013,--
 		["itemName"] = "Plans: Ebon Shiv",
@@ -2087,7 +2087,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 255,
 		},
-	[8384] = {--Pattern: Comfortable Leather Hat
+	[8384] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10490,--
 		["itemName"] = "Pattern: Comfortable Leather Hat",
@@ -2095,7 +2095,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
 		},
-	[8385] = {--Pattern: Turtle Scale Gloves
+	[8385] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10509,--
 		["itemName"] = "Pattern: Turtle Scale Gloves",
@@ -2103,7 +2103,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 205,
 		},
-	[8386] = {--Pattern: Big Voodoo Robe
+	[8386] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10520,--
 		["itemName"] = "Pattern: Big Voodoo Robe",
@@ -2111,7 +2111,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 215,
 		},
-	[8387] = {--Pattern: Big Voodoo Mask
+	[8387] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10531,--
 		["itemName"] = "Pattern: Big Voodoo Mask",
@@ -2119,7 +2119,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 220,
 		},
-	[8389] = {--Pattern: Big Voodoo Pants
+	[8389] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10560,--
 		["itemName"] = "Pattern: Big Voodoo Pants",
@@ -2127,7 +2127,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 240,
 		},
-	[8390] = {--Pattern: Big Voodoo Cloak
+	[8390] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10562,--
 		["itemName"] = "Pattern: Big Voodoo Cloak",
@@ -2135,7 +2135,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 240,
 		},
-	[8395] = {--Pattern: Tough Scorpid Breastplate
+	[8395] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10525,--
 		["itemName"] = "Pattern: Tough Scorpid Breastplate",
@@ -2143,7 +2143,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 220,
 		},
-	[8397] = {--Pattern: Tough Scorpid Bracers
+	[8397] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10533,--
 		["itemName"] = "Pattern: Tough Scorpid Bracers",
@@ -2151,7 +2151,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 220,
 		},
-	[8398] = {--Pattern: Tough Scorpid Gloves
+	[8398] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10542,--
 		["itemName"] = "Pattern: Tough Scorpid Gloves",
@@ -2159,7 +2159,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 225,
 		},
-	[8399] = {--Pattern: Tough Scorpid Boots
+	[8399] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10554,--
 		["itemName"] = "Pattern: Tough Scorpid Boots",
@@ -2167,7 +2167,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 235,
 		},
-	[8400] = {--Pattern: Tough Scorpid Shoulders
+	[8400] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10564,--
 		["itemName"] = "Pattern: Tough Scorpid Shoulders",
@@ -2175,7 +2175,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 240,
 		},
-	[8401] = {--Pattern: Tough Scorpid Leggings
+	[8401] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10568,--
 		["itemName"] = "Pattern: Tough Scorpid Leggings",
@@ -2183,7 +2183,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 245,
 		},
-	[8402] = {--Pattern: Tough Scorpid Helm
+	[8402] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10570,--
 		["itemName"] = "Pattern: Tough Scorpid Helm",
@@ -2191,7 +2191,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 250,
 		},
-	[8403] = {--Pattern: Wild Leather Shoulders
+	[8403] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10529,--
 		["itemName"] = "Pattern: Wild Leather Shoulders",
@@ -2200,7 +2200,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 220,
 		},
-	[8404] = {--Pattern: Wild Leather Vest
+	[8404] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10544,--
 		["itemName"] = "Pattern: Wild Leather Vest",
@@ -2209,7 +2209,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 225,
 		},
-	[8405] = {--Pattern: Wild Leather Helmet
+	[8405] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10546,--
 		["itemName"] = "Pattern: Wild Leather Helmet",
@@ -2218,7 +2218,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 225,
 		},
-	[8406] = {--Pattern: Wild Leather Boots
+	[8406] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10566,--
 		["itemName"] = "Pattern: Wild Leather Boots",
@@ -2227,7 +2227,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 245,
 		},
-	[8407] = {--Pattern: Wild Leather Leggings
+	[8407] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10572,--
 		["itemName"] = "Pattern: Wild Leather Leggings",
@@ -2236,7 +2236,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 250,
 		},
-	[8408] = {--Pattern: Wild Leather Cloak
+	[8408] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10574,--
 		["itemName"] = "Pattern: Wild Leather Cloak",
@@ -2245,7 +2245,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 250,
 		},
-	[8409] = {--Pattern: Nightscape Shoulders
+	[8409] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10516,--
 		["itemName"] = "Pattern: Nightscape Shoulders",
@@ -2253,103 +2253,103 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 210,
 		},
-	[8485] = {--Cat Carrier (Bombay)
+	[8485] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10673,--Bombay Cat
 		["itemName"] = "Cat Carrier (Bombay)",
 		["quality"] = 1,
 		},
-	[8486] = {--Cat Carrier (Cornish Rex)
+	[8486] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10674,--Cornish Rex Cat
 		["itemName"] = "Cat Carrier (Cornish Rex)",
 		["quality"] = 1,
 		},
-	[8487] = {--Cat Carrier (Orange Tabby)
+	[8487] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10676,--Orange Tabby Cat
 		["itemName"] = "Cat Carrier (Orange Tabby)",
 		["quality"] = 1,
 		},
-	[8488] = {--Cat Carrier (Silver Tabby)
+	[8488] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10678,--Silver Tabby Cat
 		["itemName"] = "Cat Carrier (Silver Tabby)",
 		["quality"] = 1,
 		},
-	[8489] = {--Cat Carrier (White Kitten)
+	[8489] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10679,--White Kitten
 		["itemName"] = "Cat Carrier (White Kitten)",
 		["quality"] = 1,
 		},
-	[8490] = {--Cat Carrier (Siamese)
+	[8490] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10677,--Siamese Cat
 		["itemName"] = "Cat Carrier (Siamese)",
 		["quality"] = 1,
 		},
-	[8491] = {--Cat Carrier (Black Tabby)
+	[8491] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10675,--Black Tabby Cat
 		["itemName"] = "Cat Carrier (Black Tabby)",
 		["quality"] = 1,
 		},
-	[8492] = {--Parrot Cage (Green Wing Macaw)
+	[8492] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10683,--Green Wing Macaw
 		["itemName"] = "Parrot Cage (Green Wing Macaw)",
 		["quality"] = 1,
 		},
-	[8494] = {--Parrot Cage (Hyacinth Macaw)
+	[8494] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10682,--Hyacinth Macaw
 		["itemName"] = "Parrot Cage (Hyacinth Macaw)",
 		["quality"] = 1,
 		},
-	[8495] = {--Parrot Cage (Senegal)
+	[8495] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10684,--Senegal
 		["itemName"] = "Parrot Cage (Senegal)",
 		["quality"] = 1,
 		},
-	[8496] = {--Parrot Cage (Cockatiel)
+	[8496] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10680,--Cockatiel
 		["itemName"] = "Parrot Cage (Cockatiel)",
 		["quality"] = 1,
 		},
-	[8497] = {--Rabbit Crate (Snowshoe)
+	[8497] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10711,--Snowshoe Rabbit
 		["itemName"] = "Rabbit Crate (Snowshoe)",
 		["quality"] = 1,
 		},
-	[8498] = {--Tiny Emerald Whelpling
+	[8498] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10698,--Emerald Whelpling
 		["itemName"] = "Tiny Emerald Whelpling",
 		["quality"] = 1,
 		},
-	[8499] = {--Tiny Crimson Whelpling
+	[8499] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10697,--Crimson Whelpling
 		["itemName"] = "Tiny Crimson Whelpling",
 		["quality"] = 1,
 		},
-	[8500] = {--Great Horned Owl
+	[8500] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10707,--Great Horned Owl
 		["itemName"] = "Great Horned Owl",
 		["quality"] = 1,
 		},
-	[8501] = {--Hawk Owl
+	[8501] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10706,--Hawk Owl
 		["itemName"] = "Hawk Owl",
 		["quality"] = 1,
 		},
-	[8563] = {--Red Mechanostrider
+	[8563] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10873,--Red Mechanostrider
 		["itemName"] = "Red Mechanostrider",
@@ -2360,7 +2360,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8586] = {--Whistle of the Mottled Red Raptor
+	[8586] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16084,--Mottled Red Raptor
 		["itemName"] = "Whistle of the Mottled Red Raptor",
@@ -2371,7 +2371,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[8588] = {--Whistle of the Emerald Raptor
+	[8588] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 8395,--Emerald Raptor
 		["itemName"] = "Whistle of the Emerald Raptor",
@@ -2382,7 +2382,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8591] = {--Whistle of the Turquoise Raptor
+	[8591] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10796,--Turquoise Raptor
 		["itemName"] = "Whistle of the Turquoise Raptor",
@@ -2393,7 +2393,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8592] = {--Whistle of the Violet Raptor
+	[8592] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10799,--Violet Raptor
 		["itemName"] = "Whistle of the Violet Raptor",
@@ -2404,7 +2404,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8595] = {--Blue Mechanostrider
+	[8595] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10969,--Blue Mechanostrider
 		["itemName"] = "Blue Mechanostrider",
@@ -2415,7 +2415,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8628] = {--Reins of the Spotted Nightsaber
+	[8628] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10792,--Spotted Panther
 		["itemName"] = "Reins of the Spotted Nightsaber",
@@ -2424,7 +2424,7 @@ LibTextbookDB = {
 		["reqRaces"] = 446,
 		["reqLevel"] = 40,
 		},
-	[8629] = {--Reins of the Striped Nightsaber
+	[8629] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10793,--Striped Nightsaber
 		["itemName"] = "Reins of the Striped Nightsaber",
@@ -2435,7 +2435,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8631] = {--Reins of the Striped Frostsaber
+	[8631] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 8394,--Striped Frostsaber
 		["itemName"] = "Reins of the Striped Frostsaber",
@@ -2446,7 +2446,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8632] = {--Reins of the Spotted Frostsaber
+	[8632] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10789,--Spotted Frostsaber
 		["itemName"] = "Reins of the Spotted Frostsaber",
@@ -2457,7 +2457,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[9214] = {--Grimoire of Inferno
+	[9214] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 1122,--Inferno (Summon)
 		["itemName"] = "Grimoire of Inferno",
@@ -2466,7 +2466,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		},
-	[9293] = {--Recipe: Magic Resistance Potion
+	[9293] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11453,--
 		["itemName"] = "Recipe: Magic Resistance Potion",
@@ -2474,7 +2474,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 210,
 		},
-	[9294] = {--Recipe: Wildvine Potion
+	[9294] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11458,--
 		["itemName"] = "Recipe: Wildvine Potion",
@@ -2482,7 +2482,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 225,
 		},
-	[9295] = {--Recipe: Invisibility Potion
+	[9295] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11464,--
 		["itemName"] = "Recipe: Invisibility Potion",
@@ -2490,7 +2490,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 235,
 		},
-	[9296] = {--Recipe: Gift of Arthas
+	[9296] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11466,--
 		["itemName"] = "Recipe: Gift of Arthas",
@@ -2498,7 +2498,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 240,
 		},
-	[9297] = {--Recipe: Elixir of Dream Vision
+	[9297] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11468,--
 		["itemName"] = "Recipe: Elixir of Dream Vision",
@@ -2506,7 +2506,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 240,
 		},
-	[9298] = {--Recipe: Elixir of Giants
+	[9298] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11472,--
 		["itemName"] = "Recipe: Elixir of Giants",
@@ -2514,7 +2514,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 245,
 		},
-	[9300] = {--Recipe: Elixir of Demonslaying
+	[9300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11477,--
 		["itemName"] = "Recipe: Elixir of Demonslaying",
@@ -2522,7 +2522,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 250,
 		},
-	[9301] = {--Recipe: Elixir of Shadow Power
+	[9301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11476,--
 		["itemName"] = "Recipe: Elixir of Shadow Power",
@@ -2530,7 +2530,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 250,
 		},
-	[9302] = {--Recipe: Ghost Dye
+	[9302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11473,--
 		["itemName"] = "Recipe: Ghost Dye",
@@ -2538,7 +2538,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 245,
 		},
-	[9303] = {--Recipe: Philosopher's Stone
+	[9303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11459,--
 		["itemName"] = "Recipe: Philosopher's Stone",
@@ -2546,7 +2546,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 225,
 		},
-	[9304] = {--Recipe: Transmute Iron to Gold
+	[9304] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11479,--
 		["itemName"] = "Recipe: Transmute Iron to Gold",
@@ -2554,7 +2554,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 225,
 		},
-	[9305] = {--Recipe: Transmute Mithril to Truesilver
+	[9305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11480,--
 		["itemName"] = "Recipe: Transmute Mithril to Truesilver",
@@ -2562,7 +2562,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 225,
 		},
-	[9367] = {--Plans: Golden Scale Gauntlets
+	[9367] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11643,--
 		["itemName"] = "Plans: Golden Scale Gauntlets",
@@ -2570,7 +2570,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 205,
 		},
-	[10300] = {--Pattern: Red Mageweave Vest
+	[10300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12056,--
 		["itemName"] = "Pattern: Red Mageweave Vest",
@@ -2578,7 +2578,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 215,
 		},
-	[10301] = {--Pattern: White Bandit Mask
+	[10301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12059,--
 		["itemName"] = "Pattern: White Bandit Mask",
@@ -2586,7 +2586,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 215,
 		},
-	[10302] = {--Pattern: Red Mageweave Pants
+	[10302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12060,--
 		["itemName"] = "Pattern: Red Mageweave Pants",
@@ -2594,7 +2594,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 215,
 		},
-	[10311] = {--Pattern: Orange Martial Shirt
+	[10311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12064,--
 		["itemName"] = "Pattern: Orange Martial Shirt",
@@ -2602,7 +2602,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 220,
 		},
-	[10312] = {--Pattern: Red Mageweave Gloves
+	[10312] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12066,--
 		["itemName"] = "Pattern: Red Mageweave Gloves",
@@ -2610,7 +2610,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 225,
 		},
-	[10314] = {--Pattern: Lavender Mageweave Shirt
+	[10314] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12075,--
 		["itemName"] = "Pattern: Lavender Mageweave Shirt",
@@ -2618,7 +2618,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 230,
 		},
-	[10315] = {--Pattern: Red Mageweave Shoulders
+	[10315] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12078,--
 		["itemName"] = "Pattern: Red Mageweave Shoulders",
@@ -2626,7 +2626,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 235,
 		},
-	[10316] = {--Pattern: Colorful Kilt
+	[10316] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12047,--
 		["itemName"] = "Pattern: Colorful Kilt",
@@ -2634,7 +2634,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 120,
 		},
-	[10317] = {--Pattern: Pink Mageweave Shirt
+	[10317] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12080,--
 		["itemName"] = "Pattern: Pink Mageweave Shirt",
@@ -2642,7 +2642,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 235,
 		},
-	[10318] = {--Pattern: Admiral's Hat
+	[10318] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12081,--
 		["itemName"] = "Pattern: Admiral's Hat",
@@ -2650,7 +2650,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 240,
 		},
-	[10320] = {--Pattern: Red Mageweave Headband
+	[10320] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12084,--
 		["itemName"] = "Pattern: Red Mageweave Headband",
@@ -2658,7 +2658,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 240,
 		},
-	[10321] = {--Pattern: Tuxedo Shirt
+	[10321] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12085,--
 		["itemName"] = "Pattern: Tuxedo Shirt",
@@ -2666,7 +2666,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 240,
 		},
-	[10323] = {--Pattern: Tuxedo Pants
+	[10323] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12089,--
 		["itemName"] = "Pattern: Tuxedo Pants",
@@ -2674,7 +2674,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 245,
 		},
-	[10325] = {--Pattern: White Wedding Dress
+	[10325] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12091,--
 		["itemName"] = "Pattern: White Wedding Dress",
@@ -2682,7 +2682,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[10326] = {--Pattern: Tuxedo Jacket
+	[10326] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12093,--
 		["itemName"] = "Pattern: Tuxedo Jacket",
@@ -2690,43 +2690,43 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[10360] = {--Black Kingsnake
+	[10360] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10714,--Black Kingsnake
 		["itemName"] = "Black Kingsnake",
 		["quality"] = 1,
 		},
-	[10361] = {--Brown Snake
+	[10361] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10716,--Brown Snake
 		["itemName"] = "Brown Snake",
 		["quality"] = 1,
 		},
-	[10392] = {--Crimson Snake
+	[10392] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10717,--Crimson Snake
 		["itemName"] = "Crimson Snake",
 		["quality"] = 1,
 		},
-	[10393] = {--Cockroach
+	[10393] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10688,--Cockroach
 		["itemName"] = "Cockroach",
 		["quality"] = 1,
 		},
-	[10394] = {--Prairie Dog Whistle
+	[10394] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10709,--Brown Prairie Dog
 		["itemName"] = "Prairie Dog Whistle",
 		["quality"] = 1,
 		},
-	[10398] = {--Mechanical Chicken
+	[10398] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 12243,--Mechanical Chicken
 		["itemName"] = "Mechanical Chicken",
 		["quality"] = 1,
 		},
-	[10424] = {--Plans: Silvered Bronze Leggings
+	[10424] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12259,--
 		["itemName"] = "Plans: Silvered Bronze Leggings",
@@ -2734,7 +2734,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 155,
 		},
-	[10463] = {--Pattern: Shadoweave Mask
+	[10463] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12086,--
 		["itemName"] = "Pattern: Shadoweave Mask",
@@ -2742,7 +2742,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 245,
 		},
-	[10601] = {--Schematic: Bright-Eye Goggles
+	[10601] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12587,--
 		["itemName"] = "Schematic: Bright-Eye Goggles",
@@ -2750,7 +2750,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 175,
 		},
-	[10602] = {--Schematic: Deadly Scope
+	[10602] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12597,--
 		["itemName"] = "Schematic: Deadly Scope",
@@ -2758,7 +2758,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 210,
 		},
-	[10603] = {--Schematic: Catseye Ultra Goggles
+	[10603] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12607,--
 		["itemName"] = "Schematic: Catseye Ultra Goggles",
@@ -2766,7 +2766,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 220,
 		},
-	[10604] = {--Schematic: Mithril Heavy-bore Rifle
+	[10604] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12614,--
 		["itemName"] = "Schematic: Mithril Heavy-bore Rifle",
@@ -2774,7 +2774,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 220,
 		},
-	[10605] = {--Schematic: Spellpower Goggles Xtreme
+	[10605] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12615,--
 		["itemName"] = "Schematic: Spellpower Goggles Xtreme",
@@ -2783,7 +2783,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["note"] = "trainable",
 		},
-	[10606] = {--Schematic: Parachute Cloak
+	[10606] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12616,--
 		["itemName"] = "Schematic: Parachute Cloak",
@@ -2791,7 +2791,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 225,
 		},
-	[10607] = {--Schematic: Deepdive Helmet
+	[10607] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12617,--
 		["itemName"] = "Schematic: Deepdive Helmet",
@@ -2799,7 +2799,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 230,
 		},
-	[10608] = {--Schematic: Sniper Scope
+	[10608] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12620,--
 		["itemName"] = "Schematic: Sniper Scope",
@@ -2807,7 +2807,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 240,
 		},
-	[10609] = {--Schematic: Mithril Mechanical Dragonling
+	[10609] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12624,--
 		["itemName"] = "Schematic: Mithril Mechanical Dragonling",
@@ -2815,7 +2815,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 250,
 		},
-	[10644] = {--Recipe: Goblin Rocket Fuel
+	[10644] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11456,--
 		["itemName"] = "Recipe: Goblin Rocket Fuel",
@@ -2823,7 +2823,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 210,
 		},
-	[10713] = {--Plans: Inlaid Mithril Cylinder
+	[10713] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11454,--
 		["itemName"] = "Plans: Inlaid Mithril Cylinder",
@@ -2831,7 +2831,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
 		},
-	[10728] = {--Pattern: Black Swashbuckler's Shirt
+	[10728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3873,--
 		["itemName"] = "Pattern: Black Swashbuckler's Shirt",
@@ -2839,13 +2839,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 200,
 		},
-	[10822] = {--Dark Whelpling
+	[10822] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10695,--Dark Whelpling
 		["itemName"] = "Dark Whelpling",
 		["quality"] = 1,
 		},
-	[10858] = {--Plans: Solid Iron Maul
+	[10858] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3494,--
 		["itemName"] = "Plans: Solid Iron Maul",
@@ -2853,25 +2853,25 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 155,
 		},
-	[11023] = {--Ancona Chicken
+	[11023] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10685,--Ancona Chicken
 		["itemName"] = "Ancona Chicken",
 		["quality"] = 1,
 		},
-	[11026] = {--Tree Frog Box
+	[11026] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10704,--Tree Frog
 		["itemName"] = "Tree Frog Box",
 		["quality"] = 1,
 		},
-	[11027] = {--Wood Frog Box
+	[11027] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10703,--Wood Frog
 		["itemName"] = "Wood Frog Box",
 		["quality"] = 1,
 		},
-	[11038] = {--Formula: Enchant 2H Weapon - Lesser Spirit
+	[11038] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13380,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Lesser Spirit",
@@ -2879,7 +2879,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 110,
 		},
-	[11039] = {--Formula: Enchant Cloak - Minor Agility
+	[11039] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13419,--
 		["itemName"] = "Formula: Enchant Cloak - Minor Agility",
@@ -2887,7 +2887,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 110,
 		},
-	[11081] = {--Formula: Enchant Shield - Lesser Protection
+	[11081] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13464,--
 		["itemName"] = "Formula: Enchant Shield - Lesser Protection",
@@ -2895,7 +2895,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 115,
 		},
-	[11098] = {--Formula: Enchant Cloak - Lesser Shadow Resistance
+	[11098] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13522,--
 		["itemName"] = "Formula: Enchant Cloak - Lesser Shadow Resistance",
@@ -2903,7 +2903,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 135,
 		},
-	[11101] = {--Formula: Enchant Bracer - Lesser Strength
+	[11101] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13536,--
 		["itemName"] = "Formula: Enchant Bracer - Lesser Strength",
@@ -2911,14 +2911,14 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 140,
 		},
-	[11110] = {--Chicken Egg
+	[11110] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 13548,--Westfall Chicken
 		["itemName"] = "Chicken Egg",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[11150] = {--Formula: Enchant Gloves - Mining
+	[11150] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13612,--
 		["itemName"] = "Formula: Enchant Gloves - Mining",
@@ -2926,7 +2926,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 145,
 		},
-	[11151] = {--Formula: Enchant Gloves - Herbalism
+	[11151] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13617,--
 		["itemName"] = "Formula: Enchant Gloves - Herbalism",
@@ -2934,7 +2934,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 145,
 		},
-	[11152] = {--Formula: Enchant Gloves - Fishing
+	[11152] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13620,--
 		["itemName"] = "Formula: Enchant Gloves - Fishing",
@@ -2942,7 +2942,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 145,
 		},
-	[11163] = {--Formula: Enchant Bracer - Lesser Deflection
+	[11163] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13646,--
 		["itemName"] = "Formula: Enchant Bracer - Lesser Deflection",
@@ -2950,7 +2950,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 170,
 		},
-	[11164] = {--Formula: Enchant Weapon - Lesser Beastslayer
+	[11164] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13653,--
 		["itemName"] = "Formula: Enchant Weapon - Lesser Beastslayer",
@@ -2958,7 +2958,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 175,
 		},
-	[11165] = {--Formula: Enchant Weapon - Lesser Elemental Slayer
+	[11165] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13655,--
 		["itemName"] = "Formula: Enchant Weapon - Lesser Elemental Slayer",
@@ -2966,7 +2966,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 175,
 		},
-	[11166] = {--Formula: Enchant Gloves - Skinning
+	[11166] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13698,--
 		["itemName"] = "Formula: Enchant Gloves - Skinning",
@@ -2974,7 +2974,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 200,
 		},
-	[11167] = {--Formula: Enchant Boots - Lesser Spirit
+	[11167] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13687,--
 		["itemName"] = "Formula: Enchant Boots - Lesser Spirit",
@@ -2982,7 +2982,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 190,
 		},
-	[11168] = {--Formula: Enchant Shield - Lesser Block
+	[11168] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13689,--
 		["itemName"] = "Formula: Enchant Shield - Lesser Block",
@@ -2990,7 +2990,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 195,
 		},
-	[11202] = {--Formula: Enchant Shield - Stamina
+	[11202] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13817,--
 		["itemName"] = "Formula: Enchant Shield - Stamina",
@@ -2998,7 +2998,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 210,
 		},
-	[11203] = {--Formula: Enchant Gloves - Advanced Mining
+	[11203] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13841,--
 		["itemName"] = "Formula: Enchant Gloves - Advanced Mining",
@@ -3006,7 +3006,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 215,
 		},
-	[11204] = {--Formula: Enchant Bracer - Greater Spirit
+	[11204] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13846,--
 		["itemName"] = "Formula: Enchant Bracer - Greater Spirit",
@@ -3014,7 +3014,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 220,
 		},
-	[11205] = {--Formula: Enchant Gloves - Advanced Herbalism
+	[11205] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13868,--
 		["itemName"] = "Formula: Enchant Gloves - Advanced Herbalism",
@@ -3022,7 +3022,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 225,
 		},
-	[11206] = {--Formula: Enchant Cloak - Lesser Agility
+	[11206] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13882,--
 		["itemName"] = "Formula: Enchant Cloak - Lesser Agility",
@@ -3030,7 +3030,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 225,
 		},
-	[11207] = {--Formula: Enchant Weapon - Fiery Weapon
+	[11207] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13898,--
 		["itemName"] = "Formula: Enchant Weapon - Fiery Weapon",
@@ -3038,7 +3038,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 265,
 		},
-	[11208] = {--Formula: Enchant Weapon - Demonslaying
+	[11208] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13915,--
 		["itemName"] = "Formula: Enchant Weapon - Demonslaying",
@@ -3046,7 +3046,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 230,
 		},
-	[11223] = {--Formula: Enchant Bracer - Deflection
+	[11223] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13931,--
 		["itemName"] = "Formula: Enchant Bracer - Deflection",
@@ -3054,7 +3054,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 235,
 		},
-	[11224] = {--Formula: Enchant Shield - Frost Resistance
+	[11224] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13933,--
 		["itemName"] = "Formula: Enchant Shield - Frost Resistance",
@@ -3062,7 +3062,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 235,
 		},
-	[11225] = {--Formula: Enchant Bracer - Greater Stamina
+	[11225] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13945,--
 		["itemName"] = "Formula: Enchant Bracer - Greater Stamina",
@@ -3070,7 +3070,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 245,
 		},
-	[11226] = {--Formula: Enchant Gloves - Riding Skill
+	[11226] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13947,--
 		["itemName"] = "Formula: Enchant Gloves - Riding Skill",
@@ -3078,14 +3078,14 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 250,
 		},
-	[11474] = {--Sprite Darter Egg
+	[11474] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 15067,--Sprite Darter Hatchling
 		["itemName"] = "Sprite Darter Egg",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[11610] = {--Plans: Dark Iron Pulverizer
+	[11610] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15292,--
 		["itemName"] = "Plans: Dark Iron Pulverizer",
@@ -3093,7 +3093,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 265,
 		},
-	[11611] = {--Plans: Dark Iron Sunderer
+	[11611] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15294,--
 		["itemName"] = "Plans: Dark Iron Sunderer",
@@ -3101,7 +3101,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 275,
 		},
-	[11612] = {--Plans: Dark Iron Plate
+	[11612] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15296,--
 		["itemName"] = "Plans: Dark Iron Plate",
@@ -3109,7 +3109,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 285,
 		},
-	[11614] = {--Plans: Dark Iron Mail
+	[11614] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15293,--
 		["itemName"] = "Plans: Dark Iron Mail",
@@ -3118,7 +3118,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 270,
 		},
-	[11615] = {--Plans: Dark Iron Shoulders
+	[11615] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15295,--
 		["itemName"] = "Plans: Dark Iron Shoulders",
@@ -3127,7 +3127,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[11813] = {--Formula: Smoking Heart of the Mountain
+	[11813] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15596,--
 		["itemName"] = "Formula: Smoking Heart of the Mountain",
@@ -3135,21 +3135,21 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 265,
 		},
-	[11825] = {--Pet Bombling
+	[11825] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 15048,--Pet Bombling
 		["itemName"] = "Pet Bombling",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[11826] = {--Lil' Smoky
+	[11826] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 15049,--Lil' Smoky
 		["itemName"] = "Lil' Smoky",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[11827] = {--Schematic: Lil' Smoky
+	[11827] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15633,--
 		["itemName"] = "Schematic: Lil' Smoky",
@@ -3158,7 +3158,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 205,
 		},
-	[11828] = {--Schematic: Pet Bombling
+	[11828] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15628,--
 		["itemName"] = "Schematic: Pet Bombling",
@@ -3167,7 +3167,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 205,
 		},
-	[12162] = {--Plans: Hardened Iron Shortsword
+	[12162] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3492,--
 		["itemName"] = "Plans: Hardened Iron Shortsword",
@@ -3175,7 +3175,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 160,
 		},
-	[12163] = {--Plans: Moonsteel Broadsword
+	[12163] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3496,--
 		["itemName"] = "Plans: Moonsteel Broadsword",
@@ -3183,7 +3183,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 180,
 		},
-	[12164] = {--Plans: Massive Iron Axe
+	[12164] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3498,--
 		["itemName"] = "Plans: Massive Iron Axe",
@@ -3191,7 +3191,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 185,
 		},
-	[12226] = {--Recipe: Crispy Bat Wing
+	[12226] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15935,--
 		["itemName"] = "Recipe: Crispy Bat Wing",
@@ -3199,7 +3199,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[12227] = {--Recipe: Lean Wolf Steak
+	[12227] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15853,--
 		["itemName"] = "Recipe: Lean Wolf Steak",
@@ -3207,7 +3207,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 125,
 		},
-	[12228] = {--Recipe: Roast Raptor
+	[12228] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15855,--
 		["itemName"] = "Recipe: Roast Raptor",
@@ -3215,7 +3215,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[12229] = {--Recipe: Hot Wolf Ribs
+	[12229] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15856,--
 		["itemName"] = "Recipe: Hot Wolf Ribs",
@@ -3223,7 +3223,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[12231] = {--Recipe: Jungle Stew
+	[12231] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15861,--
 		["itemName"] = "Recipe: Jungle Stew",
@@ -3231,7 +3231,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[12232] = {--Recipe: Carrion Surprise
+	[12232] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15863,--
 		["itemName"] = "Recipe: Carrion Surprise",
@@ -3239,7 +3239,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[12233] = {--Recipe: Mystery Stew
+	[12233] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15865,--
 		["itemName"] = "Recipe: Mystery Stew",
@@ -3247,7 +3247,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[12239] = {--Recipe: Dragonbreath Chili
+	[12239] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15906,--
 		["itemName"] = "Recipe: Dragonbreath Chili",
@@ -3255,7 +3255,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 200,
 		},
-	[12240] = {--Recipe: Heavy Kodo Stew
+	[12240] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15910,--
 		["itemName"] = "Recipe: Heavy Kodo Stew",
@@ -3263,7 +3263,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 200,
 		},
-	[12261] = {--Plans: Searing Golden Blade
+	[12261] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15973,--
 		["itemName"] = "Plans: Searing Golden Blade",
@@ -3271,14 +3271,14 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 190,
 		},
-	[12264] = {--Worg Carrier
+	[12264] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 15999,--Worg Pup
 		["itemName"] = "Worg Carrier",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[12302] = {--Reins of the Ancient Frostsaber
+	[12302] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16056,--Ancient Frostsaber
 		["itemName"] = "Reins of the Ancient Frostsaber",
@@ -3289,7 +3289,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[12303] = {--Reins of the Nightsaber
+	[12303] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16055,--Black Nightsaber
 		["itemName"] = "Reins of the Nightsaber",
@@ -3300,7 +3300,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[12325] = {--Reins of the Primal Leopard
+	[12325] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16058,--Primal Leopard
 		["itemName"] = "Reins of the Primal Leopard",
@@ -3312,7 +3312,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
-	[12326] = {--Reins of the Tawny Sabercat
+	[12326] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16059,--Tawny Sabercat
 		["itemName"] = "Reins of the Tawny Sabercat",
@@ -3324,7 +3324,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
-	[12327] = {--Reins of the Golden Sabercat
+	[12327] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16060,--Golden Sabercat
 		["itemName"] = "Reins of the Golden Sabercat",
@@ -3336,7 +3336,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
-	[12330] = {--Horn of the Red Wolf
+	[12330] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16080,--Red Wolf
 		["itemName"] = "Horn of the Red Wolf",
@@ -3347,7 +3347,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[12351] = {--Horn of the Arctic Wolf
+	[12351] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16081,--Winter Wolf
 		["itemName"] = "Horn of the Arctic Wolf",
@@ -3358,7 +3358,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[12353] = {--White Stallion Bridle
+	[12353] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16083,--White Stallion
 		["itemName"] = "White Stallion Bridle",
@@ -3369,7 +3369,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[12354] = {--Palomino Bridle
+	[12354] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16082,--Palomino
 		["itemName"] = "Palomino Bridle",
@@ -3380,14 +3380,14 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[12529] = {--Smolderweb Carrier
+	[12529] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 16450,--Smolderweb Hatchling
 		["itemName"] = "Smolderweb Carrier",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[12682] = {--Plans: Thorium Armor
+	[12682] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16642,--
 		["itemName"] = "Plans: Thorium Armor",
@@ -3395,7 +3395,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 250,
 		},
-	[12683] = {--Plans: Thorium Belt
+	[12683] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16643,--
 		["itemName"] = "Plans: Thorium Belt",
@@ -3403,7 +3403,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 250,
 		},
-	[12684] = {--Plans: Thorium Bracers
+	[12684] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16644,--
 		["itemName"] = "Plans: Thorium Bracers",
@@ -3411,7 +3411,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 255,
 		},
-	[12685] = {--Plans: Radiant Belt
+	[12685] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16645,--
 		["itemName"] = "Plans: Radiant Belt",
@@ -3419,7 +3419,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 260,
 		},
-	[12687] = {--Plans: Imperial Plate Shoulders
+	[12687] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16646,--
 		["itemName"] = "Plans: Imperial Plate Shoulders",
@@ -3428,7 +3428,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 265,
 		},
-	[12688] = {--Plans: Imperial Plate Belt
+	[12688] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16647,--
 		["itemName"] = "Plans: Imperial Plate Belt",
@@ -3437,7 +3437,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 265,
 		},
-	[12689] = {--Plans: Radiant Breastplate
+	[12689] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16648,--
 		["itemName"] = "Plans: Radiant Breastplate",
@@ -3445,7 +3445,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 270,
 		},
-	[12690] = {--Plans: Imperial Plate Bracers
+	[12690] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16649,--
 		["itemName"] = "Plans: Imperial Plate Bracers",
@@ -3454,7 +3454,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 270,
 		},
-	[12691] = {--Plans: Wildthorn Mail
+	[12691] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16650,--
 		["itemName"] = "Plans: Wildthorn Mail",
@@ -3462,7 +3462,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 270,
 		},
-	[12692] = {--Plans: Thorium Shield Spike
+	[12692] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16651,--
 		["itemName"] = "Plans: Thorium Shield Spike",
@@ -3470,7 +3470,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 275,
 		},
-	[12693] = {--Plans: Thorium Boots
+	[12693] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16652,--
 		["itemName"] = "Plans: Thorium Boots",
@@ -3478,7 +3478,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[12694] = {--Plans: Thorium Helm
+	[12694] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16653,--
 		["itemName"] = "Plans: Thorium Helm",
@@ -3486,7 +3486,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[12695] = {--Plans: Radiant Gloves
+	[12695] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16654,--
 		["itemName"] = "Plans: Radiant Gloves",
@@ -3494,7 +3494,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 285,
 		},
-	[12696] = {--Plans: Demon Forged Breastplate
+	[12696] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16667,--
 		["itemName"] = "Plans: Demon Forged Breastplate",
@@ -3503,7 +3503,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 285,
 		},
-	[12697] = {--Plans: Radiant Boots
+	[12697] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16656,--
 		["itemName"] = "Plans: Radiant Boots",
@@ -3511,7 +3511,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[12698] = {--Plans: Dawnbringer Shoulders
+	[12698] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16660,--
 		["itemName"] = "Plans: Dawnbringer Shoulders",
@@ -3519,7 +3519,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[12699] = {--Plans: Fiery Plate Gauntlets
+	[12699] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16655,--
 		["itemName"] = "Plans: Fiery Plate Gauntlets",
@@ -3528,7 +3528,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[12700] = {--Plans: Imperial Plate Boots
+	[12700] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16657,--
 		["itemName"] = "Plans: Imperial Plate Boots",
@@ -3537,7 +3537,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[12701] = {--Plans: Imperial Plate Helm
+	[12701] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16658,--
 		["itemName"] = "Plans: Imperial Plate Helm",
@@ -3546,7 +3546,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[12702] = {--Plans: Radiant Circlet
+	[12702] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16659,--
 		["itemName"] = "Plans: Radiant Circlet",
@@ -3554,7 +3554,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[12703] = {--Plans: Storm Gauntlets
+	[12703] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16661,--
 		["itemName"] = "Plans: Storm Gauntlets",
@@ -3562,7 +3562,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[12704] = {--Plans: Thorium Leggings
+	[12704] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16662,--
 		["itemName"] = "Plans: Thorium Leggings",
@@ -3570,7 +3570,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12705] = {--Plans: Imperial Plate Chest
+	[12705] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16663,--
 		["itemName"] = "Plans: Imperial Plate Chest",
@@ -3579,7 +3579,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12706] = {--Plans: Runic Plate Shoulders
+	[12706] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16664,--
 		["itemName"] = "Plans: Runic Plate Shoulders",
@@ -3588,7 +3588,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12707] = {--Plans: Runic Plate Boots
+	[12707] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16665,--
 		["itemName"] = "Plans: Runic Plate Boots",
@@ -3597,7 +3597,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12711] = {--Plans: Whitesoul Helm
+	[12711] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16724,--
 		["itemName"] = "Plans: Whitesoul Helm",
@@ -3605,7 +3605,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12713] = {--Plans: Radiant Leggings
+	[12713] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16725,--
 		["itemName"] = "Plans: Radiant Leggings",
@@ -3613,7 +3613,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12714] = {--Plans: Runic Plate Helm
+	[12714] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16726,--
 		["itemName"] = "Plans: Runic Plate Helm",
@@ -3622,7 +3622,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12715] = {--Plans: Imperial Plate Leggings
+	[12715] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16730,--
 		["itemName"] = "Plans: Imperial Plate Leggings",
@@ -3631,7 +3631,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12716] = {--Plans: Helm of the Great Chief
+	[12716] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16728,--
 		["itemName"] = "Plans: Helm of the Great Chief",
@@ -3639,7 +3639,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12717] = {--Plans: Lionheart Helm
+	[12717] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16729,--
 		["itemName"] = "Plans: Lionheart Helm",
@@ -3647,7 +3647,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12718] = {--Plans: Runic Breastplate
+	[12718] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16731,--
 		["itemName"] = "Plans: Runic Breastplate",
@@ -3656,7 +3656,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12719] = {--Plans: Runic Plate Leggings
+	[12719] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16732,--
 		["itemName"] = "Plans: Runic Plate Leggings",
@@ -3665,7 +3665,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12720] = {--Plans: Stronghold Gauntlets
+	[12720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16741,--
 		["itemName"] = "Plans: Stronghold Gauntlets",
@@ -3673,7 +3673,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12725] = {--Plans: Enchanted Thorium Helm
+	[12725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16742,--
 		["itemName"] = "Plans: Enchanted Thorium Helm",
@@ -3682,7 +3682,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12726] = {--Plans: Enchanted Thorium Leggings
+	[12726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16744,--
 		["itemName"] = "Plans: Enchanted Thorium Leggings",
@@ -3691,7 +3691,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12727] = {--Plans: Enchanted Thorium Breastplate
+	[12727] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16745,--
 		["itemName"] = "Plans: Enchanted Thorium Breastplate",
@@ -3700,7 +3700,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12728] = {--Plans: Invulnerable Mail
+	[12728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16746,--
 		["itemName"] = "Plans: Invulnerable Mail",
@@ -3708,7 +3708,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12819] = {--Plans: Ornate Thorium Handaxe
+	[12819] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16969,--
 		["itemName"] = "Plans: Ornate Thorium Handaxe",
@@ -3717,7 +3717,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 275,
 		},
-	[12821] = {--Plans: Dawn's Edge
+	[12821] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16970,--
 		["itemName"] = "Plans: Dawn's Edge",
@@ -3725,7 +3725,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 275,
 		},
-	[12823] = {--Plans: Huge Thorium Battleaxe
+	[12823] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16971,--
 		["itemName"] = "Plans: Huge Thorium Battleaxe",
@@ -3734,7 +3734,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[12824] = {--Plans: Enchanted Battlehammer
+	[12824] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16973,--
 		["itemName"] = "Plans: Enchanted Battlehammer",
@@ -3742,7 +3742,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[12825] = {--Plans: Blazing Rapier
+	[12825] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16978,--
 		["itemName"] = "Plans: Blazing Rapier",
@@ -3750,7 +3750,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[12827] = {--Plans: Serenity
+	[12827] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16983,--
 		["itemName"] = "Plans: Serenity",
@@ -3758,7 +3758,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 285,
 		},
-	[12828] = {--Plans: Volcanic Hammer
+	[12828] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16984,--
 		["itemName"] = "Plans: Volcanic Hammer",
@@ -3766,7 +3766,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[12830] = {--Plans: Corruption
+	[12830] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16985,--
 		["itemName"] = "Plans: Corruption",
@@ -3774,7 +3774,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[12833] = {--Plans: Hammer of the Titans
+	[12833] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16988,--
 		["itemName"] = "Plans: Hammer of the Titans",
@@ -3782,7 +3782,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12834] = {--Plans: Arcanite Champion
+	[12834] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16990,--
 		["itemName"] = "Plans: Arcanite Champion",
@@ -3790,7 +3790,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12835] = {--Plans: Annihilator
+	[12835] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16991,--
 		["itemName"] = "Plans: Annihilator",
@@ -3798,7 +3798,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12836] = {--Plans: Frostguard
+	[12836] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16992,--
 		["itemName"] = "Plans: Frostguard",
@@ -3806,7 +3806,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12837] = {--Plans: Masterwork Stormhammer
+	[12837] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16993,--
 		["itemName"] = "Plans: Masterwork Stormhammer",
@@ -3814,7 +3814,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12838] = {--Plans: Arcanite Reaper
+	[12838] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16994,--
 		["itemName"] = "Plans: Arcanite Reaper",
@@ -3822,7 +3822,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12839] = {--Plans: Heartseeker
+	[12839] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16995,--
 		["itemName"] = "Plans: Heartseeker",
@@ -3830,7 +3830,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12958] = {--Recipe: Transmute Arcanite
+	[12958] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17187,--
 		["itemName"] = "Recipe: Transmute Arcanite",
@@ -3838,7 +3838,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13086] = {--Reins of the Winterspring Frostsaber
+	[13086] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17229,--Winterspring Frostsaber
 		["itemName"] = "Reins of the Winterspring Frostsaber",
@@ -3849,7 +3849,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[13287] = {--Pattern: Raptor Hide Harness
+	[13287] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 4096,--
 		["itemName"] = "Pattern: Raptor Hide Harness",
@@ -3857,7 +3857,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 165,
 		},
-	[13288] = {--Pattern: Raptor Hide Belt
+	[13288] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 4097,--
 		["itemName"] = "Pattern: Raptor Hide Belt",
@@ -3865,7 +3865,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 165,
 		},
-	[13308] = {--Schematic: Ice Deflector
+	[13308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3957,--
 		["itemName"] = "Schematic: Ice Deflector",
@@ -3873,7 +3873,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 155,
 		},
-	[13309] = {--Schematic: Lovingly Crafted Boomstick
+	[13309] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3939,--
 		["itemName"] = "Schematic: Lovingly Crafted Boomstick",
@@ -3881,7 +3881,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 120,
 		},
-	[13310] = {--Schematic: Accurate Scope
+	[13310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3979,--
 		["itemName"] = "Schematic: Accurate Scope",
@@ -3889,7 +3889,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 180,
 		},
-	[13311] = {--Schematic: Mechanical Dragonling
+	[13311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3969,--
 		["itemName"] = "Schematic: Mechanical Dragonling",
@@ -3897,7 +3897,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 200,
 		},
-	[13317] = {--Whistle of the Ivory Raptor
+	[13317] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17450,--Ivory Raptor
 		["itemName"] = "Whistle of the Ivory Raptor",
@@ -3908,7 +3908,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[13321] = {--Green Mechanostrider
+	[13321] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17453,--Green Mechanostrider
 		["itemName"] = "Green Mechanostrider",
@@ -3919,7 +3919,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[13322] = {--Unpainted Mechanostrider
+	[13322] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17454,--Unpainted Mechanostrider
 		["itemName"] = "Unpainted Mechanostrider",
@@ -3930,7 +3930,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[13323] = {--Purple Mechanostrider
+	[13323] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17455,--Purple Mechanostrider
 		["itemName"] = "Purple Mechanostrider",
@@ -3942,7 +3942,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
-	[13326] = {--White Mechanostrider Mod B
+	[13326] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 15779,--White Mechanostrider Mod B
 		["itemName"] = "White Mechanostrider Mod B",
@@ -3953,7 +3953,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[13327] = {--Icy Blue Mechanostrider Mod A
+	[13327] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17459,--Icy Blue Mechanostrider Mod A
 		["itemName"] = "Icy Blue Mechanostrider Mod A",
@@ -3964,7 +3964,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[13328] = {--Black Ram
+	[13328] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17461,--Black Ram
 		["itemName"] = "Black Ram",
@@ -3975,7 +3975,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[13329] = {--Frost Ram
+	[13329] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17460,--Frost Ram
 		["itemName"] = "Frost Ram",
@@ -3986,7 +3986,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[13331] = {--Red Skeletal Horse
+	[13331] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17462,--Red Skeletal Horse
 		["itemName"] = "Red Skeletal Horse",
@@ -3997,7 +3997,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[13332] = {--Blue Skeletal Horse
+	[13332] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17463,--Blue Skeletal Horse
 		["itemName"] = "Blue Skeletal Horse",
@@ -4008,7 +4008,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[13333] = {--Brown Skeletal Horse
+	[13333] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17464,--Brown Skeletal Horse
 		["itemName"] = "Brown Skeletal Horse",
@@ -4019,7 +4019,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[13334] = {--Green Skeletal Warhorse
+	[13334] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17465,--Green Skeletal Warhorse
 		["itemName"] = "Green Skeletal Warhorse",
@@ -4030,7 +4030,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[13335] = {--Deathcharger's Reins     (Stratholme)
+	[13335] = {--Stratholme
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17481,--Rivendare's Deathcharger
 		["itemName"] = "Deathcharger's Reins",
@@ -4041,7 +4041,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[13476] = {--Recipe: Mighty Rage Potion
+	[13476] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17552,--
 		["itemName"] = "Recipe: Mighty Rage Potion",
@@ -4050,7 +4050,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 255,
 		["note"] = "trainable",
 		},
-	[13477] = {--Recipe: Superior Mana Potion
+	[13477] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17553,--
 		["itemName"] = "Recipe: Superior Mana Potion",
@@ -4059,7 +4059,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 260,
 		["note"] = "trainable",
 		},
-	[13478] = {--Recipe: Elixir of Superior Defense
+	[13478] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17554,--
 		["itemName"] = "Recipe: Elixir of Superior Defense",
@@ -4067,7 +4067,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 265,
 		},
-	[13479] = {--Recipe: Elixir of the Sages
+	[13479] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17555,--
 		["itemName"] = "Recipe: Elixir of the Sages",
@@ -4076,7 +4076,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
-	[13480] = {--Recipe: Major Healing Potion
+	[13480] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17556,--
 		["itemName"] = "Recipe: Major Healing Potion",
@@ -4085,7 +4085,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[13481] = {--Recipe: Elixir of Brute Force
+	[13481] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17557,--
 		["itemName"] = "Recipe: Elixir of Brute Force",
@@ -4094,7 +4094,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[13482] = {--Recipe: Transmute Air to Fire
+	[13482] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17559,--
 		["itemName"] = "Recipe: Transmute Air to Fire",
@@ -4105,7 +4105,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13483] = {--Recipe: Transmute Fire to Earth
+	[13483] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17560,--
 		["itemName"] = "Recipe: Transmute Fire to Earth",
@@ -4114,7 +4114,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13484] = {--Recipe: Transmute Earth to Water
+	[13484] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17561,--
 		["itemName"] = "Recipe: Transmute Earth to Water",
@@ -4125,7 +4125,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13485] = {--Recipe: Transmute Water to Air
+	[13485] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17562,--
 		["itemName"] = "Recipe: Transmute Water to Air",
@@ -4134,7 +4134,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13486] = {--Recipe: Transmute Undeath to Water
+	[13486] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17563,--
 		["itemName"] = "Recipe: Transmute Undeath to Water",
@@ -4142,7 +4142,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13487] = {--Recipe: Transmute Water to Undeath
+	[13487] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17564,--
 		["itemName"] = "Recipe: Transmute Water to Undeath",
@@ -4150,7 +4150,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13488] = {--Recipe: Transmute Life to Earth
+	[13488] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17565,--
 		["itemName"] = "Recipe: Transmute Life to Earth",
@@ -4158,7 +4158,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13489] = {--Recipe: Transmute Earth to Life
+	[13489] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17566,--
 		["itemName"] = "Recipe: Transmute Earth to Life",
@@ -4166,7 +4166,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[13490] = {--Recipe: Greater Stoneshield Potion
+	[13490] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17570,--
 		["itemName"] = "Recipe: Greater Stoneshield Potion",
@@ -4174,7 +4174,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 280,
 		},
-	[13491] = {--Recipe: Elixir of the Mongoose
+	[13491] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17571,--
 		["itemName"] = "Recipe: Elixir of the Mongoose",
@@ -4182,7 +4182,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 280,
 		},
-	[13492] = {--Recipe: Purification Potion
+	[13492] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17572,--
 		["itemName"] = "Recipe: Purification Potion",
@@ -4191,7 +4191,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 285,
 		["note"] = "trainable",
 		},
-	[13493] = {--Recipe: Greater Arcane Elixir
+	[13493] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17573,--
 		["itemName"] = "Recipe: Greater Arcane Elixir",
@@ -4200,7 +4200,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 285,
 		["note"] = "trainable",
 		},
-	[13494] = {--Recipe: Greater Fire Protection Potion
+	[13494] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17574,--
 		["itemName"] = "Recipe: Greater Fire Protection Potion",
@@ -4208,7 +4208,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 290,
 		},
-	[13495] = {--Recipe: Greater Frost Protection Potion
+	[13495] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17575,--
 		["itemName"] = "Recipe: Greater Frost Protection Potion",
@@ -4216,7 +4216,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 290,
 		},
-	[13496] = {--Recipe: Greater Nature Protection Potion
+	[13496] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17576,--
 		["itemName"] = "Recipe: Greater Nature Protection Potion",
@@ -4224,7 +4224,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 290,
 		},
-	[13497] = {--Recipe: Greater Arcane Protection Potion
+	[13497] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17577,--
 		["itemName"] = "Recipe: Greater Arcane Protection Potion",
@@ -4232,7 +4232,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 290,
 		},
-	[13499] = {--Recipe: Greater Shadow Protection Potion
+	[13499] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17578,--
 		["itemName"] = "Recipe: Greater Shadow Protection Potion",
@@ -4240,7 +4240,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 290,
 		},
-	[13501] = {--Recipe: Major Mana Potion
+	[13501] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17580,--
 		["itemName"] = "Recipe: Major Mana Potion",
@@ -4249,7 +4249,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 295,
 		},
-	[13517] = {--Recipe: Alchemist's Stone
+	[13517] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17632,--
 		["itemName"] = "Recipe: Alchemist's Stone",
@@ -4260,7 +4260,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[13518] = {--Recipe: Flask of Petrification
+	[13518] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17634,--
 		["itemName"] = "Recipe: Flask of Petrification",
@@ -4268,7 +4268,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[13519] = {--Recipe: Flask of the Titans
+	[13519] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17635,--
 		["itemName"] = "Recipe: Flask of the Titans",
@@ -4276,7 +4276,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[13520] = {--Recipe: Flask of Distilled Wisdom
+	[13520] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17636,--
 		["itemName"] = "Recipe: Flask of Distilled Wisdom",
@@ -4284,7 +4284,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[13521] = {--Recipe: Flask of Supreme Power
+	[13521] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17637,--
 		["itemName"] = "Recipe: Flask of Supreme Power",
@@ -4292,7 +4292,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[13522] = {--Recipe: Flask of Chromatic Resistance
+	[13522] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17638,--
 		["itemName"] = "Recipe: Flask of Chromatic Resistance",
@@ -4300,28 +4300,28 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[13582] = {--Zergling Leash
+	[13582] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 17709,--Zergling
 		["itemName"] = "Zergling Leash",
 		["quality"] = 3,
 		["binding"] = 6,
 		},
-	[13583] = {--Panda Collar
+	[13583] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 17707,--Panda Cub
 		["itemName"] = "Panda Collar",
 		["quality"] = 3,
 		["binding"] = 6,
 		},
-	[13584] = {--Diablo Stone
+	[13584] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 17708,--Mini Diablo
 		["itemName"] = "Diablo Stone",
 		["quality"] = 3,
 		["binding"] = 6,
 		},
-	[13939] = {--Recipe: Spotted Yellowtail
+	[13939] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18238,--
 		["itemName"] = "Recipe: Spotted Yellowtail",
@@ -4329,7 +4329,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[13940] = {--Recipe: Cooked Glossy Mightfish
+	[13940] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18239,--
 		["itemName"] = "Recipe: Cooked Glossy Mightfish",
@@ -4337,7 +4337,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[13941] = {--Recipe: Filet of Redgill
+	[13941] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18241,--
 		["itemName"] = "Recipe: Filet of Redgill",
@@ -4345,7 +4345,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[13942] = {--Recipe: Grilled Squid
+	[13942] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18240,--
 		["itemName"] = "Recipe: Grilled Squid",
@@ -4353,7 +4353,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 240,
 		},
-	[13943] = {--Recipe: Hot Smoked Bass
+	[13943] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18242,--
 		["itemName"] = "Recipe: Hot Smoked Bass",
@@ -4361,7 +4361,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 240,
 		},
-	[13945] = {--Recipe: Nightfin Soup
+	[13945] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18243,--
 		["itemName"] = "Recipe: Nightfin Soup",
@@ -4369,7 +4369,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 250,
 		},
-	[13946] = {--Recipe: Poached Sunscale Salmon
+	[13946] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18244,--
 		["itemName"] = "Recipe: Poached Sunscale Salmon",
@@ -4377,7 +4377,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 250,
 		},
-	[13947] = {--Recipe: Lobster Stew
+	[13947] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18245,--
 		["itemName"] = "Recipe: Lobster Stew",
@@ -4385,7 +4385,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 275,
 		},
-	[13948] = {--Recipe: Mightfish Steak
+	[13948] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18246,--
 		["itemName"] = "Recipe: Mightfish Steak",
@@ -4393,7 +4393,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 275,
 		},
-	[13949] = {--Recipe: Baked Salmon
+	[13949] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18247,--
 		["itemName"] = "Recipe: Baked Salmon",
@@ -4401,7 +4401,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 275,
 		},
-	[14062] = {--Kodo Mount
+	[14062] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 18363,--Riding Kodo
 		["itemName"] = "Kodo Mount",
@@ -4410,7 +4410,7 @@ LibTextbookDB = {
 		["reqLevel"] = 30,
 		["note"] = "fake",
 		},
-	[14466] = {--Pattern: Frostweave Tunic
+	[14466] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18403,--
 		["itemName"] = "Pattern: Frostweave Tunic",
@@ -4419,7 +4419,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 255,
 		["note"] = "trainable",
 		},
-	[14467] = {--Pattern: Frostweave Robe
+	[14467] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18404,--
 		["itemName"] = "Pattern: Frostweave Robe",
@@ -4427,7 +4427,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 255,
 		},
-	[14468] = {--Pattern: Runecloth Bag
+	[14468] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18405,--
 		["itemName"] = "Pattern: Runecloth Bag",
@@ -4435,7 +4435,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 260,
 		},
-	[14469] = {--Pattern: Runecloth Robe
+	[14469] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18406,--
 		["itemName"] = "Pattern: Runecloth Robe",
@@ -4443,7 +4443,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 260,
 		},
-	[14470] = {--Pattern: Runecloth Tunic
+	[14470] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18407,--
 		["itemName"] = "Pattern: Runecloth Tunic",
@@ -4452,7 +4452,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 260,
 		["note"] = "trainable",
 		},
-	[14471] = {--Pattern: Cindercloth Vest
+	[14471] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18408,--
 		["itemName"] = "Pattern: Cindercloth Vest",
@@ -4460,7 +4460,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 260,
 		},
-	[14472] = {--Pattern: Runecloth Cloak
+	[14472] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18409,--
 		["itemName"] = "Pattern: Runecloth Cloak",
@@ -4469,7 +4469,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 265,
 		},
-	[14473] = {--Pattern: Ghostweave Belt
+	[14473] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18410,--
 		["itemName"] = "Pattern: Ghostweave Belt",
@@ -4478,7 +4478,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 265,
 		["note"] = "trainable",
 		},
-	[14474] = {--Pattern: Frostweave Gloves
+	[14474] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18411,--
 		["itemName"] = "Pattern: Frostweave Gloves",
@@ -4487,7 +4487,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 265,
 		["note"] = "trainable",
 		},
-	[14476] = {--Pattern: Cindercloth Gloves
+	[14476] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18412,--
 		["itemName"] = "Pattern: Cindercloth Gloves",
@@ -4495,7 +4495,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 270,
 		},
-	[14477] = {--Pattern: Ghostweave Gloves
+	[14477] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18413,--
 		["itemName"] = "Pattern: Ghostweave Gloves",
@@ -4504,7 +4504,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
-	[14478] = {--Pattern: Brightcloth Robe
+	[14478] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18414,--
 		["itemName"] = "Pattern: Brightcloth Robe",
@@ -4513,7 +4513,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
-	[14479] = {--Pattern: Brightcloth Gloves
+	[14479] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18415,--
 		["itemName"] = "Pattern: Brightcloth Gloves",
@@ -4522,7 +4522,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
-	[14480] = {--Pattern: Ghostweave Vest
+	[14480] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18416,--
 		["itemName"] = "Pattern: Ghostweave Vest",
@@ -4531,7 +4531,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[14481] = {--Pattern: Runecloth Gloves
+	[14481] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18417,--
 		["itemName"] = "Pattern: Runecloth Gloves",
@@ -4540,7 +4540,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[14482] = {--Pattern: Cindercloth Cloak
+	[14482] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18418,--
 		["itemName"] = "Pattern: Cindercloth Cloak",
@@ -4548,7 +4548,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 275,
 		},
-	[14483] = {--Pattern: Felcloth Pants
+	[14483] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18419,--
 		["itemName"] = "Pattern: Felcloth Pants",
@@ -4556,7 +4556,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 275,
 		},
-	[14484] = {--Pattern: Brightcloth Cloak
+	[14484] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18420,--
 		["itemName"] = "Pattern: Brightcloth Cloak",
@@ -4565,7 +4565,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[14485] = {--Pattern: Wizardweave Leggings
+	[14485] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18421,--
 		["itemName"] = "Pattern: Wizardweave Leggings",
@@ -4574,7 +4574,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[14486] = {--Pattern: Cloak of Fire
+	[14486] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18422,--
 		["itemName"] = "Pattern: Cloak of Fire",
@@ -4583,7 +4583,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 275,
 		},
-	[14488] = {--Pattern: Runecloth Boots     (now trainable)
+	[14488] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18423,--
 		["itemName"] = "Pattern: Runecloth Boots",
@@ -4592,7 +4592,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 280,
 		["note"] = "removed",
 		},
-	[14489] = {--Pattern: Frostweave Pants
+	[14489] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18424,--
 		["itemName"] = "Pattern: Frostweave Pants",
@@ -4600,7 +4600,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 280,
 		},
-	[14490] = {--Pattern: Cindercloth Pants
+	[14490] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18434,--
 		["itemName"] = "Pattern: Cindercloth Pants",
@@ -4608,7 +4608,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 280,
 		},
-	[14491] = {--Pattern: Runecloth Pants
+	[14491] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18438,--
 		["itemName"] = "Pattern: Runecloth Pants",
@@ -4616,7 +4616,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 285,
 		},
-	[14492] = {--Pattern: Felcloth Boots
+	[14492] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18437,--
 		["itemName"] = "Pattern: Felcloth Boots",
@@ -4625,7 +4625,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 285,
 		["note"] = "trainable",
 		},
-	[14493] = {--Pattern: Robe of Winter Night
+	[14493] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18436,--
 		["itemName"] = "Pattern: Robe of Winter Night",
@@ -4634,7 +4634,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 285,
 		},
-	[14494] = {--Pattern: Brightcloth Pants
+	[14494] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18439,--
 		["itemName"] = "Pattern: Brightcloth Pants",
@@ -4642,7 +4642,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		},
-	[14495] = {--Pattern: Ghostweave Pants
+	[14495] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18441,--
 		["itemName"] = "Pattern: Ghostweave Pants",
@@ -4651,7 +4651,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[14496] = {--Pattern: Felcloth Hood
+	[14496] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18442,--
 		["itemName"] = "Pattern: Felcloth Hood",
@@ -4660,7 +4660,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[14497] = {--Pattern: Mooncloth Leggings
+	[14497] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18440,--
 		["itemName"] = "Pattern: Mooncloth Leggings",
@@ -4668,7 +4668,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		},
-	[14498] = {--Pattern: Runecloth Headband
+	[14498] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18444,--
 		["itemName"] = "Pattern: Runecloth Headband",
@@ -4677,7 +4677,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 295,
 		["note"] = "trainable",
 		},
-	[14499] = {--Pattern: Mooncloth Bag
+	[14499] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18445,--
 		["itemName"] = "Pattern: Mooncloth Bag",
@@ -4685,7 +4685,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14500] = {--Pattern: Wizardweave Robe
+	[14500] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18446,--
 		["itemName"] = "Pattern: Wizardweave Robe",
@@ -4694,7 +4694,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[14501] = {--Pattern: Mooncloth Vest
+	[14501] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18447,--
 		["itemName"] = "Pattern: Mooncloth Vest",
@@ -4702,7 +4702,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14504] = {--Pattern: Runecloth Shoulders
+	[14504] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18449,--
 		["itemName"] = "Pattern: Runecloth Shoulders",
@@ -4710,7 +4710,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14505] = {--Pattern: Wizardweave Turban
+	[14505] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18450,--
 		["itemName"] = "Pattern: Wizardweave Turban",
@@ -4719,7 +4719,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[14506] = {--Pattern: Felcloth Robe
+	[14506] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18451,--
 		["itemName"] = "Pattern: Felcloth Robe",
@@ -4727,7 +4727,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14507] = {--Pattern: Mooncloth Shoulders
+	[14507] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18448,--
 		["itemName"] = "Pattern: Mooncloth Shoulders",
@@ -4735,7 +4735,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14508] = {--Pattern: Felcloth Shoulders
+	[14508] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18453,--
 		["itemName"] = "Pattern: Felcloth Shoulders",
@@ -4743,7 +4743,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14509] = {--Pattern: Mooncloth Circlet
+	[14509] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18452,--
 		["itemName"] = "Pattern: Mooncloth Circlet",
@@ -4751,7 +4751,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14510] = {--Pattern: Bottomless Bag
+	[14510] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18455,--
 		["itemName"] = "Pattern: Bottomless Bag",
@@ -4759,7 +4759,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14511] = {--Pattern: Gloves of Spell Mastery
+	[14511] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18454,--
 		["itemName"] = "Pattern: Gloves of Spell Mastery",
@@ -4767,7 +4767,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14512] = {--Pattern: Truefaith Vestments
+	[14512] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18456,--
 		["itemName"] = "Pattern: Truefaith Vestments",
@@ -4775,7 +4775,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14513] = {--Pattern: Robe of the Archmage
+	[14513] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18457,--
 		["itemName"] = "Pattern: Robe of the Archmage",
@@ -4783,7 +4783,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14514] = {--Pattern: Robe of the Void
+	[14514] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18458,--
 		["itemName"] = "Pattern: Robe of the Void",
@@ -4791,7 +4791,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14526] = {--Pattern: Mooncloth
+	[14526] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18560,--
 		["itemName"] = "Pattern: Mooncloth",
@@ -4799,7 +4799,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[14627] = {--Pattern: Bright Yellow Shirt
+	[14627] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3869,--
 		["itemName"] = "Pattern: Bright Yellow Shirt",
@@ -4807,7 +4807,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 135,
 		},
-	[14630] = {--Pattern: Enchanter's Cowl
+	[14630] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3857,--
 		["itemName"] = "Pattern: Enchanter's Cowl",
@@ -4815,7 +4815,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 165,
 		},
-	[14634] = {--Recipe: Frost Oil
+	[14634] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3454,--
 		["itemName"] = "Recipe: Frost Oil",
@@ -4823,7 +4823,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 200,
 		},
-	[14635] = {--Pattern: Gem-studded Leather Belt
+	[14635] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3778,--
 		["itemName"] = "Pattern: Gem-studded Leather Belt",
@@ -4831,7 +4831,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 185,
 		},
-	[14639] = {--Schematic: Minor Recombobulator
+	[14639] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3952,--
 		["itemName"] = "Schematic: Minor Recombobulator",
@@ -4839,7 +4839,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 140,
 		},
-	[15277] = {--Gray Kodo
+	[15277] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 18989,--Gray Kodo
 		["itemName"] = "Gray Kodo",
@@ -4850,7 +4850,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[15290] = {--Brown Kodo
+	[15290] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 18990,--Brown Kodo
 		["itemName"] = "Brown Kodo",
@@ -4861,7 +4861,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[15292] = {--Green Kodo
+	[15292] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 18991,--Green Kodo
 		["itemName"] = "Green Kodo",
@@ -4872,7 +4872,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[15293] = {--Teal Kodo
+	[15293] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 18992,--Teal Kodo
 		["itemName"] = "Teal Kodo",
@@ -4883,7 +4883,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[15724] = {--Pattern: Heavy Scorpid Bracers
+	[15724] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19048,--
 		["itemName"] = "Pattern: Heavy Scorpid Bracers",
@@ -4891,7 +4891,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 255,
 		},
-	[15725] = {--Pattern: Wicked Leather Gauntlets
+	[15725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19049,--
 		["itemName"] = "Pattern: Wicked Leather Gauntlets",
@@ -4899,7 +4899,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 260,
 		},
-	[15726] = {--Pattern: Green Dragonscale Breastplate
+	[15726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19050,--
 		["itemName"] = "Pattern: Green Dragonscale Breastplate",
@@ -4907,7 +4907,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 260,
 		},
-	[15727] = {--Pattern: Heavy Scorpid Vest
+	[15727] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19051,--
 		["itemName"] = "Pattern: Heavy Scorpid Vest",
@@ -4915,7 +4915,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 265,
 		},
-	[15728] = {--Pattern: Wicked Leather Bracers
+	[15728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19052,--
 		["itemName"] = "Pattern: Wicked Leather Bracers",
@@ -4924,7 +4924,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 265,
 		["note"] = "trainable",
 		},
-	[15729] = {--Pattern: Chimeric Gloves
+	[15729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19053,--
 		["itemName"] = "Pattern: Chimeric Gloves",
@@ -4932,7 +4932,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 265,
 		},
-	[15730] = {--Pattern: Red Dragonscale Breastplate
+	[15730] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19054,--
 		["itemName"] = "Pattern: Red Dragonscale Breastplate",
@@ -4941,7 +4941,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15731] = {--Pattern: Runic Leather Gauntlets
+	[15731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19055,--
 		["itemName"] = "Pattern: Runic Leather Gauntlets",
@@ -4949,7 +4949,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 270,
 		},
-	[15732] = {--Pattern: Volcanic Leggings
+	[15732] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19059,--
 		["itemName"] = "Pattern: Volcanic Leggings",
@@ -4957,7 +4957,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 270,
 		},
-	[15733] = {--Pattern: Green Dragonscale Leggings
+	[15733] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19060,--
 		["itemName"] = "Pattern: Green Dragonscale Leggings",
@@ -4965,7 +4965,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 270,
 		},
-	[15734] = {--Pattern: Living Shoulders
+	[15734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19061,--
 		["itemName"] = "Pattern: Living Shoulders",
@@ -4973,7 +4973,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 270,
 		},
-	[15735] = {--Pattern: Ironfeather Shoulders
+	[15735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19062,--
 		["itemName"] = "Pattern: Ironfeather Shoulders",
@@ -4981,7 +4981,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 270,
 		},
-	[15737] = {--Pattern: Chimeric Boots
+	[15737] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19063,--
 		["itemName"] = "Pattern: Chimeric Boots",
@@ -4989,7 +4989,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[15738] = {--Pattern: Heavy Scorpid Gauntlets
+	[15738] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19064,--
 		["itemName"] = "Pattern: Heavy Scorpid Gauntlets",
@@ -4997,7 +4997,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[15739] = {--Pattern: Runic Leather Bracers
+	[15739] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19065,--
 		["itemName"] = "Pattern: Runic Leather Bracers",
@@ -5006,7 +5006,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[15740] = {--Pattern: Frostsaber Boots
+	[15740] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19066,--
 		["itemName"] = "Pattern: Frostsaber Boots",
@@ -5014,7 +5014,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[15741] = {--Pattern: Stormshroud Pants
+	[15741] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19067,--
 		["itemName"] = "Pattern: Stormshroud Pants",
@@ -5022,7 +5022,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[15742] = {--Pattern: Warbear Harness
+	[15742] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19068,--
 		["itemName"] = "Pattern: Warbear Harness",
@@ -5030,7 +5030,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[15743] = {--Pattern: Heavy Scorpid Belt
+	[15743] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19070,--
 		["itemName"] = "Pattern: Heavy Scorpid Belt",
@@ -5038,7 +5038,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 280,
 		},
-	[15744] = {--Pattern: Wicked Leather Headband
+	[15744] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19071,--
 		["itemName"] = "Pattern: Wicked Leather Headband",
@@ -5047,7 +5047,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 280,
 		["note"] = "trainable",
 		},
-	[15745] = {--Pattern: Runic Leather Belt
+	[15745] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19072,--
 		["itemName"] = "Pattern: Runic Leather Belt",
@@ -5056,7 +5056,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 280,
 		["note"] = "trainable",
 		},
-	[15746] = {--Pattern: Chimeric Leggings
+	[15746] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19073,--
 		["itemName"] = "Pattern: Chimeric Leggings",
@@ -5064,7 +5064,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 280,
 		},
-	[15747] = {--Pattern: Frostsaber Leggings
+	[15747] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19074,--
 		["itemName"] = "Pattern: Frostsaber Leggings",
@@ -5072,7 +5072,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15748] = {--Pattern: Heavy Scorpid Leggings
+	[15748] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19075,--
 		["itemName"] = "Pattern: Heavy Scorpid Leggings",
@@ -5080,7 +5080,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15749] = {--Pattern: Volcanic Breastplate
+	[15749] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19076,--
 		["itemName"] = "Pattern: Volcanic Breastplate",
@@ -5088,7 +5088,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15751] = {--Pattern: Blue Dragonscale Breastplate
+	[15751] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19077,--
 		["itemName"] = "Pattern: Blue Dragonscale Breastplate",
@@ -5096,7 +5096,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15752] = {--Pattern: Living Leggings
+	[15752] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19078,--
 		["itemName"] = "Pattern: Living Leggings",
@@ -5104,7 +5104,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15753] = {--Pattern: Stormshroud Armor
+	[15753] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19079,--
 		["itemName"] = "Pattern: Stormshroud Armor",
@@ -5112,7 +5112,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15754] = {--Pattern: Warbear Woolies
+	[15754] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19080,--
 		["itemName"] = "Pattern: Warbear Woolies",
@@ -5121,7 +5121,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[15755] = {--Pattern: Chimeric Vest
+	[15755] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19081,--
 		["itemName"] = "Pattern: Chimeric Vest",
@@ -5129,7 +5129,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 290,
 		},
-	[15756] = {--Pattern: Runic Leather Headband
+	[15756] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19082,--
 		["itemName"] = "Pattern: Runic Leather Headband",
@@ -5138,7 +5138,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[15757] = {--Pattern: Wicked Leather Pants
+	[15757] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19083,--
 		["itemName"] = "Pattern: Wicked Leather Pants",
@@ -5147,7 +5147,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[15758] = {--Pattern: Devilsaur Gauntlets
+	[15758] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19084,--
 		["itemName"] = "Pattern: Devilsaur Gauntlets",
@@ -5155,7 +5155,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 290,
 		},
-	[15759] = {--Pattern: Black Dragonscale Breastplate
+	[15759] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19085,--
 		["itemName"] = "Pattern: Black Dragonscale Breastplate",
@@ -5163,7 +5163,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 290,
 		},
-	[15760] = {--Pattern: Ironfeather Breastplate
+	[15760] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19086,--
 		["itemName"] = "Pattern: Ironfeather Breastplate",
@@ -5171,7 +5171,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 290,
 		},
-	[15761] = {--Pattern: Frostsaber Gloves
+	[15761] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19087,--
 		["itemName"] = "Pattern: Frostsaber Gloves",
@@ -5179,7 +5179,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 295,
 		},
-	[15762] = {--Pattern: Heavy Scorpid Helm
+	[15762] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19088,--
 		["itemName"] = "Pattern: Heavy Scorpid Helm",
@@ -5187,7 +5187,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 295,
 		},
-	[15763] = {--Pattern: Blue Dragonscale Shoulders
+	[15763] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19089,--
 		["itemName"] = "Pattern: Blue Dragonscale Shoulders",
@@ -5195,7 +5195,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 295,
 		},
-	[15764] = {--Pattern: Stormshroud Shoulders
+	[15764] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19090,--
 		["itemName"] = "Pattern: Stormshroud Shoulders",
@@ -5203,7 +5203,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 295,
 		},
-	[15765] = {--Pattern: Runic Leather Pants
+	[15765] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19091,--
 		["itemName"] = "Pattern: Runic Leather Pants",
@@ -5212,7 +5212,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[15768] = {--Pattern: Wicked Leather Belt
+	[15768] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19092,--
 		["itemName"] = "Pattern: Wicked Leather Belt",
@@ -5221,15 +5221,16 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[15769] = {--Pattern: Onyxia Scale Cloak
+	[15769] = {--instantly learned after quest
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19093,--
 		["itemName"] = "Pattern: Onyxia Scale Cloak",
 		["quality"] = 3,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
+		["note"] = "fake",
 		},
-	[15770] = {--Pattern: Black Dragonscale Shoulders
+	[15770] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19094,--
 		["itemName"] = "Pattern: Black Dragonscale Shoulders",
@@ -5237,7 +5238,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15771] = {--Pattern: Living Breastplate
+	[15771] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19095,--
 		["itemName"] = "Pattern: Living Breastplate",
@@ -5245,7 +5246,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15772] = {--Pattern: Devilsaur Leggings
+	[15772] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19097,--
 		["itemName"] = "Pattern: Devilsaur Leggings",
@@ -5253,7 +5254,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15773] = {--Pattern: Wicked Leather Armor
+	[15773] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19098,--
 		["itemName"] = "Pattern: Wicked Leather Armor",
@@ -5262,7 +5263,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[15774] = {--Pattern: Heavy Scorpid Shoulders
+	[15774] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19100,--
 		["itemName"] = "Pattern: Heavy Scorpid Shoulders",
@@ -5270,7 +5271,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15775] = {--Pattern: Volcanic Shoulders
+	[15775] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19101,--
 		["itemName"] = "Pattern: Volcanic Shoulders",
@@ -5278,7 +5279,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15776] = {--Pattern: Runic Leather Armor
+	[15776] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19102,--
 		["itemName"] = "Pattern: Runic Leather Armor",
@@ -5287,7 +5288,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[15777] = {--Pattern: Runic Leather Shoulders
+	[15777] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19103,--
 		["itemName"] = "Pattern: Runic Leather Shoulders",
@@ -5296,7 +5297,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "trainable",
 		},
-	[15779] = {--Pattern: Frostsaber Tunic
+	[15779] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19104,--
 		["itemName"] = "Pattern: Frostsaber Tunic",
@@ -5304,7 +5305,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15781] = {--Pattern: Black Dragonscale Leggings
+	[15781] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19107,--
 		["itemName"] = "Pattern: Black Dragonscale Leggings",
@@ -5312,13 +5313,13 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[15996] = {--Lifelike Mechanical Toad
+	[15996] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 19772,--Lifelike Toad
 		["itemName"] = "Lifelike Mechanical Toad",
 		["quality"] = 1,
 		},
-	[16041] = {--Schematic: Thorium Grenade
+	[16041] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19790,--
 		["itemName"] = "Schematic: Thorium Grenade",
@@ -5327,7 +5328,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 260,
 		["note"] = "trainable",
 		},
-	[16042] = {--Schematic: Thorium Widget
+	[16042] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19791,--
 		["itemName"] = "Schematic: Thorium Widget",
@@ -5336,7 +5337,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 260,
 		["note"] = "trainable",
 		},
-	[16043] = {--Schematic: Thorium Rifle
+	[16043] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19792,--
 		["itemName"] = "Schematic: Thorium Rifle",
@@ -5344,7 +5345,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 260,
 		},
-	[16044] = {--Schematic: Lifelike Mechanical Toad
+	[16044] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19793,--
 		["itemName"] = "Schematic: Lifelike Mechanical Toad",
@@ -5352,7 +5353,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 265,
 		},
-	[16045] = {--Schematic: Spellpower Goggles Xtreme Plus
+	[16045] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19794,--
 		["itemName"] = "Schematic: Spellpower Goggles Xtreme Plus",
@@ -5361,7 +5362,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
-	[16046] = {--Schematic: Masterwork Target Dummy
+	[16046] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19814,--
 		["itemName"] = "Schematic: Masterwork Target Dummy",
@@ -5369,7 +5370,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[16047] = {--Schematic: Thorium Tube
+	[16047] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19795,--
 		["itemName"] = "Schematic: Thorium Tube",
@@ -5378,7 +5379,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "trainable",
 		},
-	[16048] = {--Schematic: Dark Iron Rifle
+	[16048] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19796,--
 		["itemName"] = "Schematic: Dark Iron Rifle",
@@ -5386,7 +5387,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[16049] = {--Schematic: Dark Iron Bomb
+	[16049] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19799,--
 		["itemName"] = "Schematic: Dark Iron Bomb",
@@ -5394,7 +5395,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 285,
 		},
-	[16050] = {--Schematic: Delicate Arcanite Converter
+	[16050] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19815,--
 		["itemName"] = "Schematic: Delicate Arcanite Converter",
@@ -5402,7 +5403,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 285,
 		},
-	[16051] = {--Schematic: Thorium Shells
+	[16051] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19800,--
 		["itemName"] = "Schematic: Thorium Shells",
@@ -5411,7 +5412,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 285,
 		["note"] = "trainable",
 		},
-	[16052] = {--Schematic: Voice Amplification Modulator
+	[16052] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19819,--
 		["itemName"] = "Schematic: Voice Amplification Modulator",
@@ -5419,7 +5420,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 290,
 		},
-	[16053] = {--Schematic: Master Engineer's Goggles
+	[16053] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19825,--
 		["itemName"] = "Schematic: Master Engineer's Goggles",
@@ -5428,7 +5429,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[16054] = {--Schematic: Arcanite Dragonling
+	[16054] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19830,--
 		["itemName"] = "Schematic: Arcanite Dragonling",
@@ -5436,7 +5437,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[16055] = {--Schematic: Arcane Bomb
+	[16055] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19831,--
 		["itemName"] = "Schematic: Arcane Bomb",
@@ -5444,7 +5445,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[16056] = {--Schematic: Flawless Arcanite Rifle
+	[16056] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19833,--
 		["itemName"] = "Schematic: Flawless Arcanite Rifle",
@@ -5452,7 +5453,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[16072] = {--Expert Cookbook
+	[16072] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 3413,--Expert Cook
 		["itemName"] = "Expert Cookbook",
@@ -5461,7 +5462,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 125,
 		["note"] = "removed",
 		},
-	[16083] = {--Expert Fishing - The Bass and You
+	[16083] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 7732,--Expert Fishing
 		["itemName"] = "Expert Fishing - The Bass and You",
@@ -5470,7 +5471,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 125,
 		["note"] = "removed",
 		},
-	[16084] = {--Expert First Aid - Under Wraps
+	[16084] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 7924,--Expert First Aid
 		["itemName"] = "Expert First Aid - Under Wraps",
@@ -5479,7 +5480,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 125,
 		["note"] = "removed",
 		},
-	[16085] = {--Artisan First Aid - Heal Thyself
+	[16085] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 10846,--Artisan First Aid
 		["itemName"] = "Artisan First Aid - Heal Thyself",
@@ -5488,7 +5489,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 200,
 		["note"] = "fake",
 		},
-	[16110] = {--Recipe: Monster Omelet
+	[16110] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15933,--
 		["itemName"] = "Recipe: Monster Omelet",
@@ -5496,7 +5497,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[16111] = {--Recipe: Spiced Chili Crab
+	[16111] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15915,--
 		["itemName"] = "Recipe: Spiced Chili Crab",
@@ -5504,7 +5505,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[16112] = {--Manual: Heavy Silk Bandage
+	[16112] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7929,--
 		["itemName"] = "Manual: Heavy Silk Bandage",
@@ -5513,7 +5514,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 180,
 		["note"] = "removed",
 		},
-	[16113] = {--Manual: Mageweave Bandage
+	[16113] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10840,--
 		["itemName"] = "Manual: Mageweave Bandage",
@@ -5522,7 +5523,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 210,
 		["note"] = "removed",
 		},
-	[16214] = {--Formula: Enchant Bracer - Greater Intellect
+	[16214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20008,--
 		["itemName"] = "Formula: Enchant Bracer - Greater Intellect",
@@ -5531,7 +5532,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 255,
 		["note"] = "trainable",
 		},
-	[16215] = {--Formula: Enchant Boots - Greater Stamina
+	[16215] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20020,--
 		["itemName"] = "Formula: Enchant Boots - Greater Stamina",
@@ -5539,7 +5540,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 260,
 		},
-	[16216] = {--Formula: Enchant Cloak - Greater Resistance
+	[16216] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20014,--
 		["itemName"] = "Formula: Enchant Cloak - Greater Resistance",
@@ -5548,7 +5549,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 265,
 		["note"] = "trainable",
 		},
-	[16217] = {--Formula: Enchant Shield - Greater Stamina
+	[16217] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20017,--
 		["itemName"] = "Formula: Enchant Shield - Greater Stamina",
@@ -5557,7 +5558,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 265,
 		},
-	[16218] = {--Formula: Enchant Bracer - Superior Spirit
+	[16218] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20009,--
 		["itemName"] = "Formula: Enchant Bracer - Superior Spirit",
@@ -5565,7 +5566,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 270,
 		},
-	[16219] = {--Formula: Enchant Gloves - Greater Agility
+	[16219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20012,--
 		["itemName"] = "Formula: Enchant Gloves - Greater Agility",
@@ -5574,7 +5575,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
-	[16220] = {--Formula: Enchant Boots - Spirit
+	[16220] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20024,--
 		["itemName"] = "Formula: Enchant Boots - Spirit",
@@ -5582,7 +5583,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 275,
 		},
-	[16221] = {--Formula: Enchant Chest - Major Health
+	[16221] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20026,--
 		["itemName"] = "Formula: Enchant Chest - Major Health",
@@ -5590,7 +5591,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 275,
 		},
-	[16222] = {--Formula: Enchant Shield - Superior Spirit     (replaced with Enchant Shield - Vitality)
+	[16222] = {--replaced with Enchant Shield - Vitality
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20016,--
 		["itemName"] = "Formula: Enchant Shield - Superior Spirit",
@@ -5599,7 +5600,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 280,
 		["note"] = "removed",
 		},
-	[16223] = {--Formula: Enchant Weapon - Icy Chill
+	[16223] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20029,--
 		["itemName"] = "Formula: Enchant Weapon - Icy Chill",
@@ -5607,7 +5608,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 285,
 		},
-	[16224] = {--Formula: Enchant Cloak - Superior Defense
+	[16224] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20015,--
 		["itemName"] = "Formula: Enchant Cloak - Superior Defense",
@@ -5615,7 +5616,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 285,
 		},
-	[16242] = {--Formula: Enchant Chest - Major Mana
+	[16242] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20028,--
 		["itemName"] = "Formula: Enchant Chest - Major Mana",
@@ -5624,7 +5625,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[16243] = {--Formula: Runed Arcanite Rod
+	[16243] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20051,--
 		["itemName"] = "Formula: Runed Arcanite Rod",
@@ -5632,7 +5633,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 290,
 		},
-	[16244] = {--Formula: Enchant Gloves - Greater Strength
+	[16244] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20013,--
 		["itemName"] = "Formula: Enchant Gloves - Greater Strength",
@@ -5641,7 +5642,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 295,
 		["note"] = "trainable",
 		},
-	[16245] = {--Formula: Enchant Boots - Greater Agility
+	[16245] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20023,--
 		["itemName"] = "Formula: Enchant Boots - Greater Agility",
@@ -5649,7 +5650,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 295,
 		},
-	[16246] = {--Formula: Enchant Bracer - Superior Strength
+	[16246] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20010,--
 		["itemName"] = "Formula: Enchant Bracer - Superior Strength",
@@ -5657,7 +5658,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 295,
 		},
-	[16247] = {--Formula: Enchant 2H Weapon - Superior Impact
+	[16247] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20030,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Superior Impact",
@@ -5665,7 +5666,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 295,
 		},
-	[16248] = {--Formula: Enchant Weapon - Unholy
+	[16248] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20033,--
 		["itemName"] = "Formula: Enchant Weapon - Unholy",
@@ -5673,7 +5674,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 295,
 		},
-	[16249] = {--Formula: Enchant 2H Weapon - Major Intellect
+	[16249] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20036,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Major Intellect",
@@ -5681,7 +5682,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16250] = {--Formula: Enchant Weapon - Superior Striking
+	[16250] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20031,--
 		["itemName"] = "Formula: Enchant Weapon - Superior Striking",
@@ -5689,7 +5690,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16251] = {--Formula: Enchant Bracer - Superior Stamina
+	[16251] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20011,--
 		["itemName"] = "Formula: Enchant Bracer - Superior Stamina",
@@ -5697,7 +5698,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16252] = {--Formula: Enchant Weapon - Crusader
+	[16252] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20034,--
 		["itemName"] = "Formula: Enchant Weapon - Crusader",
@@ -5705,7 +5706,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16253] = {--Formula: Enchant Chest - Greater Stats
+	[16253] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20025,--
 		["itemName"] = "Formula: Enchant Chest - Greater Stats",
@@ -5713,7 +5714,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16254] = {--Formula: Enchant Weapon - Lifestealing
+	[16254] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20032,--
 		["itemName"] = "Formula: Enchant Weapon - Lifestealing",
@@ -5721,7 +5722,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16255] = {--Formula: Enchant 2H Weapon - Major Spirit
+	[16255] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20035,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Major Spirit",
@@ -5729,7 +5730,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16302] = {--Grimoire of Firebolt (Rank 2)
+	[16302] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7799,--Firebolt (Rank 2)
 		["itemName"] = "Grimoire of Firebolt (Rank 2)",
@@ -5739,7 +5740,7 @@ LibTextbookDB = {
 		["reqLevel"] = 8,
 		["unique"] = 1,
 		},
-	[16316] = {--Grimoire of Firebolt (Rank 3)
+	[16316] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7800,--Firebolt (Rank 3)
 		["itemName"] = "Grimoire of Firebolt (Rank 3)",
@@ -5749,7 +5750,7 @@ LibTextbookDB = {
 		["reqLevel"] = 18,
 		["unique"] = 1,
 		},
-	[16317] = {--Grimoire of Firebolt (Rank 4)
+	[16317] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7801,--Firebolt (Rank 4)
 		["itemName"] = "Grimoire of Firebolt (Rank 4)",
@@ -5759,7 +5760,7 @@ LibTextbookDB = {
 		["reqLevel"] = 28,
 		["unique"] = 1,
 		},
-	[16318] = {--Grimoire of Firebolt (Rank 5)
+	[16318] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7802,--Firebolt (Rank 5)
 		["itemName"] = "Grimoire of Firebolt (Rank 5)",
@@ -5769,7 +5770,7 @@ LibTextbookDB = {
 		["reqLevel"] = 38,
 		["unique"] = 1,
 		},
-	[16319] = {--Grimoire of Firebolt (Rank 6)
+	[16319] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11762,--Firebolt (Rank 6)
 		["itemName"] = "Grimoire of Firebolt (Rank 6)",
@@ -5779,7 +5780,7 @@ LibTextbookDB = {
 		["reqLevel"] = 48,
 		["unique"] = 1,
 		},
-	[16320] = {--Grimoire of Firebolt (Rank 7)
+	[16320] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11763,--Firebolt (Rank 7)
 		["itemName"] = "Grimoire of Firebolt (Rank 7)",
@@ -5789,7 +5790,7 @@ LibTextbookDB = {
 		["reqLevel"] = 58,
 		["unique"] = 1,
 		},
-	[16321] = {--Grimoire of Blood Pact (Rank 1)
+	[16321] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 6307,--Blood Pact (Rank 1)
 		["itemName"] = "Grimoire of Blood Pact (Rank 1)",
@@ -5799,7 +5800,7 @@ LibTextbookDB = {
 		["reqLevel"] = 4,
 		["unique"] = 1,
 		},
-	[16322] = {--Grimoire of Blood Pact (Rank 2)
+	[16322] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7804,--Blood Pact (Rank 2)
 		["itemName"] = "Grimoire of Blood Pact (Rank 2)",
@@ -5809,7 +5810,7 @@ LibTextbookDB = {
 		["reqLevel"] = 14,
 		["unique"] = 1,
 		},
-	[16323] = {--Grimoire of Blood Pact (Rank 3)
+	[16323] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7805,--Blood Pact (Rank 3)
 		["itemName"] = "Grimoire of Blood Pact (Rank 3)",
@@ -5819,7 +5820,7 @@ LibTextbookDB = {
 		["reqLevel"] = 26,
 		["unique"] = 1,
 		},
-	[16324] = {--Grimoire of Blood Pact (Rank 4)
+	[16324] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11766,--Blood Pact (Rank 4)
 		["itemName"] = "Grimoire of Blood Pact (Rank 4)",
@@ -5829,7 +5830,7 @@ LibTextbookDB = {
 		["reqLevel"] = 38,
 		["unique"] = 1,
 		},
-	[16325] = {--Grimoire of Blood Pact (Rank 5)
+	[16325] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11767,--Blood Pact (Rank 5)
 		["itemName"] = "Grimoire of Blood Pact (Rank 5)",
@@ -5839,7 +5840,7 @@ LibTextbookDB = {
 		["reqLevel"] = 50,
 		["unique"] = 1,
 		},
-	[16326] = {--Grimoire of Fire Shield (Rank 1)
+	[16326] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 2947,--Fire Shield (Rank 1)
 		["itemName"] = "Grimoire of Fire Shield (Rank 1)",
@@ -5849,7 +5850,7 @@ LibTextbookDB = {
 		["reqLevel"] = 14,
 		["unique"] = 1,
 		},
-	[16327] = {--Grimoire of Fire Shield (Rank 2)
+	[16327] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 8316,--Fire Shield (Rank 2)
 		["itemName"] = "Grimoire of Fire Shield (Rank 2)",
@@ -5859,7 +5860,7 @@ LibTextbookDB = {
 		["reqLevel"] = 24,
 		["unique"] = 1,
 		},
-	[16328] = {--Grimoire of Fire Shield (Rank 3)
+	[16328] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 8317,--Fire Shield (Rank 3)
 		["itemName"] = "Grimoire of Fire Shield (Rank 3)",
@@ -5869,7 +5870,7 @@ LibTextbookDB = {
 		["reqLevel"] = 34,
 		["unique"] = 1,
 		},
-	[16329] = {--Grimoire of Fire Shield (Rank 4)
+	[16329] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11770,--Fire Shield (Rank 4)
 		["itemName"] = "Grimoire of Fire Shield (Rank 4)",
@@ -5879,7 +5880,7 @@ LibTextbookDB = {
 		["reqLevel"] = 44,
 		["unique"] = 1,
 		},
-	[16330] = {--Grimoire of Fire Shield (Rank 5)
+	[16330] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11771,--Fire Shield (Rank 5)
 		["itemName"] = "Grimoire of Fire Shield (Rank 5)",
@@ -5889,7 +5890,7 @@ LibTextbookDB = {
 		["reqLevel"] = 54,
 		["unique"] = 1,
 		},
-	[16331] = {--Grimoire of Phase Shift
+	[16331] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 4511,--Phase Shift
 		["itemName"] = "Grimoire of Phase Shift",
@@ -5899,7 +5900,7 @@ LibTextbookDB = {
 		["reqLevel"] = 12,
 		["unique"] = 1,
 		},
-	[16346] = {--Grimoire of Torment (Rank 2)
+	[16346] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7809,--Torment (Rank 2)
 		["itemName"] = "Grimoire of Torment (Rank 2)",
@@ -5909,7 +5910,7 @@ LibTextbookDB = {
 		["reqLevel"] = 20,
 		["unique"] = 1,
 		},
-	[16347] = {--Grimoire of Torment (Rank 3)
+	[16347] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7810,--Torment (Rank 3)
 		["itemName"] = "Grimoire of Torment (Rank 3)",
@@ -5919,7 +5920,7 @@ LibTextbookDB = {
 		["reqLevel"] = 30,
 		["unique"] = 1,
 		},
-	[16348] = {--Grimoire of Torment (Rank 4)
+	[16348] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7811,--Torment (Rank 4)
 		["itemName"] = "Grimoire of Torment (Rank 4)",
@@ -5929,7 +5930,7 @@ LibTextbookDB = {
 		["reqLevel"] = 40,
 		["unique"] = 1,
 		},
-	[16349] = {--Grimoire of Torment (Rank 5)
+	[16349] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11774,--Torment (Rank 5)
 		["itemName"] = "Grimoire of Torment (Rank 5)",
@@ -5939,7 +5940,7 @@ LibTextbookDB = {
 		["reqLevel"] = 50,
 		["unique"] = 1,
 		},
-	[16350] = {--Grimoire of Torment (Rank 6)
+	[16350] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11775,--Torment (Rank 6)
 		["itemName"] = "Grimoire of Torment (Rank 6)",
@@ -5949,7 +5950,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[16351] = {--Grimoire of Sacrifice (Rank 1)
+	[16351] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7812,--Sacrifice (Rank 1)
 		["itemName"] = "Grimoire of Sacrifice (Rank 1)",
@@ -5959,7 +5960,7 @@ LibTextbookDB = {
 		["reqLevel"] = 16,
 		["unique"] = 1,
 		},
-	[16352] = {--Grimoire of Sacrifice (Rank 2)
+	[16352] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19438,--Sacrifice (Rank 2)
 		["itemName"] = "Grimoire of Sacrifice (Rank 2)",
@@ -5969,7 +5970,7 @@ LibTextbookDB = {
 		["reqLevel"] = 24,
 		["unique"] = 1,
 		},
-	[16353] = {--Grimoire of Sacrifice (Rank 3)
+	[16353] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19440,--Sacrifice (Rank 3)
 		["itemName"] = "Grimoire of Sacrifice (Rank 3)",
@@ -5979,7 +5980,7 @@ LibTextbookDB = {
 		["reqLevel"] = 32,
 		["unique"] = 1,
 		},
-	[16354] = {--Grimoire of Sacrifice (Rank 4)
+	[16354] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19441,--Sacrifice (Rank 4)
 		["itemName"] = "Grimoire of Sacrifice (Rank 4)",
@@ -5989,7 +5990,7 @@ LibTextbookDB = {
 		["reqLevel"] = 40,
 		["unique"] = 1,
 		},
-	[16355] = {--Grimoire of Sacrifice (Rank 5)
+	[16355] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19442,--Sacrifice (Rank 5)
 		["itemName"] = "Grimoire of Sacrifice (Rank 5)",
@@ -5999,7 +6000,7 @@ LibTextbookDB = {
 		["reqLevel"] = 48,
 		["unique"] = 1,
 		},
-	[16356] = {--Grimoire of Sacrifice (Rank 6)
+	[16356] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19443,--Sacrifice (Rank 6)
 		["itemName"] = "Grimoire of Sacrifice (Rank 6)",
@@ -6009,7 +6010,7 @@ LibTextbookDB = {
 		["reqLevel"] = 56,
 		["unique"] = 1,
 		},
-	[16357] = {--Grimoire of Consume Shadows (Rank 1)
+	[16357] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17767,--Consume Shadows (Rank 1)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 1)",
@@ -6019,7 +6020,7 @@ LibTextbookDB = {
 		["reqLevel"] = 18,
 		["unique"] = 1,
 		},
-	[16358] = {--Grimoire of Consume Shadows (Rank 2)
+	[16358] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17850,--Consume Shadows (Rank 2)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 2)",
@@ -6029,7 +6030,7 @@ LibTextbookDB = {
 		["reqLevel"] = 26,
 		["unique"] = 1,
 		},
-	[16359] = {--Grimoire of Consume Shadows (Rank 3)
+	[16359] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17851,--Consume Shadows (Rank 3)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 3)",
@@ -6039,7 +6040,7 @@ LibTextbookDB = {
 		["reqLevel"] = 34,
 		["unique"] = 1,
 		},
-	[16360] = {--Grimoire of Consume Shadows (Rank 4)
+	[16360] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17852,--Consume Shadows (Rank 4)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 4)",
@@ -6049,7 +6050,7 @@ LibTextbookDB = {
 		["reqLevel"] = 42,
 		["unique"] = 1,
 		},
-	[16361] = {--Grimoire of Consume Shadows (Rank 5)
+	[16361] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17853,--Consume Shadows (Rank 5)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 5)",
@@ -6059,7 +6060,7 @@ LibTextbookDB = {
 		["reqLevel"] = 50,
 		["unique"] = 1,
 		},
-	[16362] = {--Grimoire of Consume Shadows (Rank 6)
+	[16362] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17854,--Consume Shadows (Rank 6)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 6)",
@@ -6069,7 +6070,7 @@ LibTextbookDB = {
 		["reqLevel"] = 58,
 		["unique"] = 1,
 		},
-	[16363] = {--Grimoire of Suffering (Rank 1)
+	[16363] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17735,--Suffering (Rank 1)
 		["itemName"] = "Grimoire of Suffering (Rank 1)",
@@ -6079,7 +6080,7 @@ LibTextbookDB = {
 		["reqLevel"] = 24,
 		["unique"] = 1,
 		},
-	[16364] = {--Grimoire of Suffering (Rank 2)
+	[16364] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17750,--Suffering (Rank 2)
 		["itemName"] = "Grimoire of Suffering (Rank 2)",
@@ -6089,7 +6090,7 @@ LibTextbookDB = {
 		["reqLevel"] = 36,
 		["unique"] = 1,
 		},
-	[16365] = {--Grimoire of Suffering (Rank 3)
+	[16365] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17751,--Suffering (Rank 3)
 		["itemName"] = "Grimoire of Suffering (Rank 3)",
@@ -6099,7 +6100,7 @@ LibTextbookDB = {
 		["reqLevel"] = 48,
 		["unique"] = 1,
 		},
-	[16366] = {--Grimoire of Suffering (Rank 4)
+	[16366] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 17752,--Suffering (Rank 4)
 		["itemName"] = "Grimoire of Suffering (Rank 4)",
@@ -6109,7 +6110,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[16368] = {--Grimoire of Lash of Pain (Rank 2)
+	[16368] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7815,--Lash of Pain (Rank 2)
 		["itemName"] = "Grimoire of Lash of Pain (Rank 2)",
@@ -6119,7 +6120,7 @@ LibTextbookDB = {
 		["reqLevel"] = 28,
 		["unique"] = 1,
 		},
-	[16371] = {--Grimoire of Lash of Pain (Rank 3)
+	[16371] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7816,--Lash of Pain (Rank 3)
 		["itemName"] = "Grimoire of Lash of Pain (Rank 3)",
@@ -6129,7 +6130,7 @@ LibTextbookDB = {
 		["reqLevel"] = 36,
 		["unique"] = 1,
 		},
-	[16372] = {--Grimoire of Lash of Pain (Rank 4)
+	[16372] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11778,--Lash of Pain (Rank 4)
 		["itemName"] = "Grimoire of Lash of Pain (Rank 4)",
@@ -6139,7 +6140,7 @@ LibTextbookDB = {
 		["reqLevel"] = 44,
 		["unique"] = 1,
 		},
-	[16373] = {--Grimoire of Lash of Pain (Rank 5)
+	[16373] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11779,--Lash of Pain (Rank 5)
 		["itemName"] = "Grimoire of Lash of Pain (Rank 5)",
@@ -6149,7 +6150,7 @@ LibTextbookDB = {
 		["reqLevel"] = 52,
 		["unique"] = 1,
 		},
-	[16374] = {--Grimoire of Lash of Pain (Rank 6)
+	[16374] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11780,--Lash of Pain (Rank 6)
 		["itemName"] = "Grimoire of Lash of Pain (Rank 6)",
@@ -6159,7 +6160,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[16375] = {--Grimoire of Soothing Kiss (Rank 1)
+	[16375] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 6360,--Soothing Kiss (Rank 1)
 		["itemName"] = "Grimoire of Soothing Kiss (Rank 1)",
@@ -6169,7 +6170,7 @@ LibTextbookDB = {
 		["reqLevel"] = 22,
 		["unique"] = 1,
 		},
-	[16376] = {--Grimoire of Soothing Kiss (Rank 2)
+	[16376] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7813,--Soothing Kiss (Rank 2)
 		["itemName"] = "Grimoire of Soothing Kiss (Rank 2)",
@@ -6179,7 +6180,7 @@ LibTextbookDB = {
 		["reqLevel"] = 34,
 		["unique"] = 1,
 		},
-	[16377] = {--Grimoire of Soothing Kiss (Rank 3)
+	[16377] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11784,--Soothing Kiss (Rank 3)
 		["itemName"] = "Grimoire of Soothing Kiss (Rank 3)",
@@ -6189,7 +6190,7 @@ LibTextbookDB = {
 		["reqLevel"] = 46,
 		["unique"] = 1,
 		},
-	[16378] = {--Grimoire of Soothing Kiss (Rank 4)
+	[16378] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 11785,--Soothing Kiss (Rank 4)
 		["itemName"] = "Grimoire of Soothing Kiss (Rank 4)",
@@ -6199,7 +6200,7 @@ LibTextbookDB = {
 		["reqLevel"] = 58,
 		["unique"] = 1,
 		},
-	[16379] = {--Grimoire of Seduction
+	[16379] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 6358,--Seduction
 		["itemName"] = "Grimoire of Seduction",
@@ -6209,7 +6210,7 @@ LibTextbookDB = {
 		["reqLevel"] = 26,
 		["unique"] = 1,
 		},
-	[16380] = {--Grimoire of Lesser Invisibility
+	[16380] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 7870,--Lesser Invisibility
 		["itemName"] = "Grimoire of Lesser Invisibility",
@@ -6219,7 +6220,7 @@ LibTextbookDB = {
 		["reqLevel"] = 32,
 		["unique"] = 1,
 		},
-	[16381] = {--Grimoire of Devour Magic (Rank 2)
+	[16381] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19731,--Devour Magic (Rank 2)
 		["itemName"] = "Grimoire of Devour Magic (Rank 2)",
@@ -6229,7 +6230,7 @@ LibTextbookDB = {
 		["reqLevel"] = 38,
 		["unique"] = 1,
 		},
-	[16382] = {--Grimoire of Devour Magic (Rank 3)
+	[16382] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19734,--Devour Magic (Rank 3)
 		["itemName"] = "Grimoire of Devour Magic (Rank 3)",
@@ -6239,7 +6240,7 @@ LibTextbookDB = {
 		["reqLevel"] = 46,
 		["unique"] = 1,
 		},
-	[16383] = {--Grimoire of Devour Magic (Rank 4)
+	[16383] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19736,--Devour Magic (Rank 4)
 		["itemName"] = "Grimoire of Devour Magic (Rank 4)",
@@ -6249,7 +6250,7 @@ LibTextbookDB = {
 		["reqLevel"] = 54,
 		["unique"] = 1,
 		},
-	[16384] = {--Grimoire of Tainted Blood (Rank 1)
+	[16384] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19478,--Tainted Blood (Rank 1)
 		["itemName"] = "Grimoire of Tainted Blood (Rank 1)",
@@ -6260,7 +6261,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[16385] = {--Grimoire of Tainted Blood (Rank 2)
+	[16385] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19655,--Tainted Blood (Rank 2)
 		["itemName"] = "Grimoire of Tainted Blood (Rank 2)",
@@ -6271,7 +6272,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[16386] = {--Grimoire of Tainted Blood (Rank 3)
+	[16386] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19656,--Tainted Blood (Rank 3)
 		["itemName"] = "Grimoire of Tainted Blood (Rank 3)",
@@ -6282,7 +6283,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[16387] = {--Grimoire of Tainted Blood (Rank 4)
+	[16387] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19660,--Tainted Blood (Rank 4)
 		["itemName"] = "Grimoire of Tainted Blood (Rank 4)",
@@ -6293,7 +6294,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[16388] = {--Grimoire of Spell Lock (Rank 1)
+	[16388] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19244,--Spell Lock (Rank 1)
 		["itemName"] = "Grimoire of Spell Lock (Rank 1)",
@@ -6303,7 +6304,7 @@ LibTextbookDB = {
 		["reqLevel"] = 36,
 		["unique"] = 1,
 		},
-	[16389] = {--Grimoire of Spell Lock (Rank 2)
+	[16389] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19647,--Spell Lock (Rank 2)
 		["itemName"] = "Grimoire of Spell Lock (Rank 2)",
@@ -6313,7 +6314,7 @@ LibTextbookDB = {
 		["reqLevel"] = 52,
 		["unique"] = 1,
 		},
-	[16390] = {--Grimoire of Paranoia
+	[16390] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19480,--Paranoia
 		["itemName"] = "Grimoire of Paranoia",
@@ -6324,7 +6325,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[16665] = {--Tome of Tranquilizing Shot
+	[16665] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 19801,--Tranquilizing Shot
 		["itemName"] = "Tome of Tranquilizing Shot",
@@ -6334,7 +6335,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[16767] = {--Recipe: Undermine Clam Chowder
+	[16767] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20626,--
 		["itemName"] = "Recipe: Undermine Clam Chowder",
@@ -6342,7 +6343,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[17017] = {--Pattern: Flarecore Mantle
+	[17017] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20848,--
 		["itemName"] = "Pattern: Flarecore Mantle",
@@ -6351,7 +6352,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[17018] = {--Pattern: Flarecore Gloves
+	[17018] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20849,--
 		["itemName"] = "Pattern: Flarecore Gloves",
@@ -6360,7 +6361,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[17022] = {--Pattern: Corehound Boots
+	[17022] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20853,--
 		["itemName"] = "Pattern: Corehound Boots",
@@ -6369,7 +6370,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 295,
 		},
-	[17023] = {--Pattern: Molten Helm
+	[17023] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20854,--
 		["itemName"] = "Pattern: Molten Helm",
@@ -6378,7 +6379,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[17025] = {--Pattern: Black Dragonscale Boots
+	[17025] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20855,--
 		["itemName"] = "Pattern: Black Dragonscale Boots",
@@ -6387,7 +6388,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[17049] = {--Plans: Fiery Chain Girdle
+	[17049] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20872,--
 		["itemName"] = "Plans: Fiery Chain Girdle",
@@ -6396,7 +6397,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[17051] = {--Plans: Dark Iron Bracers
+	[17051] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20874,--
 		["itemName"] = "Plans: Dark Iron Bracers",
@@ -6405,7 +6406,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[17052] = {--Plans: Dark Iron Leggings
+	[17052] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20876,--
 		["itemName"] = "Plans: Dark Iron Leggings",
@@ -6414,7 +6415,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[17053] = {--Plans: Fiery Chain Shoulders
+	[17053] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20873,--
 		["itemName"] = "Plans: Fiery Chain Shoulders",
@@ -6423,7 +6424,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[17059] = {--Plans: Dark Iron Reaver
+	[17059] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20890,--
 		["itemName"] = "Plans: Dark Iron Reaver",
@@ -6432,7 +6433,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[17060] = {--Plans: Dark Iron Destroyer
+	[17060] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20897,--
 		["itemName"] = "Plans: Dark Iron Destroyer",
@@ -6441,7 +6442,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[17062] = {--Recipe: Mithril Head Trout
+	[17062] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20916,--
 		["itemName"] = "Recipe: Mithril Head Trout",
@@ -6449,7 +6450,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[17200] = {--Recipe: Gingerbread Cookie
+	[17200] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21143,--
 		["itemName"] = "Recipe: Gingerbread Cookie",
@@ -6457,7 +6458,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[17201] = {--Recipe: Egg Nog
+	[17201] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21144,--
 		["itemName"] = "Recipe: Egg Nog",
@@ -6465,7 +6466,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 35,
 		},
-	[17413] = {--Codex: Prayer of Fortitude
+	[17413] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 21562,--Prayer of Fortitude (Rank 1)
 		["itemName"] = "Codex: Prayer of Fortitude",
@@ -6473,7 +6474,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 48,
 		},
-	[17414] = {--Codex: Prayer of Fortitude II
+	[17414] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 21564,--Prayer of Fortitude (Rank 2)
 		["itemName"] = "Codex: Prayer of Fortitude II",
@@ -6481,7 +6482,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 60,
 		},
-	[17682] = {--Book: Gift of the Wild
+	[17682] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 21849,--Gift of the Wild (Rank 1)
 		["itemName"] = "Book: Gift of the Wild",
@@ -6489,7 +6490,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 50,
 		},
-	[17683] = {--Book: Gift of the Wild II
+	[17683] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 21850,--Gift of the Wild (Rank 2)
 		["itemName"] = "Book: Gift of the Wild II",
@@ -6497,7 +6498,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 60,
 		},
-	[17706] = {--Plans: Edge of Winter
+	[17706] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21913,--
 		["itemName"] = "Plans: Edge of Winter",
@@ -6505,7 +6506,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 190,
 		},
-	[17709] = {--Recipe: Elixir of Frost Power
+	[17709] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21923,--
 		["itemName"] = "Recipe: Elixir of Frost Power",
@@ -6513,7 +6514,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 190,
 		},
-	[17720] = {--Schematic: Snowmaster 9000
+	[17720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21940,--
 		["itemName"] = "Schematic: Snowmaster 9000",
@@ -6521,7 +6522,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 190,
 		},
-	[17722] = {--Pattern: Gloves of the Greatfather
+	[17722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21943,--
 		["itemName"] = "Pattern: Gloves of the Greatfather",
@@ -6529,7 +6530,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 190,
 		},
-	[17724] = {--Pattern: Green Holiday Shirt
+	[17724] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21945,--
 		["itemName"] = "Pattern: Green Holiday Shirt",
@@ -6537,7 +6538,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 190,
 		},
-	[17725] = {--Formula: Enchant Weapon - Winter's Might
+	[17725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21931,--
 		["itemName"] = "Formula: Enchant Weapon - Winter's Might",
@@ -6545,7 +6546,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 190,
 		},
-	[18046] = {--Recipe: Tender Wolf Steak
+	[18046] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22480,--
 		["itemName"] = "Recipe: Tender Wolf Steak",
@@ -6553,7 +6554,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[18160] = {--Recipe: Thistle Tea
+	[18160] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9513,--
 		["itemName"] = "Recipe: Thistle Tea",
@@ -6562,7 +6563,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 60,
 		},
-	[18239] = {--Pattern: Shadowskin Gloves
+	[18239] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22711,--
 		["itemName"] = "Pattern: Shadowskin Gloves",
@@ -6570,7 +6571,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
 		},
-	[18252] = {--Pattern: Core Armor Kit
+	[18252] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22727,--
 		["itemName"] = "Pattern: Core Armor Kit",
@@ -6579,7 +6580,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18257] = {--Recipe: Major Rejuvenation Potion
+	[18257] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22732,--
 		["itemName"] = "Recipe: Major Rejuvenation Potion",
@@ -6587,7 +6588,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[18259] = {--Formula: Enchant Weapon - Spell Power
+	[18259] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22749,--
 		["itemName"] = "Formula: Enchant Weapon - Spell Power",
@@ -6595,7 +6596,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[18260] = {--Formula: Enchant Weapon - Healing Power
+	[18260] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22750,--
 		["itemName"] = "Formula: Enchant Weapon - Healing Power",
@@ -6603,7 +6604,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[18264] = {--Plans: Elemental Sharpening Stone
+	[18264] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22757,--
 		["itemName"] = "Plans: Elemental Sharpening Stone",
@@ -6612,7 +6613,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[18265] = {--Pattern: Flarecore Wraps
+	[18265] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22759,--
 		["itemName"] = "Pattern: Flarecore Wraps",
@@ -6620,7 +6621,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18267] = {--Recipe: Runn Tum Tuber Surprise
+	[18267] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22761,--
 		["itemName"] = "Recipe: Runn Tum Tuber Surprise",
@@ -6629,7 +6630,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 275,
 		},
-	[18290] = {--Schematic: Biznicks 247x128 Accurascope
+	[18290] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22793,--
 		["itemName"] = "Schematic: Biznicks 247x128 Accurascope",
@@ -6638,7 +6639,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18291] = {--Schematic: Force Reactive Disk
+	[18291] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22797,--
 		["itemName"] = "Schematic: Force Reactive Disk",
@@ -6647,7 +6648,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18292] = {--Schematic: Core Marksman Rifle
+	[18292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22795,--
 		["itemName"] = "Schematic: Core Marksman Rifle",
@@ -6656,7 +6657,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18414] = {--Pattern: Belt of the Archmage
+	[18414] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22866,--
 		["itemName"] = "Pattern: Belt of the Archmage",
@@ -6664,7 +6665,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18415] = {--Pattern: Felcloth Gloves
+	[18415] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22867,--
 		["itemName"] = "Pattern: Felcloth Gloves",
@@ -6673,7 +6674,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18416] = {--Pattern: Inferno Gloves
+	[18416] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22868,--
 		["itemName"] = "Pattern: Inferno Gloves",
@@ -6682,7 +6683,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18417] = {--Pattern: Mooncloth Gloves
+	[18417] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22869,--
 		["itemName"] = "Pattern: Mooncloth Gloves",
@@ -6691,7 +6692,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18418] = {--Pattern: Cloak of Warding
+	[18418] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22870,--
 		["itemName"] = "Pattern: Cloak of Warding",
@@ -6700,7 +6701,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18487] = {--Pattern: Mooncloth Robe
+	[18487] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22902,--
 		["itemName"] = "Pattern: Mooncloth Robe",
@@ -6708,7 +6709,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[18514] = {--Pattern: Girdle of Insight
+	[18514] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22921,--
 		["itemName"] = "Pattern: Girdle of Insight",
@@ -6717,7 +6718,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18515] = {--Pattern: Mongoose Boots
+	[18515] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22922,--
 		["itemName"] = "Pattern: Mongoose Boots",
@@ -6726,7 +6727,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18516] = {--Pattern: Swift Flight Bracers
+	[18516] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22923,--
 		["itemName"] = "Pattern: Swift Flight Bracers",
@@ -6735,7 +6736,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18517] = {--Pattern: Chromatic Cloak
+	[18517] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22926,--
 		["itemName"] = "Pattern: Chromatic Cloak",
@@ -6743,7 +6744,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18518] = {--Pattern: Hide of the Wild
+	[18518] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22927,--
 		["itemName"] = "Pattern: Hide of the Wild",
@@ -6751,7 +6752,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18519] = {--Pattern: Shifting Cloak
+	[18519] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22928,--
 		["itemName"] = "Pattern: Shifting Cloak",
@@ -6759,7 +6760,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[18592] = {--Plans: Sulfuron Hammer
+	[18592] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21161,--
 		["itemName"] = "Plans: Sulfuron Hammer",
@@ -6768,7 +6769,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[18600] = {--Tome of Arcane Brilliance
+	[18600] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 23028,--Arcane Brilliance (Rank 1)
 		["itemName"] = "Tome of Arcane Brilliance",
@@ -6776,7 +6777,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 56,
 		},
-	[18647] = {--Schematic: Red Firework
+	[18647] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23066,--
 		["itemName"] = "Schematic: Red Firework",
@@ -6784,7 +6785,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 150,
 		},
-	[18648] = {--Schematic: Green Firework
+	[18648] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23068,--
 		["itemName"] = "Schematic: Green Firework",
@@ -6792,7 +6793,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 150,
 		},
-	[18649] = {--Schematic: Blue Firework
+	[18649] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23067,--
 		["itemName"] = "Schematic: Blue Firework",
@@ -6800,7 +6801,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 150,
 		},
-	[18650] = {--Schematic: EZ-Thro Dynamite II
+	[18650] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23069,--
 		["itemName"] = "Schematic: EZ-Thro Dynamite II",
@@ -6808,7 +6809,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 200,
 		},
-	[18651] = {--Schematic: Truesilver Transformer
+	[18651] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23071,--
 		["itemName"] = "Schematic: Truesilver Transformer",
@@ -6817,7 +6818,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 260,
 		["note"] = "trainable",
 		},
-	[18652] = {--Schematic: Gyrofreeze Ice Reflector
+	[18652] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23077,--
 		["itemName"] = "Schematic: Gyrofreeze Ice Reflector",
@@ -6825,7 +6826,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 260,
 		},
-	[18653] = {--Schematic: Goblin Jumper Cables XL
+	[18653] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23078,--
 		["itemName"] = "Schematic: Goblin Jumper Cables XL",
@@ -6834,7 +6835,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 265,
 		},
-	[18654] = {--Schematic: Gnomish Alarm-O-Bot
+	[18654] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23096,--
 		["itemName"] = "Schematic: Gnomish Alarm-O-Bot",
@@ -6843,7 +6844,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 265,
 		},
-	[18655] = {--Schematic: Major Recombobulator
+	[18655] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23079,--
 		["itemName"] = "Schematic: Major Recombobulator",
@@ -6851,7 +6852,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[18656] = {--Schematic: Powerful Seaforium Charge
+	[18656] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23080,--
 		["itemName"] = "Schematic: Powerful Seaforium Charge",
@@ -6859,7 +6860,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[18657] = {--Schematic: Hyper-Radiant Flame Reflector
+	[18657] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23081,--
 		["itemName"] = "Schematic: Hyper-Radiant Flame Reflector",
@@ -6867,7 +6868,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 290,
 		},
-	[18658] = {--Schematic: Ultra-Flash Shadow Reflector
+	[18658] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23082,--
 		["itemName"] = "Schematic: Ultra-Flash Shadow Reflector",
@@ -6875,7 +6876,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18661] = {--Schematic: World Enlarger
+	[18661] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23129,--
 		["itemName"] = "Schematic: World Enlarger",
@@ -6884,7 +6885,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 260,
 		},
-	[18731] = {--Pattern: Heavy Leather Ball
+	[18731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23190,--
 		["itemName"] = "Pattern: Heavy Leather Ball",
@@ -6892,7 +6893,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 150,
 		},
-	[18766] = {--Reins of the Swift Frostsaber
+	[18766] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23221,--Swift Frostsaber
 		["itemName"] = "Reins of the Swift Frostsaber",
@@ -6903,7 +6904,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18767] = {--Reins of the Swift Mistsaber
+	[18767] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23219,--Swift Mistsaber
 		["itemName"] = "Reins of the Swift Mistsaber",
@@ -6914,7 +6915,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18768] = {--Reins of the Swift Dawnsaber
+	[18768] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23220,--Swift Dawnsaber
 		["itemName"] = "Reins of the Swift Dawnsaber",
@@ -6926,7 +6927,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[18772] = {--Swift Green Mechanostrider
+	[18772] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23225,--Swift Green Mechanostrider
 		["itemName"] = "Swift Green Mechanostrider",
@@ -6937,7 +6938,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18773] = {--Swift White Mechanostrider
+	[18773] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23223,--Swift White Mechanostrider
 		["itemName"] = "Swift White Mechanostrider",
@@ -6948,7 +6949,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18774] = {--Swift Yellow Mechanostrider
+	[18774] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23222,--Swift Yellow Mechanostrider
 		["itemName"] = "Swift Yellow Mechanostrider",
@@ -6959,7 +6960,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18776] = {--Swift Palomino
+	[18776] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23227,--Swift Palomino
 		["itemName"] = "Swift Palomino",
@@ -6970,7 +6971,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18777] = {--Swift Brown Steed
+	[18777] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23229,--Swift Brown Steed
 		["itemName"] = "Swift Brown Steed",
@@ -6981,7 +6982,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18778] = {--Swift White Steed
+	[18778] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23228,--Swift White Steed
 		["itemName"] = "Swift White Steed",
@@ -6992,7 +6993,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18785] = {--Swift White Ram
+	[18785] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23240,--Swift White Ram
 		["itemName"] = "Swift White Ram",
@@ -7003,7 +7004,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18786] = {--Swift Brown Ram
+	[18786] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23238,--Swift Brown Ram
 		["itemName"] = "Swift Brown Ram",
@@ -7014,7 +7015,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18787] = {--Swift Gray Ram
+	[18787] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23239,--Swift Gray Ram
 		["itemName"] = "Swift Gray Ram",
@@ -7025,7 +7026,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18788] = {--Swift Blue Raptor
+	[18788] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23241,--Swift Blue Raptor
 		["itemName"] = "Swift Blue Raptor",
@@ -7036,7 +7037,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18789] = {--Swift Olive Raptor
+	[18789] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23242,--Swift Olive Raptor
 		["itemName"] = "Swift Olive Raptor",
@@ -7047,7 +7048,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18790] = {--Swift Orange Raptor
+	[18790] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23243,--Swift Orange Raptor
 		["itemName"] = "Swift Orange Raptor",
@@ -7058,7 +7059,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18791] = {--Purple Skeletal Warhorse
+	[18791] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23246,--Purple Skeletal Warhorse
 		["itemName"] = "Purple Skeletal Warhorse",
@@ -7069,7 +7070,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18793] = {--Great White Kodo
+	[18793] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23247,--Great White Kodo
 		["itemName"] = "Great White Kodo",
@@ -7080,7 +7081,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18794] = {--Great Brown Kodo
+	[18794] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23249,--Great Brown Kodo
 		["itemName"] = "Great Brown Kodo",
@@ -7091,7 +7092,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18795] = {--Great Gray Kodo
+	[18795] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23248,--Great Gray Kodo
 		["itemName"] = "Great Gray Kodo",
@@ -7102,7 +7103,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18796] = {--Horn of the Swift Brown Wolf
+	[18796] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23250,--Swift Brown Wolf
 		["itemName"] = "Horn of the Swift Brown Wolf",
@@ -7113,7 +7114,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18797] = {--Horn of the Swift Timber Wolf
+	[18797] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23251,--Swift Timber Wolf
 		["itemName"] = "Horn of the Swift Timber Wolf",
@@ -7124,7 +7125,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18798] = {--Horn of the Swift Gray Wolf
+	[18798] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23252,--Swift Gray Wolf
 		["itemName"] = "Horn of the Swift Gray Wolf",
@@ -7135,7 +7136,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18902] = {--Reins of the Swift Stormsaber
+	[18902] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23338,--Swift Stormsaber
 		["itemName"] = "Reins of the Swift Stormsaber",
@@ -7146,7 +7147,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18949] = {--Pattern: Barbaric Bracers
+	[18949] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23399,--
 		["itemName"] = "Pattern: Barbaric Bracers",
@@ -7154,7 +7155,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 155,
 		},
-	[19027] = {--Schematic: Snake Burst Firework
+	[19027] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23507,--
 		["itemName"] = "Schematic: Snake Burst Firework",
@@ -7163,7 +7164,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 250,
 		},
-	[19029] = {--Horn of the Frostwolf Howler
+	[19029] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23509,--Frostwolf Howler
 		["itemName"] = "Horn of the Frostwolf Howler",
@@ -7173,7 +7174,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[19030] = {--Stormpike Battle Charger
+	[19030] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23510,--Stormpike Battle Charger
 		["itemName"] = "Stormpike Battle Charger",
@@ -7183,21 +7184,21 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[19054] = {--Red Dragon Orb
+	[19054] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 23530,--Tiny Red Dragon
 		["itemName"] = "Red Dragon Orb",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[19055] = {--Green Dragon Orb
+	[19055] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 23531,--Tiny Green Dragon
 		["itemName"] = "Green Dragon Orb",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[19202] = {--Plans: Heavy Timbermaw Belt
+	[19202] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23628,--
 		["itemName"] = "Plans: Heavy Timbermaw Belt",
@@ -7208,7 +7209,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[19203] = {--Plans: Girdle of the Dawn
+	[19203] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23632,--
 		["itemName"] = "Plans: Girdle of the Dawn",
@@ -7219,7 +7220,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[19204] = {--Plans: Heavy Timbermaw Boots
+	[19204] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23629,--
 		["itemName"] = "Plans: Heavy Timbermaw Boots",
@@ -7230,7 +7231,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19205] = {--Plans: Gloves of the Dawn
+	[19205] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23633,--
 		["itemName"] = "Plans: Gloves of the Dawn",
@@ -7241,7 +7242,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19206] = {--Plans: Dark Iron Helm
+	[19206] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23636,--
 		["itemName"] = "Plans: Dark Iron Helm",
@@ -7250,7 +7251,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19207] = {--Plans: Dark Iron Gauntlets
+	[19207] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23637,--
 		["itemName"] = "Plans: Dark Iron Gauntlets",
@@ -7259,7 +7260,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19208] = {--Plans: Black Amnesty
+	[19208] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23638,--
 		["itemName"] = "Plans: Black Amnesty",
@@ -7268,7 +7269,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19209] = {--Plans: Blackfury
+	[19209] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23639,--
 		["itemName"] = "Plans: Blackfury",
@@ -7277,7 +7278,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19210] = {--Plans: Ebon Hand
+	[19210] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23650,--
 		["itemName"] = "Plans: Ebon Hand",
@@ -7286,7 +7287,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19211] = {--Plans: Blackguard
+	[19211] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23652,--
 		["itemName"] = "Plans: Blackguard",
@@ -7295,7 +7296,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19212] = {--Plans: Nightfall
+	[19212] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23653,--
 		["itemName"] = "Plans: Nightfall",
@@ -7304,7 +7305,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19215] = {--Pattern: Wisdom of the Timbermaw
+	[19215] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23662,--
 		["itemName"] = "Pattern: Wisdom of the Timbermaw",
@@ -7315,7 +7316,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		},
-	[19216] = {--Pattern: Argent Boots
+	[19216] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23664,--
 		["itemName"] = "Pattern: Argent Boots",
@@ -7326,7 +7327,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		},
-	[19217] = {--Pattern: Argent Shoulders
+	[19217] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23665,--
 		["itemName"] = "Pattern: Argent Shoulders",
@@ -7337,7 +7338,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19218] = {--Pattern: Mantle of the Timbermaw
+	[19218] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23663,--
 		["itemName"] = "Pattern: Mantle of the Timbermaw",
@@ -7348,7 +7349,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19219] = {--Pattern: Flarecore Robe
+	[19219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23666,--
 		["itemName"] = "Pattern: Flarecore Robe",
@@ -7357,7 +7358,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19220] = {--Pattern: Flarecore Leggings
+	[19220] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23667,--
 		["itemName"] = "Pattern: Flarecore Leggings",
@@ -7366,7 +7367,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19326] = {--Pattern: Might of the Timbermaw
+	[19326] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23703,--
 		["itemName"] = "Pattern: Might of the Timbermaw",
@@ -7377,7 +7378,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 290,
 		},
-	[19327] = {--Pattern: Timbermaw Brawlers
+	[19327] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23704,--
 		["itemName"] = "Pattern: Timbermaw Brawlers",
@@ -7388,7 +7389,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19328] = {--Pattern: Dawn Treaders
+	[19328] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23705,--
 		["itemName"] = "Pattern: Dawn Treaders",
@@ -7399,7 +7400,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 290,
 		},
-	[19329] = {--Pattern: Golden Mantle of the Dawn
+	[19329] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23706,--
 		["itemName"] = "Pattern: Golden Mantle of the Dawn",
@@ -7410,7 +7411,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19330] = {--Pattern: Lava Belt
+	[19330] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23707,--
 		["itemName"] = "Pattern: Lava Belt",
@@ -7419,7 +7420,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19331] = {--Pattern: Chromatic Gauntlets
+	[19331] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23708,--
 		["itemName"] = "Pattern: Chromatic Gauntlets",
@@ -7428,7 +7429,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19332] = {--Pattern: Corehound Belt
+	[19332] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23709,--
 		["itemName"] = "Pattern: Corehound Belt",
@@ -7437,7 +7438,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19333] = {--Pattern: Molten Belt
+	[19333] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23710,--
 		["itemName"] = "Pattern: Molten Belt",
@@ -7446,7 +7447,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19442] = {--Formula: Powerful Anti-Venom
+	[19442] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23787,--
 		["itemName"] = "Formula: Powerful Anti-Venom",
@@ -7457,7 +7458,7 @@ LibTextbookDB = {
 		["reqSkill"] = 129,
 		["reqSkillLevel"] = 300,
 		},
-	[19444] = {--Formula: Enchant Weapon - Strength
+	[19444] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23799,--
 		["itemName"] = "Formula: Enchant Weapon - Strength",
@@ -7466,7 +7467,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 290,
 		},
-	[19445] = {--Formula: Enchant Weapon - Agility
+	[19445] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23800,--
 		["itemName"] = "Formula: Enchant Weapon - Agility",
@@ -7477,7 +7478,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 290,
 		},
-	[19446] = {--Formula: Enchant Bracer - Mana Regeneration
+	[19446] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23801,--
 		["itemName"] = "Formula: Enchant Bracer - Mana Regeneration",
@@ -7488,7 +7489,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 290,
 		},
-	[19447] = {--Formula: Enchant Bracer - Healing Power
+	[19447] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23802,--
 		["itemName"] = "Formula: Enchant Bracer - Healing Power",
@@ -7499,7 +7500,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[19448] = {--Formula: Enchant Weapon - Mighty Spirit
+	[19448] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23803,--
 		["itemName"] = "Formula: Enchant Weapon - Mighty Spirit",
@@ -7508,7 +7509,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[19449] = {--Formula: Enchant Weapon - Mighty Intellect
+	[19449] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23804,--
 		["itemName"] = "Formula: Enchant Weapon - Mighty Intellect",
@@ -7517,7 +7518,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[19450] = {--A Jubling's Tiny Home
+	[19450] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 23811,--Jubling
 		["itemName"] = "A Jubling's Tiny Home",
@@ -7525,7 +7526,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[19764] = {--Pattern: Bloodvine Vest
+	[19764] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24091,--
 		["itemName"] = "Pattern: Bloodvine Vest",
@@ -7536,7 +7537,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19765] = {--Pattern: Bloodvine Leggings
+	[19765] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24092,--
 		["itemName"] = "Pattern: Bloodvine Leggings",
@@ -7547,7 +7548,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19766] = {--Pattern: Bloodvine Boots
+	[19766] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24093,--
 		["itemName"] = "Pattern: Bloodvine Boots",
@@ -7558,7 +7559,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[19769] = {--Pattern: Primal Batskin Jerkin
+	[19769] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24121,--
 		["itemName"] = "Pattern: Primal Batskin Jerkin",
@@ -7569,7 +7570,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19770] = {--Pattern: Primal Batskin Gloves
+	[19770] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24122,--
 		["itemName"] = "Pattern: Primal Batskin Gloves",
@@ -7580,7 +7581,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19771] = {--Pattern: Primal Batskin Bracers
+	[19771] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24123,--
 		["itemName"] = "Pattern: Primal Batskin Bracers",
@@ -7591,7 +7592,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19772] = {--Pattern: Blood Tiger Breastplate
+	[19772] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24124,--
 		["itemName"] = "Pattern: Blood Tiger Breastplate",
@@ -7602,7 +7603,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19773] = {--Pattern: Blood Tiger Shoulders
+	[19773] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24125,--
 		["itemName"] = "Pattern: Blood Tiger Shoulders",
@@ -7613,7 +7614,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[19776] = {--Plans: Bloodsoul Breastplate
+	[19776] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24136,--
 		["itemName"] = "Plans: Bloodsoul Breastplate",
@@ -7624,7 +7625,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19777] = {--Plans: Bloodsoul Shoulders
+	[19777] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24137,--
 		["itemName"] = "Plans: Bloodsoul Shoulders",
@@ -7635,7 +7636,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19778] = {--Plans: Bloodsoul Gauntlets
+	[19778] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24138,--
 		["itemName"] = "Plans: Bloodsoul Gauntlets",
@@ -7646,7 +7647,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19779] = {--Plans: Darksoul Breastplate
+	[19779] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24139,--
 		["itemName"] = "Plans: Darksoul Breastplate",
@@ -7657,7 +7658,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19780] = {--Plans: Darksoul Leggings
+	[19780] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24140,--
 		["itemName"] = "Plans: Darksoul Leggings",
@@ -7668,7 +7669,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19781] = {--Plans: Darksoul Shoulders
+	[19781] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24141,--
 		["itemName"] = "Plans: Darksoul Shoulders",
@@ -7679,7 +7680,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[19872] = {--Swift Razzashi Raptor     (Zul'Gurub)
+	[19872] = {--Zul'Gurub
 		["type"] = "MOUNT",
 		["teachesSpell"] = 24242,--Swift Razzashi Raptor
 		["itemName"] = "Swift Razzashi Raptor",
@@ -7690,7 +7691,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[19902] = {--Swift Zulian Tiger     (Zul'Gurub)
+	[19902] = {--Zul'Gurub
 		["type"] = "MOUNT",
 		["teachesSpell"] = 24252,--Swift Zulian Tiger
 		["itemName"] = "Swift Zulian Tiger",
@@ -7701,7 +7702,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[20000] = {--Schematic: Bloodvine Goggles
+	[20000] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24356,--
 		["itemName"] = "Schematic: Bloodvine Goggles",
@@ -7712,7 +7713,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[20001] = {--Schematic: Bloodvine Lens
+	[20001] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24357,--
 		["itemName"] = "Schematic: Bloodvine Lens",
@@ -7723,7 +7724,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[20011] = {--Recipe: Mageblood Elixir
+	[20011] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24365,--
 		["itemName"] = "Recipe: Mageblood Elixir",
@@ -7734,7 +7735,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[20012] = {--Recipe: Greater Dreamless Sleep Potion
+	[20012] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24366,--
 		["itemName"] = "Recipe: Greater Dreamless Sleep Potion",
@@ -7745,7 +7746,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 275,
 		},
-	[20013] = {--Recipe: Living Action Potion
+	[20013] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24367,--
 		["itemName"] = "Recipe: Living Action Potion",
@@ -7756,7 +7757,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 285,
 		},
-	[20014] = {--Recipe: Major Troll's Blood Elixir
+	[20014] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24368,--
 		["itemName"] = "Recipe: Major Troll's Blood Elixir",
@@ -7767,7 +7768,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 290,
 		},
-	[20040] = {--Plans: Dark Iron Boots
+	[20040] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24399,--
 		["itemName"] = "Plans: Dark Iron Boots",
@@ -7776,7 +7777,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[20075] = {--Recipe: Heavy Crocolisk Stew
+	[20075] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24418,--
 		["itemName"] = "Recipe: Heavy Crocolisk Stew",
@@ -7784,7 +7785,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 150,
 		},
-	[20253] = {--Pattern: Warbear Harness
+	[20253] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19068,--
 		["itemName"] = "Pattern: Warbear Harness",
@@ -7795,7 +7796,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[20254] = {--Pattern: Warbear Woolies
+	[20254] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19080,--
 		["itemName"] = "Pattern: Warbear Woolies",
@@ -7806,7 +7807,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[20371] = {--Blue Murloc Egg
+	[20371] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 24696,--Murky
 		["itemName"] = "Blue Murloc Egg",
@@ -7814,7 +7815,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[20382] = {--Pattern: Dreamscale Breastplate
+	[20382] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24703,--
 		["itemName"] = "Pattern: Dreamscale Breastplate",
@@ -7825,7 +7826,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20506] = {--Pattern: Spitfire Bracers
+	[20506] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24846,--
 		["itemName"] = "Pattern: Spitfire Bracers",
@@ -7836,7 +7837,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20507] = {--Pattern: Spitfire Gauntlets
+	[20507] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24847,--
 		["itemName"] = "Pattern: Spitfire Gauntlets",
@@ -7847,7 +7848,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20508] = {--Pattern: Spitfire Breastplate
+	[20508] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24848,--
 		["itemName"] = "Pattern: Spitfire Breastplate",
@@ -7858,7 +7859,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20509] = {--Pattern: Sandstalker Bracers
+	[20509] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24849,--
 		["itemName"] = "Pattern: Sandstalker Bracers",
@@ -7869,7 +7870,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20510] = {--Pattern: Sandstalker Gauntlets
+	[20510] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24850,--
 		["itemName"] = "Pattern: Sandstalker Gauntlets",
@@ -7880,7 +7881,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20511] = {--Pattern: Sandstalker Breastplate
+	[20511] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24851,--
 		["itemName"] = "Pattern: Sandstalker Breastplate",
@@ -7891,7 +7892,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[20546] = {--Pattern: Runed Stygian Leggings
+	[20546] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24901,--
 		["itemName"] = "Pattern: Runed Stygian Leggings",
@@ -7899,7 +7900,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[20547] = {--Pattern: Runed Stygian Boots
+	[20547] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24903,--
 		["itemName"] = "Pattern: Runed Stygian Boots",
@@ -7907,7 +7908,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[20548] = {--Pattern: Runed Stygian Belt
+	[20548] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24902,--
 		["itemName"] = "Pattern: Runed Stygian Belt",
@@ -7915,7 +7916,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[20553] = {--Plans: Darkrune Gauntlets
+	[20553] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24912,--
 		["itemName"] = "Plans: Darkrune Gauntlets",
@@ -7923,7 +7924,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[20554] = {--Plans: Darkrune Breastplate
+	[20554] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24914,--
 		["itemName"] = "Plans: Darkrune Breastplate",
@@ -7931,7 +7932,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[20555] = {--Plans: Darkrune Helm
+	[20555] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24913,--
 		["itemName"] = "Plans: Darkrune Helm",
@@ -7939,7 +7940,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[20576] = {--Pattern: Black Whelp Tunic
+	[20576] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 24940,--
 		["itemName"] = "Pattern: Black Whelp Tunic",
@@ -7947,7 +7948,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 100,
 		},
-	[20726] = {--Formula: Enchant Gloves - Threat
+	[20726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25072,--
 		["itemName"] = "Formula: Enchant Gloves - Threat",
@@ -7956,7 +7957,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20727] = {--Formula: Enchant Gloves - Shadow Power
+	[20727] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25073,--
 		["itemName"] = "Formula: Enchant Gloves - Shadow Power",
@@ -7965,7 +7966,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20728] = {--Formula: Enchant Gloves - Frost Power
+	[20728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25074,--
 		["itemName"] = "Formula: Enchant Gloves - Frost Power",
@@ -7974,7 +7975,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20729] = {--Formula: Enchant Gloves - Fire Power
+	[20729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25078,--
 		["itemName"] = "Formula: Enchant Gloves - Fire Power",
@@ -7983,7 +7984,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20730] = {--Formula: Enchant Gloves - Healing Power
+	[20730] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25079,--
 		["itemName"] = "Formula: Enchant Gloves - Healing Power",
@@ -7992,7 +7993,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20731] = {--Formula: Enchant Gloves - Superior Agility
+	[20731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25080,--
 		["itemName"] = "Formula: Enchant Gloves - Superior Agility",
@@ -8001,7 +8002,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20732] = {--Formula: Enchant Cloak - Greater Fire Resistance
+	[20732] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25081,--
 		["itemName"] = "Formula: Enchant Cloak - Greater Fire Resistance",
@@ -8012,7 +8013,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20733] = {--Formula: Enchant Cloak - Greater Nature Resistance
+	[20733] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25082,--
 		["itemName"] = "Formula: Enchant Cloak - Greater Nature Resistance",
@@ -8023,7 +8024,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20734] = {--Formula: Enchant Cloak - Stealth
+	[20734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25083,--
 		["itemName"] = "Formula: Enchant Cloak - Stealth",
@@ -8032,7 +8033,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20735] = {--Formula: Enchant Cloak - Subtlety
+	[20735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25084,--
 		["itemName"] = "Formula: Enchant Cloak - Subtlety",
@@ -8041,7 +8042,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20736] = {--Formula: Enchant Cloak - Dodge
+	[20736] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25086,--
 		["itemName"] = "Formula: Enchant Cloak - Dodge",
@@ -8050,7 +8051,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20752] = {--Formula: Minor Mana Oil
+	[20752] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25125,--
 		["itemName"] = "Formula: Minor Mana Oil",
@@ -8058,7 +8059,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 150,
 		},
-	[20753] = {--Formula: Lesser Wizard Oil
+	[20753] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25126,--
 		["itemName"] = "Formula: Lesser Wizard Oil",
@@ -8066,7 +8067,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 200,
 		},
-	[20754] = {--Formula: Lesser Mana Oil
+	[20754] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25127,--
 		["itemName"] = "Formula: Lesser Mana Oil",
@@ -8074,7 +8075,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 250,
 		},
-	[20755] = {--Formula: Wizard Oil
+	[20755] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25128,--
 		["itemName"] = "Formula: Wizard Oil",
@@ -8082,7 +8083,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 275,
 		},
-	[20756] = {--Formula: Brilliant Wizard Oil
+	[20756] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25129,--
 		["itemName"] = "Formula: Brilliant Wizard Oil",
@@ -8093,7 +8094,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20757] = {--Formula: Brilliant Mana Oil
+	[20757] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25130,--
 		["itemName"] = "Formula: Brilliant Mana Oil",
@@ -8104,7 +8105,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[20758] = {--Formula: Minor Wizard Oil
+	[20758] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25124,--
 		["itemName"] = "Formula: Minor Wizard Oil",
@@ -8112,7 +8113,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 45,
 		},
-	[20761] = {--Recipe: Transmute Elemental Fire
+	[20761] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25146,--
 		["itemName"] = "Recipe: Transmute Elemental Fire",
@@ -8123,14 +8124,14 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[20769] = {--Disgusting Oozeling
+	[20769] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 25162,--Disgusting Oozeling
 		["itemName"] = "Disgusting Oozeling",
 		["quality"] = 1,
 		["unique"] = 1,
 		},
-	[20854] = {--Design: Amulet of the Moon
+	[20854] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25339,--
 		["itemName"] = "Design: Amulet of the Moon",
@@ -8138,7 +8139,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 110,
 		},
-	[20855] = {--Design: Wicked Moonstone Ring
+	[20855] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25323,--
 		["itemName"] = "Design: Wicked Moonstone Ring",
@@ -8146,7 +8147,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 125,
 		},
-	[20856] = {--Design: Heavy Golden Necklace of Battle
+	[20856] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25320,--
 		["itemName"] = "Design: Heavy Golden Necklace of Battle",
@@ -8154,7 +8155,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 150,
 		},
-	[20970] = {--Design: Pendant of the Agate Shield
+	[20970] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25610,--
 		["itemName"] = "Design: Pendant of the Agate Shield",
@@ -8162,7 +8163,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 120,
 		},
-	[20971] = {--Design: Heavy Iron Knuckles
+	[20971] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25612,--
 		["itemName"] = "Design: Heavy Iron Knuckles",
@@ -8170,7 +8171,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 125,
 		},
-	[20973] = {--Design: Blazing Citrine Ring
+	[20973] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25617,--
 		["itemName"] = "Design: Blazing Citrine Ring",
@@ -8178,7 +8179,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 150,
 		},
-	[20974] = {--Design: Jade Pendant of Blasting
+	[20974] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25618,--
 		["itemName"] = "Design: Jade Pendant of Blasting",
@@ -8186,7 +8187,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 160,
 		},
-	[20975] = {--Design: The Jade Eye
+	[20975] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25619,--
 		["itemName"] = "Design: The Jade Eye",
@@ -8194,7 +8195,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 170,
 		},
-	[20976] = {--Design: Citrine Pendant of Golden Healing
+	[20976] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25622,--
 		["itemName"] = "Design: Citrine Pendant of Golden Healing",
@@ -8203,7 +8204,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 190,
 		},
-	[21025] = {--Recipe: Dirge's Kickin' Chimaerok Chops
+	[21025] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25659,--
 		["itemName"] = "Recipe: Dirge's Kickin' Chimaerok Chops",
@@ -8212,7 +8213,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[21099] = {--Recipe: Smoked Sagefish
+	[21099] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25704,--
 		["itemName"] = "Recipe: Smoked Sagefish",
@@ -8220,7 +8221,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 80,
 		},
-	[21176] = {--Black Qiraji Resonating Crystal     (AQ40 opening quest)
+	[21176] = {--AQ40 opening quest
 		["type"] = "MOUNT",
 		["teachesSpell"] = 26656,--Black Qiraji Battle Tank
 		["itemName"] = "Black Qiraji Resonating Crystal",
@@ -8231,7 +8232,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[21214] = {--Tome of Frostbolt XI
+	[21214] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25304,--Frostbolt (Rank 11)
 		["itemName"] = "Tome of Frostbolt XI",
@@ -8239,7 +8240,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[21218] = {--Blue Qiraji Resonating Crystal
+	[21218] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 25953,--Blue Qiraji Battle Tank
 		["itemName"] = "Blue Qiraji Resonating Crystal",
@@ -8250,7 +8251,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
 		},
-	[21219] = {--Recipe: Sagefish Delight
+	[21219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25954,--
 		["itemName"] = "Recipe: Sagefish Delight",
@@ -8258,13 +8259,13 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[21277] = {--Tranquil Mechanical Yeti
+	[21277] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 26010,--Tranquil Mechanical Yeti
 		["itemName"] = "Tranquil Mechanical Yeti",
 		["quality"] = 1,
 		},
-	[21279] = {--Tome of Fireball XII
+	[21279] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25306,--Fireball (Rank 12)
 		["itemName"] = "Tome of Fireball XII",
@@ -8272,7 +8273,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[21280] = {--Tome of Arcane Missiles VIII
+	[21280] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25345,--Arcane Missiles (Rank 8)
 		["itemName"] = "Tome of Arcane Missiles VIII",
@@ -8280,7 +8281,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[21281] = {--Grimoire of Shadow Bolt X
+	[21281] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25307,--Shadow Bolt (Rank 10)
 		["itemName"] = "Grimoire of Shadow Bolt X",
@@ -8288,7 +8289,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		},
-	[21282] = {--Grimoire of Immolate VIII
+	[21282] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25309,--Immolate (Rank 8)
 		["itemName"] = "Grimoire of Immolate VIII",
@@ -8296,7 +8297,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		},
-	[21283] = {--Grimoire of Corruption VII
+	[21283] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25311,--Corruption (Rank 7)
 		["itemName"] = "Grimoire of Corruption VII",
@@ -8304,7 +8305,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		},
-	[21284] = {--Codex of Greater Heal V
+	[21284] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25314,--Greater Heal (Rank 5)
 		["itemName"] = "Codex of Greater Heal V",
@@ -8312,7 +8313,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 60,
 		},
-	[21285] = {--Codex of Renew X
+	[21285] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25315,--Renew (Rank 10)
 		["itemName"] = "Codex of Renew X",
@@ -8320,7 +8321,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 60,
 		},
-	[21287] = {--Codex of Prayer of Healing V
+	[21287] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25316,--Prayer of Healing (Rank 5)
 		["itemName"] = "Codex of Prayer of Healing V",
@@ -8328,7 +8329,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 60,
 		},
-	[21288] = {--Libram: Blessing of Wisdom VI
+	[21288] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25290,--Blessing of Wisdom (Rank 6)
 		["itemName"] = "Libram: Blessing of Wisdom VI",
@@ -8336,7 +8337,7 @@ LibTextbookDB = {
 		["reqClasses"] = 4,
 		["reqLevel"] = 60,
 		},
-	[21289] = {--Libram: Blessing of Might VII
+	[21289] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25291,--Blessing of Might (Rank 7)
 		["itemName"] = "Libram: Blessing of Might VII",
@@ -8344,7 +8345,7 @@ LibTextbookDB = {
 		["reqClasses"] = 4,
 		["reqLevel"] = 60,
 		},
-	[21290] = {--Libram: Holy Light IX
+	[21290] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25292,--Holy Light (Rank 9)
 		["itemName"] = "Libram: Holy Light IX",
@@ -8352,7 +8353,7 @@ LibTextbookDB = {
 		["reqClasses"] = 4,
 		["reqLevel"] = 60,
 		},
-	[21291] = {--Tablet of Healing Wave X
+	[21291] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25357,--Healing Wave (Rank 10)
 		["itemName"] = "Tablet of Healing Wave X",
@@ -8360,7 +8361,7 @@ LibTextbookDB = {
 		["reqClasses"] = 128,
 		["reqLevel"] = 60,
 		},
-	[21292] = {--Tablet of Strength of Earth Totem V
+	[21292] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25361,--Strength of Earth Totem (Rank 5)
 		["itemName"] = "Tablet of Strength of Earth Totem V",
@@ -8368,7 +8369,7 @@ LibTextbookDB = {
 		["reqClasses"] = 128,
 		["reqLevel"] = 60,
 		},
-	[21293] = {--Tablet of Grace of Air Totem III
+	[21293] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25359,--Grace of Air Totem (Rank 3)
 		["itemName"] = "Tablet of Grace of Air Totem III",
@@ -8376,7 +8377,7 @@ LibTextbookDB = {
 		["reqClasses"] = 128,
 		["reqLevel"] = 60,
 		},
-	[21294] = {--Book of Healing Touch XI
+	[21294] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25297,--Healing Touch (Rank 11)
 		["itemName"] = "Book of Healing Touch XI",
@@ -8384,7 +8385,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 60,
 		},
-	[21295] = {--Book of Starfire VII
+	[21295] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25298,--Starfire (Rank 7)
 		["itemName"] = "Book of Starfire VII",
@@ -8392,7 +8393,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 60,
 		},
-	[21296] = {--Book of Rejuvenation XI
+	[21296] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25299,--Rejuvenation (Rank 11)
 		["itemName"] = "Book of Rejuvenation XI",
@@ -8400,7 +8401,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 60,
 		},
-	[21297] = {--Manual of Heroic Strike IX
+	[21297] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25286,--Heroic Strike (Rank 9)
 		["itemName"] = "Manual of Heroic Strike IX",
@@ -8408,7 +8409,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2,
 		["reqLevel"] = 60,
 		},
-	[21298] = {--Manual of Battle Shout VII
+	[21298] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25289,--Battle Shout (Rank 7)
 		["itemName"] = "Manual of Battle Shout VII",
@@ -8416,7 +8417,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2,
 		["reqLevel"] = 60,
 		},
-	[21299] = {--Manual of Revenge VI
+	[21299] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25288,--Revenge (Rank 6)
 		["itemName"] = "Manual of Revenge VI",
@@ -8424,7 +8425,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2,
 		["reqLevel"] = 60,
 		},
-	[21300] = {--Handbook of Backstab IX
+	[21300] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25300,--HandBackstab (Rank 9)
 		["itemName"] = "Handbook of Backstab IX",
@@ -8432,14 +8433,14 @@ LibTextbookDB = {
 		["reqClasses"] = 16,
 		["reqLevel"] = 60,
 		},
-	[21301] = {--Green Helper Box
+	[21301] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 26533,--Father Winter's Helper
 		["itemName"] = "Green Helper Box",
 		["quality"] = 1,
 		["binding"] = 3,
 		},
-	[21302] = {--Handbook of Deadly Poison V
+	[21302] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25347,--HandDeadly Poison (Rank 5)
 		["itemName"] = "Handbook of Deadly Poison V",
@@ -8448,7 +8449,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["note"] = "removed",
 		},
-	[21303] = {--Handbook of Feint V
+	[21303] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25302,--HandFeint (Rank 5)
 		["itemName"] = "Handbook of Feint V",
@@ -8456,7 +8457,7 @@ LibTextbookDB = {
 		["reqClasses"] = 16,
 		["reqLevel"] = 60,
 		},
-	[21304] = {--Guide: Multi-Shot V
+	[21304] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25294,--Guide: Multi-Shot (Rank 5)
 		["itemName"] = "Guide: Multi-Shot V",
@@ -8464,14 +8465,14 @@ LibTextbookDB = {
 		["reqClasses"] = 8,
 		["reqLevel"] = 60,
 		},
-	[21305] = {--Red Helper Box
+	[21305] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 26541,--Winter's Little Helper
 		["itemName"] = "Red Helper Box",
 		["quality"] = 1,
 		["binding"] = 3,
 		},
-	[21306] = {--Guide: Serpent Sting IX
+	[21306] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25295,--Guide: Serpent Sting (Rank 9)
 		["itemName"] = "Guide: Serpent Sting IX",
@@ -8479,7 +8480,7 @@ LibTextbookDB = {
 		["reqClasses"] = 8,
 		["reqLevel"] = 60,
 		},
-	[21307] = {--Guide: Aspect of the Hawk VII
+	[21307] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25296,--Guide: Aspect of the Hawk (Rank 7)
 		["itemName"] = "Guide: Aspect of the Hawk VII",
@@ -8487,21 +8488,21 @@ LibTextbookDB = {
 		["reqClasses"] = 8,
 		["reqLevel"] = 60,
 		},
-	[21308] = {--Jingling Bell
+	[21308] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 26529,--Winter Reindeer
 		["itemName"] = "Jingling Bell",
 		["quality"] = 1,
 		["binding"] = 3,
 		},
-	[21309] = {--Snowman Kit
+	[21309] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 26045,--Tiny Snowman
 		["itemName"] = "Snowman Kit",
 		["quality"] = 1,
 		["binding"] = 3,
 		},
-	[21321] = {--Red Qiraji Resonating Crystal
+	[21321] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 26054,--Red Qiraji Battle Tank
 		["itemName"] = "Red Qiraji Resonating Crystal",
@@ -8512,7 +8513,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
 		},
-	[21323] = {--Green Qiraji Resonating Crystal
+	[21323] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 26056,--Green Qiraji Battle Tank
 		["itemName"] = "Green Qiraji Resonating Crystal",
@@ -8523,7 +8524,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
 		},
-	[21324] = {--Yellow Qiraji Resonating Crystal
+	[21324] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 26055,--Yellow Qiraji Battle Tank
 		["itemName"] = "Yellow Qiraji Resonating Crystal",
@@ -8534,7 +8535,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
 		},
-	[21358] = {--Pattern: Soul Pouch
+	[21358] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26085,--
 		["itemName"] = "Pattern: Soul Pouch",
@@ -8542,7 +8543,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 260,
 		},
-	[21371] = {--Pattern: Core Felcloth Bag
+	[21371] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26087,--
 		["itemName"] = "Pattern: Core Felcloth Bag",
@@ -8550,7 +8551,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[21547] = {--Recipe: Elixir of Greater Firepower
+	[21547] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26277,--
 		["itemName"] = "Recipe: Elixir of Greater Firepower",
@@ -8558,7 +8559,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 250,
 		},
-	[21548] = {--Pattern: Stormshroud Gloves
+	[21548] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26279,--
 		["itemName"] = "Pattern: Stormshroud Gloves",
@@ -8566,7 +8567,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[21722] = {--Pattern: Festival Dress
+	[21722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26403,--
 		["itemName"] = "Pattern: Festival Dress",
@@ -8574,7 +8575,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[21723] = {--Pattern: Festival Suit
+	[21723] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26407,--
 		["itemName"] = "Pattern: Festival Suit",
@@ -8582,7 +8583,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[21724] = {--Schematic: Small Blue Rocket
+	[21724] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26416,--
 		["itemName"] = "Schematic: Small Blue Rocket",
@@ -8591,7 +8592,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 125,
 		},
-	[21725] = {--Schematic: Small Green Rocket
+	[21725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26417,--
 		["itemName"] = "Schematic: Small Green Rocket",
@@ -8600,7 +8601,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 125,
 		},
-	[21726] = {--Schematic: Small Red Rocket
+	[21726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26418,--
 		["itemName"] = "Schematic: Small Red Rocket",
@@ -8609,7 +8610,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 125,
 		},
-	[21727] = {--Schematic: Large Blue Rocket
+	[21727] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26420,--
 		["itemName"] = "Schematic: Large Blue Rocket",
@@ -8618,7 +8619,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 175,
 		},
-	[21728] = {--Schematic: Large Green Rocket
+	[21728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26421,--
 		["itemName"] = "Schematic: Large Green Rocket",
@@ -8627,7 +8628,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 175,
 		},
-	[21729] = {--Schematic: Large Red Rocket
+	[21729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26422,--
 		["itemName"] = "Schematic: Large Red Rocket",
@@ -8636,7 +8637,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 175,
 		},
-	[21730] = {--Schematic: Blue Rocket Cluster
+	[21730] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26423,--
 		["itemName"] = "Schematic: Blue Rocket Cluster",
@@ -8645,7 +8646,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 225,
 		},
-	[21731] = {--Schematic: Green Rocket Cluster
+	[21731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26424,--
 		["itemName"] = "Schematic: Green Rocket Cluster",
@@ -8654,7 +8655,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 225,
 		},
-	[21732] = {--Schematic: Red Rocket Cluster
+	[21732] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26425,--
 		["itemName"] = "Schematic: Red Rocket Cluster",
@@ -8663,7 +8664,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 225,
 		},
-	[21733] = {--Schematic: Large Blue Rocket Cluster
+	[21733] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26426,--
 		["itemName"] = "Schematic: Large Blue Rocket Cluster",
@@ -8672,7 +8673,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[21734] = {--Schematic: Large Green Rocket Cluster
+	[21734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26427,--
 		["itemName"] = "Schematic: Large Green Rocket Cluster",
@@ -8681,7 +8682,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[21735] = {--Schematic: Large Red Rocket Cluster
+	[21735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26428,--
 		["itemName"] = "Schematic: Large Red Rocket Cluster",
@@ -8690,7 +8691,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[21736] = {--Nether Drake Reins
+	[21736] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 3363,--Nether Drake
 		["itemName"] = "Nether Drake Reins",
@@ -8699,23 +8700,25 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["note"] = "fake",
 		},
-	[21737] = {--Schematic: Cluster Launcher
+	[21737] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26443,--
 		["itemName"] = "Schematic: Cluster Launcher",
 		["quality"] = 2,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
+		["note"] = "removed",
 		},
-	[21738] = {--Schematic: Firework Launcher
+	[21738] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26442,--
 		["itemName"] = "Schematic: Firework Launcher",
 		["quality"] = 2,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 225,
+		["note"] = "removed",
 		},
-	[21892] = {--Pattern: Bolt of Imbued Netherweave
+	[21892] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26747,--
 		["itemName"] = "Pattern: Bolt of Imbued Netherweave",
@@ -8723,7 +8726,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 325,
 		},
-	[21893] = {--Pattern: Imbued Netherweave Bag
+	[21893] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26749,--
 		["itemName"] = "Pattern: Imbued Netherweave Bag",
@@ -8731,7 +8734,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 340,
 		},
-	[21894] = {--Pattern: Bolt of Soulcloth
+	[21894] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26750,--
 		["itemName"] = "Pattern: Bolt of Soulcloth",
@@ -8739,7 +8742,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 345,
 		},
-	[21895] = {--Pattern: Primal Mooncloth
+	[21895] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26751,--
 		["itemName"] = "Pattern: Primal Mooncloth",
@@ -8747,7 +8750,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[21896] = {--Pattern: Netherweave Robe
+	[21896] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26773,--
 		["itemName"] = "Pattern: Netherweave Robe",
@@ -8755,7 +8758,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 340,
 		},
-	[21897] = {--Pattern: Netherweave Tunic
+	[21897] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26774,--
 		["itemName"] = "Pattern: Netherweave Tunic",
@@ -8763,7 +8766,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 345,
 		},
-	[21898] = {--Pattern: Imbued Netherweave Pants
+	[21898] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26775,--
 		["itemName"] = "Pattern: Imbued Netherweave Pants",
@@ -8771,7 +8774,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 340,
 		},
-	[21899] = {--Pattern: Imbued Netherweave Boots
+	[21899] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26776,--
 		["itemName"] = "Pattern: Imbued Netherweave Boots",
@@ -8779,7 +8782,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[21900] = {--Pattern: Imbued Netherweave Robe
+	[21900] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26777,--
 		["itemName"] = "Pattern: Imbued Netherweave Robe",
@@ -8787,7 +8790,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 360,
 		},
-	[21901] = {--Pattern: Imbued Netherweave Tunic
+	[21901] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26778,--
 		["itemName"] = "Pattern: Imbued Netherweave Tunic",
@@ -8795,7 +8798,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 360,
 		},
-	[21902] = {--Pattern: Soulcloth Gloves
+	[21902] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26779,--
 		["itemName"] = "Pattern: Soulcloth Gloves",
@@ -8803,7 +8806,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 355,
 		},
-	[21903] = {--Pattern: Soulcloth Shoulders
+	[21903] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26780,--
 		["itemName"] = "Pattern: Soulcloth Shoulders",
@@ -8812,7 +8815,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[21904] = {--Pattern: Soulcloth Vest
+	[21904] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26781,--
 		["itemName"] = "Pattern: Soulcloth Vest",
@@ -8821,7 +8824,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21905] = {--Pattern: Arcanoweave Bracers
+	[21905] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26782,--
 		["itemName"] = "Pattern: Arcanoweave Bracers",
@@ -8830,7 +8833,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[21906] = {--Pattern: Arcanoweave Boots
+	[21906] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26783,--
 		["itemName"] = "Pattern: Arcanoweave Boots",
@@ -8839,7 +8842,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 360,
 		},
-	[21907] = {--Pattern: Arcanoweave Robe
+	[21907] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26784,--
 		["itemName"] = "Pattern: Arcanoweave Robe",
@@ -8848,7 +8851,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 370,
 		},
-	[21908] = {--Pattern: Spellfire Belt
+	[21908] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26752,--
 		["itemName"] = "Pattern: Spellfire Belt",
@@ -8858,7 +8861,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 355,
 		},
-	[21909] = {--Pattern: Spellfire Gloves
+	[21909] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26753,--
 		["itemName"] = "Pattern: Spellfire Gloves",
@@ -8868,7 +8871,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[21910] = {--Pattern: Spellfire Robe
+	[21910] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26754,--
 		["itemName"] = "Pattern: Spellfire Robe",
@@ -8878,7 +8881,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21911] = {--Pattern: Spellfire Bag
+	[21911] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26755,--
 		["itemName"] = "Pattern: Spellfire Bag",
@@ -8887,7 +8890,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21912] = {--Pattern: Frozen Shadoweave Shoulders
+	[21912] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26756,--
 		["itemName"] = "Pattern: Frozen Shadoweave Shoulders",
@@ -8897,7 +8900,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 355,
 		},
-	[21913] = {--Pattern: Frozen Shadoweave Robe
+	[21913] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26758,--
 		["itemName"] = "Pattern: Frozen Shadoweave Robe",
@@ -8907,7 +8910,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21914] = {--Pattern: Frozen Shadoweave Boots
+	[21914] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26757,--
 		["itemName"] = "Pattern: Frozen Shadoweave Boots",
@@ -8917,7 +8920,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[21915] = {--Pattern: Ebon Shadowbag
+	[21915] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26759,--
 		["itemName"] = "Pattern: Ebon Shadowbag",
@@ -8926,7 +8929,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21916] = {--Pattern: Primal Mooncloth Belt
+	[21916] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26760,--
 		["itemName"] = "Pattern: Primal Mooncloth Belt",
@@ -8936,7 +8939,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 355,
 		},
-	[21917] = {--Pattern: Primal Mooncloth Robe
+	[21917] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26762,--
 		["itemName"] = "Pattern: Primal Mooncloth Robe",
@@ -8946,7 +8949,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21918] = {--Pattern: Primal Mooncloth Shoulders
+	[21918] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26761,--
 		["itemName"] = "Pattern: Primal Mooncloth Shoulders",
@@ -8956,7 +8959,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[21919] = {--Pattern: Primal Mooncloth Bag
+	[21919] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26763,--
 		["itemName"] = "Pattern: Primal Mooncloth Bag",
@@ -8965,7 +8968,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[21940] = {--Design: Golden Hare
+	[21940] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26873,--
 		["itemName"] = "Design: Golden Hare",
@@ -8973,7 +8976,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 200,
 		},
-	[21941] = {--Design: Black Pearl Panther
+	[21941] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26875,--
 		["itemName"] = "Design: Black Pearl Panther",
@@ -8981,7 +8984,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 215,
 		},
-	[21942] = {--Design: Ruby Crown of Restoration
+	[21942] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26878,--
 		["itemName"] = "Design: Ruby Crown of Restoration",
@@ -8989,7 +8992,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 225,
 		},
-	[21943] = {--Design: Truesilver Crab
+	[21943] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26881,--
 		["itemName"] = "Design: Truesilver Crab",
@@ -8997,7 +9000,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 225,
 		},
-	[21944] = {--Design: Truesilver Boar
+	[21944] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26882,--
 		["itemName"] = "Design: Truesilver Boar",
@@ -9005,7 +9008,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 235,
 		},
-	[21945] = {--Design: The Aquamarine Ward
+	[21945] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26887,--
 		["itemName"] = "Design: The Aquamarine Ward",
@@ -9013,7 +9016,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 245,
 		},
-	[21947] = {--Design: Gem Studded Band
+	[21947] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26896,--
 		["itemName"] = "Design: Gem Studded Band",
@@ -9021,7 +9024,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 250,
 		},
-	[21948] = {--Design: Opal Necklace of Impact
+	[21948] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26897,--
 		["itemName"] = "Design: Opal Necklace of Impact",
@@ -9029,7 +9032,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 250,
 		},
-	[21949] = {--Design: Ruby Serpent
+	[21949] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26900,--
 		["itemName"] = "Design: Ruby Serpent",
@@ -9037,7 +9040,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 260,
 		},
-	[21952] = {--Design: Emerald Crown of Destruction
+	[21952] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26906,--
 		["itemName"] = "Design: Emerald Crown of Destruction",
@@ -9045,7 +9048,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 275,
 		},
-	[21953] = {--Design: Emerald Owl
+	[21953] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26909,--
 		["itemName"] = "Design: Emerald Owl",
@@ -9053,7 +9056,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 285,
 		},
-	[21954] = {--Design: Ring of Bitter Shadows
+	[21954] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26910,--
 		["itemName"] = "Design: Ring of Bitter Shadows",
@@ -9061,7 +9064,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 285,
 		},
-	[21955] = {--Design: Black Diamond Crab
+	[21955] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26912,--
 		["itemName"] = "Design: Black Diamond Crab",
@@ -9070,7 +9073,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 300,
 		},
-	[21956] = {--Design: Dark Iron Scorpid
+	[21956] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26914,--
 		["itemName"] = "Design: Dark Iron Scorpid",
@@ -9079,7 +9082,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 300,
 		},
-	[21957] = {--Design: Necklace of the Diamond Tower
+	[21957] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26915,--
 		["itemName"] = "Design: Necklace of the Diamond Tower",
@@ -9087,7 +9090,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 305,
 		},
-	[21992] = {--Manual: Netherweave Bandage
+	[21992] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27032,--
 		["itemName"] = "Manual: Netherweave Bandage",
@@ -9096,7 +9099,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 330,
 		["note"] = "removed",
 		},
-	[21993] = {--Manual: Heavy Netherweave Bandage
+	[21993] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27033,--
 		["itemName"] = "Manual: Heavy Netherweave Bandage",
@@ -9105,7 +9108,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 360,
 		["note"] = "removed",
 		},
-	[22012] = {--Master First Aid - Doctor in the House
+	[22012] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 27028,--Master First Aid
 		["itemName"] = "Master First Aid - Doctor in the House",
@@ -9114,7 +9117,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[22114] = {--Pink Murloc Egg
+	[22114] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 27241,--Gurky
 		["itemName"] = "Pink Murloc Egg",
@@ -9122,7 +9125,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[22146] = {--Book: Gift of the Wild III
+	[22146] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 26991,--Gift of the Wild (Rank 3)
 		["itemName"] = "Book: Gift of the Wild III",
@@ -9130,7 +9133,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 70,
 		},
-	[22153] = {--Tome of Arcane Brilliance 2
+	[22153] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27127,--Arcane Brilliance (Rank 2)
 		["itemName"] = "Tome of Arcane Brilliance 2",
@@ -9138,7 +9141,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 70,
 		},
-	[22179] = {--Grimoire of Firebolt (Rank 8)
+	[22179] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27267,--Firebolt (Rank 8)
 		["itemName"] = "Grimoire of Firebolt (Rank 8)",
@@ -9148,7 +9151,7 @@ LibTextbookDB = {
 		["reqLevel"] = 68,
 		["unique"] = 1,
 		},
-	[22180] = {--Grimoire of Blood Pact (Rank 6)
+	[22180] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27268,--Blood Pact (Rank 6)
 		["itemName"] = "Grimoire of Blood Pact (Rank 6)",
@@ -9158,7 +9161,7 @@ LibTextbookDB = {
 		["reqLevel"] = 62,
 		["unique"] = 1,
 		},
-	[22181] = {--Grimoire of Fire Shield (Rank 6)
+	[22181] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27269,--Fire Shield (Rank 6)
 		["itemName"] = "Grimoire of Fire Shield (Rank 6)",
@@ -9168,7 +9171,7 @@ LibTextbookDB = {
 		["reqLevel"] = 64,
 		["unique"] = 1,
 		},
-	[22182] = {--Grimoire of Torment (Rank 7)
+	[22182] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27270,--Torment (Rank 7)
 		["itemName"] = "Grimoire of Torment (Rank 7)",
@@ -9178,7 +9181,7 @@ LibTextbookDB = {
 		["reqLevel"] = 70,
 		["unique"] = 1,
 		},
-	[22183] = {--Grimoire of Suffering (Rank 5)
+	[22183] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27271,--Suffering (Rank 5)
 		["itemName"] = "Grimoire of Suffering (Rank 5)",
@@ -9188,7 +9191,7 @@ LibTextbookDB = {
 		["reqLevel"] = 63,
 		["unique"] = 1,
 		},
-	[22184] = {--Grimoire of Consume Shadows (Rank 7)
+	[22184] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27272,--Consume Shadows (Rank 7)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 7)",
@@ -9198,7 +9201,7 @@ LibTextbookDB = {
 		["reqLevel"] = 66,
 		["unique"] = 1,
 		},
-	[22185] = {--Grimoire of Sacrifice (Rank 7)
+	[22185] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27273,--Sacrifice (Rank 7)
 		["itemName"] = "Grimoire of Sacrifice (Rank 7)",
@@ -9208,7 +9211,7 @@ LibTextbookDB = {
 		["reqLevel"] = 64,
 		["unique"] = 1,
 		},
-	[22186] = {--Grimoire of Lash of Pain (Rank 7)
+	[22186] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27274,--Lash of Pain (Rank 7)
 		["itemName"] = "Grimoire of Lash of Pain (Rank 7)",
@@ -9218,7 +9221,7 @@ LibTextbookDB = {
 		["reqLevel"] = 68,
 		["unique"] = 1,
 		},
-	[22187] = {--Grimoire of Soothing Kiss (Rank 5)
+	[22187] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27275,--Soothing Kiss (Rank 5)
 		["itemName"] = "Grimoire of Soothing Kiss (Rank 5)",
@@ -9228,7 +9231,7 @@ LibTextbookDB = {
 		["reqLevel"] = 70,
 		["unique"] = 1,
 		},
-	[22188] = {--Grimoire of Devour Magic (Rank 5)
+	[22188] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27276,--Devour Magic (Rank 5)
 		["itemName"] = "Grimoire of Devour Magic (Rank 5)",
@@ -9238,7 +9241,7 @@ LibTextbookDB = {
 		["reqLevel"] = 62,
 		["unique"] = 1,
 		},
-	[22189] = {--Grimoire of Devour Magic (Rank 6)
+	[22189] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27277,--Devour Magic (Rank 6)
 		["itemName"] = "Grimoire of Devour Magic (Rank 6)",
@@ -9248,7 +9251,7 @@ LibTextbookDB = {
 		["reqLevel"] = 70,
 		["unique"] = 1,
 		},
-	[22190] = {--Grimoire of Tainted Blood (Rank 5)
+	[22190] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27280,--Tainted Blood (Rank 5)
 		["itemName"] = "Grimoire of Tainted Blood (Rank 5)",
@@ -9259,7 +9262,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[22209] = {--Plans: Heavy Obsidian Belt
+	[22209] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27585,--
 		["itemName"] = "Plans: Heavy Obsidian Belt",
@@ -9270,7 +9273,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22214] = {--Plans: Light Obsidian Belt
+	[22214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27588,--
 		["itemName"] = "Plans: Light Obsidian Belt",
@@ -9281,7 +9284,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22219] = {--Plans: Jagged Obsidian Shield
+	[22219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27586,--
 		["itemName"] = "Plans: Jagged Obsidian Shield",
@@ -9292,7 +9295,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22220] = {--Plans: Black Grasp of the Destroyer
+	[22220] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27589,--
 		["itemName"] = "Plans: Black Grasp of the Destroyer",
@@ -9300,7 +9303,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22221] = {--Plans: Obsidian Mail Tunic
+	[22221] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27590,--
 		["itemName"] = "Plans: Obsidian Mail Tunic",
@@ -9311,7 +9314,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22222] = {--Plans: Thick Obsidian Breastplate
+	[22222] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27587,--
 		["itemName"] = "Plans: Thick Obsidian Breastplate",
@@ -9319,14 +9322,14 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22235] = {--Truesilver Shafted Arrow
+	[22235] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 27570,--Peddlefeet
 		["itemName"] = "Truesilver Shafted Arrow",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[22307] = {--Pattern: Enchanted Mageweave Pouch
+	[22307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27658,--
 		["itemName"] = "Pattern: Enchanted Mageweave Pouch",
@@ -9334,7 +9337,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 225,
 		},
-	[22308] = {--Pattern: Enchanted Runecloth Bag
+	[22308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27659,--
 		["itemName"] = "Pattern: Enchanted Runecloth Bag",
@@ -9342,7 +9345,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 275,
 		},
-	[22309] = {--Pattern: Big Bag of Enchantment
+	[22309] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27660,--
 		["itemName"] = "Pattern: Big Bag of Enchantment",
@@ -9350,7 +9353,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22310] = {--Pattern: Cenarion Herb Bag
+	[22310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27724,--
 		["itemName"] = "Pattern: Cenarion Herb Bag",
@@ -9361,7 +9364,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 275,
 		},
-	[22312] = {--Pattern: Satchel of Cenarius
+	[22312] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27725,--
 		["itemName"] = "Pattern: Satchel of Cenarius",
@@ -9372,7 +9375,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22388] = {--Plans: Titanic Leggings
+	[22388] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27829,--
 		["itemName"] = "Plans: Titanic Leggings",
@@ -9380,7 +9383,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22389] = {--Plans: Sageblade
+	[22389] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27832,--
 		["itemName"] = "Plans: Sageblade",
@@ -9388,7 +9391,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22390] = {--Plans: Persuader
+	[22390] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27830,--
 		["itemName"] = "Plans: Persuader",
@@ -9396,7 +9399,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22392] = {--Formula: Enchant 2H Weapon - Agility
+	[22392] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27837,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Agility",
@@ -9407,7 +9410,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 290,
 		},
-	[22393] = {--Codex: Prayer of Shadow Protection
+	[22393] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27683,--Prayer of Shadow Protection (Rank 1)
 		["itemName"] = "Codex: Prayer of Shadow Protection",
@@ -9415,7 +9418,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 60,
 		},
-	[22530] = {--Formula: Enchant Bracer - Major Defense
+	[22530] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27906,--
 		["itemName"] = "Formula: Enchant Bracer - Major Defense",
@@ -9424,7 +9427,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 320,
 		},
-	[22531] = {--Formula: Enchant Bracer - Superior Healing
+	[22531] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27911,--
 		["itemName"] = "Formula: Enchant Bracer - Superior Healing",
@@ -9435,7 +9438,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 325,
 		},
-	[22532] = {--Formula: Enchant Bracer - Restore Mana Prime
+	[22532] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27913,--
 		["itemName"] = "Formula: Enchant Bracer - Restore Mana Prime",
@@ -9443,7 +9446,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 335,
 		},
-	[22533] = {--Formula: Enchant Bracer - Fortitude
+	[22533] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27914,--
 		["itemName"] = "Formula: Enchant Bracer - Fortitude",
@@ -9452,7 +9455,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[22534] = {--Formula: Enchant Bracer - Spellpower
+	[22534] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27917,--
 		["itemName"] = "Formula: Enchant Bracer - Spellpower",
@@ -9461,7 +9464,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22535] = {--Formula: Enchant Ring - Striking
+	[22535] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27920,--
 		["itemName"] = "Formula: Enchant Ring - Striking",
@@ -9472,7 +9475,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22536] = {--Formula: Enchant Ring - Spellpower
+	[22536] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27924,--
 		["itemName"] = "Formula: Enchant Ring - Spellpower",
@@ -9483,7 +9486,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22537] = {--Formula: Enchant Ring - Healing Power
+	[22537] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27926,--
 		["itemName"] = "Formula: Enchant Ring - Healing Power",
@@ -9494,7 +9497,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 370,
 		},
-	[22538] = {--Formula: Enchant Ring - Stats
+	[22538] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27927,--
 		["itemName"] = "Formula: Enchant Ring - Stats",
@@ -9505,7 +9508,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[22539] = {--Formula: Enchant Shield - Intellect
+	[22539] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27945,--
 		["itemName"] = "Formula: Enchant Shield - Intellect",
@@ -9513,7 +9516,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 325,
 		},
-	[22540] = {--Formula: Enchant Shield - Shield Block
+	[22540] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27946,--
 		["itemName"] = "Formula: Enchant Shield - Shield Block",
@@ -9521,7 +9524,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 340,
 		},
-	[22541] = {--Formula: Enchant Shield - Resistance
+	[22541] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27947,--
 		["itemName"] = "Formula: Enchant Shield - Resistance",
@@ -9529,7 +9532,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22542] = {--Formula: Enchant Boots - Vitality
+	[22542] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27948,--
 		["itemName"] = "Formula: Enchant Boots - Vitality",
@@ -9537,7 +9540,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 305,
 		},
-	[22543] = {--Formula: Enchant Boots - Fortitude
+	[22543] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27950,--
 		["itemName"] = "Formula: Enchant Boots - Fortitude",
@@ -9546,7 +9549,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 320,
 		},
-	[22544] = {--Formula: Enchant Boots - Dexterity
+	[22544] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27951,--
 		["itemName"] = "Formula: Enchant Boots - Dexterity",
@@ -9555,7 +9558,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 340,
 		},
-	[22545] = {--Formula: Enchant Boots - Surefooted
+	[22545] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27954,--
 		["itemName"] = "Formula: Enchant Boots - Surefooted",
@@ -9564,7 +9567,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 370,
 		},
-	[22547] = {--Formula: Enchant Chest - Exceptional Stats
+	[22547] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27960,--
 		["itemName"] = "Formula: Enchant Chest - Exceptional Stats",
@@ -9575,7 +9578,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 345,
 		},
-	[22548] = {--Formula: Enchant Cloak - Major Resistance
+	[22548] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27962,--
 		["itemName"] = "Formula: Enchant Cloak - Major Resistance",
@@ -9583,7 +9586,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 330,
 		},
-	[22551] = {--Formula: Enchant Weapon - Major Intellect
+	[22551] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27968,--
 		["itemName"] = "Formula: Enchant Weapon - Major Intellect",
@@ -9592,7 +9595,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 340,
 		},
-	[22552] = {--Formula: Enchant Weapon - Major Striking
+	[22552] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27967,--
 		["itemName"] = "Formula: Enchant Weapon - Major Striking",
@@ -9603,7 +9606,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 340,
 		},
-	[22553] = {--Formula: Enchant Weapon - Potency
+	[22553] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27972,--
 		["itemName"] = "Formula: Enchant Weapon - Potency",
@@ -9611,7 +9614,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[22554] = {--Formula: Enchant 2H Weapon - Savagery
+	[22554] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27971,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Savagery",
@@ -9620,7 +9623,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[22555] = {--Formula: Enchant Weapon - Major Spellpower
+	[22555] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27975,--
 		["itemName"] = "Formula: Enchant Weapon - Major Spellpower",
@@ -9629,7 +9632,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[22556] = {--Formula: Enchant 2H Weapon - Major Agility
+	[22556] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27977,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Major Agility",
@@ -9638,7 +9641,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22557] = {--Formula: Enchant Weapon - Battlemaster
+	[22557] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28004,--
 		["itemName"] = "Formula: Enchant Weapon - Battlemaster",
@@ -9646,7 +9649,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22558] = {--Formula: Enchant Weapon - Spellsurge
+	[22558] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28003,--
 		["itemName"] = "Formula: Enchant Weapon - Spellsurge",
@@ -9654,7 +9657,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[22559] = {--Formula: Enchant Weapon - Mongoose
+	[22559] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27984,--
 		["itemName"] = "Formula: Enchant Weapon - Mongoose",
@@ -9663,7 +9666,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[22560] = {--Formula: Enchant Weapon - Sunfire
+	[22560] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27981,--
 		["itemName"] = "Formula: Enchant Weapon - Sunfire",
@@ -9672,7 +9675,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[22561] = {--Formula: Enchant Weapon - Soulfrost
+	[22561] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27982,--
 		["itemName"] = "Formula: Enchant Weapon - Soulfrost",
@@ -9681,7 +9684,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[22562] = {--Formula: Superior Mana Oil
+	[22562] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28016,--
 		["itemName"] = "Formula: Superior Mana Oil",
@@ -9689,7 +9692,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 310,
 		},
-	[22563] = {--Formula: Superior Wizard Oil
+	[22563] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28019,--
 		["itemName"] = "Formula: Superior Wizard Oil",
@@ -9697,7 +9700,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 340,
 		},
-	[22564] = {--Formula: Arcane Dust
+	[22564] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28021,--
 		["itemName"] = "Formula: Arcane Dust",
@@ -9706,7 +9709,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 325,
 		["note"] = "fake",
 		},
-	[22565] = {--Formula: Large Prismatic Shard
+	[22565] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28022,--
 		["itemName"] = "Formula: Large Prismatic Shard",
@@ -9714,7 +9717,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 335,
 		},
-	[22647] = {--Recipe: Crunchy Spider Surprise
+	[22647] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28267,--
 		["itemName"] = "Recipe: Crunchy Spider Surprise",
@@ -9722,7 +9725,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 60,
 		},
-	[22683] = {--Pattern: Gaea's Embrace
+	[22683] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28210,--
 		["itemName"] = "Pattern: Gaea's Embrace",
@@ -9733,7 +9736,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22729] = {--Schematic: Steam Tonk Controller
+	[22729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28327,--
 		["itemName"] = "Schematic: Steam Tonk Controller",
@@ -9742,7 +9745,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[22739] = {--Tome of Polymorph: Turtle
+	[22739] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 28271,--Polymorph (Turtle)
 		["itemName"] = "Tome of Polymorph: Turtle",
@@ -9750,7 +9753,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[22766] = {--Plans: Ironvine Breastplate
+	[22766] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28461,--
 		["itemName"] = "Plans: Ironvine Breastplate",
@@ -9761,7 +9764,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22767] = {--Plans: Ironvine Gloves
+	[22767] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28462,--
 		["itemName"] = "Plans: Ironvine Gloves",
@@ -9772,7 +9775,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22768] = {--Plans: Ironvine Belt
+	[22768] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28463,--
 		["itemName"] = "Plans: Ironvine Belt",
@@ -9783,7 +9786,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22769] = {--Pattern: Bramblewood Belt
+	[22769] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28474,--
 		["itemName"] = "Pattern: Bramblewood Belt",
@@ -9794,7 +9797,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[22770] = {--Pattern: Bramblewood Boots
+	[22770] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28473,--
 		["itemName"] = "Pattern: Bramblewood Boots",
@@ -9805,7 +9808,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[22771] = {--Pattern: Bramblewood Helm
+	[22771] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28472,--
 		["itemName"] = "Pattern: Bramblewood Helm",
@@ -9816,7 +9819,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[22772] = {--Pattern: Sylvan Shoulders
+	[22772] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28482,--
 		["itemName"] = "Pattern: Sylvan Shoulders",
@@ -9827,7 +9830,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22773] = {--Pattern: Sylvan Crown
+	[22773] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28481,--
 		["itemName"] = "Pattern: Sylvan Crown",
@@ -9838,7 +9841,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22774] = {--Pattern: Sylvan Vest
+	[22774] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28480,--
 		["itemName"] = "Pattern: Sylvan Vest",
@@ -9849,7 +9852,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22781] = {--Polar Bear Collar
+	[22781] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 28505,--Poley
 		["itemName"] = "Polar Bear Collar",
@@ -9857,7 +9860,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[22890] = {--Tome of Frost Ward V
+	[22890] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 28609,--Frost Ward (Rank 5)
 		["itemName"] = "Tome of Frost Ward V",
@@ -9865,7 +9868,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[22891] = {--Grimoire of Shadow Ward IV
+	[22891] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 28610,--Shadow Ward (Rank 4)
 		["itemName"] = "Grimoire of Shadow Ward IV",
@@ -9873,7 +9876,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		},
-	[22897] = {--Tome of Conjure Food VII
+	[22897] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 28612,--Conjure Food (Rank 7)
 		["itemName"] = "Tome of Conjure Food VII",
@@ -9881,7 +9884,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[22900] = {--Recipe: Elixir of Camouflage
+	[22900] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28543,--
 		["itemName"] = "Recipe: Elixir of Camouflage",
@@ -9889,7 +9892,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 305,
 		},
-	[22901] = {--Recipe: Sneaking Potion
+	[22901] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28546,--
 		["itemName"] = "Recipe: Sneaking Potion",
@@ -9897,7 +9900,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 315,
 		},
-	[22902] = {--Recipe: Elixir of Major Frost Power
+	[22902] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28549,--
 		["itemName"] = "Recipe: Elixir of Major Frost Power",
@@ -9905,7 +9908,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 320,
 		},
-	[22903] = {--Recipe: Insane Strength Potion
+	[22903] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28550,--
 		["itemName"] = "Recipe: Insane Strength Potion",
@@ -9913,7 +9916,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 320,
 		},
-	[22904] = {--Recipe: Elixir of the Searching Eye
+	[22904] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28552,--
 		["itemName"] = "Recipe: Elixir of the Searching Eye",
@@ -9921,7 +9924,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 325,
 		},
-	[22905] = {--Recipe: Elixir of Major Agility
+	[22905] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28553,--
 		["itemName"] = "Recipe: Elixir of Major Agility",
@@ -9932,7 +9935,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 330,
 		},
-	[22906] = {--Recipe: Shrouding Potion
+	[22906] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28554,--
 		["itemName"] = "Recipe: Shrouding Potion",
@@ -9943,7 +9946,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 335,
 		},
-	[22907] = {--Recipe: Super Mana Potion
+	[22907] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28555,--
 		["itemName"] = "Recipe: Super Mana Potion",
@@ -9951,7 +9954,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 340,
 		},
-	[22908] = {--Recipe: Elixir of Major Firepower
+	[22908] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28556,--
 		["itemName"] = "Recipe: Elixir of Major Firepower",
@@ -9962,7 +9965,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 345,
 		},
-	[22909] = {--Recipe: Elixir of Major Defense
+	[22909] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28557,--
 		["itemName"] = "Recipe: Elixir of Major Defense",
@@ -9970,7 +9973,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 345,
 		},
-	[22910] = {--Recipe: Elixir of Major Shadow Power
+	[22910] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28558,--
 		["itemName"] = "Recipe: Elixir of Major Shadow Power",
@@ -9981,7 +9984,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22911] = {--Recipe: Major Dreamless Sleep Potion
+	[22911] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28562,--
 		["itemName"] = "Recipe: Major Dreamless Sleep Potion",
@@ -9989,7 +9992,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22912] = {--Recipe: Heroic Potion
+	[22912] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28563,--
 		["itemName"] = "Recipe: Heroic Potion",
@@ -9997,7 +10000,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22913] = {--Recipe: Haste Potion
+	[22913] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28564,--
 		["itemName"] = "Recipe: Haste Potion",
@@ -10005,7 +10008,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22914] = {--Recipe: Destruction Potion
+	[22914] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28565,--
 		["itemName"] = "Recipe: Destruction Potion",
@@ -10013,7 +10016,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22915] = {--Recipe: Transmute Primal Air to Fire
+	[22915] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28566,--
 		["itemName"] = "Recipe: Transmute Primal Air to Fire",
@@ -10024,7 +10027,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22916] = {--Recipe: Transmute Primal Earth to Water
+	[22916] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28567,--
 		["itemName"] = "Recipe: Transmute Primal Earth to Water",
@@ -10035,7 +10038,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22917] = {--Recipe: Transmute Primal Fire to Earth
+	[22917] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28568,--
 		["itemName"] = "Recipe: Transmute Primal Fire to Earth",
@@ -10046,7 +10049,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22918] = {--Recipe: Transmute Primal Water to Air
+	[22918] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28569,--
 		["itemName"] = "Recipe: Transmute Primal Water to Air",
@@ -10057,7 +10060,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[22919] = {--Recipe: Elixir of Major Mageblood
+	[22919] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28570,--
 		["itemName"] = "Recipe: Elixir of Major Mageblood",
@@ -10065,7 +10068,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 355,
 		},
-	[22920] = {--Recipe: Major Fire Protection Potion
+	[22920] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28571,--
 		["itemName"] = "Recipe: Major Fire Protection Potion",
@@ -10074,7 +10077,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[22921] = {--Recipe: Major Frost Protection Potion
+	[22921] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28572,--
 		["itemName"] = "Recipe: Major Frost Protection Potion",
@@ -10083,7 +10086,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[22922] = {--Recipe: Major Nature Protection Potion
+	[22922] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28573,--
 		["itemName"] = "Recipe: Major Nature Protection Potion",
@@ -10094,7 +10097,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[22923] = {--Recipe: Major Arcane Protection Potion
+	[22923] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28575,--
 		["itemName"] = "Recipe: Major Arcane Protection Potion",
@@ -10103,7 +10106,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[22924] = {--Recipe: Major Shadow Protection Potion
+	[22924] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28576,--
 		["itemName"] = "Recipe: Major Shadow Protection Potion",
@@ -10112,7 +10115,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[22925] = {--Recipe: Major Holy Protection Potion
+	[22925] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28577,--
 		["itemName"] = "Recipe: Major Holy Protection Potion",
@@ -10121,7 +10124,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[22926] = {--Recipe: Elixir of Empowerment
+	[22926] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28578,--
 		["itemName"] = "Recipe: Elixir of Empowerment",
@@ -10129,7 +10132,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 365,
 		},
-	[22927] = {--Recipe: Ironshield Potion
+	[22927] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28579,--
 		["itemName"] = "Recipe: Ironshield Potion",
@@ -10138,7 +10141,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 365,
 		},
-	[23002] = {--Turtle Box
+	[23002] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 28738,--Speedy
 		["itemName"] = "Turtle Box",
@@ -10146,7 +10149,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[23007] = {--Piglet's Collar
+	[23007] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 28739,--Mr. Wiggles
 		["itemName"] = "Piglet's Collar",
@@ -10154,7 +10157,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[23015] = {--Rat Cage
+	[23015] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 28740,--Whiskers the Rat
 		["itemName"] = "Rat Cage",
@@ -10162,7 +10165,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[23083] = {--Captured Flame
+	[23083] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 28871,--Spirit of Summer
 		["itemName"] = "Captured Flame",
@@ -10170,7 +10173,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[23130] = {--Design: Teardrop Blood Garnet     (now trainable)
+	[23130] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28903,--
 		["itemName"] = "Design: Teardrop Blood Garnet",
@@ -10180,7 +10183,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[23131] = {--Design: Bold Blood Garnet     (now trainable)
+	[23131] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28905,--
 		["itemName"] = "Design: Bold Blood Garnet",
@@ -10189,7 +10192,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 305,
 		["note"] = "removed",
 		},
-	[23133] = {--Design: Runed Blood Garnet
+	[23133] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28906,--
 		["itemName"] = "Design: Runed Blood Garnet",
@@ -10200,7 +10203,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 315,
 		},
-	[23134] = {--Design: Delicate Blood Garnet
+	[23134] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28907,--
 		["itemName"] = "Design: Delicate Blood Garnet",
@@ -10211,7 +10214,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[23135] = {--Design: Inscribed Flame Spessarite     (now trainable)
+	[23135] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28910,--
 		["itemName"] = "Design: Inscribed Flame Spessarite",
@@ -10220,7 +10223,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[23136] = {--Design: Luminous Flame Spessarite
+	[23136] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28912,--
 		["itemName"] = "Design: Luminous Flame Spessarite",
@@ -10231,7 +10234,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 305,
 		},
-	[23137] = {--Design: Glinting Flame Spessarite     (now trainable)
+	[23137] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28914,--
 		["itemName"] = "Design: Glinting Flame Spessarite",
@@ -10240,7 +10243,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 315,
 		["note"] = "removed",
 		},
-	[23138] = {--Design: Potent Flame Spessarite
+	[23138] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28915,--
 		["itemName"] = "Design: Potent Flame Spessarite",
@@ -10251,7 +10254,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[23140] = {--Design: Radiant Deep Peridot     (now trainable)
+	[23140] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28916,--
 		["itemName"] = "Design: Radiant Deep Peridot",
@@ -10260,7 +10263,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[23141] = {--Design: Jagged Deep Peridot     (now trainable)
+	[23141] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28917,--
 		["itemName"] = "Design: Jagged Deep Peridot",
@@ -10269,7 +10272,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 305,
 		["note"] = "removed",
 		},
-	[23142] = {--Design: Enduring Deep Peridot
+	[23142] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28918,--
 		["itemName"] = "Design: Enduring Deep Peridot",
@@ -10280,7 +10283,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 315,
 		},
-	[23143] = {--Design: Dazzling Deep Peridot
+	[23143] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28924,--
 		["itemName"] = "Design: Dazzling Deep Peridot",
@@ -10291,7 +10294,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[23144] = {--Design: Glowing Shadow Draenite     (now trainable)
+	[23144] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28925,--
 		["itemName"] = "Design: Glowing Shadow Draenite",
@@ -10300,7 +10303,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[23145] = {--Design: Royal Shadow Draenite
+	[23145] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28927,--
 		["itemName"] = "Design: Royal Shadow Draenite",
@@ -10311,7 +10314,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 305,
 		},
-	[23146] = {--Design: Shifting Shadow Draenite
+	[23146] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28933,--
 		["itemName"] = "Design: Shifting Shadow Draenite",
@@ -10322,7 +10325,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 315,
 		},
-	[23147] = {--Design: Sovereign Shadow Draenite     (now trainable)
+	[23147] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28936,--
 		["itemName"] = "Design: Sovereign Shadow Draenite",
@@ -10331,7 +10334,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 325,
 		["note"] = "removed",
 		},
-	[23148] = {--Design: Brilliant Golden Draenite     (now trainable)
+	[23148] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28938,--
 		["itemName"] = "Design: Brilliant Golden Draenite",
@@ -10340,7 +10343,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[23149] = {--Design: Gleaming Golden Draenite
+	[23149] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28944,--
 		["itemName"] = "Design: Gleaming Golden Draenite",
@@ -10351,7 +10354,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 305,
 		},
-	[23150] = {--Design: Thick Golden Draenite
+	[23150] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28947,--
 		["itemName"] = "Design: Thick Golden Draenite",
@@ -10362,7 +10365,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 315,
 		},
-	[23151] = {--Design: Rigid Golden Draenite     (now trainable)
+	[23151] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28948,--
 		["itemName"] = "Design: Rigid Golden Draenite",
@@ -10371,7 +10374,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 325,
 		["note"] = "removed",
 		},
-	[23152] = {--Design: Solid Azure Moonstone     (now trainable)
+	[23152] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28950,--
 		["itemName"] = "Design: Solid Azure Moonstone",
@@ -10380,7 +10383,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[23153] = {--Design: Sparkling Azure Moonstone     (now trainable)
+	[23153] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28953,--
 		["itemName"] = "Design: Sparkling Azure Moonstone",
@@ -10389,7 +10392,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 305,
 		["note"] = "removed",
 		},
-	[23154] = {--Design: Stormy Azure Moonstone
+	[23154] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28955,--
 		["itemName"] = "Design: Stormy Azure Moonstone",
@@ -10397,7 +10400,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 315,
 		},
-	[23155] = {--Design: Lustrous Azure Moonstone
+	[23155] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28957,--
 		["itemName"] = "Design: Lustrous Azure Moonstone",
@@ -10408,7 +10411,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[23320] = {--Tablet of Flame Shock VI
+	[23320] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 29228,--Flame Shock (Rank 6)
 		["itemName"] = "Tablet of Flame Shock VI",
@@ -10416,7 +10419,7 @@ LibTextbookDB = {
 		["reqClasses"] = 128,
 		["reqLevel"] = 60,
 		},
-	[23574] = {--Recipe: Transmute Primal Might
+	[23574] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29688,--
 		["itemName"] = "Recipe: Transmute Primal Might",
@@ -10424,7 +10427,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[23590] = {--Plans: Adamantite Maul
+	[23590] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29566,--
 		["itemName"] = "Plans: Adamantite Maul",
@@ -10432,7 +10435,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 325,
 		},
-	[23591] = {--Plans: Adamantite Cleaver
+	[23591] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29568,--
 		["itemName"] = "Plans: Adamantite Cleaver",
@@ -10440,7 +10443,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 330,
 		},
-	[23592] = {--Plans: Adamantite Dagger
+	[23592] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29569,--
 		["itemName"] = "Plans: Adamantite Dagger",
@@ -10448,7 +10451,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 330,
 		},
-	[23593] = {--Plans: Adamantite Rapier
+	[23593] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29571,--
 		["itemName"] = "Plans: Adamantite Rapier",
@@ -10456,7 +10459,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 335,
 		},
-	[23594] = {--Plans: Adamantite Plate Bracers
+	[23594] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29603,--
 		["itemName"] = "Plans: Adamantite Plate Bracers",
@@ -10464,7 +10467,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 335,
 		},
-	[23595] = {--Plans: Adamantite Plate Gloves
+	[23595] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29605,--
 		["itemName"] = "Plans: Adamantite Plate Gloves",
@@ -10472,7 +10475,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 335,
 		},
-	[23596] = {--Plans: Adamantite Breastplate
+	[23596] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29606,--
 		["itemName"] = "Plans: Adamantite Breastplate",
@@ -10480,7 +10483,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 340,
 		},
-	[23597] = {--Plans: Enchanted Adamantite Belt
+	[23597] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29608,--
 		["itemName"] = "Plans: Enchanted Adamantite Belt",
@@ -10491,7 +10494,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 355,
 		},
-	[23598] = {--Plans: Enchanted Adamantite Boots
+	[23598] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29611,--
 		["itemName"] = "Plans: Enchanted Adamantite Boots",
@@ -10502,7 +10505,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 355,
 		},
-	[23599] = {--Plans: Enchanted Adamantite Breastplate
+	[23599] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29610,--
 		["itemName"] = "Plans: Enchanted Adamantite Breastplate",
@@ -10513,7 +10516,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23600] = {--Plans: Enchanted Adamantite Leggings
+	[23600] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29613,--
 		["itemName"] = "Plans: Enchanted Adamantite Leggings",
@@ -10524,7 +10527,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23601] = {--Plans: Flamebane Bracers
+	[23601] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29614,--
 		["itemName"] = "Plans: Flamebane Bracers",
@@ -10535,7 +10538,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[23602] = {--Plans: Flamebane Helm
+	[23602] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29615,--
 		["itemName"] = "Plans: Flamebane Helm",
@@ -10546,7 +10549,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 355,
 		},
-	[23603] = {--Plans: Flamebane Gloves
+	[23603] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29616,--
 		["itemName"] = "Plans: Flamebane Gloves",
@@ -10557,7 +10560,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23604] = {--Plans: Flamebane Breastplate
+	[23604] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29617,--
 		["itemName"] = "Plans: Flamebane Breastplate",
@@ -10568,7 +10571,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23605] = {--Plans: Felsteel Gloves
+	[23605] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29619,--
 		["itemName"] = "Plans: Felsteel Gloves",
@@ -10577,7 +10580,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23606] = {--Plans: Felsteel Leggings
+	[23606] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29620,--
 		["itemName"] = "Plans: Felsteel Leggings",
@@ -10586,7 +10589,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23607] = {--Plans: Felsteel Helm
+	[23607] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29621,--
 		["itemName"] = "Plans: Felsteel Helm",
@@ -10595,7 +10598,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23608] = {--Plans: Khorium Belt
+	[23608] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29628,--
 		["itemName"] = "Plans: Khorium Belt",
@@ -10604,7 +10607,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23609] = {--Plans: Khorium Pants
+	[23609] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29629,--
 		["itemName"] = "Plans: Khorium Pants",
@@ -10613,7 +10616,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23610] = {--Plans: Khorium Boots
+	[23610] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29630,--
 		["itemName"] = "Plans: Khorium Boots",
@@ -10622,7 +10625,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23611] = {--Plans: Ragesteel Gloves
+	[23611] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29642,--
 		["itemName"] = "Plans: Ragesteel Gloves",
@@ -10631,7 +10634,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23612] = {--Plans: Ragesteel Helm
+	[23612] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29643,--
 		["itemName"] = "Plans: Ragesteel Helm",
@@ -10640,7 +10643,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23613] = {--Plans: Ragesteel Breastplate
+	[23613] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29645,--
 		["itemName"] = "Plans: Ragesteel Breastplate",
@@ -10649,7 +10652,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 370,
 		},
-	[23615] = {--Plans: Swiftsteel Gloves
+	[23615] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29648,--
 		["itemName"] = "Plans: Swiftsteel Gloves",
@@ -10658,7 +10661,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 370,
 		},
-	[23617] = {--Plans: Earthpeace Breastplate
+	[23617] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29649,--
 		["itemName"] = "Plans: Earthpeace Breastplate",
@@ -10667,7 +10670,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 370,
 		},
-	[23618] = {--Plans: Adamantite Sharpening Stone
+	[23618] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29656,--
 		["itemName"] = "Plans: Adamantite Sharpening Stone",
@@ -10678,7 +10681,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[23619] = {--Plans: Felsteel Shield Spike
+	[23619] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29657,--
 		["itemName"] = "Plans: Felsteel Shield Spike",
@@ -10689,7 +10692,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[23620] = {--Plans: Felfury Gauntlets
+	[23620] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29658,--
 		["itemName"] = "Plans: Felfury Gauntlets",
@@ -10697,7 +10700,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23621] = {--Plans: Gauntlets of the Iron Tower
+	[23621] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29622,--
 		["itemName"] = "Plans: Gauntlets of the Iron Tower",
@@ -10705,7 +10708,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23622] = {--Plans: Steelgrip Gauntlets
+	[23622] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29662,--
 		["itemName"] = "Plans: Steelgrip Gauntlets",
@@ -10713,7 +10716,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23623] = {--Plans: Storm Helm
+	[23623] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29663,--
 		["itemName"] = "Plans: Storm Helm",
@@ -10721,7 +10724,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23624] = {--Plans: Helm of the Stalwart Defender
+	[23624] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29664,--
 		["itemName"] = "Plans: Helm of the Stalwart Defender",
@@ -10729,7 +10732,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23625] = {--Plans: Oathkeeper's Helm
+	[23625] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29668,--
 		["itemName"] = "Plans: Oathkeeper's Helm",
@@ -10737,7 +10740,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23626] = {--Plans: Black Felsteel Bracers
+	[23626] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29669,--
 		["itemName"] = "Plans: Black Felsteel Bracers",
@@ -10745,7 +10748,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23627] = {--Plans: Bracers of the Green Fortress
+	[23627] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29671,--
 		["itemName"] = "Plans: Bracers of the Green Fortress",
@@ -10753,7 +10756,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23628] = {--Plans: Blessed Bracers
+	[23628] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29672,--
 		["itemName"] = "Plans: Blessed Bracers",
@@ -10761,7 +10764,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23629] = {--Plans: Felsteel Longblade
+	[23629] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29692,--
 		["itemName"] = "Plans: Felsteel Longblade",
@@ -10769,7 +10772,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23630] = {--Plans: Khorium Champion
+	[23630] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29693,--
 		["itemName"] = "Plans: Khorium Champion",
@@ -10777,7 +10780,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23631] = {--Plans: Fel Edged Battleaxe
+	[23631] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29694,--
 		["itemName"] = "Plans: Fel Edged Battleaxe",
@@ -10785,7 +10788,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23632] = {--Plans: Felsteel Reaper
+	[23632] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29695,--
 		["itemName"] = "Plans: Felsteel Reaper",
@@ -10793,7 +10796,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23633] = {--Plans: Runic Hammer
+	[23633] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29696,--
 		["itemName"] = "Plans: Runic Hammer",
@@ -10801,7 +10804,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23634] = {--Plans: Fel Hardened Maul
+	[23634] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29697,--
 		["itemName"] = "Plans: Fel Hardened Maul",
@@ -10809,7 +10812,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23635] = {--Plans: Eternium Runed Blade
+	[23635] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29698,--
 		["itemName"] = "Plans: Eternium Runed Blade",
@@ -10817,7 +10820,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23636] = {--Plans: Dirge
+	[23636] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29699,--
 		["itemName"] = "Plans: Dirge",
@@ -10825,7 +10828,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23637] = {--Plans: Hand of Eternity
+	[23637] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29700,--
 		["itemName"] = "Plans: Hand of Eternity",
@@ -10833,7 +10836,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[23638] = {--Plans: Lesser Ward of Shielding
+	[23638] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29728,--
 		["itemName"] = "Plans: Lesser Ward of Shielding",
@@ -10841,7 +10844,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 340,
 		},
-	[23639] = {--Plans: Greater Ward of Shielding
+	[23639] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29729,--
 		["itemName"] = "Plans: Greater Ward of Shielding",
@@ -10850,7 +10853,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[23711] = {--Grimoire of Intercept (Rank 1)
+	[23711] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 30151,--Intercept (Rank 1)
 		["itemName"] = "Grimoire of Intercept (Rank 1)",
@@ -10860,14 +10863,14 @@ LibTextbookDB = {
 		["reqLevel"] = 52,
 		["unique"] = 1,
 		},
-	[23713] = {--Hippogryph Hatchling
+	[23713] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 30156,--Hippogryph Hatchling
 		["itemName"] = "Hippogryph Hatchling",
 		["quality"] = 4,
 		["binding"] = 1,
 		},
-	[23720] = {--Riding Turtle
+	[23720] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 30174,--Riding Turtle
 		["itemName"] = "Riding Turtle",
@@ -10875,7 +10878,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqLevel"] = 1,
 		},
-	[23730] = {--Grimoire of Intercept (Rank 2)
+	[23730] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 30194,--Intercept (Rank 2)
 		["itemName"] = "Grimoire of Intercept (Rank 2)",
@@ -10885,7 +10888,7 @@ LibTextbookDB = {
 		["reqLevel"] = 61,
 		["unique"] = 1,
 		},
-	[23731] = {--Grimoire of Intercept (Rank 3)
+	[23731] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 30198,--Intercept (Rank 3)
 		["itemName"] = "Grimoire of Intercept (Rank 3)",
@@ -10895,7 +10898,7 @@ LibTextbookDB = {
 		["reqLevel"] = 69,
 		["unique"] = 1,
 		},
-	[23734] = {--Grimoire of Cleave (Rank 1)
+	[23734] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 30213,--Cleave (Rank 1)
 		["itemName"] = "Grimoire of Cleave (Rank 1)",
@@ -10905,7 +10908,7 @@ LibTextbookDB = {
 		["reqLevel"] = 50,
 		["unique"] = 1,
 		},
-	[23745] = {--Grimoire of Cleave (Rank 2)
+	[23745] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 30219,--Cleave (Rank 2)
 		["itemName"] = "Grimoire of Cleave (Rank 2)",
@@ -10915,7 +10918,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[23755] = {--Grimoire of Cleave (Rank 3)
+	[23755] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 30223,--Cleave (Rank 3)
 		["itemName"] = "Grimoire of Cleave (Rank 3)",
@@ -10925,7 +10928,7 @@ LibTextbookDB = {
 		["reqLevel"] = 68,
 		["unique"] = 1,
 		},
-	[23799] = {--Schematic: Adamantite Rifle
+	[23799] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30313,--
 		["itemName"] = "Schematic: Adamantite Rifle",
@@ -10933,7 +10936,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 350,
 		},
-	[23800] = {--Schematic: Felsteel Boomstick
+	[23800] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30314,--
 		["itemName"] = "Schematic: Felsteel Boomstick",
@@ -10942,7 +10945,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 360,
 		},
-	[23802] = {--Schematic: Ornate Khorium Rifle
+	[23802] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30315,--
 		["itemName"] = "Schematic: Ornate Khorium Rifle",
@@ -10950,7 +10953,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[23803] = {--Schematic: Cogspinner Goggles
+	[23803] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30316,--
 		["itemName"] = "Schematic: Cogspinner Goggles",
@@ -10958,7 +10961,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 340,
 		},
-	[23804] = {--Schematic: Power Amplification Goggles
+	[23804] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30317,--
 		["itemName"] = "Schematic: Power Amplification Goggles",
@@ -10966,7 +10969,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 340,
 		},
-	[23805] = {--Schematic: Ultra-Spectropic Detection Goggles
+	[23805] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30318,--
 		["itemName"] = "Schematic: Ultra-Spectropic Detection Goggles",
@@ -10974,7 +10977,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 350,
 		},
-	[23806] = {--Schematic: Hyper-Vision Goggles
+	[23806] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30325,--
 		["itemName"] = "Schematic: Hyper-Vision Goggles",
@@ -10983,7 +10986,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 360,
 		},
-	[23807] = {--Schematic: Adamantite Scope
+	[23807] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30329,--
 		["itemName"] = "Schematic: Adamantite Scope",
@@ -10991,7 +10994,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 335,
 		},
-	[23808] = {--Schematic: Khorium Scope
+	[23808] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30332,--
 		["itemName"] = "Schematic: Khorium Scope",
@@ -11000,7 +11003,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 360,
 		},
-	[23809] = {--Schematic: Stabilized Eternium Scope
+	[23809] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30334,--
 		["itemName"] = "Schematic: Stabilized Eternium Scope",
@@ -11009,7 +11012,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[23810] = {--Schematic: Crashin' Thrashin' Robot
+	[23810] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30337,--
 		["itemName"] = "Schematic: Crashin' Thrashin' Robot",
@@ -11017,7 +11020,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 325,
 		},
-	[23811] = {--Schematic: White Smoke Flare
+	[23811] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30341,--
 		["itemName"] = "Schematic: White Smoke Flare",
@@ -11025,7 +11028,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 335,
 		},
-	[23814] = {--Schematic: Green Smoke Flare
+	[23814] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30344,--
 		["itemName"] = "Schematic: Green Smoke Flare",
@@ -11036,7 +11039,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 335,
 		},
-	[23815] = {--Schematic: Adamantite Shell Machine
+	[23815] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30347,--
 		["itemName"] = "Schematic: Adamantite Shell Machine",
@@ -11044,7 +11047,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 335,
 		},
-	[23816] = {--Schematic: Fel Iron Toolbox
+	[23816] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30348,--
 		["itemName"] = "Schematic: Fel Iron Toolbox",
@@ -11052,7 +11055,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 325,
 		},
-	[23817] = {--Schematic: Titanium Toolbox
+	[23817] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30349,--
 		["itemName"] = "Schematic: Titanium Toolbox",
@@ -11060,7 +11063,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 405,
 		},
-	[23874] = {--Schematic: Elemental Seaforium Charge
+	[23874] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30547,--
 		["itemName"] = "Schematic: Elemental Seaforium Charge",
@@ -11071,7 +11074,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 350,
 		},
-	[23883] = {--Schematic: Healing Potion Injector
+	[23883] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30551,--
 		["itemName"] = "Schematic: Healing Potion Injector",
@@ -11079,7 +11082,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 330,
 		},
-	[23884] = {--Schematic: Mana Potion Injector
+	[23884] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30552,--
 		["itemName"] = "Schematic: Mana Potion Injector",
@@ -11087,14 +11090,14 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 345,
 		},
-	[23885] = {--Schematic: Remote Mail Terminal
+	[23885] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30582,--
 		["itemName"] = "Schematic: Remote Mail Terminal",
 		["quality"] = 3,
 		["note"] = "fake",
 		},
-	[23887] = {--Schematic: Rocket Boots Xtreme
+	[23887] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30556,--
 		["itemName"] = "Schematic: Rocket Boots Xtreme",
@@ -11103,7 +11106,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 355,
 		},
-	[23888] = {--Schematic: Zapthrottle Mote Extractor
+	[23888] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30548,--
 		["itemName"] = "Schematic: Zapthrottle Mote Extractor",
@@ -11112,7 +11115,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 305,
 		},
-	[24000] = {--Formula: Enchant Bracer - Superior Healing
+	[24000] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27911,--
 		["itemName"] = "Formula: Enchant Bracer - Superior Healing",
@@ -11123,7 +11126,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 325,
 		},
-	[24001] = {--Recipe: Elixir of Major Agility
+	[24001] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28553,--
 		["itemName"] = "Recipe: Elixir of Major Agility",
@@ -11134,7 +11137,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 330,
 		},
-	[24002] = {--Plans: Felsteel Shield Spike
+	[24002] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29657,--
 		["itemName"] = "Plans: Felsteel Shield Spike",
@@ -11145,7 +11148,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[24003] = {--Formula: Enchant Chest - Exceptional Stats
+	[24003] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27960,--
 		["itemName"] = "Formula: Enchant Chest - Exceptional Stats",
@@ -11156,7 +11159,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 345,
 		},
-	[24101] = {--Book of Ferocious Bite V
+	[24101] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 31018,--Ferocious Bite (Rank 5)
 		["itemName"] = "Book of Ferocious Bite V",
@@ -11164,7 +11167,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 60,
 		},
-	[24102] = {--Manual of Eviscerate IX
+	[24102] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 31016,--Eviscerate (Rank 9)
 		["itemName"] = "Manual of Eviscerate IX",
@@ -11172,7 +11175,7 @@ LibTextbookDB = {
 		["reqClasses"] = 16,
 		["reqLevel"] = 60,
 		},
-	[24158] = {--Design: Khorium Band of Shadows
+	[24158] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31053,--
 		["itemName"] = "Design: Khorium Band of Shadows",
@@ -11181,7 +11184,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24159] = {--Design: Khorium Band of Frost
+	[24159] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31054,--
 		["itemName"] = "Design: Khorium Band of Frost",
@@ -11190,7 +11193,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 355,
 		},
-	[24160] = {--Design: Khorium Inferno Band
+	[24160] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31055,--
 		["itemName"] = "Design: Khorium Inferno Band",
@@ -11199,7 +11202,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 355,
 		},
-	[24161] = {--Design: Khorium Band of Leaves
+	[24161] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31056,--
 		["itemName"] = "Design: Khorium Band of Leaves",
@@ -11208,7 +11211,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24162] = {--Design: Arcane Khorium Band
+	[24162] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31057,--
 		["itemName"] = "Design: Arcane Khorium Band",
@@ -11217,7 +11220,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[24163] = {--Design: Heavy Felsteel Ring
+	[24163] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31058,--
 		["itemName"] = "Design: Heavy Felsteel Ring",
@@ -11225,7 +11228,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 345,
 		},
-	[24164] = {--Design: Delicate Eternium Ring
+	[24164] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31060,--
 		["itemName"] = "Design: Delicate Eternium Ring",
@@ -11233,7 +11236,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 355,
 		},
-	[24165] = {--Design: Blazing Eternium Band
+	[24165] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31061,--
 		["itemName"] = "Design: Blazing Eternium Band",
@@ -11241,7 +11244,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[24166] = {--Design: Thick Felsteel Necklace
+	[24166] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31067,--
 		["itemName"] = "Design: Thick Felsteel Necklace",
@@ -11249,7 +11252,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 355,
 		},
-	[24167] = {--Design: Living Ruby Pendant
+	[24167] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31068,--
 		["itemName"] = "Design: Living Ruby Pendant",
@@ -11257,7 +11260,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 355,
 		},
-	[24168] = {--Design: Braided Eternium Chain
+	[24168] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31070,--
 		["itemName"] = "Design: Braided Eternium Chain",
@@ -11265,7 +11268,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24169] = {--Design: Eye of the Night
+	[24169] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31071,--
 		["itemName"] = "Design: Eye of the Night",
@@ -11273,7 +11276,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24170] = {--Design: Embrace of the Dawn
+	[24170] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31072,--
 		["itemName"] = "Design: Embrace of the Dawn",
@@ -11281,7 +11284,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[24171] = {--Design: Chain of the Twilight Owl
+	[24171] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31076,--
 		["itemName"] = "Design: Chain of the Twilight Owl",
@@ -11289,7 +11292,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[24172] = {--Design: Coronet of Verdant Flame
+	[24172] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31077,--
 		["itemName"] = "Design: Coronet of Verdant Flame",
@@ -11298,7 +11301,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24173] = {--Design: Circlet of Arcane Might
+	[24173] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31078,--
 		["itemName"] = "Design: Circlet of Arcane Might",
@@ -11307,7 +11310,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24174] = {--Design: Pendant of Frozen Flame
+	[24174] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31062,--
 		["itemName"] = "Design: Pendant of Frozen Flame",
@@ -11318,7 +11321,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24175] = {--Design: Pendant of Thawing
+	[24175] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31063,--
 		["itemName"] = "Design: Pendant of Thawing",
@@ -11329,7 +11332,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24176] = {--Design: Pendant of Withering
+	[24176] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31064,--
 		["itemName"] = "Design: Pendant of Withering",
@@ -11340,7 +11343,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24177] = {--Design: Pendant of Shadow's End
+	[24177] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31065,--
 		["itemName"] = "Design: Pendant of Shadow's End",
@@ -11351,7 +11354,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24178] = {--Design: Pendant of the Null Rune
+	[24178] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31066,--
 		["itemName"] = "Design: Pendant of the Null Rune",
@@ -11362,7 +11365,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[24179] = {--Design: Felsteel Boar
+	[24179] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31079,--
 		["itemName"] = "Design: Felsteel Boar",
@@ -11373,7 +11376,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24180] = {--Design: Dawnstone Crab
+	[24180] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31080,--
 		["itemName"] = "Design: Dawnstone Crab",
@@ -11384,7 +11387,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24181] = {--Design: Living Ruby Serpent
+	[24181] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31081,--
 		["itemName"] = "Design: Living Ruby Serpent",
@@ -11395,7 +11398,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24182] = {--Design: Talasite Owl
+	[24182] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31082,--
 		["itemName"] = "Design: Talasite Owl",
@@ -11406,7 +11409,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24183] = {--Design: Nightseye Panther
+	[24183] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31083,--
 		["itemName"] = "Design: Nightseye Panther",
@@ -11417,7 +11420,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[24192] = {--Design: Bright Living Ruby
+	[24192] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31089,--
 		["itemName"] = "Design: Bright Living Ruby",
@@ -11425,7 +11428,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24193] = {--Design: Bold Living Ruby
+	[24193] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31084,--
 		["itemName"] = "Design: Bold Living Ruby",
@@ -11433,7 +11436,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24194] = {--Design: Delicate Living Ruby
+	[24194] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31085,--
 		["itemName"] = "Design: Delicate Living Ruby",
@@ -11441,7 +11444,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24195] = {--Design: Teardrop Living Ruby
+	[24195] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31087,--
 		["itemName"] = "Design: Teardrop Living Ruby",
@@ -11449,7 +11452,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24196] = {--Design: Runed Living Ruby
+	[24196] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31088,--
 		["itemName"] = "Design: Runed Living Ruby",
@@ -11457,7 +11460,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24197] = {--Design: Subtle Living Ruby
+	[24197] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31090,--
 		["itemName"] = "Design: Subtle Living Ruby",
@@ -11465,7 +11468,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24198] = {--Design: Flashing Living Ruby
+	[24198] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31091,--
 		["itemName"] = "Design: Flashing Living Ruby",
@@ -11473,7 +11476,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24199] = {--Design: Solid Star of Elune
+	[24199] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31092,--
 		["itemName"] = "Design: Solid Star of Elune",
@@ -11481,7 +11484,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24200] = {--Design: Sparkling Star of Elune
+	[24200] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31149,--
 		["itemName"] = "Design: Sparkling Star of Elune",
@@ -11489,7 +11492,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24201] = {--Design: Lustrous Star of Elune
+	[24201] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31094,--
 		["itemName"] = "Design: Lustrous Star of Elune",
@@ -11497,7 +11500,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24202] = {--Design: Stormy Star of Elune
+	[24202] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31095,--
 		["itemName"] = "Design: Stormy Star of Elune",
@@ -11505,7 +11508,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24203] = {--Design: Brilliant Dawnstone
+	[24203] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31096,--
 		["itemName"] = "Design: Brilliant Dawnstone",
@@ -11513,7 +11516,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24204] = {--Design: Smooth Dawnstone
+	[24204] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31097,--
 		["itemName"] = "Design: Smooth Dawnstone",
@@ -11521,7 +11524,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24205] = {--Design: Rigid Dawnstone
+	[24205] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31098,--
 		["itemName"] = "Design: Rigid Dawnstone",
@@ -11529,7 +11532,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24206] = {--Design: Gleaming Dawnstone
+	[24206] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31099,--
 		["itemName"] = "Design: Gleaming Dawnstone",
@@ -11537,7 +11540,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24207] = {--Design: Thick Dawnstone
+	[24207] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31100,--
 		["itemName"] = "Design: Thick Dawnstone",
@@ -11545,7 +11548,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24208] = {--Design: Mystic Dawnstone
+	[24208] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31101,--
 		["itemName"] = "Design: Mystic Dawnstone",
@@ -11554,7 +11557,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24209] = {--Design: Sovereign Nightseye
+	[24209] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31102,--
 		["itemName"] = "Design: Sovereign Nightseye",
@@ -11562,7 +11565,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24210] = {--Design: Shifting Nightseye
+	[24210] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31103,--
 		["itemName"] = "Design: Shifting Nightseye",
@@ -11570,7 +11573,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24211] = {--Design: Glowing Nightseye
+	[24211] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31104,--
 		["itemName"] = "Design: Glowing Nightseye",
@@ -11578,7 +11581,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24212] = {--Design: Royal Nightseye
+	[24212] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31105,--
 		["itemName"] = "Design: Royal Nightseye",
@@ -11586,7 +11589,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24213] = {--Design: Inscribed Noble Topaz
+	[24213] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31106,--
 		["itemName"] = "Design: Inscribed Noble Topaz",
@@ -11594,7 +11597,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24214] = {--Design: Potent Noble Topaz
+	[24214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31107,--
 		["itemName"] = "Design: Potent Noble Topaz",
@@ -11602,7 +11605,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24215] = {--Design: Luminous Noble Topaz
+	[24215] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31108,--
 		["itemName"] = "Design: Luminous Noble Topaz",
@@ -11610,7 +11613,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24216] = {--Design: Glinting Noble Topaz
+	[24216] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31109,--
 		["itemName"] = "Design: Glinting Noble Topaz",
@@ -11618,7 +11621,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24217] = {--Design: Enduring Talasite
+	[24217] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31110,--
 		["itemName"] = "Design: Enduring Talasite",
@@ -11626,7 +11629,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24218] = {--Design: Radiant Talasite
+	[24218] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31111,--
 		["itemName"] = "Design: Radiant Talasite",
@@ -11634,7 +11637,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24219] = {--Design: Dazzling Talasite
+	[24219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31112,--
 		["itemName"] = "Design: Dazzling Talasite",
@@ -11642,7 +11645,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24220] = {--Design: Jagged Talasite
+	[24220] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31113,--
 		["itemName"] = "Design: Jagged Talasite",
@@ -11650,7 +11653,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24292] = {--Pattern: Mystic Spellthread
+	[24292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31430,--
 		["itemName"] = "Pattern: Mystic Spellthread",
@@ -11661,7 +11664,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 335,
 		},
-	[24293] = {--Pattern: Silver Spellthread
+	[24293] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31431,--
 		["itemName"] = "Pattern: Silver Spellthread",
@@ -11672,7 +11675,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 335,
 		},
-	[24294] = {--Pattern: Runic Spellthread
+	[24294] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31432,--
 		["itemName"] = "Pattern: Runic Spellthread",
@@ -11683,7 +11686,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24295] = {--Pattern: Golden Spellthread
+	[24295] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31433,--
 		["itemName"] = "Pattern: Golden Spellthread",
@@ -11694,7 +11697,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24296] = {--Pattern: Unyielding Bracers
+	[24296] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31434,--
 		["itemName"] = "Pattern: Unyielding Bracers",
@@ -11702,7 +11705,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24297] = {--Pattern: Bracers of Havok
+	[24297] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31435,--
 		["itemName"] = "Pattern: Bracers of Havok",
@@ -11710,7 +11713,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24298] = {--Pattern: Blackstrike Bracers
+	[24298] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31437,--
 		["itemName"] = "Pattern: Blackstrike Bracers",
@@ -11718,7 +11721,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24299] = {--Pattern: Cloak of the Black Void
+	[24299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31438,--
 		["itemName"] = "Pattern: Cloak of the Black Void",
@@ -11726,7 +11729,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24300] = {--Pattern: Cloak of Eternity
+	[24300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31440,--
 		["itemName"] = "Pattern: Cloak of Eternity",
@@ -11734,7 +11737,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24301] = {--Pattern: White Remedy Cape
+	[24301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31441,--
 		["itemName"] = "Pattern: White Remedy Cape",
@@ -11742,7 +11745,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24302] = {--Pattern: Unyielding Girdle
+	[24302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31442,--
 		["itemName"] = "Pattern: Unyielding Girdle",
@@ -11750,7 +11753,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[24303] = {--Pattern: Girdle of Ruination
+	[24303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31443,--
 		["itemName"] = "Pattern: Girdle of Ruination",
@@ -11758,7 +11761,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[24304] = {--Pattern: Black Belt of Knowledge
+	[24304] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31444,--
 		["itemName"] = "Pattern: Black Belt of Knowledge",
@@ -11766,7 +11769,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[24305] = {--Pattern: Resolute Cape
+	[24305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31448,--
 		["itemName"] = "Pattern: Resolute Cape",
@@ -11774,7 +11777,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[24306] = {--Pattern: Vengeance Wrap
+	[24306] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31449,--
 		["itemName"] = "Pattern: Vengeance Wrap",
@@ -11782,7 +11785,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[24307] = {--Pattern: Manaweave Cloak
+	[24307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31450,--
 		["itemName"] = "Pattern: Manaweave Cloak",
@@ -11790,7 +11793,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[24308] = {--Pattern: Whitemend Pants
+	[24308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31451,--
 		["itemName"] = "Pattern: Whitemend Pants",
@@ -11799,7 +11802,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24309] = {--Pattern: Spellstrike Pants
+	[24309] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31452,--
 		["itemName"] = "Pattern: Spellstrike Pants",
@@ -11808,7 +11811,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24310] = {--Pattern: Battlecast Pants
+	[24310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31453,--
 		["itemName"] = "Pattern: Battlecast Pants",
@@ -11817,7 +11820,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24311] = {--Pattern: Whitemend Hood
+	[24311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31454,--
 		["itemName"] = "Pattern: Whitemend Hood",
@@ -11826,7 +11829,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24312] = {--Pattern: Spellstrike Hood
+	[24312] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31455,--
 		["itemName"] = "Pattern: Spellstrike Hood",
@@ -11835,7 +11838,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24313] = {--Pattern: Battlecast Hood
+	[24313] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31456,--
 		["itemName"] = "Pattern: Battlecast Hood",
@@ -11844,7 +11847,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[24314] = {--Pattern: Bag of Jewels
+	[24314] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31459,--
 		["itemName"] = "Pattern: Bag of Jewels",
@@ -11855,7 +11858,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 340,
 		},
-	[24315] = {--Pattern: Heavy Netherweave Net
+	[24315] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31461,--
 		["itemName"] = "Pattern: Heavy Netherweave Net",
@@ -11867,7 +11870,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 325,
 		["note"] = "fake",
 		},
-	[24316] = {--Pattern: Spellcloth
+	[24316] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31373,--
 		["itemName"] = "Pattern: Spellcloth",
@@ -11875,7 +11878,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[24345] = {--Book of Cower IV
+	[24345] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 31709,--Cower (Rank 4)
 		["itemName"] = "Book of Cower IV",
@@ -11883,7 +11886,7 @@ LibTextbookDB = {
 		["reqClasses"] = 2048,
 		["reqLevel"] = 60,
 		},
-	[25469] = {--Grimoire of Avoidance
+	[25469] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 32233,--Avoidance (Passive)
 		["itemName"] = "Grimoire of Avoidance",
@@ -11893,7 +11896,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[25470] = {--Golden Gryphon
+	[25470] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32235,--Golden Gryphon
 		["itemName"] = "Golden Gryphon",
@@ -11904,7 +11907,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[25471] = {--Ebon Gryphon
+	[25471] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32239,--Ebon Gryphon
 		["itemName"] = "Ebon Gryphon",
@@ -11915,7 +11918,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[25472] = {--Snowy Gryphon
+	[25472] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32240,--Snowy Gryphon
 		["itemName"] = "Snowy Gryphon",
@@ -11926,7 +11929,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[25473] = {--Swift Blue Gryphon
+	[25473] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32242,--Swift Blue Gryphon
 		["itemName"] = "Swift Blue Gryphon",
@@ -11937,7 +11940,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25474] = {--Tawny Wind Rider
+	[25474] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32243,--Tawny Wind Rider
 		["itemName"] = "Tawny Wind Rider",
@@ -11948,7 +11951,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[25475] = {--Blue Wind Rider
+	[25475] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32244,--Blue Wind Rider
 		["itemName"] = "Blue Wind Rider",
@@ -11959,7 +11962,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[25476] = {--Green Wind Rider
+	[25476] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32245,--Green Wind Rider
 		["itemName"] = "Green Wind Rider",
@@ -11970,7 +11973,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[25477] = {--Swift Red Wind Rider
+	[25477] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32246,--Swift Red Wind Rider
 		["itemName"] = "Swift Red Wind Rider",
@@ -11981,7 +11984,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25526] = {--Plans: Greater Rune of Warding
+	[25526] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32285,--
 		["itemName"] = "Plans: Greater Rune of Warding",
@@ -11992,7 +11995,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[25527] = {--Swift Red Gryphon
+	[25527] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32289,--Swift Red Gryphon
 		["itemName"] = "Swift Red Gryphon",
@@ -12003,7 +12006,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25528] = {--Swift Green Gryphon
+	[25528] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32290,--Swift Green Gryphon
 		["itemName"] = "Swift Green Gryphon",
@@ -12014,7 +12017,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25529] = {--Swift Purple Gryphon
+	[25529] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32292,--Swift Purple Gryphon
 		["itemName"] = "Swift Purple Gryphon",
@@ -12025,7 +12028,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25531] = {--Swift Green Wind Rider
+	[25531] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32295,--Swift Green Wind Rider
 		["itemName"] = "Swift Green Wind Rider",
@@ -12036,7 +12039,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25532] = {--Swift Yellow Wind Rider
+	[25532] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32296,--Swift Yellow Wind Rider
 		["itemName"] = "Swift Yellow Wind Rider",
@@ -12047,7 +12050,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25533] = {--Swift Purple Wind Rider
+	[25533] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32297,--Swift Purple Wind Rider
 		["itemName"] = "Swift Purple Wind Rider",
@@ -12058,14 +12061,14 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[25535] = {--Netherwhelp's Collar
+	[25535] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 32298,--Netherwhelp
 		["itemName"] = "Netherwhelp's Collar",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[25596] = {--Peep's Whistle
+	[25596] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32345,--Peep the Phoenix Mount
 		["itemName"] = "Peep's Whistle",
@@ -12074,7 +12077,7 @@ LibTextbookDB = {
 		["reqLevel"] = 70,
 		["unique"] = 1,
 		},
-	[25720] = {--Pattern: Heavy Knothide Leather
+	[25720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32455,--
 		["itemName"] = "Pattern: Heavy Knothide Leather",
@@ -12082,7 +12085,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 325,
 		},
-	[25721] = {--Pattern: Vindicator's Armor Kit
+	[25721] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32457,--
 		["itemName"] = "Pattern: Vindicator's Armor Kit",
@@ -12093,7 +12096,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 325,
 		},
-	[25722] = {--Pattern: Magister's Armor Kit
+	[25722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32458,--
 		["itemName"] = "Pattern: Magister's Armor Kit",
@@ -12104,7 +12107,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 325,
 		},
-	[25725] = {--Pattern: Riding Crop
+	[25725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32461,--
 		["itemName"] = "Pattern: Riding Crop",
@@ -12112,7 +12115,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25726] = {--Pattern: Comfortable Insoles
+	[25726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32482,--
 		["itemName"] = "Pattern: Comfortable Insoles",
@@ -12120,7 +12123,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[25728] = {--Pattern: Stylin' Purple Hat
+	[25728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32485,--
 		["itemName"] = "Pattern: Stylin' Purple Hat",
@@ -12129,7 +12132,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25729] = {--Pattern: Stylin' Adventure Hat
+	[25729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32487,--
 		["itemName"] = "Pattern: Stylin' Adventure Hat",
@@ -12138,7 +12141,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25730] = {--Pattern: Stylin' Jungle Hat
+	[25730] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32489,--
 		["itemName"] = "Pattern: Stylin' Jungle Hat",
@@ -12147,7 +12150,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25731] = {--Pattern: Stylin' Crimson Hat
+	[25731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32488,--
 		["itemName"] = "Pattern: Stylin' Crimson Hat",
@@ -12156,7 +12159,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25732] = {--Pattern: Fel Leather Gloves
+	[25732] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32490,--
 		["itemName"] = "Pattern: Fel Leather Gloves",
@@ -12167,7 +12170,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[25733] = {--Pattern: Fel Leather Boots
+	[25733] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32493,--
 		["itemName"] = "Pattern: Fel Leather Boots",
@@ -12178,7 +12181,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25734] = {--Pattern: Fel Leather Leggings
+	[25734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32494,--
 		["itemName"] = "Pattern: Fel Leather Leggings",
@@ -12189,7 +12192,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25735] = {--Pattern: Heavy Clefthoof Vest
+	[25735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32495,--
 		["itemName"] = "Pattern: Heavy Clefthoof Vest",
@@ -12200,7 +12203,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[25736] = {--Pattern: Heavy Clefthoof Leggings
+	[25736] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32496,--
 		["itemName"] = "Pattern: Heavy Clefthoof Leggings",
@@ -12211,7 +12214,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 355,
 		},
-	[25737] = {--Pattern: Heavy Clefthoof Boots
+	[25737] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32497,--
 		["itemName"] = "Pattern: Heavy Clefthoof Boots",
@@ -12222,7 +12225,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 355,
 		},
-	[25738] = {--Pattern: Felstalker Belt
+	[25738] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32498,--
 		["itemName"] = "Pattern: Felstalker Belt",
@@ -12233,7 +12236,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25739] = {--Pattern: Felstalker Bracers
+	[25739] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32499,--
 		["itemName"] = "Pattern: Felstalker Bracers",
@@ -12244,7 +12247,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[25740] = {--Pattern: Felstalker Breastplate
+	[25740] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32500,--
 		["itemName"] = "Pattern: Felstalker Breastplate",
@@ -12255,7 +12258,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[25741] = {--Pattern: Netherfury Belt
+	[25741] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32501,--
 		["itemName"] = "Pattern: Netherfury Belt",
@@ -12266,7 +12269,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[25742] = {--Pattern: Netherfury Leggings
+	[25742] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32502,--
 		["itemName"] = "Pattern: Netherfury Leggings",
@@ -12277,7 +12280,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[25743] = {--Pattern: Netherfury Boots
+	[25743] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32503,--
 		["itemName"] = "Pattern: Netherfury Boots",
@@ -12288,7 +12291,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25846] = {--Plans: Adamantite Rod
+	[25846] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32656,--
 		["itemName"] = "Plans: Adamantite Rod",
@@ -12296,7 +12299,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[25847] = {--Plans: Eternium Rod
+	[25847] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32657,--
 		["itemName"] = "Plans: Eternium Rod",
@@ -12304,7 +12307,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 360,
 		},
-	[25848] = {--Formula: Runed Adamantite Rod
+	[25848] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32665,--
 		["itemName"] = "Formula: Runed Adamantite Rod",
@@ -12312,7 +12315,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[25849] = {--Formula: Runed Eternium Rod
+	[25849] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32667,--
 		["itemName"] = "Formula: Runed Eternium Rod",
@@ -12320,7 +12323,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[25869] = {--Recipe: Transmute Earthstorm Diamond
+	[25869] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32765,--
 		["itemName"] = "Recipe: Transmute Earthstorm Diamond",
@@ -12331,7 +12334,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[25870] = {--Recipe: Transmute Skyfire Diamond
+	[25870] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32766,--
 		["itemName"] = "Recipe: Transmute Skyfire Diamond",
@@ -12342,7 +12345,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[25887] = {--Schematic: Purple Smoke Flare
+	[25887] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32814,--
 		["itemName"] = "Schematic: Purple Smoke Flare",
@@ -12350,7 +12353,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 335,
 		},
-	[25900] = {--Grimoire of Demonic Frenzy
+	[25900] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 32850,--Demonic Frenzy (Passive)
 		["itemName"] = "Grimoire of Demonic Frenzy",
@@ -12360,7 +12363,7 @@ LibTextbookDB = {
 		["reqLevel"] = 56,
 		["unique"] = 1,
 		},
-	[25902] = {--Design: Powerful Earthstorm Diamond
+	[25902] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32866,--
 		["itemName"] = "Design: Powerful Earthstorm Diamond",
@@ -12371,7 +12374,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25903] = {--Design: Bracing Earthstorm Diamond
+	[25903] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32867,--
 		["itemName"] = "Design: Bracing Earthstorm Diamond",
@@ -12382,7 +12385,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25904] = {--Design: Insightful Earthstorm Diamond
+	[25904] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32870,--
 		["itemName"] = "Design: Insightful Earthstorm Diamond",
@@ -12393,7 +12396,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25905] = {--Design: Tenacious Earthstorm Diamond
+	[25905] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32868,--
 		["itemName"] = "Design: Tenacious Earthstorm Diamond",
@@ -12401,7 +12404,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25906] = {--Design: Brutal Earthstorm Diamond
+	[25906] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32869,--
 		["itemName"] = "Design: Brutal Earthstorm Diamond",
@@ -12409,7 +12412,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25907] = {--Design: Destructive Skyfire Diamond
+	[25907] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32871,--
 		["itemName"] = "Design: Destructive Skyfire Diamond",
@@ -12417,7 +12420,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25908] = {--Design: Swift Skyfire Diamond
+	[25908] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32873,--
 		["itemName"] = "Design: Swift Skyfire Diamond",
@@ -12428,7 +12431,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25909] = {--Design: Mystical Skyfire Diamond
+	[25909] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32872,--
 		["itemName"] = "Design: Mystical Skyfire Diamond",
@@ -12436,7 +12439,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25910] = {--Design: Enigmatic Skyfire Diamond
+	[25910] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32874,--
 		["itemName"] = "Design: Enigmatic Skyfire Diamond",
@@ -12447,14 +12450,14 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[27445] = {--Magical Crawdad Box
+	[27445] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 33050,--Magical Crawdad
 		["itemName"] = "Magical Crawdad Box",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[27532] = {--Master Fishing - The Art of Angling
+	[27532] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 33095,--Master Fishing
 		["itemName"] = "Master Fishing - The Art of Angling",
@@ -12464,7 +12467,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "removed",
 		},
-	[27684] = {--Recipe: Buzzard Bites
+	[27684] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33279,--
 		["itemName"] = "Recipe: Buzzard Bites",
@@ -12472,7 +12475,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[27685] = {--Recipe: Lynx Steak
+	[27685] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33276,--
 		["itemName"] = "Recipe: Lynx Steak",
@@ -12480,7 +12483,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[27686] = {--Recipe: Roasted Moongraze Tenderloin
+	[27686] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33277,--
 		["itemName"] = "Recipe: Roasted Moongraze Tenderloin",
@@ -12488,7 +12491,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[27687] = {--Recipe: Bat Bites
+	[27687] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33278,--
 		["itemName"] = "Recipe: Bat Bites",
@@ -12496,7 +12499,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[27688] = {--Recipe: Ravager Dog
+	[27688] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33284,--
 		["itemName"] = "Recipe: Ravager Dog",
@@ -12504,7 +12507,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[27689] = {--Recipe: Sporeling Snack
+	[27689] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33285,--
 		["itemName"] = "Recipe: Sporeling Snack",
@@ -12512,7 +12515,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 310,
 		},
-	[27690] = {--Recipe: Blackened Basilisk
+	[27690] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33286,--
 		["itemName"] = "Recipe: Blackened Basilisk",
@@ -12520,7 +12523,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 315,
 		},
-	[27691] = {--Recipe: Roasted Clefthoof
+	[27691] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33287,--
 		["itemName"] = "Recipe: Roasted Clefthoof",
@@ -12528,7 +12531,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[27692] = {--Recipe: Warp Burger
+	[27692] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33288,--
 		["itemName"] = "Recipe: Warp Burger",
@@ -12536,7 +12539,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[27693] = {--Recipe: Talbuk Steak
+	[27693] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33289,--
 		["itemName"] = "Recipe: Talbuk Steak",
@@ -12544,7 +12547,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[27694] = {--Recipe: Blackened Trout
+	[27694] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33290,--
 		["itemName"] = "Recipe: Blackened Trout",
@@ -12552,7 +12555,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[27695] = {--Recipe: Feltail Delight
+	[27695] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33291,--
 		["itemName"] = "Recipe: Feltail Delight",
@@ -12560,7 +12563,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[27696] = {--Recipe: Blackened Sporefish
+	[27696] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33292,--
 		["itemName"] = "Recipe: Blackened Sporefish",
@@ -12568,7 +12571,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 310,
 		},
-	[27697] = {--Recipe: Grilled Mudfish
+	[27697] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33293,--
 		["itemName"] = "Recipe: Grilled Mudfish",
@@ -12576,7 +12579,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 320,
 		},
-	[27698] = {--Recipe: Poached Bluefish
+	[27698] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33294,--
 		["itemName"] = "Recipe: Poached Bluefish",
@@ -12584,7 +12587,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 320,
 		},
-	[27699] = {--Recipe: Golden Fish Sticks
+	[27699] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33295,--
 		["itemName"] = "Recipe: Golden Fish Sticks",
@@ -12592,7 +12595,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[27700] = {--Recipe: Spicy Crawdad
+	[27700] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33296,--
 		["itemName"] = "Recipe: Spicy Crawdad",
@@ -12600,7 +12603,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 350,
 		},
-	[27736] = {--Master Cookbook
+	[27736] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 33359,--Master Cook
 		["itemName"] = "Master Cookbook",
@@ -12609,7 +12612,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[28068] = {--Grimoire of Suffering (Rank 6)
+	[28068] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 33701,--Suffering (Rank 6)
 		["itemName"] = "Grimoire of Suffering (Rank 6)",
@@ -12619,7 +12622,7 @@ LibTextbookDB = {
 		["reqLevel"] = 69,
 		["unique"] = 1,
 		},
-	[28071] = {--Grimoire of Anguish (Rank 1)
+	[28071] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 33698,--Anguish (Rank 1)
 		["itemName"] = "Grimoire of Anguish (Rank 1)",
@@ -12629,7 +12632,7 @@ LibTextbookDB = {
 		["reqLevel"] = 50,
 		["unique"] = 1,
 		},
-	[28072] = {--Grimoire of Anguish (Rank 2)
+	[28072] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 33699,--Anguish (Rank 2)
 		["itemName"] = "Grimoire of Anguish (Rank 2)",
@@ -12639,7 +12642,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["unique"] = 1,
 		},
-	[28073] = {--Grimoire of Anguish (Rank 3)
+	[28073] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 33700,--Anguish (Rank 3)
 		["itemName"] = "Grimoire of Anguish (Rank 3)",
@@ -12649,7 +12652,7 @@ LibTextbookDB = {
 		["reqLevel"] = 70,
 		["unique"] = 1,
 		},
-	[28270] = {--Formula: Enchant Chest - Major Resilience
+	[28270] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33992,--
 		["itemName"] = "Formula: Enchant Chest - Major Resilience",
@@ -12657,7 +12660,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 345,
 		},
-	[28271] = {--Formula: Enchant Gloves - Precise Strikes
+	[28271] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33994,--
 		["itemName"] = "Formula: Enchant Gloves - Precise Strikes",
@@ -12668,7 +12671,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[28272] = {--Formula: Enchant Gloves - Major Spellpower
+	[28272] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33997,--
 		["itemName"] = "Formula: Enchant Gloves - Major Spellpower",
@@ -12679,7 +12682,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[28273] = {--Formula: Enchant Gloves - Major Healing
+	[28273] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33999,--
 		["itemName"] = "Formula: Enchant Gloves - Major Healing",
@@ -12690,7 +12693,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[28274] = {--Formula: Enchant Cloak - Spell Penetration
+	[28274] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34003,--
 		["itemName"] = "Formula: Enchant Cloak - Spell Penetration",
@@ -12701,7 +12704,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 325,
 		},
-	[28276] = {--Formula: Enchant Cloak - Greater Arcane Resistance
+	[28276] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34005,--
 		["itemName"] = "Formula: Enchant Cloak - Greater Arcane Resistance",
@@ -12710,7 +12713,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[28277] = {--Formula: Enchant Cloak - Greater Shadow Resistance
+	[28277] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34006,--
 		["itemName"] = "Formula: Enchant Cloak - Greater Shadow Resistance",
@@ -12719,7 +12722,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[28279] = {--Formula: Enchant Boots - Cat's Swiftness
+	[28279] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34007,--
 		["itemName"] = "Formula: Enchant Boots - Cat's Swiftness",
@@ -12727,7 +12730,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[28280] = {--Formula: Enchant Boots - Boar's Speed
+	[28280] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34008,--
 		["itemName"] = "Formula: Enchant Boots - Boar's Speed",
@@ -12735,7 +12738,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[28281] = {--Formula: Enchant Weapon - Major Healing
+	[28281] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34010,--
 		["itemName"] = "Formula: Enchant Weapon - Major Healing",
@@ -12746,7 +12749,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[28282] = {--Formula: Enchant Shield - Major Stamina
+	[28282] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34009,--
 		["itemName"] = "Formula: Enchant Shield - Major Stamina",
@@ -12754,7 +12757,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 325,
 		},
-	[28291] = {--Design: Smooth Golden Draenite     (now trainable)
+	[28291] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34069,--
 		["itemName"] = "Design: Smooth Golden Draenite",
@@ -12763,7 +12766,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 325,
 		["note"] = "removed",
 		},
-	[28481] = {--Brown Elekk
+	[28481] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34406,--Brown Elekk
 		["itemName"] = "Brown Elekk",
@@ -12774,7 +12777,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[28482] = {--Great Elite Elekk
+	[28482] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34407,--Great Elite Elekk
 		["itemName"] = "Great Elite Elekk",
@@ -12786,7 +12789,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[28596] = {--Design: Bright Blood Garnet     (now trainable)
+	[28596] = {--now trainable
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34590,--
 		["itemName"] = "Design: Bright Blood Garnet",
@@ -12795,7 +12798,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 305,
 		["note"] = "removed",
 		},
-	[28632] = {--Plans: Adamantite Weightstone
+	[28632] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34608,--
 		["itemName"] = "Plans: Adamantite Weightstone",
@@ -12806,7 +12809,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[28915] = {--Reins of the Dark Riding Talbuk
+	[28915] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39316,--Dark Riding Talbuk
 		["itemName"] = "Reins of the Dark Riding Talbuk",
@@ -12816,7 +12819,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[28927] = {--Red Hawkstrider
+	[28927] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34795,--Red Hawkstrider
 		["itemName"] = "Red Hawkstrider",
@@ -12827,7 +12830,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[28936] = {--Swift Pink Hawkstrider
+	[28936] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 33660,--Swift Pink Hawkstrider
 		["itemName"] = "Swift Pink Hawkstrider",
@@ -12838,7 +12841,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29102] = {--Reins of the Cobalt War Talbuk     (Horde)
+	[29102] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34896,--Cobalt War Talbuk
 		["itemName"] = "Reins of the Cobalt War Talbuk",
@@ -12850,7 +12853,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29103] = {--Reins of the White War Talbuk     (Horde)
+	[29103] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34897,--White War Talbuk
 		["itemName"] = "Reins of the White War Talbuk",
@@ -12862,7 +12865,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29104] = {--Reins of the Silver War Talbuk     (Horde)
+	[29104] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34898,--Silver War Talbuk
 		["itemName"] = "Reins of the Silver War Talbuk",
@@ -12874,7 +12877,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29105] = {--Reins of the Tan War Talbuk     (Horde)
+	[29105] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34899,--Tan War Talbuk
 		["itemName"] = "Reins of the Tan War Talbuk",
@@ -12886,7 +12889,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29213] = {--Pattern: Felstalker Belt
+	[29213] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32498,--
 		["itemName"] = "Pattern: Felstalker Belt",
@@ -12897,7 +12900,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29214] = {--Pattern: Felstalker Bracers
+	[29214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32499,--
 		["itemName"] = "Pattern: Felstalker Bracers",
@@ -12908,7 +12911,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[29215] = {--Pattern: Felstalker Breastplate
+	[29215] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32500,--
 		["itemName"] = "Pattern: Felstalker Breastplate",
@@ -12919,7 +12922,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[29217] = {--Pattern: Netherfury Belt
+	[29217] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32501,--
 		["itemName"] = "Pattern: Netherfury Belt",
@@ -12930,7 +12933,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29218] = {--Pattern: Netherfury Boots
+	[29218] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32503,--
 		["itemName"] = "Pattern: Netherfury Boots",
@@ -12941,7 +12944,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29219] = {--Pattern: Netherfury Leggings
+	[29219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32502,--
 		["itemName"] = "Pattern: Netherfury Leggings",
@@ -12952,7 +12955,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29220] = {--Blue Hawkstrider
+	[29220] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35020,--Blue Hawkstrider
 		["itemName"] = "Blue Hawkstrider",
@@ -12963,7 +12966,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29221] = {--Black Hawkstrider
+	[29221] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35022,--Black Hawkstrider
 		["itemName"] = "Black Hawkstrider",
@@ -12974,7 +12977,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29222] = {--Purple Hawkstrider
+	[29222] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35018,--Purple Hawkstrider
 		["itemName"] = "Purple Hawkstrider",
@@ -12985,7 +12988,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29223] = {--Swift Green Hawkstrider
+	[29223] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35025,--Swift Green Hawkstrider
 		["itemName"] = "Swift Green Hawkstrider",
@@ -12996,7 +12999,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29224] = {--Swift Purple Hawkstrider
+	[29224] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35027,--Swift Purple Hawkstrider
 		["itemName"] = "Swift Purple Hawkstrider",
@@ -13007,7 +13010,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29227] = {--Reins of the Cobalt War Talbuk     (Alliance)
+	[29227] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34896,--Cobalt War Talbuk
 		["itemName"] = "Reins of the Cobalt War Talbuk",
@@ -13019,7 +13022,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29228] = {--Reins of the Dark War Talbuk
+	[29228] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34790,--Dark War Talbuk
 		["itemName"] = "Reins of the Dark War Talbuk",
@@ -13029,7 +13032,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29229] = {--Reins of the Silver War Talbuk     (Alliance)
+	[29229] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34898,--Silver War Talbuk
 		["itemName"] = "Reins of the Silver War Talbuk",
@@ -13041,7 +13044,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29230] = {--Reins of the Tan War Talbuk     (Alliance)
+	[29230] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34899,--Tan War Talbuk
 		["itemName"] = "Reins of the Tan War Talbuk",
@@ -13053,7 +13056,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29231] = {--Reins of the White War Talbuk     (Alliance)
+	[29231] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 34897,--White War Talbuk
 		["itemName"] = "Reins of the White War Talbuk",
@@ -13065,7 +13068,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29232] = {--Recipe: Transmute Skyfire Diamond
+	[29232] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32766,--
 		["itemName"] = "Recipe: Transmute Skyfire Diamond",
@@ -13076,19 +13079,19 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[29363] = {--Mana Wyrmling
+	[29363] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35156,--Mana Wyrmling
 		["itemName"] = "Mana Wyrmling",
 		["quality"] = 1,
 		},
-	[29364] = {--Brown Rabbit Crate
+	[29364] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35239,--Brown Rabbit
 		["itemName"] = "Brown Rabbit Crate",
 		["quality"] = 1,
 		},
-	[29465] = {--Black Battlestrider
+	[29465] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22719,--Black Battlestrider
 		["itemName"] = "Black Battlestrider",
@@ -13099,7 +13102,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29466] = {--Black War Kodo
+	[29466] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22718,--Black War Kodo
 		["itemName"] = "Black War Kodo",
@@ -13110,7 +13113,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29467] = {--Black War Ram
+	[29467] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22720,--Black War Ram
 		["itemName"] = "Black War Ram",
@@ -13121,7 +13124,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29468] = {--Black War Steed Bridle
+	[29468] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22717,--Black War Steed
 		["itemName"] = "Black War Steed Bridle",
@@ -13132,7 +13135,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29469] = {--Horn of the Black War Wolf
+	[29469] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22724,--Black War Wolf
 		["itemName"] = "Horn of the Black War Wolf",
@@ -13143,7 +13146,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29470] = {--Red Skeletal Warhorse
+	[29470] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22722,--Red Skeletal Warhorse
 		["itemName"] = "Red Skeletal Warhorse",
@@ -13154,7 +13157,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29471] = {--Reins of the Black War Tiger
+	[29471] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22723,--Black War Tiger
 		["itemName"] = "Reins of the Black War Tiger",
@@ -13165,7 +13168,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29472] = {--Whistle of the Black War Raptor
+	[29472] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 22721,--Black War Raptor
 		["itemName"] = "Whistle of the Black War Raptor",
@@ -13176,7 +13179,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29549] = {--Codex: Prayer of Fortitude III
+	[29549] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 25392,--Prayer of Fortitude (Rank 3)
 		["itemName"] = "Codex: Prayer of Fortitude III",
@@ -13184,7 +13187,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 70,
 		},
-	[29550] = {--Tome of Conjure Water IX
+	[29550] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27090,--Conjure Water (Rank 9)
 		["itemName"] = "Tome of Conjure Water IX",
@@ -13192,7 +13195,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 70,
 		},
-	[29664] = {--Pattern: Reinforced Mining Bag
+	[29664] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35530,--
 		["itemName"] = "Pattern: Reinforced Mining Bag",
@@ -13203,7 +13206,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 325,
 		},
-	[29669] = {--Pattern: Shadow Armor Kit
+	[29669] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35520,--
 		["itemName"] = "Pattern: Shadow Armor Kit",
@@ -13212,7 +13215,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29672] = {--Pattern: Flame Armor Kit
+	[29672] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35521,--
 		["itemName"] = "Pattern: Flame Armor Kit",
@@ -13221,7 +13224,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29673] = {--Pattern: Frost Armor Kit
+	[29673] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35522,--
 		["itemName"] = "Pattern: Frost Armor Kit",
@@ -13230,7 +13233,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29674] = {--Pattern: Nature Armor Kit
+	[29674] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35523,--
 		["itemName"] = "Pattern: Nature Armor Kit",
@@ -13239,7 +13242,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29675] = {--Pattern: Arcane Armor Kit
+	[29675] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35524,--
 		["itemName"] = "Pattern: Arcane Armor Kit",
@@ -13248,7 +13251,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
-	[29677] = {--Pattern: Enchanted Felscale Leggings
+	[29677] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35525,--
 		["itemName"] = "Pattern: Enchanted Felscale Leggings",
@@ -13259,7 +13262,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29682] = {--Pattern: Enchanted Felscale Gloves
+	[29682] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35526,--
 		["itemName"] = "Pattern: Enchanted Felscale Gloves",
@@ -13270,7 +13273,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29684] = {--Pattern: Enchanted Felscale Boots
+	[29684] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35527,--
 		["itemName"] = "Pattern: Enchanted Felscale Boots",
@@ -13281,7 +13284,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29689] = {--Pattern: Flamescale Leggings
+	[29689] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35529,--
 		["itemName"] = "Pattern: Flamescale Leggings",
@@ -13292,7 +13295,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29691] = {--Pattern: Flamescale Boots
+	[29691] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35528,--
 		["itemName"] = "Pattern: Flamescale Boots",
@@ -13303,7 +13306,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29693] = {--Pattern: Flamescale Belt
+	[29693] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35531,--
 		["itemName"] = "Pattern: Flamescale Belt",
@@ -13314,7 +13317,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29698] = {--Pattern: Enchanted Clefthoof Leggings
+	[29698] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35532,--
 		["itemName"] = "Pattern: Enchanted Clefthoof Leggings",
@@ -13325,7 +13328,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29700] = {--Pattern: Enchanted Clefthoof Gloves
+	[29700] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35533,--
 		["itemName"] = "Pattern: Enchanted Clefthoof Gloves",
@@ -13336,7 +13339,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29701] = {--Pattern: Enchanted Clefthoof Boots
+	[29701] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35534,--
 		["itemName"] = "Pattern: Enchanted Clefthoof Boots",
@@ -13347,7 +13350,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29702] = {--Pattern: Blastguard Pants
+	[29702] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35535,--
 		["itemName"] = "Pattern: Blastguard Pants",
@@ -13358,7 +13361,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29703] = {--Pattern: Blastguard Boots
+	[29703] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35536,--
 		["itemName"] = "Pattern: Blastguard Boots",
@@ -13369,7 +13372,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29704] = {--Pattern: Blastguard Belt
+	[29704] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35537,--
 		["itemName"] = "Pattern: Blastguard Belt",
@@ -13380,7 +13383,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29713] = {--Pattern: Drums of Panic
+	[29713] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35538,--
 		["itemName"] = "Pattern: Drums of Panic",
@@ -13391,7 +13394,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 370,
 		},
-	[29714] = {--Pattern: Drums of Restoration
+	[29714] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35539,--
 		["itemName"] = "Pattern: Drums of Restoration",
@@ -13399,7 +13402,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29717] = {--Pattern: Drums of Battle
+	[29717] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35543,--
 		["itemName"] = "Pattern: Drums of Battle",
@@ -13410,7 +13413,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29718] = {--Pattern: Drums of Speed
+	[29718] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35544,--
 		["itemName"] = "Pattern: Drums of Speed",
@@ -13418,7 +13421,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 345,
 		},
-	[29719] = {--Pattern: Cobrahide Leg Armor
+	[29719] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35549,--
 		["itemName"] = "Pattern: Cobrahide Leg Armor",
@@ -13429,7 +13432,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 335,
 		},
-	[29720] = {--Pattern: Clefthide Leg Armor
+	[29720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35555,--
 		["itemName"] = "Pattern: Clefthide Leg Armor",
@@ -13440,7 +13443,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 335,
 		},
-	[29721] = {--Pattern: Nethercleft Leg Armor
+	[29721] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35557,--
 		["itemName"] = "Pattern: Nethercleft Leg Armor",
@@ -13451,7 +13454,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29722] = {--Pattern: Nethercobra Leg Armor
+	[29722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35554,--
 		["itemName"] = "Pattern: Nethercobra Leg Armor",
@@ -13462,7 +13465,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29723] = {--Pattern: Cobrascale Hood
+	[29723] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35558,--
 		["itemName"] = "Pattern: Cobrascale Hood",
@@ -13470,7 +13473,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29724] = {--Pattern: Cobrascale Gloves
+	[29724] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35559,--
 		["itemName"] = "Pattern: Cobrascale Gloves",
@@ -13478,7 +13481,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29725] = {--Pattern: Windscale Hood
+	[29725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35560,--
 		["itemName"] = "Pattern: Windscale Hood",
@@ -13486,7 +13489,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29726] = {--Pattern: Hood of Primal Life
+	[29726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35561,--
 		["itemName"] = "Pattern: Hood of Primal Life",
@@ -13494,7 +13497,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29727] = {--Pattern: Gloves of the Living Touch
+	[29727] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35562,--
 		["itemName"] = "Pattern: Gloves of the Living Touch",
@@ -13502,7 +13505,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29728] = {--Pattern: Windslayer Wraps
+	[29728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35563,--
 		["itemName"] = "Pattern: Windslayer Wraps",
@@ -13510,7 +13513,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29729] = {--Pattern: Living Dragonscale Helm
+	[29729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35564,--
 		["itemName"] = "Pattern: Living Dragonscale Helm",
@@ -13518,7 +13521,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29730] = {--Pattern: Earthen Netherscale Boots
+	[29730] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35567,--
 		["itemName"] = "Pattern: Earthen Netherscale Boots",
@@ -13526,7 +13529,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29731] = {--Pattern: Windstrike Gloves
+	[29731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35568,--
 		["itemName"] = "Pattern: Windstrike Gloves",
@@ -13534,7 +13537,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29732] = {--Pattern: Netherdrake Helm
+	[29732] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35572,--
 		["itemName"] = "Pattern: Netherdrake Helm",
@@ -13542,7 +13545,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29733] = {--Pattern: Netherdrake Gloves
+	[29733] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35573,--
 		["itemName"] = "Pattern: Netherdrake Gloves",
@@ -13550,7 +13553,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29734] = {--Pattern: Thick Netherscale Breastplate
+	[29734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35574,--
 		["itemName"] = "Pattern: Thick Netherscale Breastplate",
@@ -13558,7 +13561,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29743] = {--Purple Elekk
+	[29743] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35711,--Purple Elekk
 		["itemName"] = "Purple Elekk",
@@ -13569,7 +13572,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29744] = {--Gray Elekk
+	[29744] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35710,--Gray Elekk
 		["itemName"] = "Gray Elekk",
@@ -13580,7 +13583,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29745] = {--Great Blue Elekk
+	[29745] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35713,--Great Blue Elekk
 		["itemName"] = "Great Blue Elekk",
@@ -13591,7 +13594,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29746] = {--Great Green Elekk
+	[29746] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35712,--Great Green Elekk
 		["itemName"] = "Great Green Elekk",
@@ -13602,7 +13605,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29747] = {--Great Purple Elekk
+	[29747] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35714,--Great Purple Elekk
 		["itemName"] = "Great Purple Elekk",
@@ -13613,61 +13616,61 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29901] = {--Blue Moth Egg
+	[29901] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35907,--Blue Moth
 		["itemName"] = "Blue Moth Egg",
 		["quality"] = 1,
 		},
-	[29902] = {--Red Moth Egg
+	[29902] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35909,--Red Moth
 		["itemName"] = "Red Moth Egg",
 		["quality"] = 1,
 		},
-	[29903] = {--Yellow Moth Egg
+	[29903] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35910,--Yellow Moth
 		["itemName"] = "Yellow Moth Egg",
 		["quality"] = 1,
 		},
-	[29904] = {--White Moth Egg
+	[29904] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35911,--White Moth
 		["itemName"] = "White Moth Egg",
 		["quality"] = 1,
 		},
-	[29953] = {--Golden Dragonhawk Hatchling
+	[29953] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 36027,--Golden Dragonhawk Hatchling
 		["itemName"] = "Golden Dragonhawk Hatchling",
 		["quality"] = 1,
 		},
-	[29956] = {--Red Dragonhawk Hatchling
+	[29956] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 36028,--Red Dragonhawk Hatchling
 		["itemName"] = "Red Dragonhawk Hatchling",
 		["quality"] = 1,
 		},
-	[29957] = {--Silver Dragonhawk Hatchling
+	[29957] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 36029,--Silver Dragonhawk Hatchling
 		["itemName"] = "Silver Dragonhawk Hatchling",
 		["quality"] = 1,
 		},
-	[29958] = {--Blue Dragonhawk Hatchling
+	[29958] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 36031,--Blue Dragonhawk Hatchling
 		["itemName"] = "Blue Dragonhawk Hatchling",
 		["quality"] = 1,
 		},
-	[29960] = {--Captured Firefly
+	[29960] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 36034,--Firefly
 		["itemName"] = "Captured Firefly",
 		["quality"] = 1,
 		},
-	[30156] = {--Recipe: Clam Bar
+	[30156] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36210,--
 		["itemName"] = "Recipe: Clam Bar",
@@ -13675,7 +13678,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[30280] = {--Pattern: Belt of Blasting
+	[30280] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36315,--
 		["itemName"] = "Pattern: Belt of Blasting",
@@ -13684,7 +13687,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[30281] = {--Pattern: Belt of the Long Road
+	[30281] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36316,--
 		["itemName"] = "Pattern: Belt of the Long Road",
@@ -13693,7 +13696,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[30282] = {--Pattern: Boots of Blasting
+	[30282] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36317,--
 		["itemName"] = "Pattern: Boots of Blasting",
@@ -13701,7 +13704,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[30283] = {--Pattern: Boots of the Long Road
+	[30283] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36318,--
 		["itemName"] = "Pattern: Boots of the Long Road",
@@ -13709,7 +13712,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[30301] = {--Pattern: Belt of Natural Power
+	[30301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36349,--
 		["itemName"] = "Pattern: Belt of Natural Power",
@@ -13718,7 +13721,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30302] = {--Pattern: Belt of Deep Shadow
+	[30302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36351,--
 		["itemName"] = "Pattern: Belt of Deep Shadow",
@@ -13727,7 +13730,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30303] = {--Pattern: Belt of the Black Eagle
+	[30303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36352,--
 		["itemName"] = "Pattern: Belt of the Black Eagle",
@@ -13736,7 +13739,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30304] = {--Pattern: Monsoon Belt
+	[30304] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36353,--
 		["itemName"] = "Pattern: Monsoon Belt",
@@ -13745,7 +13748,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30305] = {--Pattern: Boots of Natural Grace
+	[30305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36355,--
 		["itemName"] = "Pattern: Boots of Natural Grace",
@@ -13753,7 +13756,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30306] = {--Pattern: Boots of Utter Darkness
+	[30306] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36357,--
 		["itemName"] = "Pattern: Boots of Utter Darkness",
@@ -13761,7 +13764,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30307] = {--Pattern: Boots of the Crimson Hawk
+	[30307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36358,--
 		["itemName"] = "Pattern: Boots of the Crimson Hawk",
@@ -13769,7 +13772,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30308] = {--Pattern: Hurricane Boots
+	[30308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36359,--
 		["itemName"] = "Pattern: Hurricane Boots",
@@ -13777,7 +13780,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[30321] = {--Plans: Belt of the Guardian
+	[30321] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36389,--
 		["itemName"] = "Plans: Belt of the Guardian",
@@ -13786,7 +13789,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[30322] = {--Plans: Red Belt of Battle
+	[30322] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36390,--
 		["itemName"] = "Plans: Red Belt of Battle",
@@ -13795,7 +13798,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[30323] = {--Plans: Boots of the Protector
+	[30323] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36391,--
 		["itemName"] = "Plans: Boots of the Protector",
@@ -13803,7 +13806,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[30324] = {--Plans: Red Havoc Boots
+	[30324] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36392,--
 		["itemName"] = "Plans: Red Havoc Boots",
@@ -13811,14 +13814,14 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[30360] = {--Lurky's Egg
+	[30360] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 24988,--Lurky
 		["itemName"] = "Lurky's Egg",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[30443] = {--Recipe: Transmute Primal Fire to Earth
+	[30443] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28568,--
 		["itemName"] = "Recipe: Transmute Primal Fire to Earth",
@@ -13829,7 +13832,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[30444] = {--Pattern: Reinforced Mining Bag
+	[30444] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35530,--
 		["itemName"] = "Pattern: Reinforced Mining Bag",
@@ -13840,7 +13843,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 325,
 		},
-	[30480] = {--Fiery Warhorse's Reins     (Karazhan)
+	[30480] = {--Karazhan
 		["type"] = "MOUNT",
 		["teachesSpell"] = 36702,--Fiery Warhorse
 		["itemName"] = "Fiery Warhorse's Reins",
@@ -13851,7 +13854,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[30483] = {--Pattern: Shadowcloth
+	[30483] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 36686,--
 		["itemName"] = "Pattern: Shadowcloth",
@@ -13859,7 +13862,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[30609] = {--Swift Nether Drake
+	[30609] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 37015,--Swift Nether Drake
 		["itemName"] = "Swift Nether Drake",
@@ -13870,7 +13873,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[30826] = {--Design: Ring of Arcane Shielding
+	[30826] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 37855,--
 		["itemName"] = "Design: Ring of Arcane Shielding",
@@ -13881,7 +13884,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[30833] = {--Pattern: Cloak of Arcane Evasion
+	[30833] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 37873,--
 		["itemName"] = "Pattern: Cloak of Arcane Evasion",
@@ -13892,7 +13895,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[30842] = {--Pattern: Flameheart Bracers
+	[30842] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 37882,--
 		["itemName"] = "Pattern: Flameheart Bracers",
@@ -13903,7 +13906,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[30843] = {--Pattern: Flameheart Gloves
+	[30843] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 37883,--
 		["itemName"] = "Pattern: Flameheart Gloves",
@@ -13914,7 +13917,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 360,
 		},
-	[30844] = {--Pattern: Flameheart Vest
+	[30844] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 37884,--
 		["itemName"] = "Pattern: Flameheart Vest",
@@ -13925,7 +13928,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 370,
 		},
-	[31354] = {--Recipe: Flask of the Titans
+	[31354] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17635,--
 		["itemName"] = "Recipe: Flask of the Titans",
@@ -13936,7 +13939,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[31355] = {--Recipe: Flask of Supreme Power
+	[31355] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17637,--
 		["itemName"] = "Recipe: Flask of Supreme Power",
@@ -13947,7 +13950,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[31356] = {--Recipe: Flask of Distilled Wisdom
+	[31356] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17636,--
 		["itemName"] = "Recipe: Flask of Distilled Wisdom",
@@ -13958,7 +13961,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[31357] = {--Recipe: Flask of Chromatic Resistance
+	[31357] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17638,--
 		["itemName"] = "Recipe: Flask of Chromatic Resistance",
@@ -13969,7 +13972,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[31358] = {--Design: Dawnstone Crab
+	[31358] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31080,--
 		["itemName"] = "Design: Dawnstone Crab",
@@ -13980,7 +13983,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[31359] = {--Design: Enduring Deep Peridot
+	[31359] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28918,--
 		["itemName"] = "Design: Enduring Deep Peridot",
@@ -13991,7 +13994,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 315,
 		},
-	[31361] = {--Pattern: Cobrahide Leg Armor
+	[31361] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35549,--
 		["itemName"] = "Pattern: Cobrahide Leg Armor",
@@ -14002,7 +14005,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 335,
 		},
-	[31362] = {--Pattern: Nethercobra Leg Armor
+	[31362] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35554,--
 		["itemName"] = "Pattern: Nethercobra Leg Armor",
@@ -14013,7 +14016,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[31390] = {--Plans: Wildguard Breastplate
+	[31390] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38473,--
 		["itemName"] = "Plans: Wildguard Breastplate",
@@ -14024,7 +14027,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[31391] = {--Plans: Wildguard Leggings
+	[31391] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38475,--
 		["itemName"] = "Plans: Wildguard Leggings",
@@ -14035,7 +14038,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[31392] = {--Plans: Wildguard Helm
+	[31392] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38476,--
 		["itemName"] = "Plans: Wildguard Helm",
@@ -14046,7 +14049,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[31393] = {--Plans: Iceguard Breastplate
+	[31393] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38477,--
 		["itemName"] = "Plans: Iceguard Breastplate",
@@ -14057,7 +14060,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[31394] = {--Plans: Iceguard Leggings
+	[31394] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38478,--
 		["itemName"] = "Plans: Iceguard Leggings",
@@ -14068,7 +14071,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[31395] = {--Plans: Iceguard Helm
+	[31395] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38479,--
 		["itemName"] = "Plans: Iceguard Helm",
@@ -14079,7 +14082,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[31401] = {--Design: The Frozen Eye
+	[31401] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38503,--
 		["itemName"] = "Design: The Frozen Eye",
@@ -14090,7 +14093,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[31402] = {--Design: The Natural Ward
+	[31402] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38504,--
 		["itemName"] = "Design: The Natural Ward",
@@ -14101,7 +14104,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[31501] = {--Tome of Conjure Food VIII
+	[31501] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 33717,--Conjure Food (Rank 8)
 		["itemName"] = "Tome of Conjure Food VIII",
@@ -14109,7 +14112,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 70,
 		},
-	[31674] = {--Recipe: Crunchy Serpent
+	[31674] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38868,--
 		["itemName"] = "Recipe: Crunchy Serpent",
@@ -14118,7 +14121,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 335,
 		},
-	[31675] = {--Recipe: Mok'Nathal Shortribs
+	[31675] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38867,--
 		["itemName"] = "Recipe: Mok'Nathal Shortribs",
@@ -14127,7 +14130,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 335,
 		},
-	[31680] = {--Recipe: Fel Strength Elixir
+	[31680] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38960,--
 		["itemName"] = "Recipe: Fel Strength Elixir",
@@ -14136,7 +14139,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 335,
 		},
-	[31681] = {--Recipe: Fel Regeneration Potion
+	[31681] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38962,--
 		["itemName"] = "Recipe: Fel Regeneration Potion",
@@ -14145,7 +14148,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 345,
 		},
-	[31682] = {--Recipe: Fel Mana Potion
+	[31682] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38961,--
 		["itemName"] = "Recipe: Fel Mana Potion",
@@ -14154,14 +14157,14 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[31760] = {--Miniwing
+	[31760] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 39181,--Miniwing
 		["itemName"] = "Miniwing",
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[31829] = {--Reins of the Cobalt Riding Talbuk     (Horde)
+	[31829] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39315,--Cobalt Riding Talbuk
 		["itemName"] = "Reins of the Cobalt Riding Talbuk",
@@ -14173,7 +14176,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31830] = {--Reins of the Cobalt Riding Talbuk     (Alliance)
+	[31830] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39315,--Cobalt Riding Talbuk
 		["itemName"] = "Reins of the Cobalt Riding Talbuk",
@@ -14185,7 +14188,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31831] = {--Reins of the Silver Riding Talbuk     (Horde)
+	[31831] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39317,--Silver Riding Talbuk
 		["itemName"] = "Reins of the Silver Riding Talbuk",
@@ -14197,7 +14200,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31832] = {--Reins of the Silver Riding Talbuk     (Alliance)
+	[31832] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39317,--Silver Riding Talbuk
 		["itemName"] = "Reins of the Silver Riding Talbuk",
@@ -14209,7 +14212,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31833] = {--Reins of the Tan Riding Talbuk     (Horde)
+	[31833] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39318,--Tan Riding Talbuk
 		["itemName"] = "Reins of the Tan Riding Talbuk",
@@ -14221,7 +14224,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31834] = {--Reins of the Tan Riding Talbuk     (Alliance)
+	[31834] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39318,--Tan Riding Talbuk
 		["itemName"] = "Reins of the Tan Riding Talbuk",
@@ -14233,7 +14236,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31835] = {--Reins of the White Riding Talbuk     (Horde)
+	[31835] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39319,--White Riding Talbuk
 		["itemName"] = "Reins of the White Riding Talbuk",
@@ -14245,7 +14248,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31836] = {--Reins of the White Riding Talbuk     (Alliance)
+	[31836] = {--Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39319,--White Riding Talbuk
 		["itemName"] = "Reins of the White Riding Talbuk",
@@ -14257,7 +14260,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31837] = {--Codex: Prayer of Shadow Protection II
+	[31837] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 39374,--Prayer of Shadow Protection (Rank 2)
 		["itemName"] = "Codex: Prayer of Shadow Protection II",
@@ -14265,7 +14268,7 @@ LibTextbookDB = {
 		["reqClasses"] = 32,
 		["reqLevel"] = 70,
 		},
-	[31870] = {--Design: Great Golden Draenite
+	[31870] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39451,--
 		["itemName"] = "Design: Great Golden Draenite",
@@ -14273,7 +14276,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31871] = {--Design: Balanced Shadow Draenite
+	[31871] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39455,--
 		["itemName"] = "Design: Balanced Shadow Draenite",
@@ -14281,7 +14284,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31872] = {--Design: Infused Shadow Draenite
+	[31872] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39458,--
 		["itemName"] = "Design: Infused Shadow Draenite",
@@ -14289,7 +14292,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31873] = {--Design: Veiled Flame Spessarite
+	[31873] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39466,--
 		["itemName"] = "Design: Veiled Flame Spessarite",
@@ -14297,7 +14300,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31874] = {--Design: Wicked Flame Spessarite
+	[31874] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39467,--
 		["itemName"] = "Design: Wicked Flame Spessarite",
@@ -14305,7 +14308,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31875] = {--Design: Great Dawnstone
+	[31875] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39452,--
 		["itemName"] = "Design: Great Dawnstone",
@@ -14313,7 +14316,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[31876] = {--Design: Balanced Nightseye
+	[31876] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39463,--
 		["itemName"] = "Design: Balanced Nightseye",
@@ -14321,7 +14324,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[31877] = {--Design: Infused Nightseye
+	[31877] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39462,--
 		["itemName"] = "Design: Infused Nightseye",
@@ -14329,7 +14332,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[31878] = {--Design: Veiled Noble Topaz
+	[31878] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39470,--
 		["itemName"] = "Design: Veiled Noble Topaz",
@@ -14337,7 +14340,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[31879] = {--Design: Wicked Noble Topaz
+	[31879] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39471,--
 		["itemName"] = "Design: Wicked Noble Topaz",
@@ -14345,7 +14348,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[32070] = {--Recipe: Earthen Elixir
+	[32070] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39637,--
 		["itemName"] = "Recipe: Earthen Elixir",
@@ -14356,7 +14359,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 320,
 		},
-	[32071] = {--Recipe: Elixir of Ironskin
+	[32071] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39639,--
 		["itemName"] = "Recipe: Elixir of Ironskin",
@@ -14365,14 +14368,14 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 330,
 		},
-	[32233] = {--Wolpertinger's Tankard
+	[32233] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 39709,--Wolpertinger
 		["itemName"] = "Wolpertinger's Tankard",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[32274] = {--Design: Bold Crimson Spinel
+	[32274] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39705,--
 		["itemName"] = "Design: Bold Crimson Spinel",
@@ -14383,7 +14386,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32277] = {--Design: Delicate Crimson Spinel
+	[32277] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39706,--
 		["itemName"] = "Design: Delicate Crimson Spinel",
@@ -14394,7 +14397,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32281] = {--Design: Teardrop Crimson Spinel
+	[32281] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39710,--
 		["itemName"] = "Design: Teardrop Crimson Spinel",
@@ -14405,7 +14408,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32282] = {--Design: Runed Crimson Spinel
+	[32282] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39711,--
 		["itemName"] = "Design: Runed Crimson Spinel",
@@ -14416,7 +14419,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32283] = {--Design: Bright Crimson Spinel
+	[32283] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39712,--
 		["itemName"] = "Design: Bright Crimson Spinel",
@@ -14427,7 +14430,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32284] = {--Design: Subtle Crimson Spinel
+	[32284] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39713,--
 		["itemName"] = "Design: Subtle Crimson Spinel",
@@ -14438,7 +14441,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32285] = {--Design: Flashing Crimson Spinel
+	[32285] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39714,--
 		["itemName"] = "Design: Flashing Crimson Spinel",
@@ -14447,7 +14450,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32286] = {--Design: Solid Empyrean Sapphire
+	[32286] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39715,--
 		["itemName"] = "Design: Solid Empyrean Sapphire",
@@ -14458,7 +14461,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32287] = {--Design: Sparkling Empyrean Sapphire
+	[32287] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39716,--
 		["itemName"] = "Design: Sparkling Empyrean Sapphire",
@@ -14469,7 +14472,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32288] = {--Design: Lustrous Empyrean Sapphire
+	[32288] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39717,--
 		["itemName"] = "Design: Lustrous Empyrean Sapphire",
@@ -14480,7 +14483,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32289] = {--Design: Stormy Empyrean Sapphire
+	[32289] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39718,--
 		["itemName"] = "Design: Stormy Empyrean Sapphire",
@@ -14489,7 +14492,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32290] = {--Design: Brilliant Lionseye
+	[32290] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39719,--
 		["itemName"] = "Design: Brilliant Lionseye",
@@ -14500,7 +14503,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32291] = {--Design: Smooth Lionseye
+	[32291] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39720,--
 		["itemName"] = "Design: Smooth Lionseye",
@@ -14511,7 +14514,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32292] = {--Design: Rigid Lionseye
+	[32292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39721,--
 		["itemName"] = "Design: Rigid Lionseye",
@@ -14522,7 +14525,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32293] = {--Design: Gleaming Lionseye
+	[32293] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39722,--
 		["itemName"] = "Design: Gleaming Lionseye",
@@ -14533,7 +14536,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32294] = {--Design: Thick Lionseye
+	[32294] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39723,--
 		["itemName"] = "Design: Thick Lionseye",
@@ -14544,7 +14547,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32295] = {--Design: Mystic Lionseye
+	[32295] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39724,--
 		["itemName"] = "Design: Mystic Lionseye",
@@ -14553,7 +14556,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32296] = {--Design: Great Lionseye
+	[32296] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39725,--
 		["itemName"] = "Design: Great Lionseye",
@@ -14562,7 +14565,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32297] = {--Design: Sovereign Shadowsong Amethyst
+	[32297] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39727,--
 		["itemName"] = "Design: Sovereign Shadowsong Amethyst",
@@ -14571,7 +14574,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32298] = {--Design: Shifting Shadowsong Amethyst
+	[32298] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39728,--
 		["itemName"] = "Design: Shifting Shadowsong Amethyst",
@@ -14580,7 +14583,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32299] = {--Design: Balanced Shadowsong Amethyst
+	[32299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39729,--
 		["itemName"] = "Design: Balanced Shadowsong Amethyst",
@@ -14591,7 +14594,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32300] = {--Design: Infused Shadowsong Amethyst
+	[32300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39730,--
 		["itemName"] = "Design: Infused Shadowsong Amethyst",
@@ -14602,7 +14605,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32301] = {--Design: Glowing Shadowsong Amethyst
+	[32301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39731,--
 		["itemName"] = "Design: Glowing Shadowsong Amethyst",
@@ -14613,7 +14616,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32302] = {--Design: Royal Shadowsong Amethyst
+	[32302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39732,--
 		["itemName"] = "Design: Royal Shadowsong Amethyst",
@@ -14624,7 +14627,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32303] = {--Design: Inscribed Pyrestone
+	[32303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39733,--
 		["itemName"] = "Design: Inscribed Pyrestone",
@@ -14633,7 +14636,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32304] = {--Design: Potent Pyrestone
+	[32304] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39734,--
 		["itemName"] = "Design: Potent Pyrestone",
@@ -14644,7 +14647,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32305] = {--Design: Luminous Pyrestone
+	[32305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39735,--
 		["itemName"] = "Design: Luminous Pyrestone",
@@ -14655,7 +14658,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32306] = {--Design: Glinting Pyrestone
+	[32306] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39736,--
 		["itemName"] = "Design: Glinting Pyrestone",
@@ -14666,7 +14669,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32307] = {--Design: Veiled Pyrestone
+	[32307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39737,--
 		["itemName"] = "Design: Veiled Pyrestone",
@@ -14675,7 +14678,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32308] = {--Design: Wicked Pyrestone
+	[32308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39738,--
 		["itemName"] = "Design: Wicked Pyrestone",
@@ -14686,7 +14689,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32309] = {--Design: Enduring Seaspray Emerald
+	[32309] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39739,--
 		["itemName"] = "Design: Enduring Seaspray Emerald",
@@ -14697,7 +14700,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32310] = {--Design: Radiant Seaspray Emerald
+	[32310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39740,--
 		["itemName"] = "Design: Radiant Seaspray Emerald",
@@ -14708,7 +14711,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32311] = {--Design: Dazzling Seaspray Emerald
+	[32311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39741,--
 		["itemName"] = "Design: Dazzling Seaspray Emerald",
@@ -14719,7 +14722,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32312] = {--Design: Jagged Seaspray Emerald
+	[32312] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39742,--
 		["itemName"] = "Design: Jagged Seaspray Emerald",
@@ -14730,7 +14733,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32314] = {--Green Riding Nether Ray
+	[32314] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39798,--Green Riding Nether Ray
 		["itemName"] = "Green Riding Nether Ray",
@@ -14743,7 +14746,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32316] = {--Purple Riding Nether Ray
+	[32316] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39801,--Purple Riding Nether Ray
 		["itemName"] = "Purple Riding Nether Ray",
@@ -14756,7 +14759,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32317] = {--Red Riding Nether Ray
+	[32317] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39800,--Red Riding Nether Ray
 		["itemName"] = "Red Riding Nether Ray",
@@ -14769,7 +14772,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32318] = {--Silver Riding Nether Ray
+	[32318] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39802,--Silver Riding Nether Ray
 		["itemName"] = "Silver Riding Nether Ray",
@@ -14782,7 +14785,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32319] = {--Blue Riding Nether Ray
+	[32319] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39803,--Blue Riding Nether Ray
 		["itemName"] = "Blue Riding Nether Ray",
@@ -14795,7 +14798,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32381] = {--Schematic: Fused Wiring
+	[32381] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39895,--
 		["itemName"] = "Schematic: Fused Wiring",
@@ -14803,7 +14806,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[32411] = {--Design: Thundering Skyfire Diamond
+	[32411] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39963,--
 		["itemName"] = "Design: Thundering Skyfire Diamond",
@@ -14811,7 +14814,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[32412] = {--Design: Relentless Earthstorm Diamond
+	[32412] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39961,--
 		["itemName"] = "Design: Relentless Earthstorm Diamond",
@@ -14822,7 +14825,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[32429] = {--Pattern: Boots of Shackled Souls
+	[32429] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39997,--
 		["itemName"] = "Pattern: Boots of Shackled Souls",
@@ -14833,7 +14836,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32430] = {--Pattern: Bracers of Shackled Souls
+	[32430] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 52733,--
 		["itemName"] = "Pattern: Bracers of Shackled Souls",
@@ -14844,7 +14847,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32431] = {--Pattern: Greaves of Shackled Souls
+	[32431] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40001,--
 		["itemName"] = "Pattern: Greaves of Shackled Souls",
@@ -14855,7 +14858,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32432] = {--Pattern: Waistguard of Shackled Souls
+	[32432] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40002,--
 		["itemName"] = "Pattern: Waistguard of Shackled Souls",
@@ -14866,7 +14869,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32433] = {--Pattern: Redeemed Soul Moccasins
+	[32433] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40003,--
 		["itemName"] = "Pattern: Redeemed Soul Moccasins",
@@ -14877,7 +14880,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32434] = {--Pattern: Redeemed Soul Wristguards
+	[32434] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40004,--
 		["itemName"] = "Pattern: Redeemed Soul Wristguards",
@@ -14888,7 +14891,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32435] = {--Pattern: Redeemed Soul Legguards
+	[32435] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40005,--
 		["itemName"] = "Pattern: Redeemed Soul Legguards",
@@ -14899,7 +14902,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32436] = {--Pattern: Redeemed Soul Cinch
+	[32436] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40006,--
 		["itemName"] = "Pattern: Redeemed Soul Cinch",
@@ -14910,7 +14913,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32437] = {--Pattern: Soulguard Slippers
+	[32437] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40020,--
 		["itemName"] = "Pattern: Soulguard Slippers",
@@ -14921,7 +14924,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32438] = {--Pattern: Soulguard Bracers
+	[32438] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40021,--
 		["itemName"] = "Pattern: Soulguard Bracers",
@@ -14932,7 +14935,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32439] = {--Pattern: Soulguard Leggings
+	[32439] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40023,--
 		["itemName"] = "Pattern: Soulguard Leggings",
@@ -14943,7 +14946,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32440] = {--Pattern: Soulguard Girdle
+	[32440] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40024,--
 		["itemName"] = "Pattern: Soulguard Girdle",
@@ -14954,7 +14957,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32441] = {--Plans: Shadesteel Sabots
+	[32441] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40033,--
 		["itemName"] = "Plans: Shadesteel Sabots",
@@ -14965,7 +14968,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32442] = {--Plans: Shadesteel Bracers
+	[32442] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40034,--
 		["itemName"] = "Plans: Shadesteel Bracers",
@@ -14976,7 +14979,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32443] = {--Plans: Shadesteel Greaves
+	[32443] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40035,--
 		["itemName"] = "Plans: Shadesteel Greaves",
@@ -14987,7 +14990,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32444] = {--Plans: Shadesteel Girdle
+	[32444] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40036,--
 		["itemName"] = "Plans: Shadesteel Girdle",
@@ -14998,7 +15001,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32447] = {--Pattern: Night's End
+	[32447] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 40060,--
 		["itemName"] = "Pattern: Night's End",
@@ -15009,7 +15012,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32458] = {--Ashes of Al'ar     (Tempest Keep)
+	[32458] = {--Tempest Keep
 		["type"] = "MOUNT",
 		["teachesSpell"] = 40192,--Ashes of Al'ar
 		["itemName"] = "Ashes of Al'ar",
@@ -15020,7 +15023,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32498] = {--Fortune Coin
+	[32498] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 40405,--Lucky
 		["itemName"] = "Fortune Coin",
@@ -15028,14 +15031,14 @@ LibTextbookDB = {
 		["binding"] = 6,
 		["unique"] = 1,
 		},
-	[32588] = {--Banana Charm
+	[32588] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 40549,--Bananas
 		["itemName"] = "Banana Charm",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[32616] = {--Egbert's Egg
+	[32616] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 40614,--Egbert
 		["itemName"] = "Egbert's Egg",
@@ -15043,7 +15046,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[32617] = {--Sleepy Willy
+	[32617] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 40613,--Willy
 		["itemName"] = "Sleepy Willy",
@@ -15051,7 +15054,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[32622] = {--Elekk Training Collar
+	[32622] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 40634,--Peanut
 		["itemName"] = "Elekk Training Collar",
@@ -15059,7 +15062,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[32736] = {--Plans: Swiftsteel Bracers
+	[32736] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41132,--
 		["itemName"] = "Plans: Swiftsteel Bracers",
@@ -15068,7 +15071,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32737] = {--Plans: Swiftsteel Shoulders
+	[32737] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41133,--
 		["itemName"] = "Plans: Swiftsteel Shoulders",
@@ -15076,7 +15079,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32738] = {--Plans: Dawnsteel Bracers
+	[32738] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41134,--
 		["itemName"] = "Plans: Dawnsteel Bracers",
@@ -15085,7 +15088,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32739] = {--Plans: Dawnsteel Shoulders
+	[32739] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41135,--
 		["itemName"] = "Plans: Dawnsteel Shoulders",
@@ -15093,7 +15096,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[32744] = {--Pattern: Bracers of Renewed Life
+	[32744] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41156,--
 		["itemName"] = "Pattern: Bracers of Renewed Life",
@@ -15102,7 +15105,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32745] = {--Pattern: Shoulderpads of Renewed Life
+	[32745] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41157,--
 		["itemName"] = "Pattern: Shoulderpads of Renewed Life",
@@ -15110,7 +15113,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32746] = {--Pattern: Swiftstrike Bracers
+	[32746] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41158,--
 		["itemName"] = "Pattern: Swiftstrike Bracers",
@@ -15119,7 +15122,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32747] = {--Pattern: Swiftstrike Shoulders
+	[32747] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41160,--
 		["itemName"] = "Pattern: Swiftstrike Shoulders",
@@ -15127,7 +15130,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32748] = {--Pattern: Bindings of Lightning Reflexes
+	[32748] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41161,--
 		["itemName"] = "Pattern: Bindings of Lightning Reflexes",
@@ -15136,7 +15139,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32749] = {--Pattern: Shoulders of Lightning Reflexes
+	[32749] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41162,--
 		["itemName"] = "Pattern: Shoulders of Lightning Reflexes",
@@ -15144,7 +15147,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32750] = {--Pattern: Living Earth Bindings
+	[32750] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41163,--
 		["itemName"] = "Pattern: Living Earth Bindings",
@@ -15153,7 +15156,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32751] = {--Pattern: Living Earth Shoulders
+	[32751] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41164,--
 		["itemName"] = "Pattern: Living Earth Shoulders",
@@ -15161,7 +15164,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[32752] = {--Pattern: Swiftheal Wraps
+	[32752] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41207,--
 		["itemName"] = "Pattern: Swiftheal Wraps",
@@ -15170,7 +15173,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32753] = {--Pattern: Swiftheal Mantle
+	[32753] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41208,--
 		["itemName"] = "Pattern: Swiftheal Mantle",
@@ -15178,7 +15181,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32754] = {--Pattern: Bracers of Nimble Thought
+	[32754] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41205,--
 		["itemName"] = "Pattern: Bracers of Nimble Thought",
@@ -15187,7 +15190,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32755] = {--Pattern: Mantle of Nimble Thought
+	[32755] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41206,--
 		["itemName"] = "Pattern: Mantle of Nimble Thought",
@@ -15195,7 +15198,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[32768] = {--Reins of the Raven Lord     (Sethekk Halls)
+	[32768] = {--Sethekk Halls
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41252,--Raven Lord
 		["itemName"] = "Reins of the Raven Lord",
@@ -15206,7 +15209,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[32857] = {--Reins of the Onyx Netherwing Drake
+	[32857] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41513,--Onyx Netherwing Drake
 		["itemName"] = "Reins of the Onyx Netherwing Drake",
@@ -15217,7 +15220,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32858] = {--Reins of the Azure Netherwing Drake
+	[32858] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41514,--Azure Netherwing Drake
 		["itemName"] = "Reins of the Azure Netherwing Drake",
@@ -15228,7 +15231,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32859] = {--Reins of the Cobalt Netherwing Drake
+	[32859] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41515,--Cobalt Netherwing Drake
 		["itemName"] = "Reins of the Cobalt Netherwing Drake",
@@ -15239,7 +15242,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32860] = {--Reins of the Purple Netherwing Drake
+	[32860] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41516,--Purple Netherwing Drake
 		["itemName"] = "Reins of the Purple Netherwing Drake",
@@ -15250,7 +15253,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32861] = {--Reins of the Veridian Netherwing Drake
+	[32861] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41517,--Veridian Netherwing Drake
 		["itemName"] = "Reins of the Veridian Netherwing Drake",
@@ -15261,7 +15264,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32862] = {--Reins of the Violet Netherwing Drake
+	[32862] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 41518,--Violet Netherwing Drake
 		["itemName"] = "Reins of the Violet Netherwing Drake",
@@ -15272,7 +15275,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[33124] = {--Pattern: Cloak of Darkness
+	[33124] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42546,--
 		["itemName"] = "Pattern: Cloak of Darkness",
@@ -15283,7 +15286,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[33147] = {--Formula: Enchant Cloak - Subtlety
+	[33147] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25084,--
 		["itemName"] = "Formula: Enchant Cloak - Subtlety",
@@ -15292,7 +15295,7 @@ LibTextbookDB = {
 		["reqFaction"] = 946,
 		["reqReputation"] = 7,
 		},
-	[33148] = {--Formula: Enchant Cloak - Dodge
+	[33148] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25086,--
 		["itemName"] = "Formula: Enchant Cloak - Dodge",
@@ -15303,7 +15306,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33149] = {--Formula: Enchant Cloak - Stealth
+	[33149] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25083,--
 		["itemName"] = "Formula: Enchant Cloak - Stealth",
@@ -15314,7 +15317,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33150] = {--Formula: Enchant Cloak - Subtlety
+	[33150] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25084,--
 		["itemName"] = "Formula: Enchant Cloak - Subtlety",
@@ -15325,7 +15328,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33151] = {--Formula: Enchant Cloak - Subtlety
+	[33151] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25084,--
 		["itemName"] = "Formula: Enchant Cloak - Subtlety",
@@ -15336,7 +15339,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33152] = {--Formula: Enchant Gloves - Superior Agility
+	[33152] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25080,--
 		["itemName"] = "Formula: Enchant Gloves - Superior Agility",
@@ -15347,7 +15350,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33153] = {--Formula: Enchant Gloves - Threat
+	[33153] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25072,--
 		["itemName"] = "Formula: Enchant Gloves - Threat",
@@ -15358,14 +15361,14 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33154] = {--Sinister Squashling
+	[33154] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 42609,--Sinister Squashling
 		["itemName"] = "Sinister Squashling",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[33155] = {--Design: Kailee's Rose
+	[33155] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42588,--
 		["itemName"] = "Design: Kailee's Rose",
@@ -15376,7 +15379,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33156] = {--Design: Crimson Sun
+	[33156] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42589,--
 		["itemName"] = "Design: Crimson Sun",
@@ -15387,7 +15390,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33157] = {--Design: Falling Star
+	[33157] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42590,--
 		["itemName"] = "Design: Falling Star",
@@ -15398,7 +15401,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33158] = {--Design: Stone of Blades
+	[33158] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42591,--
 		["itemName"] = "Design: Stone of Blades",
@@ -15409,7 +15412,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33159] = {--Design: Blood of Amber
+	[33159] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42592,--
 		["itemName"] = "Design: Blood of Amber",
@@ -15420,7 +15423,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33160] = {--Design: Facet of Eternity
+	[33160] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42593,--
 		["itemName"] = "Design: Facet of Eternity",
@@ -15431,7 +15434,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33165] = {--Formula: Enchant Weapon - Greater Agility
+	[33165] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42620,--
 		["itemName"] = "Formula: Enchant Weapon - Greater Agility",
@@ -15442,7 +15445,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[33174] = {--Plans: Ragesteel Shoulders
+	[33174] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42662,--
 		["itemName"] = "Plans: Ragesteel Shoulders",
@@ -15451,7 +15454,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[33186] = {--Plans: Adamantite Weapon Chain
+	[33186] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42688,--
 		["itemName"] = "Plans: Adamantite Weapon Chain",
@@ -15459,7 +15462,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 335,
 		},
-	[33205] = {--Pattern: Shadowprowler's Chestguard
+	[33205] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42731,--
 		["itemName"] = "Pattern: Shadowprowler's Chestguard",
@@ -15470,7 +15473,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[33209] = {--Recipe: Flask of Chromatic Wonder
+	[33209] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42736,--
 		["itemName"] = "Recipe: Flask of Chromatic Wonder",
@@ -15480,7 +15483,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 375,
 		},
-	[33224] = {--Reins of the Spectral Tiger
+	[33224] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 42776,--Spectral Tiger
 		["itemName"] = "Reins of the Spectral Tiger",
@@ -15490,7 +15493,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[33225] = {--Reins of the Swift Spectral Tiger
+	[33225] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 42777,--Swift Spectral Tiger
 		["itemName"] = "Reins of the Swift Spectral Tiger",
@@ -15500,7 +15503,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[33305] = {--Design: Don Julio's Heart
+	[33305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42558,--
 		["itemName"] = "Design: Don Julio's Heart",
@@ -15511,7 +15514,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 360,
 		},
-	[33307] = {--Formula: Enchant Weapon - Executioner
+	[33307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42974,--
 		["itemName"] = "Formula: Enchant Weapon - Executioner",
@@ -15520,7 +15523,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[33622] = {--Design: Relentless Earthstorm Diamond
+	[33622] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39961,--
 		["itemName"] = "Design: Relentless Earthstorm Diamond",
@@ -15531,7 +15534,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[33783] = {--Design: Steady Talasite
+	[33783] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43493,--
 		["itemName"] = "Design: Steady Talasite",
@@ -15540,7 +15543,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[33792] = {--Plans: Heavy Copper Longsword
+	[33792] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43549,--
 		["itemName"] = "Plans: Heavy Copper Longsword",
@@ -15548,7 +15551,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 35,
 		},
-	[33804] = {--Schematic: Adamantite Arrow Maker
+	[33804] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43676,--
 		["itemName"] = "Schematic: Adamantite Arrow Maker",
@@ -15557,7 +15560,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 335,
 		},
-	[33809] = {--Amani War Bear     (Zul'Aman)
+	[33809] = {--Zul'Aman
 		["type"] = "MOUNT",
 		["teachesSpell"] = 43688,--Amani War Bear
 		["itemName"] = "Amani War Bear",
@@ -15568,21 +15571,21 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[33816] = {--Toothy's Bucket
+	[33816] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 43697,--Toothy
 		["itemName"] = "Toothy's Bucket",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[33818] = {--Muckbreath's Bucket
+	[33818] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 43698,--Muckbreath
 		["itemName"] = "Muckbreath's Bucket",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[33869] = {--Recipe: Broiled Bloodfin
+	[33869] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43761,--
 		["itemName"] = "Recipe: Broiled Bloodfin",
@@ -15591,7 +15594,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[33870] = {--Recipe: Skullfish Soup
+	[33870] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43707,--
 		["itemName"] = "Recipe: Skullfish Soup",
@@ -15600,7 +15603,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[33871] = {--Recipe: Stormchops
+	[33871] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43758,--
 		["itemName"] = "Recipe: Stormchops",
@@ -15609,7 +15612,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[33873] = {--Recipe: Spicy Hot Talbuk
+	[33873] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43765,--
 		["itemName"] = "Recipe: Spicy Hot Talbuk",
@@ -15618,7 +15621,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[33875] = {--Recipe: Kibler's Bits
+	[33875] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43772,--
 		["itemName"] = "Recipe: Kibler's Bits",
@@ -15627,7 +15630,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 300,
 		},
-	[33925] = {--Recipe: Delicious Chocolate Cake
+	[33925] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43779,--
 		["itemName"] = "Recipe: Delicious Chocolate Cake",
@@ -15636,7 +15639,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 1,
 		},
-	[33954] = {--Plans: Hammer of Righteous Might
+	[33954] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 43846,--
 		["itemName"] = "Plans: Hammer of Righteous Might",
@@ -15644,7 +15647,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[33976] = {--Brewfest Ram
+	[33976] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 43899,--Brewfest Ram
 		["itemName"] = "Brewfest Ram",
@@ -15654,7 +15657,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[33977] = {--Swift Brewfest Ram
+	[33977] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 43900,--Swift Brewfest Ram
 		["itemName"] = "Swift Brewfest Ram",
@@ -15664,7 +15667,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[33993] = {--Mojo
+	[33993] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 43918,--Mojo
 		["itemName"] = "Mojo",
@@ -15672,7 +15675,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[33999] = {--Cenarion War Hippogryph
+	[33999] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 43927,--Cenarion War Hippogryph
 		["itemName"] = "Cenarion War Hippogryph",
@@ -15685,7 +15688,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[34060] = {--Flying Machine Control     (Engineering 350)
+	[34060] = {--Engineering 350
 		["type"] = "MOUNT",
 		["teachesSpell"] = 44153,--Flying Machine
 		["itemName"] = "Flying Machine Control",
@@ -15695,7 +15698,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 350,
 		},
-	[34061] = {--Turbo-Charged Flying Machine Control     (Engineering 375)
+	[34061] = {--Engineering 375
 		["type"] = "MOUNT",
 		["teachesSpell"] = 44151,--Turbo-Charged Flying Machine
 		["itemName"] = "Turbo-Charged Flying Machine Control",
@@ -15705,7 +15708,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[34092] = {--Merciless Nether Drake
+	[34092] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 44744,--Merciless Nether Drake
 		["itemName"] = "Merciless Nether Drake",
@@ -15716,7 +15719,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[34109] = {--Weather-Beaten Journal
+	[34109] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 43308,--Find Fish
 		["itemName"] = "Weather-Beaten Journal",
@@ -15725,7 +15728,7 @@ LibTextbookDB = {
 		["reqSkill"] = 356,
 		["reqSkillLevel"] = 100,
 		},
-	[34114] = {--Schematic: Field Repair Bot 110G
+	[34114] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44391,--
 		["itemName"] = "Schematic: Field Repair Bot 110G",
@@ -15734,7 +15737,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 360,
 		},
-	[34126] = {--Recipe: Shoveltusk Soup
+	[34126] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44438,--
 		["itemName"] = "Recipe: Shoveltusk Soup",
@@ -15744,7 +15747,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 350,
 		["note"] = "beta",
 		},
-	[34129] = {--Swift Warstrider
+	[34129] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35028,--Swift Warstrider
 		["itemName"] = "Swift Warstrider",
@@ -15755,7 +15758,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[34172] = {--Pattern: Drums of Speed
+	[34172] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35544,--
 		["itemName"] = "Pattern: Drums of Speed",
@@ -15766,7 +15769,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 345,
 		},
-	[34173] = {--Pattern: Drums of Speed
+	[34173] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35544,--
 		["itemName"] = "Pattern: Drums of Speed",
@@ -15777,7 +15780,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 345,
 		},
-	[34174] = {--Pattern: Drums of Restoration
+	[34174] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35539,--
 		["itemName"] = "Pattern: Drums of Restoration",
@@ -15788,7 +15791,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[34175] = {--Pattern: Drums of Restoration
+	[34175] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35539,--
 		["itemName"] = "Pattern: Drums of Restoration",
@@ -15799,7 +15802,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[34200] = {--Pattern: Quiver of a Thousand Feathers
+	[34200] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44359,--
 		["itemName"] = "Pattern: Quiver of a Thousand Feathers",
@@ -15810,7 +15813,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[34201] = {--Pattern: Netherscale Ammo Pouch
+	[34201] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44768,--
 		["itemName"] = "Pattern: Netherscale Ammo Pouch",
@@ -15821,7 +15824,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[34218] = {--Pattern: Netherscale Ammo Pouch
+	[34218] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44768,--
 		["itemName"] = "Pattern: Netherscale Ammo Pouch",
@@ -15832,7 +15835,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[34221] = {--Design: Chaotic Skyfire Diamond
+	[34221] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44794,--
 		["itemName"] = "Design: Chaotic Skyfire Diamond",
@@ -15840,7 +15843,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[34261] = {--Pattern: Green Winter Clothes
+	[34261] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44950,--
 		["itemName"] = "Pattern: Green Winter Clothes",
@@ -15849,7 +15852,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[34262] = {--Pattern: Winter Boots
+	[34262] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44953,--
 		["itemName"] = "Pattern: Winter Boots",
@@ -15858,7 +15861,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
-	[34319] = {--Pattern: Red Winter Clothes
+	[34319] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44958,--
 		["itemName"] = "Pattern: Red Winter Clothes",
@@ -15867,7 +15870,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[34413] = {--Recipe: Hot Apple Cider
+	[34413] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45022,--
 		["itemName"] = "Recipe: Hot Apple Cider",
@@ -15876,14 +15879,14 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 325,
 		},
-	[34425] = {--Clockwork Rocket Bot
+	[34425] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 54187,--Clockwork Rocket Bot
 		["itemName"] = "Clockwork Rocket Bot",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[34478] = {--Tiny Sporebat
+	[34478] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 45082,--Tiny Sporebat
 		["itemName"] = "Tiny Sporebat",
@@ -15892,7 +15895,7 @@ LibTextbookDB = {
 		["reqFaction"] = 970,
 		["reqReputation"] = 7,
 		},
-	[34491] = {--Pattern: Bag of Many Hides
+	[34491] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45117,--
 		["itemName"] = "Pattern: Bag of Many Hides",
@@ -15901,21 +15904,21 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[34492] = {--Rocket Chicken
+	[34492] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 45125,--Rocket Chicken
 		["itemName"] = "Rocket Chicken",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[34493] = {--Dragon Kite
+	[34493] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 45127,--Dragon Kite
 		["itemName"] = "Dragon Kite",
 		["quality"] = 4,
 		["binding"] = 1,
 		},
-	[34518] = {--Golden Pig Coin
+	[34518] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 45174,--Golden Pig
 		["itemName"] = "Golden Pig Coin",
@@ -15923,7 +15926,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[34519] = {--Silver Pig Coin
+	[34519] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 45175,--Silver Pig
 		["itemName"] = "Silver Pig Coin",
@@ -15931,13 +15934,13 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[34535] = {--Azure Whelpling
+	[34535] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10696,--Azure Whelpling
 		["itemName"] = "Azure Whelpling",
 		["quality"] = 1,
 		},
-	[34689] = {--Design: Chaotic Skyfire Diamond
+	[34689] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44794,--
 		["itemName"] = "Design: Chaotic Skyfire Diamond",
@@ -15946,7 +15949,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[34834] = {--Recipe: Captain Rumsey's Lager
+	[34834] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45695,--
 		["itemName"] = "Recipe: Captain Rumsey's Lager",
@@ -15955,7 +15958,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 100,
 		},
-	[34872] = {--Formula: Void Shatter
+	[34872] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45765,--
 		["itemName"] = "Formula: Void Shatter",
@@ -15966,7 +15969,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[34955] = {--Scorched Stone
+	[34955] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 45890,--Scorchling
 		["itemName"] = "Scorched Stone",
@@ -15974,7 +15977,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[35186] = {--Schematic: Annihilator Holo-Gogs
+	[35186] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46111,--
 		["itemName"] = "Schematic: Annihilator Holo-Gogs",
@@ -15983,7 +15986,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35187] = {--Schematic: Justicebringer 3000 Specs
+	[35187] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46107,--
 		["itemName"] = "Schematic: Justicebringer 3000 Specs",
@@ -15992,7 +15995,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35189] = {--Schematic: Powerheal 9000 Lens
+	[35189] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46108,--
 		["itemName"] = "Schematic: Powerheal 9000 Lens",
@@ -16001,7 +16004,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35190] = {--Schematic: Hyper-Magnified Moon Specs
+	[35190] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46109,--
 		["itemName"] = "Schematic: Hyper-Magnified Moon Specs",
@@ -16010,7 +16013,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35191] = {--Schematic: Wonderheal XT68 Shades
+	[35191] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46106,--
 		["itemName"] = "Schematic: Wonderheal XT68 Shades",
@@ -16019,7 +16022,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35192] = {--Schematic: Primal-Attuned Goggles
+	[35192] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46110,--
 		["itemName"] = "Schematic: Primal-Attuned Goggles",
@@ -16028,7 +16031,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35193] = {--Schematic: Lightning Etched Specs
+	[35193] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46112,--
 		["itemName"] = "Schematic: Lightning Etched Specs",
@@ -16037,7 +16040,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35194] = {--Schematic: Surestrike Goggles v3.0
+	[35194] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46113,--
 		["itemName"] = "Schematic: Surestrike Goggles v3.0",
@@ -16046,7 +16049,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35195] = {--Schematic: Mayhem Projection Goggles
+	[35195] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46114,--
 		["itemName"] = "Schematic: Mayhem Projection Goggles",
@@ -16055,7 +16058,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35196] = {--Schematic: Hard Khorium Goggles
+	[35196] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46115,--
 		["itemName"] = "Schematic: Hard Khorium Goggles",
@@ -16064,7 +16067,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35197] = {--Schematic: Quad Deathblow X44 Goggles
+	[35197] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46116,--
 		["itemName"] = "Schematic: Quad Deathblow X44 Goggles",
@@ -16073,7 +16076,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 375,
 		},
-	[35198] = {--Design: Loop of Forged Power
+	[35198] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46122,--
 		["itemName"] = "Design: Loop of Forged Power",
@@ -16082,7 +16085,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[35199] = {--Design: Ring of Flowing Life
+	[35199] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46123,--
 		["itemName"] = "Design: Ring of Flowing Life",
@@ -16091,7 +16094,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[35200] = {--Design: Hard Khorium Band
+	[35200] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46124,--
 		["itemName"] = "Design: Hard Khorium Band",
@@ -16100,7 +16103,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[35201] = {--Design: Pendant of Sunfire
+	[35201] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46125,--
 		["itemName"] = "Design: Pendant of Sunfire",
@@ -16108,7 +16111,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[35202] = {--Design: Amulet of Flowing Life
+	[35202] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46126,--
 		["itemName"] = "Design: Amulet of Flowing Life",
@@ -16116,7 +16119,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[35203] = {--Design: Hard Khorium Choker
+	[35203] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46127,--
 		["itemName"] = "Design: Hard Khorium Choker",
@@ -16124,7 +16127,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[35204] = {--Pattern: Sunfire Handwraps
+	[35204] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46128,--
 		["itemName"] = "Pattern: Sunfire Handwraps",
@@ -16133,7 +16136,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35205] = {--Pattern: Hands of Eternal Light
+	[35205] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46129,--
 		["itemName"] = "Pattern: Hands of Eternal Light",
@@ -16142,7 +16145,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35206] = {--Pattern: Sunfire Robe
+	[35206] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46130,--
 		["itemName"] = "Pattern: Sunfire Robe",
@@ -16150,7 +16153,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35207] = {--Pattern: Robe of Eternal Light
+	[35207] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46131,--
 		["itemName"] = "Pattern: Robe of Eternal Light",
@@ -16158,7 +16161,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35208] = {--Plans: Sunblessed Gauntlets
+	[35208] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46140,--
 		["itemName"] = "Plans: Sunblessed Gauntlets",
@@ -16167,7 +16170,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[35209] = {--Plans: Hard Khorium Battlefists
+	[35209] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46141,--
 		["itemName"] = "Plans: Hard Khorium Battlefists",
@@ -16176,7 +16179,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[35210] = {--Plans: Sunblessed Breastplate
+	[35210] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46142,--
 		["itemName"] = "Plans: Sunblessed Breastplate",
@@ -16184,7 +16187,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[35211] = {--Plans: Hard Khorium Battleplate
+	[35211] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46144,--
 		["itemName"] = "Plans: Hard Khorium Battleplate",
@@ -16192,7 +16195,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[35212] = {--Pattern: Leather Gauntlets of the Sun
+	[35212] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46132,--
 		["itemName"] = "Pattern: Leather Gauntlets of the Sun",
@@ -16201,7 +16204,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35213] = {--Pattern: Fletcher's Gloves of the Phoenix
+	[35213] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46133,--
 		["itemName"] = "Pattern: Fletcher's Gloves of the Phoenix",
@@ -16210,7 +16213,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35214] = {--Pattern: Gloves of Immortal Dusk
+	[35214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46134,--
 		["itemName"] = "Pattern: Gloves of Immortal Dusk",
@@ -16219,7 +16222,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35215] = {--Pattern: Sun-Drenched Scale Gloves
+	[35215] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46135,--
 		["itemName"] = "Pattern: Sun-Drenched Scale Gloves",
@@ -16228,7 +16231,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35216] = {--Pattern: Leather Chestguard of the Sun
+	[35216] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46136,--
 		["itemName"] = "Pattern: Leather Chestguard of the Sun",
@@ -16236,7 +16239,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35217] = {--Pattern: Embrace of the Phoenix
+	[35217] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46137,--
 		["itemName"] = "Pattern: Embrace of the Phoenix",
@@ -16244,7 +16247,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35218] = {--Pattern: Carapace of Sun and Shadow
+	[35218] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46138,--
 		["itemName"] = "Pattern: Carapace of Sun and Shadow",
@@ -16252,7 +16255,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35219] = {--Pattern: Sun-Drenched Scale Chestguard
+	[35219] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46139,--
 		["itemName"] = "Pattern: Sun-Drenched Scale Chestguard",
@@ -16260,7 +16263,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35225] = {--X-51 Nether-Rocket
+	[35225] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 46197,--X-51 Nether-Rocket
 		["itemName"] = "X-51 Nether-Rocket",
@@ -16271,7 +16274,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[35226] = {--X-51 Nether-Rocket X-TREME
+	[35226] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 46199,--X-51 Nether-Rocket X-TREME
 		["itemName"] = "X-51 Nether-Rocket X-TREME",
@@ -16282,7 +16285,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[35238] = {--Design: Balanced Shadowsong Amethyst
+	[35238] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39729,--
 		["itemName"] = "Design: Balanced Shadowsong Amethyst",
@@ -16293,7 +16296,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35239] = {--Design: Glowing Shadowsong Amethyst
+	[35239] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39731,--
 		["itemName"] = "Design: Glowing Shadowsong Amethyst",
@@ -16304,7 +16307,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35240] = {--Design: Infused Shadowsong Amethyst
+	[35240] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39730,--
 		["itemName"] = "Design: Infused Shadowsong Amethyst",
@@ -16315,7 +16318,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35241] = {--Design: Royal Shadowsong Amethyst
+	[35241] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39732,--
 		["itemName"] = "Design: Royal Shadowsong Amethyst",
@@ -16326,7 +16329,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35242] = {--Design: Shifting Shadowsong Amethyst
+	[35242] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39728,--
 		["itemName"] = "Design: Shifting Shadowsong Amethyst",
@@ -16337,7 +16340,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35243] = {--Design: Sovereign Shadowsong Amethyst
+	[35243] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39727,--
 		["itemName"] = "Design: Sovereign Shadowsong Amethyst",
@@ -16348,7 +16351,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35244] = {--Design: Bold Crimson Spinel
+	[35244] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39705,--
 		["itemName"] = "Design: Bold Crimson Spinel",
@@ -16359,7 +16362,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35245] = {--Design: Bright Crimson Spinel
+	[35245] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39712,--
 		["itemName"] = "Design: Bright Crimson Spinel",
@@ -16370,7 +16373,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35246] = {--Design: Delicate Crimson Spinel
+	[35246] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39706,--
 		["itemName"] = "Design: Delicate Crimson Spinel",
@@ -16381,7 +16384,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35247] = {--Design: Flashing Crimson Spinel
+	[35247] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39714,--
 		["itemName"] = "Design: Flashing Crimson Spinel",
@@ -16392,7 +16395,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35248] = {--Design: Runed Crimson Spinel
+	[35248] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39711,--
 		["itemName"] = "Design: Runed Crimson Spinel",
@@ -16403,7 +16406,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35249] = {--Design: Subtle Crimson Spinel
+	[35249] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39713,--
 		["itemName"] = "Design: Subtle Crimson Spinel",
@@ -16414,7 +16417,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35250] = {--Design: Teardrop Crimson Spinel
+	[35250] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39710,--
 		["itemName"] = "Design: Teardrop Crimson Spinel",
@@ -16425,7 +16428,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35251] = {--Design: Dazzling Seaspray Emerald
+	[35251] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39741,--
 		["itemName"] = "Design: Dazzling Seaspray Emerald",
@@ -16436,7 +16439,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35252] = {--Design: Enduring Seaspray Emerald
+	[35252] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39739,--
 		["itemName"] = "Design: Enduring Seaspray Emerald",
@@ -16447,7 +16450,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35253] = {--Design: Jagged Seaspray Emerald
+	[35253] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39742,--
 		["itemName"] = "Design: Jagged Seaspray Emerald",
@@ -16458,7 +16461,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35254] = {--Design: Radiant Seaspray Emerald
+	[35254] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39740,--
 		["itemName"] = "Design: Radiant Seaspray Emerald",
@@ -16469,7 +16472,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35255] = {--Design: Brilliant Lionseye
+	[35255] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39719,--
 		["itemName"] = "Design: Brilliant Lionseye",
@@ -16480,7 +16483,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35256] = {--Design: Gleaming Lionseye
+	[35256] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39722,--
 		["itemName"] = "Design: Gleaming Lionseye",
@@ -16491,7 +16494,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35257] = {--Design: Great Lionseye
+	[35257] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39725,--
 		["itemName"] = "Design: Great Lionseye",
@@ -16502,7 +16505,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35258] = {--Design: Mystic Lionseye
+	[35258] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39724,--
 		["itemName"] = "Design: Mystic Lionseye",
@@ -16513,7 +16516,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35259] = {--Design: Rigid Lionseye
+	[35259] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39721,--
 		["itemName"] = "Design: Rigid Lionseye",
@@ -16524,7 +16527,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35260] = {--Design: Smooth Lionseye
+	[35260] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39720,--
 		["itemName"] = "Design: Smooth Lionseye",
@@ -16535,7 +16538,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35261] = {--Design: Thick Lionseye
+	[35261] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39723,--
 		["itemName"] = "Design: Thick Lionseye",
@@ -16546,7 +16549,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35262] = {--Design: Lustrous Empyrean Sapphire
+	[35262] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39717,--
 		["itemName"] = "Design: Lustrous Empyrean Sapphire",
@@ -16557,7 +16560,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35263] = {--Design: Solid Empyrean Sapphire
+	[35263] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39715,--
 		["itemName"] = "Design: Solid Empyrean Sapphire",
@@ -16568,7 +16571,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35264] = {--Design: Sparkling Empyrean Sapphire
+	[35264] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39716,--
 		["itemName"] = "Design: Sparkling Empyrean Sapphire",
@@ -16579,7 +16582,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35265] = {--Design: Stormy Empyrean Sapphire
+	[35265] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39718,--
 		["itemName"] = "Design: Stormy Empyrean Sapphire",
@@ -16590,7 +16593,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35266] = {--Design: Glinting Pyrestone
+	[35266] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39736,--
 		["itemName"] = "Design: Glinting Pyrestone",
@@ -16601,7 +16604,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35267] = {--Design: Inscribed Pyrestone
+	[35267] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39733,--
 		["itemName"] = "Design: Inscribed Pyrestone",
@@ -16612,7 +16615,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35268] = {--Design: Luminous Pyrestone
+	[35268] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39735,--
 		["itemName"] = "Design: Luminous Pyrestone",
@@ -16623,7 +16626,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35269] = {--Design: Potent Pyrestone
+	[35269] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39734,--
 		["itemName"] = "Design: Potent Pyrestone",
@@ -16634,7 +16637,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35270] = {--Design: Veiled Pyrestone
+	[35270] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39737,--
 		["itemName"] = "Design: Veiled Pyrestone",
@@ -16645,7 +16648,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35271] = {--Design: Wicked Pyrestone
+	[35271] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39738,--
 		["itemName"] = "Design: Wicked Pyrestone",
@@ -16656,7 +16659,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35273] = {--Study of Advanced Smelting
+	[35273] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46353,--Smelt Hardened Khorium
 		["itemName"] = "Study of Advanced Smelting",
@@ -16665,7 +16668,7 @@ LibTextbookDB = {
 		["reqSkill"] = 186,
 		["reqSkillLevel"] = 375,
 		},
-	[35294] = {--Recipe: Elixir of Empowerment
+	[35294] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28578,--
 		["itemName"] = "Recipe: Elixir of Empowerment",
@@ -16674,7 +16677,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 365,
 		},
-	[35295] = {--Recipe: Haste Potion
+	[35295] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28564,--
 		["itemName"] = "Recipe: Haste Potion",
@@ -16683,7 +16686,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[35296] = {--Plans: Adamantite Weapon Chain
+	[35296] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 42688,--
 		["itemName"] = "Plans: Adamantite Weapon Chain",
@@ -16692,7 +16695,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 335,
 		},
-	[35297] = {--Formula: Enchant Boots - Boar's Speed
+	[35297] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34008,--
 		["itemName"] = "Formula: Enchant Boots - Boar's Speed",
@@ -16701,7 +16704,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[35298] = {--Formula: Enchant Boots - Vitality
+	[35298] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27948,--
 		["itemName"] = "Formula: Enchant Boots - Vitality",
@@ -16710,7 +16713,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 305,
 		},
-	[35299] = {--Formula: Enchant Boots - Cat's Swiftness
+	[35299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34007,--
 		["itemName"] = "Formula: Enchant Boots - Cat's Swiftness",
@@ -16719,7 +16722,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[35300] = {--Pattern: Windstrike Gloves
+	[35300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35568,--
 		["itemName"] = "Pattern: Windstrike Gloves",
@@ -16728,7 +16731,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35301] = {--Pattern: Netherdrake Gloves
+	[35301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35573,--
 		["itemName"] = "Pattern: Netherdrake Gloves",
@@ -16737,7 +16740,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35302] = {--Pattern: Cobrascale Gloves
+	[35302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35559,--
 		["itemName"] = "Pattern: Cobrascale Gloves",
@@ -16746,7 +16749,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35303] = {--Pattern: Gloves of the Living Touch
+	[35303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35562,--
 		["itemName"] = "Pattern: Gloves of the Living Touch",
@@ -16755,7 +16758,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35304] = {--Design: Solid Star of Elune
+	[35304] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31092,--
 		["itemName"] = "Design: Solid Star of Elune",
@@ -16764,7 +16767,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35305] = {--Design: Runed Living Ruby
+	[35305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31088,--
 		["itemName"] = "Design: Runed Living Ruby",
@@ -16773,7 +16776,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35306] = {--Design: Bright Living Ruby
+	[35306] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31089,--
 		["itemName"] = "Design: Bright Living Ruby",
@@ -16782,7 +16785,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35307] = {--Design: Rigid Dawnstone
+	[35307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31098,--
 		["itemName"] = "Design: Rigid Dawnstone",
@@ -16791,7 +16794,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35308] = {--Pattern: Unyielding Bracers
+	[35308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31434,--
 		["itemName"] = "Pattern: Unyielding Bracers",
@@ -16800,7 +16803,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
 		},
-	[35309] = {--Pattern: Unyielding Girdle
+	[35309] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31442,--
 		["itemName"] = "Pattern: Unyielding Girdle",
@@ -16809,7 +16812,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35310] = {--Schematic: Healing Potion Injector
+	[35310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30551,--
 		["itemName"] = "Schematic: Healing Potion Injector",
@@ -16818,7 +16821,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 330,
 		},
-	[35311] = {--Schematic: Mana Potion Injector
+	[35311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 30552,--
 		["itemName"] = "Schematic: Mana Potion Injector",
@@ -16827,7 +16830,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 345,
 		},
-	[35322] = {--Design: Quick Dawnstone
+	[35322] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46403,--
 		["itemName"] = "Design: Quick Dawnstone",
@@ -16838,7 +16841,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35323] = {--Design: Reckless Noble Topaz
+	[35323] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46404,--
 		["itemName"] = "Design: Reckless Noble Topaz",
@@ -16849,7 +16852,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35325] = {--Design: Forceful Talasite
+	[35325] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46405,--
 		["itemName"] = "Design: Forceful Talasite",
@@ -16860,21 +16863,21 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35349] = {--Snarly's Bucket
+	[35349] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 46425,--Snarly
 		["itemName"] = "Snarly's Bucket",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[35350] = {--Chuck's Bucket
+	[35350] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 46426,--Chuck
 		["itemName"] = "Chuck's Bucket",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[35498] = {--Formula: Enchant Weapon - Deathfrost
+	[35498] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46578,--
 		["itemName"] = "Formula: Enchant Weapon - Deathfrost",
@@ -16883,7 +16886,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[35500] = {--Formula: Enchant Chest - Defense
+	[35500] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46594,--
 		["itemName"] = "Formula: Enchant Chest - Defense",
@@ -16894,7 +16897,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[35502] = {--Design: Eternal Earthstorm Diamond
+	[35502] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46597,--
 		["itemName"] = "Design: Eternal Earthstorm Diamond",
@@ -16905,7 +16908,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[35504] = {--Phoenix Hatchling
+	[35504] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 46599,--Phoenix Hatchling
 		["itemName"] = "Phoenix Hatchling",
@@ -16913,7 +16916,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[35505] = {--Design: Ember Skyfire Diamond
+	[35505] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46601,--
 		["itemName"] = "Design: Ember Skyfire Diamond",
@@ -16924,7 +16927,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[35513] = {--Swift White Hawkstrider     (Magister's Terrace - Heroic)
+	[35513] = {--Magister's Terrace - Heroic
 		["type"] = "MOUNT",
 		["teachesSpell"] = 46628,--Swift White Hawkstrider
 		["itemName"] = "Swift White Hawkstrider",
@@ -16935,7 +16938,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[35517] = {--Pattern: Bindings of Lightning Reflexes
+	[35517] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41161,--
 		["itemName"] = "Pattern: Bindings of Lightning Reflexes",
@@ -16943,7 +16946,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35518] = {--Pattern: Bracers of Nimble Thought
+	[35518] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41205,--
 		["itemName"] = "Pattern: Bracers of Nimble Thought",
@@ -16951,7 +16954,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[35519] = {--Pattern: Bracers of Renewed Life
+	[35519] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41156,--
 		["itemName"] = "Pattern: Bracers of Renewed Life",
@@ -16959,7 +16962,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35520] = {--Pattern: Living Earth Bindings
+	[35520] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41163,--
 		["itemName"] = "Pattern: Living Earth Bindings",
@@ -16967,7 +16970,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35521] = {--Pattern: Living Earth Shoulders
+	[35521] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41164,--
 		["itemName"] = "Pattern: Living Earth Shoulders",
@@ -16975,7 +16978,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35522] = {--Pattern: Mantle of Nimble Thought
+	[35522] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41206,--
 		["itemName"] = "Pattern: Mantle of Nimble Thought",
@@ -16983,7 +16986,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[35523] = {--Pattern: Shoulderpads of Renewed Life
+	[35523] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41157,--
 		["itemName"] = "Pattern: Shoulderpads of Renewed Life",
@@ -16991,7 +16994,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35524] = {--Pattern: Shoulders of Lightning Reflexes
+	[35524] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41162,--
 		["itemName"] = "Pattern: Shoulders of Lightning Reflexes",
@@ -16999,7 +17002,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35525] = {--Pattern: Swiftheal Mantle
+	[35525] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41208,--
 		["itemName"] = "Pattern: Swiftheal Mantle",
@@ -17007,7 +17010,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[35526] = {--Pattern: Swiftheal Wraps
+	[35526] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41207,--
 		["itemName"] = "Pattern: Swiftheal Wraps",
@@ -17015,7 +17018,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[35527] = {--Pattern: Swiftstrike Bracers
+	[35527] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41158,--
 		["itemName"] = "Pattern: Swiftstrike Bracers",
@@ -17023,7 +17026,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35528] = {--Pattern: Swiftstrike Shoulders
+	[35528] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41160,--
 		["itemName"] = "Pattern: Swiftstrike Shoulders",
@@ -17031,7 +17034,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 375,
 		},
-	[35529] = {--Plans: Dawnsteel Bracers
+	[35529] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41134,--
 		["itemName"] = "Plans: Dawnsteel Bracers",
@@ -17039,7 +17042,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[35530] = {--Plans: Dawnsteel Shoulders
+	[35530] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41135,--
 		["itemName"] = "Plans: Dawnsteel Shoulders",
@@ -17047,7 +17050,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[35531] = {--Plans: Swiftsteel Bracers
+	[35531] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41132,--
 		["itemName"] = "Plans: Swiftsteel Bracers",
@@ -17055,7 +17058,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[35532] = {--Plans: Swiftsteel Shoulders
+	[35532] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 41133,--
 		["itemName"] = "Plans: Swiftsteel Shoulders",
@@ -17063,7 +17066,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[35541] = {--Pattern: Fletcher's Gloves of the Phoenix
+	[35541] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46133,--
 		["itemName"] = "Pattern: Fletcher's Gloves of the Phoenix",
@@ -17071,7 +17074,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35544] = {--Pattern: Hands of Eternal Light
+	[35544] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46129,--
 		["itemName"] = "Pattern: Hands of Eternal Light",
@@ -17079,7 +17082,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35546] = {--Pattern: Leather Gauntlets of the Sun
+	[35546] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46132,--
 		["itemName"] = "Pattern: Leather Gauntlets of the Sun",
@@ -17087,7 +17090,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35548] = {--Pattern: Robe of Eternal Light
+	[35548] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46131,--
 		["itemName"] = "Pattern: Robe of Eternal Light",
@@ -17095,7 +17098,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 365,
 		},
-	[35549] = {--Pattern: Sun-Drenched Scale Chestguard
+	[35549] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46139,--
 		["itemName"] = "Pattern: Sun-Drenched Scale Chestguard",
@@ -17103,7 +17106,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35553] = {--Plans: Hard Khorium Battlefists
+	[35553] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46141,--
 		["itemName"] = "Plans: Hard Khorium Battlefists",
@@ -17111,7 +17114,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
-	[35564] = {--Recipe: Charred Bear Kabobs
+	[35564] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46684,--
 		["itemName"] = "Recipe: Charred Bear Kabobs",
@@ -17119,7 +17122,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 250,
 		},
-	[35566] = {--Recipe: Juicy Bear Burger
+	[35566] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46688,--
 		["itemName"] = "Recipe: Juicy Bear Burger",
@@ -17127,7 +17130,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 250,
 		},
-	[35582] = {--Schematic: Rocket Boots Xtreme Lite
+	[35582] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46697,--
 		["itemName"] = "Schematic: Rocket Boots Xtreme Lite",
@@ -17136,7 +17139,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 355,
 		},
-	[35695] = {--Design: Figurine - Empyrean Tortoise
+	[35695] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46775,--
 		["itemName"] = "Design: Figurine - Empyrean Tortoise",
@@ -17147,7 +17150,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35696] = {--Design: Figurine - Khorium Boar
+	[35696] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46776,--
 		["itemName"] = "Design: Figurine - Khorium Boar",
@@ -17158,7 +17161,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35697] = {--Design: Figurine - Crimson Serpent
+	[35697] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46777,--
 		["itemName"] = "Design: Figurine - Crimson Serpent",
@@ -17169,7 +17172,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35698] = {--Design: Figurine - Shadowsong Panther
+	[35698] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46778,--
 		["itemName"] = "Design: Figurine - Shadowsong Panther",
@@ -17180,7 +17183,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35699] = {--Design: Figurine - Seaspray Albatross
+	[35699] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46779,--
 		["itemName"] = "Design: Figurine - Seaspray Albatross",
@@ -17191,7 +17194,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35708] = {--Design: Regal Nightseye
+	[35708] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46803,--
 		["itemName"] = "Design: Regal Nightseye",
@@ -17202,7 +17205,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35752] = {--Recipe: Guardian's Alchemist Stone
+	[35752] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47046,--
 		["itemName"] = "Recipe: Guardian's Alchemist Stone",
@@ -17213,7 +17216,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 375,
 		},
-	[35753] = {--Recipe: Sorcerer's Alchemist Stone
+	[35753] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47048,--
 		["itemName"] = "Recipe: Sorcerer's Alchemist Stone",
@@ -17224,7 +17227,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 375,
 		},
-	[35754] = {--Recipe: Redeemer's Alchemist Stone
+	[35754] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47049,--
 		["itemName"] = "Recipe: Redeemer's Alchemist Stone",
@@ -17235,7 +17238,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 375,
 		},
-	[35755] = {--Recipe: Assassin's Alchemist Stone
+	[35755] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47050,--
 		["itemName"] = "Recipe: Assassin's Alchemist Stone",
@@ -17246,7 +17249,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 375,
 		},
-	[35756] = {--Formula: Enchant Cloak - Steelweave
+	[35756] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47051,--
 		["itemName"] = "Formula: Enchant Cloak - Steelweave",
@@ -17255,7 +17258,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[35762] = {--Design: Reckless Pyrestone
+	[35762] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47055,--
 		["itemName"] = "Design: Reckless Pyrestone",
@@ -17266,7 +17269,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35763] = {--Design: Quick Lionseye
+	[35763] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47056,--
 		["itemName"] = "Design: Quick Lionseye",
@@ -17277,7 +17280,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35764] = {--Design: Steady Seaspray Emerald
+	[35764] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47054,--
 		["itemName"] = "Design: Steady Seaspray Emerald",
@@ -17288,7 +17291,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35765] = {--Design: Forceful Seaspray Emerald
+	[35765] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47053,--
 		["itemName"] = "Design: Forceful Seaspray Emerald",
@@ -17299,7 +17302,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35766] = {--Design: Steady Seaspray Emerald
+	[35766] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47054,--
 		["itemName"] = "Design: Steady Seaspray Emerald",
@@ -17310,7 +17313,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35767] = {--Design: Reckless Pyrestone
+	[35767] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47055,--
 		["itemName"] = "Design: Reckless Pyrestone",
@@ -17321,7 +17324,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35768] = {--Design: Quick Lionseye
+	[35768] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47056,--
 		["itemName"] = "Design: Quick Lionseye",
@@ -17332,7 +17335,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35769] = {--Design: Forceful Seaspray Emerald
+	[35769] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47053,--
 		["itemName"] = "Design: Forceful Seaspray Emerald",
@@ -17343,7 +17346,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35906] = {--Reins of the Black War Elekk
+	[35906] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 48027,--Black War Elekk
 		["itemName"] = "Reins of the Black War Elekk",
@@ -17354,7 +17357,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[36955] = {--Grimoire of Firebolt (Rank 9)
+	[36955] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47964,--Firebolt (Rank 9)
 		["itemName"] = "Grimoire of Firebolt (Rank 9)",
@@ -17364,7 +17367,7 @@ LibTextbookDB = {
 		["reqLevel"] = 78,
 		["unique"] = 1,
 		},
-	[36959] = {--Grimoire of  Blood Pact (Rank 7)
+	[36959] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47982,--Blood Pact (Rank 7)
 		["itemName"] = "Grimoire of  Blood Pact (Rank 7)",
@@ -17375,7 +17378,7 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "fake",
 		},
-	[36960] = {--Grimoire of Fire Shield (Rank 7)
+	[36960] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47983,--Fire Shield (Rank 7)
 		["itemName"] = "Grimoire of Fire Shield (Rank 7)",
@@ -17385,7 +17388,7 @@ LibTextbookDB = {
 		["reqLevel"] = 76,
 		["unique"] = 1,
 		},
-	[36964] = {--Grimoire of Sacrifice (Rank 8)
+	[36964] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47985,--Sacrifice (Rank 8)
 		["itemName"] = "Grimoire of Sacrifice (Rank 8)",
@@ -17395,7 +17398,7 @@ LibTextbookDB = {
 		["reqLevel"] = 72,
 		["unique"] = 1,
 		},
-	[36965] = {--Grimoire of Sacrifice (Rank 9)
+	[36965] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47986,--Sacrifice (Rank 9)
 		["itemName"] = "Grimoire of Sacrifice (Rank 9)",
@@ -17405,7 +17408,7 @@ LibTextbookDB = {
 		["reqLevel"] = 79,
 		["unique"] = 1,
 		},
-	[36966] = {--Grimoire of Consume Shadows (Rank 8)
+	[36966] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47987,--Consume Shadows (Rank 8)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 8)",
@@ -17415,7 +17418,7 @@ LibTextbookDB = {
 		["reqLevel"] = 73,
 		["unique"] = 1,
 		},
-	[36967] = {--Grimoire of Consume Shadows (Rank 9)
+	[36967] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47988,--Consume Shadows (Rank 9)
 		["itemName"] = "Grimoire of Consume Shadows (Rank 9)",
@@ -17425,7 +17428,7 @@ LibTextbookDB = {
 		["reqLevel"] = 78,
 		["unique"] = 1,
 		},
-	[36968] = {--Grimoire of Suffering (Rank 7)
+	[36968] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47989,--Suffering (Rank 7)
 		["itemName"] = "Grimoire of Suffering (Rank 7)",
@@ -17435,7 +17438,7 @@ LibTextbookDB = {
 		["reqLevel"] = 75,
 		["unique"] = 1,
 		},
-	[36970] = {--Grimoire of Suffering (Rank 8)
+	[36970] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 47990,--Suffering (Rank 8)
 		["itemName"] = "Grimoire of Suffering (Rank 8)",
@@ -17445,7 +17448,7 @@ LibTextbookDB = {
 		["reqLevel"] = 80,
 		["unique"] = 1,
 		},
-	[37012] = {--The Horseman's Reins
+	[37012] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 48025,--Headless Horseman's Mount
 		["itemName"] = "The Horseman's Reins",
@@ -17455,7 +17458,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[37297] = {--Gold Medallion
+	[37297] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 48406,--Spirit of Competition
 		["itemName"] = "Gold Medallion",
@@ -17463,7 +17466,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[37298] = {--Competitor's Souvenir
+	[37298] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 48408,--Essence of Competition
 		["itemName"] = "Competitor's Souvenir",
@@ -17471,7 +17474,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[37330] = {--Formula: Enchant Cloak - Superior Arcane Resistance
+	[37330] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44596,--
 		["itemName"] = "Formula: Enchant Cloak - Superior Arcane Resistance",
@@ -17479,7 +17482,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 400,
 		},
-	[37331] = {--Formula: Enchant Cloak - Superior Fire Resistance
+	[37331] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44556,--
 		["itemName"] = "Formula: Enchant Cloak - Superior Fire Resistance",
@@ -17487,7 +17490,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 400,
 		},
-	[37332] = {--Formula: Enchant Cloak - Superior Frost Resistance
+	[37332] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44483,--
 		["itemName"] = "Formula: Enchant Cloak - Superior Frost Resistance",
@@ -17495,7 +17498,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 400,
 		},
-	[37333] = {--Formula: Enchant Cloak - Superior Nature Resistance
+	[37333] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44494,--
 		["itemName"] = "Formula: Enchant Cloak - Superior Nature Resistance",
@@ -17503,7 +17506,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 400,
 		},
-	[37334] = {--Formula: Enchant Cloak - Superior Shadow Resistance
+	[37334] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44590,--
 		["itemName"] = "Formula: Enchant Cloak - Superior Shadow Resistance",
@@ -17511,7 +17514,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 400,
 		},
-	[37339] = {--Formula: Enchant Weapon - Giant Slayer
+	[37339] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44621,--
 		["itemName"] = "Formula: Enchant Weapon - Giant Slayer",
@@ -17520,7 +17523,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 430,
 		},
-	[37340] = {--Formula: Enchant Chest - Exceptional Resilience
+	[37340] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44588,--
 		["itemName"] = "Formula: Enchant Chest - Exceptional Resilience",
@@ -17529,7 +17532,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 410,
 		},
-	[37344] = {--Formula: Enchant Weapon - Icebreaker
+	[37344] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44524,--
 		["itemName"] = "Formula: Enchant Weapon - Icebreaker",
@@ -17538,7 +17541,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 425,
 		},
-	[37347] = {--Formula: Enchant Cloak - Titanweave
+	[37347] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44591,--
 		["itemName"] = "Formula: Enchant Cloak - Titanweave",
@@ -17547,7 +17550,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 435,
 		},
-	[37349] = {--Formula: Enchant Cloak - Shadow Armor
+	[37349] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44631,--
 		["itemName"] = "Formula: Enchant Cloak - Shadow Armor",
@@ -17556,7 +17559,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[37504] = {--Design: Purified Shadowsong Amethyst
+	[37504] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 48789,--
 		["itemName"] = "Design: Purified Shadowsong Amethyst",
@@ -17567,7 +17570,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[37676] = {--Vengeful Nether Drake
+	[37676] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 49193,--Vengeful Nether Drake
 		["itemName"] = "Vengeful Nether Drake",
@@ -17578,7 +17581,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[37719] = {--Swift Zhevra     (Recruit-a-Friend)
+	[37719] = {--Recruit-a-Friend
 		["type"] = "MOUNT",
 		["teachesSpell"] = 49322,--Swift Zhevra
 		["itemName"] = "Swift Zhevra",
@@ -17589,7 +17592,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[37827] = {--Brewfest Kodo
+	[37827] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 50869,--Brewfest Kodo
 		["itemName"] = "Brewfest Kodo",
@@ -17600,7 +17603,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
-	[37828] = {--Great Brewfest Kodo
+	[37828] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 49379,--Great Brewfest Kodo
 		["itemName"] = "Great Brewfest Kodo",
@@ -17610,7 +17613,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[37915] = {--Pattern: Dress Shoes
+	[37915] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 49677,--
 		["itemName"] = "Pattern: Dress Shoes",
@@ -17618,14 +17621,14 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[38050] = {--Soul-Trader Beacon
+	[38050] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 49964,--Ethereal Soul-Trader
 		["itemName"] = "Soul-Trader Beacon",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[38229] = {--Pattern: Mycah's Botanical Bag
+	[38229] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 50194,--
 		["itemName"] = "Pattern: Mycah's Botanical Bag",
@@ -17636,7 +17639,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
 		},
-	[38327] = {--Pattern: Haliscan Jacket
+	[38327] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 50644,--
 		["itemName"] = "Pattern: Haliscan Jacket",
@@ -17644,7 +17647,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[38328] = {--Pattern: Haliscan Pantaloons
+	[38328] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 50647,--
 		["itemName"] = "Pattern: Haliscan Pantaloons",
@@ -17652,7 +17655,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 245,
 		},
-	[38576] = {--Big Battle Bear
+	[38576] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 51412,--Big Battle Bear
 		["itemName"] = "Big Battle Bear",
@@ -17663,7 +17666,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
-	[38628] = {--Nether Ray Fry
+	[38628] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 51716,--Nether Ray Fry
 		["itemName"] = "Nether Ray Fry",
@@ -17672,14 +17675,14 @@ LibTextbookDB = {
 		["reqFaction"] = 1031,
 		["reqReputation"] = 7,
 		},
-	[38658] = {--Vampiric Batling
+	[38658] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 51851,--Vampiric Batling
 		["itemName"] = "Vampiric Batling",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[39152] = {--Manual: Heavy Frostweave Bandage
+	[39152] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45546,--
 		["itemName"] = "Manual: Heavy Frostweave Bandage",
@@ -17689,7 +17692,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 400,
 		["note"] = "removed",
 		},
-	[39153] = {--Manual: Dense Frostweave Bandage
+	[39153] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 51801,--
 		["itemName"] = "Manual: Dense Frostweave Bandage",
@@ -17699,14 +17702,14 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 450,
 		["note"] = "fake",
 		},
-	[39286] = {--Frosty's Collar
+	[39286] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 52615,--Frosty
 		["itemName"] = "Frosty's Collar",
 		["quality"] = 3,
 		["binding"] = 6,
 		},
-	[39644] = {--Recipe: Kungaloosh
+	[39644] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53056,--
 		["itemName"] = "Recipe: Kungaloosh",
@@ -17715,14 +17718,14 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 375,
 		},
-	[39656] = {--Tyrael's Hilt
+	[39656] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 53082,--Mini Tyrael
 		["itemName"] = "Tyrael's Hilt",
 		["quality"] = 3,
 		["binding"] = 6,
 		},
-	[39692] = {--Recipe: Succulent Orca Stew
+	[39692] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45547,--
 		["itemName"] = "Recipe: Succulent Orca Stew",
@@ -17732,39 +17735,39 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 350,
 		["note"] = "beta",
 		},
-	[39896] = {--Tickbird Hatchling
+	[39896] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61348,--Tickbird Hatchling
 		["itemName"] = "Tickbird Hatchling",
 		["quality"] = 1,
 		},
-	[39898] = {--Cobra Hatchling
+	[39898] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61351,--Cobra Hatchling
 		["itemName"] = "Cobra Hatchling",
 		["quality"] = 1,
 		},
-	[39899] = {--White Tickbird Hatchling
+	[39899] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61349,--White Tickbird Hatchling
 		["itemName"] = "White Tickbird Hatchling",
 		["quality"] = 1,
 		},
-	[39973] = {--Ghostly Skull
+	[39973] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 53316,--Ghostly Skull
 		["itemName"] = "Ghostly Skull",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[40653] = {--Reeking Pet Carrier
+	[40653] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 40990,--Stinker
 		["itemName"] = "Reeking Pet Carrier",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[40775] = {--Winged Steed of the Ebon Blade
+	[40775] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 54729,--Winged Steed of the Ebon Blade
 		["itemName"] = "Winged Steed of the Ebon Blade",
@@ -17776,7 +17779,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
 		},
-	[41120] = {--Plans: Reinforced Cobalt Legplates
+	[41120] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54980,--
 		["itemName"] = "Plans: Reinforced Cobalt Legplates",
@@ -17785,7 +17788,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[41122] = {--Plans: Reinforced Cobalt Chestpiece
+	[41122] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54981,--
 		["itemName"] = "Plans: Reinforced Cobalt Chestpiece",
@@ -17794,7 +17797,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[41123] = {--Plans: Reinforced Cobalt Helm
+	[41123] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54979,--
 		["itemName"] = "Plans: Reinforced Cobalt Helm",
@@ -17803,7 +17806,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[41124] = {--Plans: Reinforced Cobalt Shoulders
+	[41124] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54978,--
 		["itemName"] = "Plans: Reinforced Cobalt Shoulders",
@@ -17812,7 +17815,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[41508] = {--Mechano-hog     (Engineering, Horde)
+	[41508] = {--Engineering, Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 55531,--Mechano-hog
 		["itemName"] = "Mechano-hog",
@@ -17822,7 +17825,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[41559] = {--Design: Mystic Sun Crystal
+	[41559] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53857,--
 		["itemName"] = "Design: Mystic Sun Crystal",
@@ -17831,7 +17834,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41560] = {--Design: Stormy Chalcedony
+	[41560] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53943,--
 		["itemName"] = "Design: Stormy Chalcedony",
@@ -17840,7 +17843,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41561] = {--Design: Reckless Huge Citrine
+	[41561] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53885,--
 		["itemName"] = "Design: Reckless Huge Citrine",
@@ -17851,7 +17854,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41562] = {--Design: Deadly Huge Citrine
+	[41562] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53877,--
 		["itemName"] = "Design: Deadly Huge Citrine",
@@ -17862,7 +17865,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41563] = {--Design: Durable Huge Citrine
+	[41563] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53884,--
 		["itemName"] = "Design: Durable Huge Citrine",
@@ -17871,7 +17874,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41564] = {--Design: Empowered Huge Citrine
+	[41564] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53888,--
 		["itemName"] = "Design: Empowered Huge Citrine",
@@ -17880,7 +17883,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41565] = {--Design: Lucent Huge Citrine
+	[41565] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53879,--
 		["itemName"] = "Design: Lucent Huge Citrine",
@@ -17889,7 +17892,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41566] = {--Design: Resplendent Huge Citrine
+	[41566] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53875,--
 		["itemName"] = "Design: Resplendent Huge Citrine",
@@ -17898,7 +17901,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41567] = {--Design: Vivid Dark Jade
+	[41567] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53917,--
 		["itemName"] = "Design: Vivid Dark Jade",
@@ -17909,7 +17912,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41568] = {--Design: Seer's Dark Jade
+	[41568] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53921,--
 		["itemName"] = "Design: Seer's Dark Jade",
@@ -17920,7 +17923,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41569] = {--Design: Shattered Dark Jade
+	[41569] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53933,--
 		["itemName"] = "Design: Shattered Dark Jade",
@@ -17929,7 +17932,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41570] = {--Design: Tense Dark Jade
+	[41570] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53932,--
 		["itemName"] = "Design: Tense Dark Jade",
@@ -17938,7 +17941,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41571] = {--Design: Turbid Dark Jade
+	[41571] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53924,--
 		["itemName"] = "Design: Turbid Dark Jade",
@@ -17947,7 +17950,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41572] = {--Design: Steady Dark Jade
+	[41572] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53919,--
 		["itemName"] = "Design: Steady Dark Jade",
@@ -17956,7 +17959,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41573] = {--Design: Opaque Dark Jade
+	[41573] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53929,--
 		["itemName"] = "Design: Opaque Dark Jade",
@@ -17965,7 +17968,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41574] = {--Design: Defender's Shadow Crystal
+	[41574] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53869,--
 		["itemName"] = "Design: Defender's Shadow Crystal",
@@ -17976,7 +17979,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41575] = {--Design: Mysterious Shadow Crystal
+	[41575] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53865,--
 		["itemName"] = "Design: Mysterious Shadow Crystal",
@@ -17985,7 +17988,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41576] = {--Design: Bold Scarlet Ruby
+	[41576] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53830,--
 		["itemName"] = "Design: Bold Scarlet Ruby",
@@ -17994,7 +17997,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41577] = {--Design: Delicate Scarlet Ruby
+	[41577] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53945,--
 		["itemName"] = "Design: Delicate Scarlet Ruby",
@@ -18003,7 +18006,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41578] = {--Design: Flashing Scarlet Ruby
+	[41578] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53949,--
 		["itemName"] = "Design: Flashing Scarlet Ruby",
@@ -18012,7 +18015,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41579] = {--Design: Quick Autumn's Glow
+	[41579] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53961,--
 		["itemName"] = "Design: Quick Autumn's Glow",
@@ -18021,7 +18024,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41580] = {--Design: Rigid Autumn's Glow
+	[41580] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53958,--
 		["itemName"] = "Design: Rigid Autumn's Glow",
@@ -18030,7 +18033,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41581] = {--Design: Lustrous Sky Sapphire
+	[41581] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53954,--
 		["itemName"] = "Design: Lustrous Sky Sapphire",
@@ -18039,7 +18042,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41582] = {--Design: Glinting Monarch Topaz
+	[41582] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53980,--
 		["itemName"] = "Design: Glinting Monarch Topaz",
@@ -18048,7 +18051,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41686] = {--Design: Potent Monarch Topaz
+	[41686] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53984,--
 		["itemName"] = "Design: Potent Monarch Topaz",
@@ -18057,7 +18060,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41687] = {--Design: Stark Monarch Topaz
+	[41687] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53991,--
 		["itemName"] = "Design: Stark Monarch Topaz",
@@ -18066,7 +18069,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41688] = {--Design: Veiled Monarch Topaz
+	[41688] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53985,--
 		["itemName"] = "Design: Veiled Monarch Topaz",
@@ -18075,7 +18078,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41689] = {--Design: Luminous Monarch Topaz
+	[41689] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53983,--
 		["itemName"] = "Design: Luminous Monarch Topaz",
@@ -18084,7 +18087,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41690] = {--Design: Reckless Monarch Topaz
+	[41690] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53987,--
 		["itemName"] = "Design: Reckless Monarch Topaz",
@@ -18093,7 +18096,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41692] = {--Design: Energized Forest Emerald
+	[41692] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54011,--
 		["itemName"] = "Design: Energized Forest Emerald",
@@ -18102,7 +18105,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41693] = {--Design: Forceful Forest Emerald
+	[41693] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54001,--
 		["itemName"] = "Design: Forceful Forest Emerald",
@@ -18111,7 +18114,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41694] = {--Design: Intricate Forest Emerald
+	[41694] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54006,--
 		["itemName"] = "Design: Intricate Forest Emerald",
@@ -18120,7 +18123,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41696] = {--Design: Lambent Forest Emerald
+	[41696] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54009,--
 		["itemName"] = "Design: Lambent Forest Emerald",
@@ -18129,7 +18132,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41697] = {--Design: Enduring Forest Emerald
+	[41697] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53998,--
 		["itemName"] = "Design: Enduring Forest Emerald",
@@ -18138,7 +18141,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41698] = {--Design: Vivid Forest Emerald
+	[41698] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53997,--
 		["itemName"] = "Design: Vivid Forest Emerald",
@@ -18147,7 +18150,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41699] = {--Design: Seer's Forest Emerald
+	[41699] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54002,--
 		["itemName"] = "Design: Seer's Forest Emerald",
@@ -18156,7 +18159,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41701] = {--Design: Royal Twilight Opal
+	[41701] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53967,--
 		["itemName"] = "Design: Royal Twilight Opal",
@@ -18165,7 +18168,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41702] = {--Design: Puissant Twilight Opal
+	[41702] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53973,--
 		["itemName"] = "Design: Puissant Twilight Opal",
@@ -18174,7 +18177,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41703] = {--Design: Regal Twilight Opal
+	[41703] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53971,--
 		["itemName"] = "Design: Regal Twilight Opal",
@@ -18183,7 +18186,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41704] = {--Design: Chaotic Skyflare Diamond
+	[41704] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55389,--
 		["itemName"] = "Design: Chaotic Skyflare Diamond",
@@ -18192,7 +18195,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41705] = {--Design: Effulgent Skyflare Diamond
+	[41705] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55384,--
 		["itemName"] = "Design: Effulgent Skyflare Diamond",
@@ -18201,7 +18204,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41706] = {--Design: Ember Skyflare Diamond
+	[41706] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55392,--
 		["itemName"] = "Design: Ember Skyflare Diamond",
@@ -18210,7 +18213,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41707] = {--Design: Revitalizing Skyflare Diamond
+	[41707] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55407,--
 		["itemName"] = "Design: Revitalizing Skyflare Diamond",
@@ -18219,7 +18222,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41708] = {--Design: Insightful Earthsiege Diamond
+	[41708] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55396,--
 		["itemName"] = "Design: Insightful Earthsiege Diamond",
@@ -18228,7 +18231,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41709] = {--Design: Invigorating Earthsiege Diamond
+	[41709] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55404,--
 		["itemName"] = "Design: Invigorating Earthsiege Diamond",
@@ -18237,7 +18240,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41710] = {--Design: Relentless Earthsiege Diamond
+	[41710] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55400,--
 		["itemName"] = "Design: Relentless Earthsiege Diamond",
@@ -18246,7 +18249,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41711] = {--Design: Trenchant Earthsiege Diamond
+	[41711] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55403,--
 		["itemName"] = "Design: Trenchant Earthsiege Diamond",
@@ -18255,7 +18258,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41718] = {--Design: Runed Scarlet Ruby
+	[41718] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53946,--
 		["itemName"] = "Design: Runed Scarlet Ruby",
@@ -18266,7 +18269,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41719] = {--Design: Subtle Scarlet Ruby
+	[41719] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53948,--
 		["itemName"] = "Design: Subtle Scarlet Ruby",
@@ -18275,7 +18278,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41720] = {--Design: Smooth Autumn's Glow
+	[41720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53957,--
 		["itemName"] = "Design: Smooth Autumn's Glow",
@@ -18286,7 +18289,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41721] = {--Design: Wicked Monarch Topaz
+	[41721] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53988,--
 		["itemName"] = "Design: Wicked Monarch Topaz",
@@ -18297,7 +18300,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41722] = {--Design: Glimmering Monarch Topaz
+	[41722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53993,--
 		["itemName"] = "Design: Glimmering Monarch Topaz",
@@ -18308,7 +18311,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41723] = {--Design: Jagged Forest Emerald
+	[41723] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53996,--
 		["itemName"] = "Design: Jagged Forest Emerald",
@@ -18319,7 +18322,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41724] = {--Design: Sundered Forest Emerald
+	[41724] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54008,--
 		["itemName"] = "Design: Sundered Forest Emerald",
@@ -18330,7 +18333,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41725] = {--Design: Glowing Twilight Opal
+	[41725] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53965,--
 		["itemName"] = "Design: Glowing Twilight Opal",
@@ -18341,7 +18344,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41726] = {--Design: Guardian's Twilight Opal
+	[41726] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53974,--
 		["itemName"] = "Design: Guardian's Twilight Opal",
@@ -18352,7 +18355,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41727] = {--Design: Mystic Autumn's Glow
+	[41727] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53960,--
 		["itemName"] = "Design: Mystic Autumn's Glow",
@@ -18361,7 +18364,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41728] = {--Design: Stormy Sky Sapphire
+	[41728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53955,--
 		["itemName"] = "Design: Stormy Sky Sapphire",
@@ -18370,7 +18373,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41730] = {--Design: Durable Monarch Topaz
+	[41730] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53986,--
 		["itemName"] = "Design: Durable Monarch Topaz",
@@ -18379,7 +18382,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41732] = {--Design: Empowered Monarch Topaz
+	[41732] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53990,--
 		["itemName"] = "Design: Empowered Monarch Topaz",
@@ -18388,7 +18391,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41733] = {--Design: Lucent Monarch Topaz
+	[41733] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53981,--
 		["itemName"] = "Design: Lucent Monarch Topaz",
@@ -18397,7 +18400,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41734] = {--Design: Resplendent Monarch Topaz
+	[41734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53978,--
 		["itemName"] = "Design: Resplendent Monarch Topaz",
@@ -18406,7 +18409,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41735] = {--Design: Shattered Forest Emerald
+	[41735] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54014,--
 		["itemName"] = "Design: Shattered Forest Emerald",
@@ -18415,7 +18418,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41736] = {--Design: Tense Forest Emerald
+	[41736] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54013,--
 		["itemName"] = "Design: Tense Forest Emerald",
@@ -18424,7 +18427,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41737] = {--Design: Turbid Forest Emerald
+	[41737] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54005,--
 		["itemName"] = "Design: Turbid Forest Emerald",
@@ -18433,7 +18436,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41738] = {--Design: Steady Forest Emerald
+	[41738] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54000,--
 		["itemName"] = "Design: Steady Forest Emerald",
@@ -18442,7 +18445,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41739] = {--Design: Opaque Forest Emerald
+	[41739] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54010,--
 		["itemName"] = "Design: Opaque Forest Emerald",
@@ -18451,7 +18454,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41740] = {--Design: Mysterious Twilight Opal
+	[41740] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53968,--
 		["itemName"] = "Design: Mysterious Twilight Opal",
@@ -18460,7 +18463,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41742] = {--Design: Enigmatic Skyflare Diamond
+	[41742] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55393,--
 		["itemName"] = "Design: Enigmatic Skyflare Diamond",
@@ -18469,7 +18472,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41743] = {--Design: Forlorn Skyflare Diamond
+	[41743] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55387,--
 		["itemName"] = "Design: Forlorn Skyflare Diamond",
@@ -18478,7 +18481,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41744] = {--Design: Impassive Skyflare Diamond
+	[41744] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55388,--
 		["itemName"] = "Design: Impassive Skyflare Diamond",
@@ -18487,7 +18490,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41747] = {--Design: Shifting Twilight Opal
+	[41747] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53963,--
 		["itemName"] = "Design: Shifting Twilight Opal",
@@ -18496,7 +18499,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41777] = {--Design: Etched Monarch Topaz
+	[41777] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53976,--
 		["itemName"] = "Design: Etched Monarch Topaz",
@@ -18504,7 +18507,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41778] = {--Design: Resolute Monarch Topaz
+	[41778] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54023,--
 		["itemName"] = "Design: Resolute Monarch Topaz",
@@ -18512,7 +18515,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41779] = {--Design: Stalwart Monarch Topaz
+	[41779] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53992,--
 		["itemName"] = "Design: Stalwart Monarch Topaz",
@@ -18520,7 +18523,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41780] = {--Design: Champion's Monarch Topaz
+	[41780] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53977,--
 		["itemName"] = "Design: Champion's Monarch Topaz",
@@ -18528,7 +18531,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41781] = {--Design: Misty Forest Emerald
+	[41781] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54003,--
 		["itemName"] = "Design: Misty Forest Emerald",
@@ -18536,7 +18539,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41782] = {--Design: Shining Forest Emerald
+	[41782] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54004,--
 		["itemName"] = "Design: Shining Forest Emerald",
@@ -18544,7 +18547,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41783] = {--Design: Purified Twilight Opal
+	[41783] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53966,--
 		["itemName"] = "Design: Purified Twilight Opal",
@@ -18552,7 +18555,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41784] = {--Design: Sovereign Twilight Opal
+	[41784] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53962,--
 		["itemName"] = "Design: Sovereign Twilight Opal",
@@ -18560,7 +18563,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41785] = {--Design: Tenuous Twilight Opal
+	[41785] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53964,--
 		["itemName"] = "Design: Tenuous Twilight Opal",
@@ -18568,7 +18571,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41786] = {--Design: Destructive Skyflare Diamond
+	[41786] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55390,--
 		["itemName"] = "Design: Destructive Skyflare Diamond",
@@ -18576,7 +18579,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41787] = {--Design: Thundering Skyflare Diamond
+	[41787] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55395,--
 		["itemName"] = "Design: Thundering Skyflare Diamond",
@@ -18584,7 +18587,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41788] = {--Design: Beaming Earthsiege Diamond
+	[41788] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55405,--
 		["itemName"] = "Design: Beaming Earthsiege Diamond",
@@ -18592,7 +18595,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41789] = {--Design: Inscribed Monarch Topaz
+	[41789] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53975,--
 		["itemName"] = "Design: Inscribed Monarch Topaz",
@@ -18600,7 +18603,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41790] = {--Design: Precise Scarlet Ruby
+	[41790] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53951,--
 		["itemName"] = "Design: Precise Scarlet Ruby",
@@ -18609,7 +18612,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41791] = {--Design: Thick Autumn's Glow
+	[41791] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53959,--
 		["itemName"] = "Design: Thick Autumn's Glow",
@@ -18618,7 +18621,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41792] = {--Design: Deft Monarch Topaz
+	[41792] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53982,--
 		["itemName"] = "Design: Deft Monarch Topaz",
@@ -18627,7 +18630,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41793] = {--Design: Fierce Monarch Topaz
+	[41793] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54019,--
 		["itemName"] = "Design: Fierce Monarch Topaz",
@@ -18636,7 +18639,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41794] = {--Design: Deadly Monarch Topaz
+	[41794] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53979,--
 		["itemName"] = "Design: Deadly Monarch Topaz",
@@ -18645,7 +18648,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41795] = {--Design: Timeless Forest Emerald
+	[41795] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53995,--
 		["itemName"] = "Design: Timeless Forest Emerald",
@@ -18654,7 +18657,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41796] = {--Design: Infused Twilight Opal
+	[41796] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53970,--
 		["itemName"] = "Design: Infused Twilight Opal",
@@ -18663,7 +18666,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41797] = {--Design: Austere Earthsiege Diamond
+	[41797] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55401,--
 		["itemName"] = "Design: Austere Earthsiege Diamond",
@@ -18672,7 +18675,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41798] = {--Design: Bracing Earthsiege Diamond
+	[41798] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55397,--
 		["itemName"] = "Design: Bracing Earthsiege Diamond",
@@ -18681,7 +18684,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41799] = {--Design: Eternal Earthsiege Diamond
+	[41799] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55398,--
 		["itemName"] = "Design: Eternal Earthsiege Diamond",
@@ -18690,7 +18693,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41817] = {--Design: Fractured Scarlet Ruby
+	[41817] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53950,--
 		["itemName"] = "Design: Fractured Scarlet Ruby",
@@ -18699,7 +18702,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41818] = {--Design: Accurate Monarch Topaz
+	[41818] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53994,--
 		["itemName"] = "Design: Accurate Monarch Topaz",
@@ -18708,7 +18711,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41819] = {--Design: Radiant Forest Emerald
+	[41819] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54012,--
 		["itemName"] = "Design: Radiant Forest Emerald",
@@ -18717,7 +18720,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41820] = {--Design: Defender's Twilight Opal
+	[41820] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53972,--
 		["itemName"] = "Design: Defender's Twilight Opal",
@@ -18726,7 +18729,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[42138] = {--Design: Solid Sky Sapphire
+	[42138] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53952,--
 		["itemName"] = "Design: Solid Sky Sapphire",
@@ -18735,7 +18738,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[42172] = {--Pattern: Red Lumberjack Shirt
+	[42172] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55993,--
 		["itemName"] = "Pattern: Red Lumberjack Shirt",
@@ -18743,7 +18746,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42173] = {--Pattern: Blue Lumberjack Shirt
+	[42173] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55994,--
 		["itemName"] = "Pattern: Blue Lumberjack Shirt",
@@ -18751,7 +18754,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42175] = {--Pattern: Green Lumberjack Shirt
+	[42175] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55996,--
 		["itemName"] = "Pattern: Green Lumberjack Shirt",
@@ -18759,7 +18762,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42176] = {--Pattern: Blue Workman's Shirt
+	[42176] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55998,--
 		["itemName"] = "Pattern: Blue Workman's Shirt",
@@ -18767,7 +18770,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42177] = {--Pattern: Red Workman's Shirt
+	[42177] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55997,--
 		["itemName"] = "Pattern: Red Workman's Shirt",
@@ -18775,7 +18778,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42178] = {--Pattern: Rustic Workman's Shirt
+	[42178] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55999,--
 		["itemName"] = "Pattern: Rustic Workman's Shirt",
@@ -18783,7 +18786,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42183] = {--Pattern: Abyssal Bag
+	[42183] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56004,--
 		["itemName"] = "Pattern: Abyssal Bag",
@@ -18794,7 +18797,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 435,
 		},
-	[42184] = {--Pattern: Glacial Bag
+	[42184] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56005,--
 		["itemName"] = "Pattern: Glacial Bag",
@@ -18805,7 +18808,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 445,
 		},
-	[42185] = {--Pattern: Mysterious Bag
+	[42185] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56006,--
 		["itemName"] = "Pattern: Mysterious Bag",
@@ -18816,7 +18819,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 440,
 		},
-	[42187] = {--Pattern: Brilliant Spellthread
+	[42187] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56009,--
 		["itemName"] = "Pattern: Brilliant Spellthread",
@@ -18827,7 +18830,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 430,
 		},
-	[42188] = {--Pattern: Sapphire Spellthread
+	[42188] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56011,--
 		["itemName"] = "Pattern: Sapphire Spellthread",
@@ -18838,7 +18841,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 430,
 		},
-	[42298] = {--Design: Bold Dragon's Eye
+	[42298] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56049,--
 		["itemName"] = "Design: Bold Dragon's Eye",
@@ -18847,7 +18850,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42299] = {--Design: Bright Dragon's Eye
+	[42299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56054,--
 		["itemName"] = "Design: Bright Dragon's Eye",
@@ -18856,7 +18859,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42300] = {--Design: Brilliant Dragon's Eye
+	[42300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56074,--
 		["itemName"] = "Design: Brilliant Dragon's Eye",
@@ -18865,7 +18868,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42301] = {--Design: Delicate Dragon's Eye
+	[42301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56052,--
 		["itemName"] = "Design: Delicate Dragon's Eye",
@@ -18874,7 +18877,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42302] = {--Design: Flashing Dragon's Eye
+	[42302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56056,--
 		["itemName"] = "Design: Flashing Dragon's Eye",
@@ -18883,7 +18886,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42303] = {--Design: Fractured Dragon's Eye
+	[42303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56076,--
 		["itemName"] = "Design: Fractured Dragon's Eye",
@@ -18892,7 +18895,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42304] = {--Design: Lustrous Dragon's Eye
+	[42304] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56077,--
 		["itemName"] = "Design: Lustrous Dragon's Eye",
@@ -18901,7 +18904,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42305] = {--Design: Mystic Dragon's Eye
+	[42305] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56079,--
 		["itemName"] = "Design: Mystic Dragon's Eye",
@@ -18910,7 +18913,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42306] = {--Design: Precise Dragon's Eye
+	[42306] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56081,--
 		["itemName"] = "Design: Precise Dragon's Eye",
@@ -18919,7 +18922,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42307] = {--Design: Quick Dragon's Eye
+	[42307] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56083,--
 		["itemName"] = "Design: Quick Dragon's Eye",
@@ -18928,7 +18931,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42308] = {--Design: Rigid Dragon's Eye
+	[42308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56084,--
 		["itemName"] = "Design: Rigid Dragon's Eye",
@@ -18937,7 +18940,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42309] = {--Design: Runed Dragon's Eye
+	[42309] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56053,--
 		["itemName"] = "Design: Runed Dragon's Eye",
@@ -18946,7 +18949,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42310] = {--Design: Smooth Dragon's Eye
+	[42310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56085,--
 		["itemName"] = "Design: Smooth Dragon's Eye",
@@ -18955,7 +18958,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42311] = {--Design: Solid Dragon's Eye
+	[42311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56086,--
 		["itemName"] = "Design: Solid Dragon's Eye",
@@ -18964,7 +18967,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42312] = {--Design: Sparkling Dragon's Eye
+	[42312] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56087,--
 		["itemName"] = "Design: Sparkling Dragon's Eye",
@@ -18973,7 +18976,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42313] = {--Design: Stormy Dragon's Eye
+	[42313] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56088,--
 		["itemName"] = "Design: Stormy Dragon's Eye",
@@ -18982,7 +18985,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42314] = {--Design: Subtle Dragon's Eye
+	[42314] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56055,--
 		["itemName"] = "Design: Subtle Dragon's Eye",
@@ -18991,7 +18994,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42315] = {--Design: Thick Dragon's Eye
+	[42315] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56089,--
 		["itemName"] = "Design: Thick Dragon's Eye",
@@ -19000,7 +19003,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42648] = {--Design: Titanium Impact Band
+	[42648] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56496,--
 		["itemName"] = "Design: Titanium Impact Band",
@@ -19009,7 +19012,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 430,
 		},
-	[42649] = {--Design: Titanium Earthguard Ring
+	[42649] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56497,--
 		["itemName"] = "Design: Titanium Earthguard Ring",
@@ -19018,7 +19021,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 430,
 		},
-	[42650] = {--Design: Titanium Spellshock Ring
+	[42650] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56498,--
 		["itemName"] = "Design: Titanium Spellshock Ring",
@@ -19027,7 +19030,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 430,
 		},
-	[42651] = {--Design: Titanium Impact Choker
+	[42651] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56499,--
 		["itemName"] = "Design: Titanium Impact Choker",
@@ -19036,7 +19039,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 440,
 		},
-	[42652] = {--Design: Titanium Earthguard Chain
+	[42652] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56500,--
 		["itemName"] = "Design: Titanium Earthguard Chain",
@@ -19045,7 +19048,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 440,
 		},
-	[42653] = {--Design: Titanium Spellshock Necklace
+	[42653] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56501,--
 		["itemName"] = "Design: Titanium Spellshock Necklace",
@@ -19054,7 +19057,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 440,
 		},
-	[43017] = {--Recipe: Fish Feast
+	[43017] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57423,--
 		["itemName"] = "Recipe: Fish Feast",
@@ -19063,7 +19066,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 450,
 		},
-	[43018] = {--Recipe: Mega Mammoth Meal
+	[43018] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45555,--
 		["itemName"] = "Recipe: Mega Mammoth Meal",
@@ -19072,7 +19075,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43019] = {--Recipe: Tender Shoveltusk Steak
+	[43019] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45556,--
 		["itemName"] = "Recipe: Tender Shoveltusk Steak",
@@ -19081,7 +19084,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43020] = {--Recipe: Spiced Worm Burger
+	[43020] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45557,--
 		["itemName"] = "Recipe: Spiced Worm Burger",
@@ -19090,7 +19093,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43021] = {--Recipe: Very Burnt Worg
+	[43021] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45558,--
 		["itemName"] = "Recipe: Very Burnt Worg",
@@ -19099,7 +19102,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43022] = {--Recipe: Mighty Rhino Dogs
+	[43022] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45559,--
 		["itemName"] = "Recipe: Mighty Rhino Dogs",
@@ -19108,7 +19111,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43023] = {--Recipe: Poached Northern Sculpin
+	[43023] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45567,--
 		["itemName"] = "Recipe: Poached Northern Sculpin",
@@ -19117,7 +19120,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43024] = {--Recipe: Firecracker Salmon
+	[43024] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45568,--
 		["itemName"] = "Recipe: Firecracker Salmon",
@@ -19126,7 +19129,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43025] = {--Recipe: Spicy Blue Nettlefish
+	[43025] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45571,--
 		["itemName"] = "Recipe: Spicy Blue Nettlefish",
@@ -19135,7 +19138,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43026] = {--Recipe: Imperial Manta Steak
+	[43026] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 45570,--
 		["itemName"] = "Recipe: Imperial Manta Steak",
@@ -19144,7 +19147,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43027] = {--Recipe: Spicy Fried Herring
+	[43027] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57433,--
 		["itemName"] = "Recipe: Spicy Fried Herring",
@@ -19153,7 +19156,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43028] = {--Recipe: Rhinolicious Wormsteak
+	[43028] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57434,--
 		["itemName"] = "Recipe: Rhinolicious Wormsteak",
@@ -19162,7 +19165,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43029] = {--Recipe: Critter Bites
+	[43029] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57435,--
 		["itemName"] = "Recipe: Critter Bites",
@@ -19171,7 +19174,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43030] = {--Recipe: Hearty Rhino
+	[43030] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57436,--
 		["itemName"] = "Recipe: Hearty Rhino",
@@ -19180,7 +19183,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43031] = {--Recipe: Snapper Extreme
+	[43031] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57437,--
 		["itemName"] = "Recipe: Snapper Extreme",
@@ -19189,7 +19192,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43032] = {--Recipe: Blackened Worg Steak
+	[43032] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57438,--
 		["itemName"] = "Recipe: Blackened Worg Steak",
@@ -19198,7 +19201,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43033] = {--Recipe: Cuttlesteak
+	[43033] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57439,--
 		["itemName"] = "Recipe: Cuttlesteak",
@@ -19207,7 +19210,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43034] = {--Recipe: Spiced Mammoth Treats
+	[43034] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57440,--
 		["itemName"] = "Recipe: Spiced Mammoth Treats",
@@ -19216,7 +19219,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43035] = {--Recipe: Blackened Dragonfin
+	[43035] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57441,--
 		["itemName"] = "Recipe: Blackened Dragonfin",
@@ -19225,7 +19228,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43036] = {--Recipe: Dragonfin Filet
+	[43036] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57442,--
 		["itemName"] = "Recipe: Dragonfin Filet",
@@ -19234,7 +19237,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43037] = {--Recipe: Tracker Snacks
+	[43037] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57443,--
 		["itemName"] = "Recipe: Tracker Snacks",
@@ -19243,7 +19246,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[43317] = {--Design: Ring of Earthen Might
+	[43317] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58147,--
 		["itemName"] = "Design: Ring of Earthen Might",
@@ -19252,7 +19255,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43318] = {--Design: Ring of Scarlet Shadows
+	[43318] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58148,--
 		["itemName"] = "Design: Ring of Scarlet Shadows",
@@ -19261,7 +19264,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43319] = {--Design: Windfire Band
+	[43319] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58149,--
 		["itemName"] = "Design: Windfire Band",
@@ -19270,7 +19273,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43320] = {--Design: Ring of Northern Tears
+	[43320] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58150,--
 		["itemName"] = "Design: Ring of Northern Tears",
@@ -19279,7 +19282,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43485] = {--Design: Savage Titanium Ring
+	[43485] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58492,--
 		["itemName"] = "Design: Savage Titanium Ring",
@@ -19288,7 +19291,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43497] = {--Design: Savage Titanium Band
+	[43497] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58507,--
 		["itemName"] = "Design: Savage Titanium Band",
@@ -19297,7 +19300,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43505] = {--Recipe: Gigantic Feast
+	[43505] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58527,--
 		["itemName"] = "Recipe: Gigantic Feast",
@@ -19306,7 +19309,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 425,
 		},
-	[43506] = {--Recipe: Small Feast
+	[43506] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58528,--
 		["itemName"] = "Recipe: Small Feast",
@@ -19315,7 +19318,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 425,
 		},
-	[43507] = {--Recipe: Tasty Cupcake
+	[43507] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58512,--
 		["itemName"] = "Recipe: Tasty Cupcake",
@@ -19324,7 +19327,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 350,
 		},
-	[43508] = {--Recipe: Last Week's Mammoth
+	[43508] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58521,--
 		["itemName"] = "Recipe: Last Week's Mammoth",
@@ -19333,7 +19336,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 350,
 		},
-	[43509] = {--Recipe: Bad Clams
+	[43509] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58523,--
 		["itemName"] = "Recipe: Bad Clams",
@@ -19342,7 +19345,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 350,
 		},
-	[43510] = {--Recipe: Haunted Herring
+	[43510] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58525,--
 		["itemName"] = "Recipe: Haunted Herring",
@@ -19351,7 +19354,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 350,
 		},
-	[43516] = {--Brutal Nether Drake
+	[43516] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 58615,--Brutal Nether Drake
 		["itemName"] = "Brutal Nether Drake",
@@ -19362,7 +19365,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43597] = {--Design: Titanium Frostguard Ring
+	[43597] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58954,--
 		["itemName"] = "Design: Titanium Frostguard Ring",
@@ -19371,7 +19374,7 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[43599] = {--Big Blizzard Bear     (BlizzCon 2008)
+	[43599] = {--BlizzCon 2008
 		["type"] = "MOUNT",
 		["teachesSpell"] = 58983,--Big Blizzard Bear
 		["itemName"] = "Big Blizzard Bear",
@@ -19381,14 +19384,14 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[43698] = {--Giant Sewer Rat
+	[43698] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 59250,--Giant Sewer Rat
 		["itemName"] = "Giant Sewer Rat",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[43876] = {--A Guide to Northern Cloth Scavenging
+	[43876] = {--
 		["type"] = "OTHER",
 		["teachesSpell"] = 59390,--Northern Cloth Scavenging
 		["itemName"] = "A Guide to Northern Cloth Scavenging",
@@ -19397,7 +19400,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 325,
 		},
-	[43951] = {--Reins of the Bronze Drake     (Stratholme - heroic)
+	[43951] = {--Stratholme - heroic
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59569,--Bronze Drake
 		["itemName"] = "Reins of the Bronze Drake",
@@ -19408,7 +19411,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43952] = {--Reins of the Azure Drake     (25-man Malygos)
+	[43952] = {--25-man Malygos
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59567,--Azure Drake
 		["itemName"] = "Reins of the Azure Drake",
@@ -19419,7 +19422,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43953] = {--Reins of the Blue Drake     (10-man Malygos)
+	[43953] = {--10-man Malygos
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59568,--Blue Drake
 		["itemName"] = "Reins of the Blue Drake",
@@ -19430,7 +19433,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43954] = {--Reins of the Twilight Drake     (25-man Sartharion)
+	[43954] = {--25-man Sartharion
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59571,--Twilight Drake
 		["itemName"] = "Reins of the Twilight Drake",
@@ -19441,7 +19444,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43955] = {--Reins of the Red Drake
+	[43955] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59570,--Red Drake
 		["itemName"] = "Reins of the Red Drake",
@@ -19454,7 +19457,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43956] = {--Reins of the Black War Mammoth
+	[43956] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59785,--Black War Mammoth
 		["itemName"] = "Reins of the Black War Mammoth",
@@ -19465,7 +19468,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[43958] = {--Reins of the Ice Mammoth
+	[43958] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59799,--Ice Mammoth
 		["itemName"] = "Reins of the Ice Mammoth",
@@ -19478,7 +19481,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[43959] = {--Reins of the Grand Black War Mammoth
+	[43959] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61465,--Grand Black War Mammoth
 		["itemName"] = "Reins of the Grand Black War Mammoth",
@@ -19489,7 +19492,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[43961] = {--Reins of the Grand Ice Mammoth
+	[43961] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61470,--Grand Ice Mammoth
 		["itemName"] = "Reins of the Grand Ice Mammoth",
@@ -19502,7 +19505,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[43962] = {--Reins of the White Polar Bear     (Quest - Hyldnir Spoils)
+	[43962] = {--Quest - Hyldnir Spoils
 		["type"] = "MOUNT",
 		["teachesSpell"] = 54753,--White Polar Bear Mount
 		["itemName"] = "Reins of the White Polar Bear",
@@ -19512,7 +19515,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[43963] = {--Reins of the Brown Polar Bear
+	[43963] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59573,--Brown Polar Bear
 		["itemName"] = "Reins of the Brown Polar Bear",
@@ -19523,7 +19526,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[43964] = {--Reins of the Black Polar Bear
+	[43964] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59572,--Black Polar Bear
 		["itemName"] = "Reins of the Black Polar Bear",
@@ -19534,7 +19537,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[43986] = {--Reins of the Black Drake     (10-man Sartharion)
+	[43986] = {--10-man Sartharion
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59650,--Black Drake
 		["itemName"] = "Reins of the Black Drake",
@@ -19545,7 +19548,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44077] = {--Reins of the Black War Mammoth
+	[44077] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59788,--Black War Mammoth
 		["itemName"] = "Reins of the Black War Mammoth",
@@ -19556,7 +19559,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44080] = {--Reins of the Ice Mammoth
+	[44080] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59797,--Ice Mammoth
 		["itemName"] = "Reins of the Ice Mammoth",
@@ -19569,7 +19572,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44083] = {--Reins of the Grand Black War Mammoth
+	[44083] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61467,--Grand Black War Mammoth
 		["itemName"] = "Reins of the Grand Black War Mammoth",
@@ -19580,7 +19583,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44086] = {--Reins of the Grand Ice Mammoth
+	[44086] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61469,--Grand Ice Mammoth
 		["itemName"] = "Reins of the Grand Ice Mammoth",
@@ -19593,7 +19596,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44151] = {--Reins of the Blue Proto-Drake     (Utgarde Pinnacle - heroic)
+	[44151] = {--Utgarde Pinnacle - heroic
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59996,--Blue Proto-Drake
 		["itemName"] = "Reins of the Blue Proto-Drake",
@@ -19604,7 +19607,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44160] = {--Reins of the Red Proto-Drake     (Glory of the Hero)
+	[44160] = {--Glory of the Hero
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59961,--Red Proto-Drake
 		["itemName"] = "Reins of the Red Proto-Drake",
@@ -19615,7 +19618,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44164] = {--Reins of the Black Proto-Drake     (Heroic: Glory of the Raider)
+	[44164] = {--Heroic: Glory of the Raider
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59976,--Black Proto-Drake
 		["itemName"] = "Reins of the Black Proto-Drake",
@@ -19626,7 +19629,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44168] = {--Reins of the Time-Lost Proto-Drake     (sturmgipfel)
+	[44168] = {--sturmgipfel
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60002,--Time-Lost Proto-Drake
 		["itemName"] = "Reins of the Time-Lost Proto-Drake",
@@ -19637,7 +19640,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44175] = {--Reins of the Plagued Proto-Drake     (Glory of the Raider)
+	[44175] = {--Glory of the Raider
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60021,--Plagued Proto-Drake
 		["itemName"] = "Reins of the Plagued Proto-Drake",
@@ -19648,7 +19651,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44177] = {--Reins of the Violet Proto-Drake     (What A Long Strange Trip It's Been)
+	[44177] = {--What A Long Strange Trip It's Been
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60024,--Violet Proto-Drake
 		["itemName"] = "Reins of the Violet Proto-Drake",
@@ -19659,7 +19662,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44178] = {--Reins of the Albino Drake     (Leading the Cavalry)
+	[44178] = {--Leading the Cavalry
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60025,--Albino Drake
 		["itemName"] = "Reins of the Albino Drake",
@@ -19670,7 +19673,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44223] = {--Reins of the Black War Bear     (For The Alliance!)
+	[44223] = {--For The Alliance!
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60118,--Black War Bear
 		["itemName"] = "Reins of the Black War Bear",
@@ -19681,7 +19684,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44224] = {--Reins of the Black War Bear     (For The Horde!)
+	[44224] = {--For The Horde!
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60119,--Black War Bear
 		["itemName"] = "Reins of the Black War Bear",
@@ -19692,7 +19695,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44225] = {--Reins of the Armored Brown Bear
+	[44225] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60114,--Armored Brown Bear
 		["itemName"] = "Reins of the Armored Brown Bear",
@@ -19703,7 +19706,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44226] = {--Reins of the Armored Brown Bear
+	[44226] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60116,--Armored Brown Bear
 		["itemName"] = "Reins of the Armored Brown Bear",
@@ -19714,7 +19717,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44230] = {--Reins of the Wooly Mammoth
+	[44230] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59791,--Wooly Mammoth
 		["itemName"] = "Reins of the Wooly Mammoth",
@@ -19725,7 +19728,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44231] = {--Reins of the Wooly Mammoth
+	[44231] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59793,--Wooly Mammoth
 		["itemName"] = "Reins of the Wooly Mammoth",
@@ -19736,7 +19739,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44234] = {--Reins of the Traveler's Tundra Mammoth
+	[44234] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61447,--Traveler's Tundra Mammoth
 		["itemName"] = "Reins of the Traveler's Tundra Mammoth",
@@ -19747,7 +19750,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44235] = {--Reins of the Traveler's Tundra Mammoth
+	[44235] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61425,--Traveler's Tundra Mammoth
 		["itemName"] = "Reins of the Traveler's Tundra Mammoth",
@@ -19758,7 +19761,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44413] = {--Mekgineer's Chopper     (Engineering - Alliance)
+	[44413] = {--Engineering - Alliance
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60424,--Mekgineer's Chopper
 		["itemName"] = "Mekgineer's Chopper",
@@ -19768,7 +19771,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[44471] = {--Formula: Enchant Cloak - Mighty Armor
+	[44471] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47672,--
 		["itemName"] = "Formula: Enchant Cloak - Mighty Armor",
@@ -19777,7 +19780,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 430,
 		},
-	[44472] = {--Formula: Enchant Cloak - Greater Speed
+	[44472] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47898,--
 		["itemName"] = "Formula: Enchant Cloak - Greater Speed",
@@ -19786,7 +19789,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 430,
 		},
-	[44473] = {--Formula: Enchant Weapon - Scourgebane
+	[44473] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44595,--
 		["itemName"] = "Formula: Enchant Weapon - Scourgebane",
@@ -19795,7 +19798,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 430,
 		},
-	[44483] = {--Formula: Enchant 2H Weapon - Massacre
+	[44483] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60691,--
 		["itemName"] = "Formula: Enchant 2H Weapon - Massacre",
@@ -19804,7 +19807,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 430,
 		},
-	[44484] = {--Formula: Enchant Bracers - Greater Assault
+	[44484] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44575,--
 		["itemName"] = "Formula: Enchant Bracers - Greater Assault",
@@ -19813,7 +19816,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 430,
 		},
-	[44485] = {--Formula: Enchant Gloves - Armsman
+	[44485] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44625,--
 		["itemName"] = "Formula: Enchant Gloves - Armsman",
@@ -19822,7 +19825,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 435,
 		},
-	[44486] = {--Formula: Enchant Weapon - Superior Potency
+	[44486] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60707,--
 		["itemName"] = "Formula: Enchant Weapon - Superior Potency",
@@ -19831,7 +19834,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 435,
 		},
-	[44487] = {--Formula: Enchant Weapon - Mighty Spellpower
+	[44487] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60714,--
 		["itemName"] = "Formula: Enchant Weapon - Mighty Spellpower",
@@ -19840,7 +19843,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 435,
 		},
-	[44488] = {--Formula: Enchant Cloak - Wisdom
+	[44488] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47899,--
 		["itemName"] = "Formula: Enchant Cloak - Wisdom",
@@ -19849,7 +19852,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44489] = {--Formula: Enchant Chest - Powerful Stats
+	[44489] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60692,--
 		["itemName"] = "Formula: Enchant Chest - Powerful Stats",
@@ -19858,7 +19861,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44490] = {--Formula: Enchant Boots - Greater Assault
+	[44490] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60763,--
 		["itemName"] = "Formula: Enchant Boots - Greater Assault",
@@ -19867,7 +19870,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44491] = {--Formula: Enchant Boots - Tuskarr's Vitality
+	[44491] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47901,--
 		["itemName"] = "Formula: Enchant Boots - Tuskarr's Vitality",
@@ -19876,7 +19879,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44492] = {--Formula: Enchant Weapon - Berserking
+	[44492] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 59621,--
 		["itemName"] = "Formula: Enchant Weapon - Berserking",
@@ -19885,7 +19888,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44494] = {--Formula: Enchant Weapon - Lifeward
+	[44494] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 44576,--
 		["itemName"] = "Formula: Enchant Weapon - Lifeward",
@@ -19894,7 +19897,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 425,
 		},
-	[44495] = {--Formula: Enchant Weapon - Black Magic
+	[44495] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 59625,--
 		["itemName"] = "Formula: Enchant Weapon - Black Magic",
@@ -19903,7 +19906,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44496] = {--Formula: Enchant Weapon - Accuracy
+	[44496] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 59619,--
 		["itemName"] = "Formula: Enchant Weapon - Accuracy",
@@ -19912,7 +19915,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44498] = {--Formula: Enchant Bracer - Superior Spellpower
+	[44498] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60767,--
 		["itemName"] = "Formula: Enchant Bracer - Superior Spellpower",
@@ -19921,7 +19924,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 440,
 		},
-	[44502] = {--Schematic: Mechano-hog
+	[44502] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60866,--
 		["itemName"] = "Schematic: Mechano-hog",
@@ -19932,7 +19935,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 450,
 		},
-	[44503] = {--Schematic: Mekgineer's Chopper
+	[44503] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60867,--
 		["itemName"] = "Schematic: Mekgineer's Chopper",
@@ -19943,7 +19946,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 450,
 		},
-	[44509] = {--Pattern: Trapper's Traveling Pack
+	[44509] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 50970,--
 		["itemName"] = "Pattern: Trapper's Traveling Pack",
@@ -19954,7 +19957,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 415,
 		},
-	[44510] = {--Pattern: Mammoth Mining Bag
+	[44510] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 50971,--
 		["itemName"] = "Pattern: Mammoth Mining Bag",
@@ -19965,7 +19968,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 415,
 		},
-	[44511] = {--Pattern: Dragonscale Ammo Pouch
+	[44511] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60645,--
 		["itemName"] = "Pattern: Dragonscale Ammo Pouch",
@@ -19976,7 +19979,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 415,
 		},
-	[44512] = {--Pattern: Nerubian Reinforced Quiver
+	[44512] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60647,--
 		["itemName"] = "Pattern: Nerubian Reinforced Quiver",
@@ -19987,7 +19990,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 415,
 		},
-	[44513] = {--Pattern: Eviscerator's Facemask
+	[44513] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60697,--
 		["itemName"] = "Pattern: Eviscerator's Facemask",
@@ -19996,7 +19999,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44514] = {--Pattern: Eviscerator's Shoulderpads
+	[44514] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60702,--
 		["itemName"] = "Pattern: Eviscerator's Shoulderpads",
@@ -20005,7 +20008,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44515] = {--Pattern: Eviscerator's Chestguard
+	[44515] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60703,--
 		["itemName"] = "Pattern: Eviscerator's Chestguard",
@@ -20014,7 +20017,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44516] = {--Pattern: Eviscerator's Bindings
+	[44516] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60704,--
 		["itemName"] = "Pattern: Eviscerator's Bindings",
@@ -20023,7 +20026,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44517] = {--Pattern: Eviscerator's Gauntlets
+	[44517] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60705,--
 		["itemName"] = "Pattern: Eviscerator's Gauntlets",
@@ -20032,7 +20035,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44518] = {--Pattern: Eviscerator's Waistguard
+	[44518] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60706,--
 		["itemName"] = "Pattern: Eviscerator's Waistguard",
@@ -20041,7 +20044,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44519] = {--Pattern: Eviscerator's Legguards
+	[44519] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60711,--
 		["itemName"] = "Pattern: Eviscerator's Legguards",
@@ -20050,7 +20053,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44520] = {--Pattern: Eviscerator's Treads
+	[44520] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60712,--
 		["itemName"] = "Pattern: Eviscerator's Treads",
@@ -20059,7 +20062,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44521] = {--Pattern: Overcast Headguard
+	[44521] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60715,--
 		["itemName"] = "Pattern: Overcast Headguard",
@@ -20068,7 +20071,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44522] = {--Pattern: Overcast Spaulders
+	[44522] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60716,--
 		["itemName"] = "Pattern: Overcast Spaulders",
@@ -20077,7 +20080,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44523] = {--Pattern: Overcast Chestguard
+	[44523] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60718,--
 		["itemName"] = "Pattern: Overcast Chestguard",
@@ -20086,7 +20089,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44524] = {--Pattern: Overcast Bracers
+	[44524] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60720,--
 		["itemName"] = "Pattern: Overcast Bracers",
@@ -20095,7 +20098,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44525] = {--Pattern: Overcast Handwraps
+	[44525] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60721,--
 		["itemName"] = "Pattern: Overcast Handwraps",
@@ -20104,7 +20107,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44526] = {--Pattern: Overcast Belt
+	[44526] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60723,--
 		["itemName"] = "Pattern: Overcast Belt",
@@ -20113,7 +20116,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44527] = {--Pattern: Overcast Leggings
+	[44527] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60725,--
 		["itemName"] = "Pattern: Overcast Leggings",
@@ -20122,7 +20125,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44528] = {--Pattern: Overcast Boots
+	[44528] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60727,--
 		["itemName"] = "Pattern: Overcast Boots",
@@ -20131,7 +20134,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44530] = {--Pattern: Swiftarrow Helm
+	[44530] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60728,--
 		["itemName"] = "Pattern: Swiftarrow Helm",
@@ -20140,7 +20143,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44531] = {--Pattern: Swiftarrow Shoulderguards
+	[44531] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60729,--
 		["itemName"] = "Pattern: Swiftarrow Shoulderguards",
@@ -20149,7 +20152,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44532] = {--Pattern: Swiftarrow Hauberk
+	[44532] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60730,--
 		["itemName"] = "Pattern: Swiftarrow Hauberk",
@@ -20158,7 +20161,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44533] = {--Pattern: Swiftarrow Bracers
+	[44533] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60731,--
 		["itemName"] = "Pattern: Swiftarrow Bracers",
@@ -20167,7 +20170,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44534] = {--Pattern: Swiftarrow Gauntlets
+	[44534] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60732,--
 		["itemName"] = "Pattern: Swiftarrow Gauntlets",
@@ -20176,7 +20179,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44535] = {--Pattern: Swiftarrow Belt
+	[44535] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60734,--
 		["itemName"] = "Pattern: Swiftarrow Belt",
@@ -20185,7 +20188,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44536] = {--Pattern: Swiftarrow Leggings
+	[44536] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60735,--
 		["itemName"] = "Pattern: Swiftarrow Leggings",
@@ -20194,7 +20197,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44537] = {--Pattern: Swiftarrow Boots
+	[44537] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60737,--
 		["itemName"] = "Pattern: Swiftarrow Boots",
@@ -20203,7 +20206,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44538] = {--Pattern: Stormhide Crown
+	[44538] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60743,--
 		["itemName"] = "Pattern: Stormhide Crown",
@@ -20212,7 +20215,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44539] = {--Pattern: Stormhide Shoulders
+	[44539] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60746,--
 		["itemName"] = "Pattern: Stormhide Shoulders",
@@ -20221,7 +20224,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44540] = {--Pattern: Stormhide Hauberk
+	[44540] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60747,--
 		["itemName"] = "Pattern: Stormhide Hauberk",
@@ -20230,7 +20233,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44541] = {--Pattern: Stormhide Wristguards
+	[44541] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60748,--
 		["itemName"] = "Pattern: Stormhide Wristguards",
@@ -20239,7 +20242,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44542] = {--Pattern: Stormhide Grips
+	[44542] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60749,--
 		["itemName"] = "Pattern: Stormhide Grips",
@@ -20248,7 +20251,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44543] = {--Pattern: Stormhide Belt
+	[44543] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60750,--
 		["itemName"] = "Pattern: Stormhide Belt",
@@ -20257,7 +20260,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44544] = {--Pattern: Stormhide Legguards
+	[44544] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60751,--
 		["itemName"] = "Pattern: Stormhide Legguards",
@@ -20266,7 +20269,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44545] = {--Pattern: Stormhide Stompers
+	[44545] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60752,--
 		["itemName"] = "Pattern: Stormhide Stompers",
@@ -20275,7 +20278,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44546] = {--Pattern: Giantmaim Legguards
+	[44546] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60754,--
 		["itemName"] = "Pattern: Giantmaim Legguards",
@@ -20284,7 +20287,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44547] = {--Pattern: Giantmaim Bracers
+	[44547] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60755,--
 		["itemName"] = "Pattern: Giantmaim Bracers",
@@ -20293,7 +20296,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44548] = {--Pattern: Revenant's Breastplate
+	[44548] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60756,--
 		["itemName"] = "Pattern: Revenant's Breastplate",
@@ -20302,7 +20305,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44549] = {--Pattern: Revenant's Treads
+	[44549] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60757,--
 		["itemName"] = "Pattern: Revenant's Treads",
@@ -20311,7 +20314,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44550] = {--Pattern: Trollwoven Spaulders
+	[44550] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60758,--
 		["itemName"] = "Pattern: Trollwoven Spaulders",
@@ -20320,7 +20323,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44551] = {--Pattern: Trollwoven Girdle
+	[44551] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60759,--
 		["itemName"] = "Pattern: Trollwoven Girdle",
@@ -20329,7 +20332,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44552] = {--Pattern: Earthgiving Legguards
+	[44552] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60760,--
 		["itemName"] = "Pattern: Earthgiving Legguards",
@@ -20338,7 +20341,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44553] = {--Pattern: Earthgiving Boots
+	[44553] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60761,--
 		["itemName"] = "Pattern: Earthgiving Boots",
@@ -20347,7 +20350,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44554] = {--Flying Carpet     (Tailoring 410)
+	[44554] = {--Tailoring 410
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61451,--Flying Carpet
 		["itemName"] = "Flying Carpet",
@@ -20357,7 +20360,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 410,
 		},
-	[44555] = {--Swift Mooncloth Carpet     (Tailoring 450)
+	[44555] = {--Tailoring 450
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61442,--Swift Mooncloth Carpet
 		["itemName"] = "Swift Mooncloth Carpet",
@@ -20368,7 +20371,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 450,
 		["unique"] = 1,
 		},
-	[44556] = {--Swift Spellfire Carpet     (Tailoring 450)
+	[44556] = {--Tailoring 450
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61446,--Swift Spellfire Carpet
 		["itemName"] = "Swift Spellfire Carpet",
@@ -20379,7 +20382,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 450,
 		["unique"] = 1,
 		},
-	[44558] = {--Magnificent Flying Carpet     (Tailoring 425)
+	[44558] = {--Tailoring 425
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61309,--Magnificent Flying Carpet
 		["itemName"] = "Magnificent Flying Carpet",
@@ -20390,7 +20393,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 425,
 		},
-	[44559] = {--Pattern: Fur Lining - Fire Resist
+	[44559] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57692,--
 		["itemName"] = "Pattern: Fur Lining - Fire Resist",
@@ -20399,7 +20402,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 400,
 		},
-	[44560] = {--Pattern: Fur Lining - Frost Resist
+	[44560] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57694,--
 		["itemName"] = "Pattern: Fur Lining - Frost Resist",
@@ -20408,7 +20411,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 400,
 		},
-	[44561] = {--Pattern: Fur Lining - Shadow Resist
+	[44561] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57696,--
 		["itemName"] = "Pattern: Fur Lining - Shadow Resist",
@@ -20417,7 +20420,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 400,
 		},
-	[44562] = {--Pattern: Fur Lining - Nature Resist
+	[44562] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57699,--
 		["itemName"] = "Pattern: Fur Lining - Nature Resist",
@@ -20426,7 +20429,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 400,
 		},
-	[44563] = {--Pattern: Fur Lining - Arcane Resist
+	[44563] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 57701,--
 		["itemName"] = "Pattern: Fur Lining - Arcane Resist",
@@ -20435,7 +20438,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 400,
 		},
-	[44564] = {--Recipe: Mighty Arcane Protection Potion
+	[44564] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53936,--
 		["itemName"] = "Recipe: Mighty Arcane Protection Potion",
@@ -20444,7 +20447,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 400,
 		},
-	[44565] = {--Recipe: Mighty Fire Protection Potion
+	[44565] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53939,--
 		["itemName"] = "Recipe: Mighty Fire Protection Potion",
@@ -20453,7 +20456,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 400,
 		},
-	[44566] = {--Recipe: Mighty Frost Protection Potion
+	[44566] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53937,--
 		["itemName"] = "Recipe: Mighty Frost Protection Potion",
@@ -20462,7 +20465,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 400,
 		},
-	[44567] = {--Recipe: Mighty Nature Protection Potion
+	[44567] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53942,--
 		["itemName"] = "Recipe: Mighty Nature Protection Potion",
@@ -20471,7 +20474,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 400,
 		},
-	[44568] = {--Recipe: Mighty Shadow Protection Potion
+	[44568] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53938,--
 		["itemName"] = "Recipe: Mighty Shadow Protection Potion",
@@ -20480,7 +20483,7 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 400,
 		},
-	[44584] = {--Pattern: Polar Vest
+	[44584] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60996,--
 		["itemName"] = "Pattern: Polar Vest",
@@ -20489,7 +20492,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44585] = {--Pattern: Polar Cord
+	[44585] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60997,--
 		["itemName"] = "Pattern: Polar Cord",
@@ -20498,7 +20501,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44586] = {--Pattern: Polar Boots
+	[44586] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60998,--
 		["itemName"] = "Pattern: Polar Boots",
@@ -20507,7 +20510,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44587] = {--Pattern: Icy Scale Chestguard
+	[44587] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60999,--
 		["itemName"] = "Pattern: Icy Scale Chestguard",
@@ -20516,7 +20519,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44588] = {--Pattern: Icy Scale Belt
+	[44588] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 61000,--
 		["itemName"] = "Pattern: Icy Scale Belt",
@@ -20525,7 +20528,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44589] = {--Pattern: Icy Scale Boots
+	[44589] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 61002,--
 		["itemName"] = "Pattern: Icy Scale Boots",
@@ -20534,7 +20537,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44600] = {--Tome of Polymorph: Serpent
+	[44600] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61025,--Polymorph (Serpent)
 		["itemName"] = "Tome of Polymorph: Serpent",
@@ -20544,7 +20547,7 @@ LibTextbookDB = {
 		["reqLevel"] = 60,
 		["note"] = "fake",
 		},
-	[44602] = {--Tome of Dalaran Intellect
+	[44602] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61024,--Dalaran Intellect (Rank 7)
 		["itemName"] = "Tome of Dalaran Intellect",
@@ -20553,7 +20556,7 @@ LibTextbookDB = {
 		["reqLevel"] = 80,
 		["reqSpell"] = 27126,
 		},
-	[44689] = {--Armored Snowy Gryphon
+	[44689] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61229,--Armored Snowy Gryphon
 		["itemName"] = "Armored Snowy Gryphon",
@@ -20564,7 +20567,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44690] = {--Armored Blue Wind Rider
+	[44690] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61230,--Armored Blue Wind Rider
 		["itemName"] = "Armored Blue Wind Rider",
@@ -20575,7 +20578,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44707] = {--Reins of the Green Proto-Drake     (Mysterious Egg)
+	[44707] = {--Mysterious Egg
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61294,--Green Proto-Drake
 		["itemName"] = "Reins of the Green Proto-Drake",
@@ -20586,7 +20589,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44709] = {--Tome of Polymorph: Black Cat
+	[44709] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61305,--Polymorph (Black Cat)
 		["itemName"] = "Tome of Polymorph: Black Cat",
@@ -20594,7 +20597,7 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[44714] = {--Tome of Dalaran Brilliance
+	[44714] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61316,--Dalaran Brilliance (Rank 3)
 		["itemName"] = "Tome of Dalaran Brilliance",
@@ -20603,13 +20606,13 @@ LibTextbookDB = {
 		["reqLevel"] = 80,
 		["reqSpell"] = 27127,
 		},
-	[44721] = {--Proto-Drake Whelp
+	[44721] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61350,--Proto-Drake Whelp
 		["itemName"] = "Proto-Drake Whelp",
 		["quality"] = 1,
 		},
-	[44723] = {--Nurtured Penguin Egg
+	[44723] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61357,--Pengu
 		["itemName"] = "Nurtured Penguin Egg",
@@ -20618,7 +20621,7 @@ LibTextbookDB = {
 		["reqFaction"] = 1073,
 		["reqReputation"] = 7,
 		},
-	[44738] = {--Kirin Tor Familiar
+	[44738] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61472,--Kirin Tor Familiar
 		["itemName"] = "Kirin Tor Familiar",
@@ -20626,7 +20629,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[44793] = {--Tome of Polymorph: Rabbit
+	[44793] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61721,--Polymorph (Rabbit)
 		["itemName"] = "Tome of Polymorph: Rabbit",
@@ -20635,14 +20638,14 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[44794] = {--Spring Rabbit's Foot
+	[44794] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61725,--Spring Rabbit
 		["itemName"] = "Spring Rabbit's Foot",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[44819] = {--Baby Blizzard Bear
+	[44819] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61855,--Baby Blizzard Bear
 		["itemName"] = "Baby Blizzard Bear",
@@ -20650,14 +20653,14 @@ LibTextbookDB = {
 		["binding"] = 6,
 		["unique"] = 1,
 		},
-	[44841] = {--Little Fawn's Salt Lick
+	[44841] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61991,--Little Fawn
 		["itemName"] = "Little Fawn's Salt Lick",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[44842] = {--Red Dragonhawk Mount
+	[44842] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61997,--Red Dragonhawk
 		["itemName"] = "Red Dragonhawk Mount",
@@ -20668,7 +20671,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44843] = {--Blue Dragonhawk Mount
+	[44843] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61996,--Blue Dragonhawk
 		["itemName"] = "Blue Dragonhawk Mount",
@@ -20679,7 +20682,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44916] = {--Pattern: Festival Dress
+	[44916] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26403,--
 		["itemName"] = "Pattern: Festival Dress",
@@ -20688,7 +20691,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[44917] = {--Pattern: Festival Suit
+	[44917] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26407,--
 		["itemName"] = "Pattern: Festival Suit",
@@ -20697,7 +20700,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
-	[44918] = {--Schematic: Cluster Launcher
+	[44918] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26443,--
 		["itemName"] = "Schematic: Cluster Launcher",
@@ -20706,7 +20709,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[44919] = {--Schematic: Firework Launcher
+	[44919] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26442,--
 		["itemName"] = "Schematic: Firework Launcher",
@@ -20715,7 +20718,7 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 225,
 		},
-	[44932] = {--Pattern: Windripper Boots
+	[44932] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62176,--
 		["itemName"] = "Pattern: Windripper Boots",
@@ -20724,7 +20727,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44933] = {--Pattern: Windripper Leggings
+	[44933] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62177,--
 		["itemName"] = "Pattern: Windripper Leggings",
@@ -20733,7 +20736,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44937] = {--Plans: Titanium Plating
+	[44937] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62202,--
 		["itemName"] = "Plans: Titanium Plating",
@@ -20744,7 +20747,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[44938] = {--Plans: Titanium Plating
+	[44938] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62202,--
 		["itemName"] = "Plans: Titanium Plating",
@@ -20755,7 +20758,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[44944] = {--Formula: Enchant Bracer - Major Stamina
+	[44944] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62256,--
 		["itemName"] = "Formula: Enchant Bracer - Major Stamina",
@@ -20764,7 +20767,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 450,
 		},
-	[44945] = {--Formula: Enchant Weapon - Titanguard
+	[44945] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62257,--
 		["itemName"] = "Formula: Enchant Weapon - Titanguard",
@@ -20774,7 +20777,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 450,
 		["note"] = "beta",
 		},
-	[44954] = {--Recipe: Worg Tartare
+	[44954] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62350,--
 		["itemName"] = "Recipe: Worg Tartare",
@@ -20783,7 +20786,7 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[44956] = {--Goblin's Guide to Elementium
+	[44956] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22967,--Smelt Elementium
 		["itemName"] = "Goblin's Guide to Elementium",
@@ -20792,37 +20795,37 @@ LibTextbookDB = {
 		["reqSkill"] = 186,
 		["reqSkillLevel"] = 300,
 		},
-	[44965] = {--Teldrassil Sproutling
+	[44965] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62491,--Teldrassil Sproutling
 		["itemName"] = "Teldrassil Sproutling",
 		["quality"] = 3,
 		},
-	[44970] = {--Dun Morogh Cub
+	[44970] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62508,--Dun Morogh Cub
 		["itemName"] = "Dun Morogh Cub",
 		["quality"] = 3,
 		},
-	[44971] = {--Tirisfal Batling
+	[44971] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62510,--Tirisfal Batling
 		["itemName"] = "Tirisfal Batling",
 		["quality"] = 3,
 		},
-	[44973] = {--Durotar Scorpion
+	[44973] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62513,--Durotar Scorpion
 		["itemName"] = "Durotar Scorpion",
 		["quality"] = 3,
 		},
-	[44974] = {--Elwynn Lamb
+	[44974] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62516,--Elwynn Lamb
 		["itemName"] = "Elwynn Lamb",
 		["quality"] = 3,
 		},
-	[44977] = {--Recipe: Dig Rat Stew
+	[44977] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6417,--
 		["itemName"] = "Recipe: Dig Rat Stew",
@@ -20831,52 +20834,52 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 90,
 		},
-	[44980] = {--Mulgore Hatchling
+	[44980] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62542,--Mulgore Hatchling
 		["itemName"] = "Mulgore Hatchling",
 		["quality"] = 3,
 		},
-	[44982] = {--Enchanted Broom
+	[44982] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62564,--Enchanted Broom
 		["itemName"] = "Enchanted Broom",
 		["quality"] = 3,
 		},
-	[44983] = {--Strand Crawler
+	[44983] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62561,--Strand Crawler
 		["itemName"] = "Strand Crawler",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[44984] = {--Ammen Vale Lashling
+	[44984] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62562,--Ammen Vale Lashling
 		["itemName"] = "Ammen Vale Lashling",
 		["quality"] = 3,
 		},
-	[44998] = {--Argent Squire
+	[44998] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62609,--Argent Squire
 		["itemName"] = "Argent Squire",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[45002] = {--Mechanopeep
+	[45002] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62674,--Mechanopeep
 		["itemName"] = "Mechanopeep",
 		["quality"] = 3,
 		},
-	[45022] = {--Argent Gruntling
+	[45022] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62746,--Argent Gruntling
 		["itemName"] = "Argent Gruntling",
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[45050] = {--Formula: Smoking Heart of the Mountain
+	[45050] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15596,--
 		["itemName"] = "Formula: Smoking Heart of the Mountain",
@@ -20885,7 +20888,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 265,
 		},
-	[45059] = {--Formula: Enchant Staff - Greater Spellpower
+	[45059] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62948,--
 		["itemName"] = "Formula: Enchant Staff - Greater Spellpower",
@@ -20894,7 +20897,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 450,
 		},
-	[45088] = {--Plans: Belt of the Titans
+	[45088] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63187,--
 		["itemName"] = "Plans: Belt of the Titans",
@@ -20902,7 +20905,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[45089] = {--Plans: Battlelord's Plate Boots
+	[45089] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63188,--
 		["itemName"] = "Plans: Battlelord's Plate Boots",
@@ -20910,7 +20913,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[45090] = {--Plans: Plate Girdle of Righteousness
+	[45090] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63189,--
 		["itemName"] = "Plans: Plate Girdle of Righteousness",
@@ -20918,7 +20921,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[45091] = {--Plans: Treads of Destiny
+	[45091] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63190,--
 		["itemName"] = "Plans: Treads of Destiny",
@@ -20926,7 +20929,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[45092] = {--Plans: Indestructible Plate Girdle
+	[45092] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63191,--
 		["itemName"] = "Plans: Indestructible Plate Girdle",
@@ -20934,7 +20937,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[45093] = {--Plans: Spiked Deathdealers
+	[45093] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63192,--
 		["itemName"] = "Plans: Spiked Deathdealers",
@@ -20942,7 +20945,7 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
 		},
-	[45094] = {--Pattern: Belt of Dragons
+	[45094] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63194,--
 		["itemName"] = "Pattern: Belt of Dragons",
@@ -20950,7 +20953,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45095] = {--Pattern: Boots of Living Scale
+	[45095] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63195,--
 		["itemName"] = "Pattern: Boots of Living Scale",
@@ -20958,7 +20961,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45096] = {--Pattern: Blue Belt of Chaos
+	[45096] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63196,--
 		["itemName"] = "Pattern: Blue Belt of Chaos",
@@ -20966,7 +20969,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45097] = {--Pattern: Lightning Grounded Boots
+	[45097] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63197,--
 		["itemName"] = "Pattern: Lightning Grounded Boots",
@@ -20974,7 +20977,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45098] = {--Pattern: Death-warmed Belt
+	[45098] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63198,--
 		["itemName"] = "Pattern: Death-warmed Belt",
@@ -20982,7 +20985,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45099] = {--Pattern: Footpads of Silence
+	[45099] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63199,--
 		["itemName"] = "Pattern: Footpads of Silence",
@@ -20990,7 +20993,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45100] = {--Pattern: Belt of Arctic Life
+	[45100] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63200,--
 		["itemName"] = "Pattern: Belt of Arctic Life",
@@ -20998,7 +21001,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45101] = {--Pattern: Boots of Wintry Endurance
+	[45101] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63201,--
 		["itemName"] = "Pattern: Boots of Wintry Endurance",
@@ -21006,7 +21009,7 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 450,
 		},
-	[45102] = {--Pattern: Sash of Ancient Power
+	[45102] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63203,--
 		["itemName"] = "Pattern: Sash of Ancient Power",
@@ -21014,7 +21017,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 450,
 		},
-	[45103] = {--Pattern: Spellslinger's Slippers
+	[45103] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63204,--
 		["itemName"] = "Pattern: Spellslinger's Slippers",
@@ -21022,7 +21025,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 450,
 		},
-	[45104] = {--Pattern: Cord of the White Dawn
+	[45104] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63205,--
 		["itemName"] = "Pattern: Cord of the White Dawn",
@@ -21030,7 +21033,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 450,
 		},
-	[45105] = {--Pattern: Savior's Slippers
+	[45105] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63206,--
 		["itemName"] = "Pattern: Savior's Slippers",
@@ -21038,7 +21041,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 450,
 		},
-	[45125] = {--Stormwind Steed     (formerly Swift Elwynn Steed)
+	[45125] = {--formerly Swift Elwynn Steed
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63232,--Stormwind Steed
 		["itemName"] = "Stormwind Steed",
@@ -21049,7 +21052,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45180] = {--Murkimus' Little Spear
+	[45180] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 63318,--Murkimus the Gladiator
 		["itemName"] = "Murkimus' Little Spear",
@@ -21057,7 +21060,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[45586] = {--Ironforge Ram     (formerly Swift Ironforge Ram)
+	[45586] = {--formerly Swift Ironforge Ram
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63636,--Ironforge Ram
 		["itemName"] = "Ironforge Ram",
@@ -21068,7 +21071,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45589] = {--Gnomeregan Mechanostrider     (formerly Turbostrider)
+	[45589] = {--formerly Turbostrider
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63638,--Gnomeregan Mechanostrider
 		["itemName"] = "Gnomeregan Mechanostrider",
@@ -21079,7 +21082,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45590] = {--Exodar Elekk     (formerly Great Azuremyst Elekk)
+	[45590] = {--formerly Great Azuremyst Elekk
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63639,--Exodar Elekk
 		["itemName"] = "Exodar Elekk",
@@ -21090,7 +21093,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45591] = {--Darnassian Nightsaber     (formerly Swift Darnassian Mistsaber)
+	[45591] = {--formerly Swift Darnassian Mistsaber
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63637,--Darnassian Mistsaber
 		["itemName"] = "Darnassian Nightsaber",
@@ -21101,7 +21104,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45592] = {--Thunder Bluff Kodo     (formerly Great Mulgore Kodo)
+	[45592] = {--formerly Great Mulgore Kodo
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63641,--Thunder Bluff Kodo
 		["itemName"] = "Thunder Bluff Kodo",
@@ -21112,7 +21115,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45593] = {--Darkspear Raptor     (formerly Swift Darkspear Raptor)
+	[45593] = {--formerly Swift Darkspear Raptor
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63635,--Darkspear Raptor
 		["itemName"] = "Darkspear Raptor",
@@ -21123,7 +21126,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45595] = {--Orgrimmar Wolf     (formerly Swift Orgrimmar Wolf)
+	[45595] = {--formerly Swift Orgrimmar Wolf
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63640,--Orgrimmar Wolf
 		["itemName"] = "Orgrimmar Wolf",
@@ -21134,7 +21137,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45596] = {--Silvermoon Hawkstrider     (formerly Swift Silvermoon Hawkstrider)
+	[45596] = {--formerly Swift Silvermoon Hawkstrider
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63642,--Silvermoon Hawkstrider
 		["itemName"] = "Silvermoon Hawkstrider",
@@ -21145,7 +21148,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45597] = {--Forsaken Warhorse     (formerly Forsaken Warhorse)
+	[45597] = {--formerly Forsaken Warhorse
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63643,--Forsaken Warhorse
 		["itemName"] = "Forsaken Warhorse",
@@ -21156,13 +21159,13 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45606] = {--Sen'jin Fetish
+	[45606] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 63712,--Sen'jin Fetish
 		["itemName"] = "Sen'jin Fetish",
 		["quality"] = 3,
 		},
-	[45693] = {--Mimiron's Head
+	[45693] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63796,--Mimiron's Head
 		["itemName"] = "Mimiron's Head",
@@ -21173,7 +21176,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[45725] = {--Argent Hippogryph
+	[45725] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63844,--Argent Hippogryph
 		["itemName"] = "Argent Hippogryph",
@@ -21184,7 +21187,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[45774] = {--Pattern: Emerald Bag
+	[45774] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 63924,--
 		["itemName"] = "Pattern: Emerald Bag",
@@ -21195,7 +21198,7 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 435,
 		},
-	[45801] = {--Reins of the Ironbound Proto-Drake
+	[45801] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63956,--Ironbound Proto-Drake
 		["itemName"] = "Reins of the Ironbound Proto-Drake",
@@ -21206,7 +21209,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[45802] = {--Reins of the Rusted Proto-Drake
+	[45802] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63963,--Rusted Proto-Drake
 		["itemName"] = "Reins of the Rusted Proto-Drake",
@@ -21217,7 +21220,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[46027] = {--Formula: Enchant Weapon - Blade Ward
+	[46027] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 64441,--
 		["itemName"] = "Formula: Enchant Weapon - Blade Ward",
@@ -21226,7 +21229,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 450,
 		},
-	[46099] = {--Horn of the Black Wolf
+	[46099] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64658,--Black Wolf
 		["itemName"] = "Horn of the Black Wolf",
@@ -21237,7 +21240,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[46100] = {--White Kodo
+	[46100] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64657,--White Kodo
 		["itemName"] = "White Kodo",
@@ -21248,7 +21251,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[46101] = {--Blue Skeletal Warhorse
+	[46101] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64656,--Blue Skeletal Warhorse
 		["itemName"] = "Blue Skeletal Warhorse",
@@ -21259,7 +21262,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46102] = {--Whistle of the Venomhide Ravasaur
+	[46102] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64659,--Venomhide Ravasaur
 		["itemName"] = "Whistle of the Venomhide Ravasaur",
@@ -21271,7 +21274,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
-	[46108] = {--Technique: Rituals of the New Moon
+	[46108] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 64051,--Rituals of the New Moon
 		["itemName"] = "Technique: Rituals of the New Moon",
@@ -21280,7 +21283,7 @@ LibTextbookDB = {
 		["reqSkill"] = 773,
 		["reqSkillLevel"] = 350,
 		},
-	[46109] = {--Sea Turtle
+	[46109] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64731,--Sea Turtle
 		["itemName"] = "Sea Turtle",
@@ -21289,7 +21292,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[46171] = {--Deadly Gladiator's Frostwyrm
+	[46171] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64927,--Deadly Gladiator's Frostwyrm
 		["itemName"] = "Deadly Gladiator's Frostwyrm",
@@ -21300,7 +21303,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[46308] = {--Black Skeletal Horse
+	[46308] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64977,--Black Skeletal Horse
 		["itemName"] = "Black Skeletal Horse",
@@ -21311,7 +21314,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[46348] = {--Formula: Enchant Weapon - Blood Draining
+	[46348] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 64579,--
 		["itemName"] = "Formula: Enchant Weapon - Blood Draining",
@@ -21320,7 +21323,7 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 450,
 		},
-	[46743] = {--Swift Purple Raptor
+	[46743] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65644,--Swift Purple Raptor
 		["itemName"] = "Swift Purple Raptor",
@@ -21331,7 +21334,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46744] = {--Swift Moonsaber
+	[46744] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65638,--Swift Moonsaber
 		["itemName"] = "Swift Moonsaber",
@@ -21342,7 +21345,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46745] = {--Great Red Elekk
+	[46745] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65637,--Great Red Elekk
 		["itemName"] = "Great Red Elekk",
@@ -21353,7 +21356,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46746] = {--White Skeletal Warhorse
+	[46746] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65645,--White Skeletal Warhorse
 		["itemName"] = "White Skeletal Warhorse",
@@ -21364,7 +21367,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46747] = {--Turbostrider
+	[46747] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65642,--Turbostrider
 		["itemName"] = "Turbostrider",
@@ -21375,7 +21378,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46748] = {--Swift Violet Ram
+	[46748] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65643,--Swift Violet Ram
 		["itemName"] = "Swift Violet Ram",
@@ -21386,7 +21389,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46749] = {--Swift Burgundy Wolf
+	[46749] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65646,--Swift Burgundy Wolf
 		["itemName"] = "Swift Burgundy Wolf",
@@ -21397,7 +21400,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46750] = {--Great Golden Kodo
+	[46750] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65641,--Great Golden Kodo
 		["itemName"] = "Great Golden Kodo",
@@ -21408,7 +21411,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46751] = {--Swift Red Hawkstrider
+	[46751] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65639,--Swift Red Hawkstrider
 		["itemName"] = "Swift Red Hawkstrider",
@@ -21419,7 +21422,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46752] = {--Swift Gray Steed
+	[46752] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65640,--Swift Gray Steed
 		["itemName"] = "Swift Gray Steed",
@@ -21430,7 +21433,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46755] = {--Great Golden Kodo
+	[46755] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65641,--Great Golden Kodo
 		["itemName"] = "Great Golden Kodo",
@@ -21444,7 +21447,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46756] = {--Great Red Elekk
+	[46756] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65637,--Great Red Elekk
 		["itemName"] = "Great Red Elekk",
@@ -21458,7 +21461,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46757] = {--Swift Burgundy Wolf
+	[46757] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65646,--Swift Burgundy Wolf
 		["itemName"] = "Swift Burgundy Wolf",
@@ -21472,7 +21475,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46758] = {--Swift Gray Steed
+	[46758] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65640,--Swift Gray Steed
 		["itemName"] = "Swift Gray Steed",
@@ -21486,7 +21489,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46759] = {--Swift Moonsaber
+	[46759] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65638,--Swift Moonsaber
 		["itemName"] = "Swift Moonsaber",
@@ -21500,7 +21503,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46760] = {--Swift Purple Raptor
+	[46760] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65644,--Swift Purple Raptor
 		["itemName"] = "Swift Purple Raptor",
@@ -21514,7 +21517,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46761] = {--Swift Red Hawkstrider
+	[46761] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65639,--Swift Red Hawkstrider
 		["itemName"] = "Swift Red Hawkstrider",
@@ -21528,7 +21531,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46762] = {--Swift Violet Ram
+	[46762] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65643,--Swift Violet Ram
 		["itemName"] = "Swift Violet Ram",
@@ -21542,7 +21545,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46763] = {--Turbostrider
+	[46763] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65642,--Turbostrider
 		["itemName"] = "Turbostrider",
@@ -21556,7 +21559,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46764] = {--White Skeletal Warhorse
+	[46764] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65645,--White Skeletal Warhorse
 		["itemName"] = "White Skeletal Warhorse",
@@ -21570,7 +21573,7 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46778] = {--Magic Rooster Egg
+	[46778] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 65917,--Magic Rooster
 		["itemName"] = "Magic Rooster Egg",
@@ -21649,7 +21652,6 @@ function LibTextbookInfo(itemID,resolveText)
 			reqSpellName = GetSpellInfo(itemData["reqSpell"])
 		end
 		return itemData["type"],
-			itemData["itemName"],
 			spellName,
 			LibTextbookReference["skill"][itemData["reqSkill"]],
 			itemData["reqSkillLevel"],
@@ -21664,7 +21666,6 @@ function LibTextbookInfo(itemID,resolveText)
 			UniqueString(itemData["unique"]),itemData["note"]
 	end
 	return itemData["type"],
-		itemData["itemName"],
 		itemData["teachesSpell"],
 		itemData["reqSkill"],
 		itemData["reqSkillLevel"],
