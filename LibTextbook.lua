@@ -3410,6 +3410,7 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 255,
+		["note"] = "trainable",
 		},
 	[12685] = {--
 		["type"] = "RECIPE",
