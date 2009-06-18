@@ -21587,6 +21587,14 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
 		},
+	[46767] = {--Mountain Dew Game Fuel promotion
+		["type"] = "CRITTER",
+		["teachesSpell"] = 65682,--Battle-Bot
+		["itemName"] = "Battle-Bot Ignition Key",
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
 	}
 
 local function ClassesString(classBM)
