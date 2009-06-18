@@ -8575,6 +8575,7 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
+		["note"] = "removed",
 		},
 	[21723] = {--
 		["type"] = "RECIPE",
@@ -8583,6 +8584,7 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
+		["note"] = "removed",
 		},
 	[21724] = {--
 		["type"] = "RECIPE",
