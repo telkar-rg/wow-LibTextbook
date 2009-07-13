@@ -4,5 +4,9 @@
 ## Author: TAP3AH
 ## X-Email: tap3ahchina@gmail.com
 ## X-Category: Library
+## X-Curse-Packaged-Version: r8
+## X-Curse-Project-Name: LibTextbook
+## X-Curse-Project-ID: lib-textbook
+## X-Curse-Repository-ID: wow/lib-textbook/mainline
 
 LibTextbook.lua
