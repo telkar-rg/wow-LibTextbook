@@ -48,6 +48,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
+		["note"] = "removed",
 		},
 	[2406] = {--
 		["type"] = "RECIPE",
@@ -176,6 +177,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 14,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[3393] = {--
 		["type"] = "RECIPE",
@@ -843,6 +845,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 12,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[4624] = {--
 		["type"] = "RECIPE",
@@ -866,6 +869,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 4,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16379] = {--
 		["type"] = "BOOK",
@@ -875,6 +879,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 26,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16375] = {--
 		["type"] = "BOOK",
@@ -884,6 +889,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 22,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[5482] = {--
 		["type"] = "RECIPE",
@@ -1327,6 +1333,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 8,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16316] = {--
 		["type"] = "BOOK",
@@ -1336,6 +1343,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 18,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16317] = {--
 		["type"] = "BOOK",
@@ -1345,6 +1353,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 28,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16318] = {--
 		["type"] = "BOOK",
@@ -1354,6 +1363,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 38,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16322] = {--
 		["type"] = "BOOK",
@@ -1363,6 +1373,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 14,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16323] = {--
 		["type"] = "BOOK",
@@ -1372,6 +1383,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 26,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16346] = {--
 		["type"] = "BOOK",
@@ -1381,6 +1393,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 20,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16347] = {--
 		["type"] = "BOOK",
@@ -1390,6 +1403,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 30,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16348] = {--
 		["type"] = "BOOK",
@@ -1399,6 +1413,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 40,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16351] = {--
 		["type"] = "BOOK",
@@ -1408,6 +1423,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 16,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16376] = {--
 		["type"] = "BOOK",
@@ -1417,6 +1433,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 34,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16368] = {--
 		["type"] = "BOOK",
@@ -1426,6 +1443,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 28,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16371] = {--
 		["type"] = "BOOK",
@@ -1435,6 +1453,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 36,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[6368] = {--
 		["type"] = "RECIPE",
@@ -1472,6 +1491,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 32,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[6390] = {--
 		["type"] = "RECIPE",
@@ -1561,6 +1581,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 24,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16328] = {--
 		["type"] = "BOOK",
@@ -1570,6 +1591,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 34,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[6710] = {--
 		["type"] = "RECIPE",
@@ -2251,6 +2273,7 @@ LibTextbookDB = {
 		["binding"] = 3,
 		["reqRaces"] = 446,
 		["reqLevel"] = 40,
+		["note"] = "fake",
 		},
 	[8629] = {--
 		["type"] = "MOUNT",
@@ -2431,6 +2454,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 48,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16320] = {--
 		["type"] = "BOOK",
@@ -2440,6 +2464,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 58,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16324] = {--
 		["type"] = "BOOK",
@@ -2449,6 +2474,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 38,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16325] = {--
 		["type"] = "BOOK",
@@ -2458,6 +2484,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16329] = {--
 		["type"] = "BOOK",
@@ -2467,6 +2494,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 44,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16330] = {--
 		["type"] = "BOOK",
@@ -2476,6 +2504,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 54,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16349] = {--
 		["type"] = "BOOK",
@@ -2485,6 +2514,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16350] = {--
 		["type"] = "BOOK",
@@ -2494,6 +2524,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16372] = {--
 		["type"] = "BOOK",
@@ -2503,6 +2534,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 44,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16373] = {--
 		["type"] = "BOOK",
@@ -2512,6 +2544,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 52,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16374] = {--
 		["type"] = "BOOK",
@@ -2521,6 +2554,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16377] = {--
 		["type"] = "BOOK",
@@ -2530,6 +2564,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 46,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16378] = {--
 		["type"] = "BOOK",
@@ -2539,6 +2574,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 58,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[10316] = {--
 		["type"] = "RECIPE",
@@ -4029,6 +4065,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 24,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16364] = {--
 		["type"] = "BOOK",
@@ -4038,6 +4075,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 36,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16365] = {--
 		["type"] = "BOOK",
@@ -4047,6 +4085,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 48,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16366] = {--
 		["type"] = "BOOK",
@@ -4056,6 +4095,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16357] = {--
 		["type"] = "BOOK",
@@ -4065,6 +4105,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 18,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16358] = {--
 		["type"] = "BOOK",
@@ -4074,6 +4115,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 26,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16359] = {--
 		["type"] = "BOOK",
@@ -4083,6 +4125,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 34,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16360] = {--
 		["type"] = "BOOK",
@@ -4092,6 +4135,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 42,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16361] = {--
 		["type"] = "BOOK",
@@ -4101,6 +4145,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16362] = {--
 		["type"] = "BOOK",
@@ -4110,6 +4155,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 58,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[13939] = {--
 		["type"] = "RECIPE",
@@ -5201,6 +5247,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 36,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16352] = {--
 		["type"] = "BOOK",
@@ -5210,6 +5257,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 24,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16353] = {--
 		["type"] = "BOOK",
@@ -5219,6 +5267,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 32,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16354] = {--
 		["type"] = "BOOK",
@@ -5228,6 +5277,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 40,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16355] = {--
 		["type"] = "BOOK",
@@ -5237,6 +5287,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 48,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16356] = {--
 		["type"] = "BOOK",
@@ -5246,6 +5297,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 56,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16384] = {--
 		["type"] = "BOOK",
@@ -5275,6 +5327,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 52,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16385] = {--
 		["type"] = "BOOK",
@@ -5314,6 +5367,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 38,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16382] = {--
 		["type"] = "BOOK",
@@ -5323,6 +5377,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 46,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[16383] = {--
 		["type"] = "BOOK",
@@ -5332,6 +5387,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 54,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[15996] = {--
 		["type"] = "CRITTER",
@@ -8328,6 +8384,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 68,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22180] = {--
 		["type"] = "BOOK",
@@ -8337,6 +8394,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 62,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22181] = {--
 		["type"] = "BOOK",
@@ -8346,6 +8404,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 64,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22182] = {--
 		["type"] = "BOOK",
@@ -8355,6 +8414,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22183] = {--
 		["type"] = "BOOK",
@@ -8364,6 +8424,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 63,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22184] = {--
 		["type"] = "BOOK",
@@ -8373,6 +8434,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 66,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22185] = {--
 		["type"] = "BOOK",
@@ -8382,6 +8444,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 64,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22186] = {--
 		["type"] = "BOOK",
@@ -8391,6 +8454,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 68,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22187] = {--
 		["type"] = "BOOK",
@@ -8400,6 +8464,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22188] = {--
 		["type"] = "BOOK",
@@ -8409,6 +8474,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 62,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22189] = {--
 		["type"] = "BOOK",
@@ -8418,6 +8484,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[22190] = {--
 		["type"] = "BOOK",
@@ -9939,6 +10006,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 52,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[23713] = {--
 		["type"] = "CRITTER",
@@ -9961,6 +10029,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 61,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[23731] = {--
 		["type"] = "BOOK",
@@ -9970,6 +10039,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 69,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[23734] = {--
 		["type"] = "BOOK",
@@ -9979,6 +10049,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[23745] = {--
 		["type"] = "BOOK",
@@ -9988,6 +10059,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[23755] = {--
 		["type"] = "BOOK",
@@ -9997,6 +10069,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 68,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[23799] = {--
 		["type"] = "RECIPE",
@@ -10674,6 +10747,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[25470] = {--
 		["type"] = "MOUNT",
@@ -10838,6 +10912,7 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqLevel"] = 70,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[25720] = {--
 		["type"] = "RECIPE",
@@ -11165,6 +11240,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 56,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[25902] = {--
 		["type"] = "RECIPE",
@@ -11404,6 +11480,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[28072] = {--
 		["type"] = "BOOK",
@@ -11413,6 +11490,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[28073] = {--
 		["type"] = "BOOK",
@@ -11422,6 +11500,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[28068] = {--
 		["type"] = "BOOK",
@@ -11431,6 +11510,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 69,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[31501] = {--
 		["type"] = "BOOK",
@@ -15486,6 +15566,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 78,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[36959] = {--
 		["type"] = "BOOK",
@@ -15505,6 +15586,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 76,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[36964] = {--
 		["type"] = "BOOK",
@@ -15514,6 +15596,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 72,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[36965] = {--
 		["type"] = "BOOK",
@@ -15523,6 +15606,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 79,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[36966] = {--
 		["type"] = "BOOK",
@@ -15532,6 +15616,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 73,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[36967] = {--
 		["type"] = "BOOK",
@@ -15541,6 +15626,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 78,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[36968] = {--
 		["type"] = "BOOK",
@@ -15550,6 +15636,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 75,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[36970] = {--
 		["type"] = "BOOK",
@@ -15559,6 +15646,7 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 80,
 		["unique"] = 1,
+		["note"] = "fake",
 		},
 	[37012] = {--
 		["type"] = "MOUNT",
@@ -15721,7 +15809,7 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 51801,--
 		["quality"] = 2,
-		["binding"] = 1,
+		["binding"] = 0,
 		["reqSkill"] = 129,
 		["reqSkillLevel"] = 450,
 		["note"] = "fake",
@@ -21865,8 +21953,8 @@ elseif loc == "ruRU" then
 	LibTextbookDB[7453]["itemName"] = "Выкройка: сапоги быстроты"
 	LibTextbookDB[7560]["itemName"] = "Схема: универсальный гномский дистанционный пульт"
 	LibTextbookDB[7561]["itemName"] = "Схема: гоблинский кабельный дефибриллятор"
-	LibTextbookDB[18160]["itemName"] = "Recipe: Thistle Tea"
-	LibTextbookDB[7678]["itemName"] = "Recipe: Thistle Tea"
+	LibTextbookDB[18160]["itemName"] = "Рецепт: артишоковый чай"
+	LibTextbookDB[7678]["itemName"] = "Рецепт: артишоковый чай"
 	LibTextbookDB[7978]["itemName"] = "Чертеж: варварские железные наплечники"
 	LibTextbookDB[7979]["itemName"] = "Чертеж: варварская железная кираса"
 	LibTextbookDB[7980]["itemName"] = "Чертеж: варварский железный шлем"
@@ -21941,7 +22029,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[8591]["itemName"] = "Свисток бирюзового ящера"
 	LibTextbookDB[8592]["itemName"] = "Свисток фиолетового ящера"
 	LibTextbookDB[16113]["itemName"] = "Учебник: бинты из магической ткани"
-	LibTextbookDB[16085]["itemName"] = "[Artisan First Aid"
+	LibTextbookDB[16085]["itemName"] = "[Artisan First Aid - Heal Thyself]"
 	LibTextbookDB[8563]["itemName"] = "Красный механодолгоног"
 	LibTextbookDB[8595]["itemName"] = "Синий механодолгоног"
 	LibTextbookDB[9293]["itemName"] = "Рецепт: зелье защиты от магии"
@@ -22084,16 +22172,16 @@ elseif loc == "ruRU" then
 	LibTextbookDB[12703]["itemName"] = "Чертеж: рукавицы Бури"
 	LibTextbookDB[12704]["itemName"] = "Чертеж: ториевые поножи"
 	LibTextbookDB[12705]["itemName"] = "Чертеж: императорское зерцало"
-	LibTextbookDB[12706]["itemName"] = "[Plans: Runic Plate Shoulders]"
+	LibTextbookDB[12706]["itemName"] = "Чертеж: рунические латные наплечники"
 	LibTextbookDB[12707]["itemName"] = "Чертеж: рунические латные сапоги"
 	LibTextbookDB[12696]["itemName"] = "Чертеж: выкованная демоном кираса"
 	LibTextbookDB[12711]["itemName"] = "Чертеж: шлем чистой души"
 	LibTextbookDB[12713]["itemName"] = "Чертеж: светозарные поножи"
-	LibTextbookDB[12714]["itemName"] = "[Plans: Runic Plate Helm]"
+	LibTextbookDB[12714]["itemName"] = "Чертеж: рунический латный шлем"
 	LibTextbookDB[12716]["itemName"] = "Чертеж: шлем Великого Вождя"
 	LibTextbookDB[12717]["itemName"] = "Чертеж: шлем Львиного сердца"
 	LibTextbookDB[12715]["itemName"] = "Чертеж: императорские латные поножи"
-	LibTextbookDB[12718]["itemName"] = "[Plans: Runic Breastplate]"
+	LibTextbookDB[12718]["itemName"] = "Чертеж: руническая кираса"
 	LibTextbookDB[12719]["itemName"] = "Чертеж: рунические латные поножи"
 	LibTextbookDB[12720]["itemName"] = "Чертеж: рукавицы цитадели"
 	LibTextbookDB[12725]["itemName"] = "Чертеж: зачарованный ториевый шлем"
@@ -22240,7 +22328,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[35311]["itemName"] = "Схема: набор для инъекций маны"
 	LibTextbookDB[23884]["itemName"] = "Схема: набор для инъекций маны"
 	LibTextbookDB[23887]["itemName"] = "Схема: экстремальные реактивые сапоги"
-	LibTextbookDB[23885]["itemName"] = "Schematic: Remote Mail Terminal"
+	LibTextbookDB[23885]["itemName"] = "Схема: удаленный почтовый терминал"
 	LibTextbookDB[24102]["itemName"] = "Учебник Потрошения IX"
 	LibTextbookDB[24101]["itemName"] = "Книга Свирепого укуса V"
 	LibTextbookDB[24158]["itemName"] = "Эскиз: кориевое кольцо теней"
@@ -22406,13 +22494,13 @@ elseif loc == "ruRU" then
 	LibTextbookDB[18046]["itemName"] = "Рецепт: нежный стейк из волчатины"
 	LibTextbookDB[18239]["itemName"] = "Выкройка: тенекожаные перчатки"
 	LibTextbookDB[29468]["itemName"] = "Узда вороного боевого скакуна"
-	LibTextbookDB[29466]["itemName"] = "Black War Kodo"
-	LibTextbookDB[29465]["itemName"] = "Black Battlestrider"
-	LibTextbookDB[29467]["itemName"] = "Black War Ram"
-	LibTextbookDB[29472]["itemName"] = "Whistle of the Black War Raptor"
-	LibTextbookDB[29470]["itemName"] = "Red Skeletal Warhorse"
+	LibTextbookDB[29466]["itemName"] = "Черный боевой кодо"
+	LibTextbookDB[29465]["itemName"] = "Черный боевой механодолгоног"
+	LibTextbookDB[29467]["itemName"] = "Черный боевой баран"
+	LibTextbookDB[29472]["itemName"] = "Свисток черного боевого ящера"
+	LibTextbookDB[29470]["itemName"] = "Красный боевой конь-скелет"
 	LibTextbookDB[29471]["itemName"] = "Поводья черного боевого тигра"
-	LibTextbookDB[29469]["itemName"] = "Horn of the Black War Wolf"
+	LibTextbookDB[29469]["itemName"] = "Рог черного боевого волка"
 	LibTextbookDB[18252]["itemName"] = "Выкройка: накладки из кожи Недр"
 	LibTextbookDB[18257]["itemName"] = "Рецепт: хорошее зелье омоложения"
 	LibTextbookDB[18259]["itemName"] = "Формула чар для оружия - сила заклинаний I"
@@ -22478,8 +22566,8 @@ elseif loc == "ruRU" then
 	LibTextbookDB[19027]["itemName"] = "Схема: петарда &quot;Змеиное жало&quot;"
 	LibTextbookDB[19029]["itemName"] = "Рог Воя Северного волка"
 	LibTextbookDB[19030]["itemName"] = "Боевой скакун Грозовой Вершины"
-	LibTextbookDB[19054]["itemName"] = "Red Dragon Orb"
-	LibTextbookDB[19055]["itemName"] = "Green Dragon Orb"
+	LibTextbookDB[19054]["itemName"] = "Сфера Красного дракона"
+	LibTextbookDB[19055]["itemName"] = "Сфера Зеленого дракона"
 	LibTextbookDB[19202]["itemName"] = "Чертеж: тяжелый пояс Древобрюхов"
 	LibTextbookDB[19204]["itemName"] = "Чертеж: тяжелые сапоги Древобрюхов"
 	LibTextbookDB[19203]["itemName"] = "Чертеж: ремень рассвета"
@@ -22634,12 +22722,11 @@ elseif loc == "ruRU" then
 	LibTextbookDB[21722]["itemName"] = "Выкройка: праздничное платье"
 	LibTextbookDB[44917]["itemName"] = "Выкройка: праздничный костюм"
 	LibTextbookDB[21723]["itemName"] = "Выкройка: праздничный костюм"
-	LibTextbookDB[21724]["itemName"] = "Schematic: Small Blue Rocket"
-	LibTextbookDB[21725]["itemName"] = "Schematic: Small Green Rocket"
-	LibTextbookDB[21726]["itemName"] = "Schematic: Small Red Rocket"
+	LibTextbookDB[21724]["itemName"] = "Схема: маленькая синяя ракета"
+	LibTextbookDB[21725]["itemName"] = "Схема: маленькая зеленая ракета"
+	LibTextbookDB[21726]["itemName"] = "Схема: маленькая красная ракета"
 	LibTextbookDB[21727]["itemName"] = "Чертеж: большая синяя ракета"
 	LibTextbookDB[21728]["itemName"] = "Чертеж: большая зеленая ракета"
-
 	LibTextbookDB[21729]["itemName"] = "Чертеж: большая красная ракета"
 	LibTextbookDB[21730]["itemName"] = "Чертеж: батарея синих фейерверков"
 	LibTextbookDB[21731]["itemName"] = "Чертеж: батарея зеленых фейерверков"
@@ -22768,7 +22855,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[22557]["itemName"] = "Формула чар для оружия - военачальник"
 	LibTextbookDB[22562]["itemName"] = "Формула: превосходное масло маны"
 	LibTextbookDB[22563]["itemName"] = "Формула: превосходное волшебное масло"
-	LibTextbookDB[22564]["itemName"] = "Formula: Arcane Dust"
+	LibTextbookDB[22564]["itemName"] = nil
 	LibTextbookDB[22565]["itemName"] = "Формула: большой радужный осколок"
 	LibTextbookDB[22683]["itemName"] = "Выкройка: облачение Геи"
 	LibTextbookDB[22647]["itemName"] = "Рецепт: хрустящий паучий десерт"
@@ -22783,7 +22870,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[22774]["itemName"] = "Выкройка: лесной жилет"
 	LibTextbookDB[22773]["itemName"] = "Выкройка: лесная корона"
 	LibTextbookDB[22772]["itemName"] = "Выкройка: лесные наплечники"
-	LibTextbookDB[22781]["itemName"] = "Polar Bear Collar"
+	LibTextbookDB[22781]["itemName"] = "Ошейник белого медведя"
 	LibTextbookDB[22900]["itemName"] = "Рецепт: эликсир маскировки"
 	LibTextbookDB[22901]["itemName"] = "Рецепт: зелье лазутчика"
 	LibTextbookDB[22902]["itemName"] = "Рецепт: хороший эликсир силы льда"
@@ -23338,7 +23425,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[32444]["itemName"] = "Чертеж: тенестальной ремень"
 	LibTextbookDB[32447]["itemName"] = "Выкройка: Предел ночи"
 	LibTextbookDB[32458]["itemName"] = "Пепел Ал'ара"
-	LibTextbookDB[32498]["itemName"] = "Fortune Coin"
+	LibTextbookDB[32498]["itemName"] = "Счастливая монета"
 	LibTextbookDB[32588]["itemName"] = "Банановый оберег"
 	LibTextbookDB[32617]["itemName"] = "Вилли-соня"
 	LibTextbookDB[32616]["itemName"] = "Яйцо Эгберта"
@@ -23451,8 +23538,8 @@ elseif loc == "ruRU" then
 	LibTextbookDB[34491]["itemName"] = "Выкройка: сумка множества шкур"
 	LibTextbookDB[34492]["itemName"] = "Турбоцыпленок"
 	LibTextbookDB[34493]["itemName"] = "Воздушный змеедрак"
-	LibTextbookDB[34518]["itemName"] = "Golden Pig Coin"
-	LibTextbookDB[34519]["itemName"] = "Silver Pig Coin"
+	LibTextbookDB[34518]["itemName"] = "Монетка золотого поросенка"
+	LibTextbookDB[34519]["itemName"] = "Серебряная монетка Свиньи"
 	LibTextbookDB[39152]["itemName"] = "Учебник: плотные бинты из ледяной ткани"
 	LibTextbookDB[39692]["itemName"] = "Рецепт: наваристая похлебка из косатки"
 	LibTextbookDB[43018]["itemName"] = "Рецепт: сытное кушанье из мамонта"
@@ -23558,12 +23645,11 @@ elseif loc == "ruRU" then
 	LibTextbookDB[37012]["itemName"] = "Поводья Всадника без головы"
 	LibTextbookDB[35906]["itemName"] = "Поводья черного боевого элекка"
 	LibTextbookDB[37297]["itemName"] = "Золотой медальон"
-	LibTextbookDB[37298]["itemName"] = "Competitor's Souvenir"
+	LibTextbookDB[37298]["itemName"] = "Сувенир участника соревнований"
 	LibTextbookDB[37504]["itemName"] = "Эскиз: очищенный аметист Песни Теней"
 	LibTextbookDB[37676]["itemName"] = "Мстительный дракон Пустоты"
 	LibTextbookDB[37719]["itemName"] = "Стремительная жевра"
 	LibTextbookDB[37828]["itemName"] = "Большой кодо Хмельного фестиваля"
-
 	LibTextbookDB[37915]["itemName"] = "Выкройка: парадные ботинки"
 	LibTextbookDB[38050]["itemName"] = "Маяк продавца душ"
 	LibTextbookDB[38229]["itemName"] = "Выкройка: ботаническая сумка Микаа"
@@ -23849,7 +23935,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[44588]["itemName"] = "Выкройка: пояс из ледяной чешуи"
 	LibTextbookDB[44589]["itemName"] = "Выкройка: сапоги из ледяной чешуи"
 	LibTextbookDB[44602]["itemName"] = "Фолиант Даларанской гениальности"
-	LibTextbookDB[44600]["itemName"] = "[Tome of Polymorph: Serpent]"
+	LibTextbookDB[44600]["itemName"] = "Фолиант Превращения: змея"
 	LibTextbookDB[44689]["itemName"] = "Бронированный белоснежный грифон"
 	LibTextbookDB[44690]["itemName"] = "Бронированный синий ветрокрыл"
 	LibTextbookDB[44707]["itemName"] = "Поводья зеленого протодракона"
