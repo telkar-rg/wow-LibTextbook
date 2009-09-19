@@ -1,166 +1,19 @@
 ﻿LibTextbookReference = {}
 
 LibTextbookDB = {
-	[5656] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 458,--Brown Horse
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[2411] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 470,--Black Stallion
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[2414] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 472,--Pinto
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[1132] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 580,--Timber Wolf
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[9214] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 1122,--Inferno (Summon)
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 50,
-		["note"] = "removed",
-		},
-	[2406] = {--
+	[2882] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 2158,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 90,
-		},
-	[2407] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2163,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 60,
-		},
-	[2408] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2164,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 75,
-		},
-	[2409] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2169,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 100,
-		},
-	[3396] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2333,--
-		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 140,
-		},
-	[2555] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2335,--
-		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 60,
-		},
-	[2598] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2389,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 40,
-		},
-	[2601] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2403,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 105,
-		},
-	[2697] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2542,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 50,
-		},
-	[728] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2543,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 75,
-		},
-	[2698] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2545,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 85,
-		},
-	[2699] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2547,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 100,
-		},
-	[2700] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2548,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 110,
-		},
-	[2701] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2549,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 100,
-		},
-	[2881] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 2667,--
+		["teachesSpell"] = 3330,--
 		["quality"] = 2,
 		["reqSkill"] = 164,
-		["reqSkillLevel"] = 80,
+		["reqSkillLevel"] = 125,
 		},
-	[5578] = {--
+	[2883] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 2673,--
+		["teachesSpell"] = 3295,--
 		["quality"] = 2,
 		["reqSkill"] = 164,
-		["reqSkillLevel"] = 130,
+		["reqSkillLevel"] = 125,
 		},
 	[2889] = {--
 		["type"] = "RECIPE",
@@ -168,16 +21,6 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 10,
-		},
-	[16326] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 2947,--Fire Shield (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 14,
-		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[3393] = {--
 		["type"] = "RECIPE",
@@ -200,26 +43,12 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 250,
 		},
-	[6211] = {--
+	[3396] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 3188,--
-		["quality"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 150,
-		},
-	[2553] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3230,--
+		["teachesSpell"] = 2333,--
 		["quality"] = 2,
 		["reqSkill"] = 171,
-		["reqSkillLevel"] = 50,
-		},
-	[2883] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3295,--
-		["quality"] = 2,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 125,
+		["reqSkillLevel"] = 140,
 		},
 	[3608] = {--
 		["type"] = "RECIPE",
@@ -242,13 +71,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 60,
 		},
-	[2882] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3330,--
-		["quality"] = 2,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 125,
-		},
 	[3611] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3334,--
@@ -262,14 +84,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 150,
-		},
-	[21736] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 3363,--Nether Drake
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["note"] = "fake",
 		},
 	[3678] = {--
 		["type"] = "RECIPE",
@@ -341,21 +155,6 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 175,
 		},
-	[16072] = {--
-		["type"] = "OTHER",
-		["teachesSpell"] = 3413,--Expert Cook
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 125,
-		["note"] = "removed",
-		},
-	[6068] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3449,--
-		["quality"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 165,
-		},
 	[3830] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3450,--
@@ -377,33 +176,12 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 195,
 		},
-	[14634] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3454,--
-		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 200,
-		},
-	[12162] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3492,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 160,
-		},
 	[3866] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3493,--
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 175,
-		},
-	[10858] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3494,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 155,
 		},
 	[3867] = {--
 		["type"] = "RECIPE",
@@ -412,13 +190,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 170,
 		},
-	[12163] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3496,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 180,
-		},
 	[3868] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3497,--
@@ -426,26 +197,12 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
 		},
-	[12164] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3498,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 185,
-		},
 	[3869] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3500,--
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
-		},
-	[6047] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3503,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 190,
 		},
 	[3870] = {--
 		["type"] = "RECIPE",
@@ -489,6 +246,14 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 200,
 		},
+	[4213] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 18540,--Ritual of Doom
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		},
 	[4292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3758,--
@@ -502,13 +267,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 100,
-		},
-	[7360] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3765,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 120,
 		},
 	[4294] = {--
 		["type"] = "RECIPE",
@@ -531,12 +289,12 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 150,
 		},
-	[7613] = {--
+	[4298] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 3772,--
-		["quality"] = 1,
+		["teachesSpell"] = 3775,--
+		["quality"] = 3,
 		["reqSkill"] = 165,
-		["reqSkillLevel"] = 155,
+		["reqSkillLevel"] = 170,
 		},
 	[4299] = {--
 		["type"] = "RECIPE",
@@ -545,26 +303,12 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 175,
 		},
-	[4298] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3775,--
-		["quality"] = 3,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 170,
-		},
 	[4300] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3777,--
 		["quality"] = 2,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 195,
-		},
-	[14635] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3778,--
-		["quality"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 185,
 		},
 	[4301] = {--
 		["type"] = "RECIPE",
@@ -573,19 +317,19 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
 		},
-	[4346] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3844,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 100,
-		},
 	[4345] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3847,--
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 95,
+		},
+	[4346] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3844,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 100,
 		},
 	[4347] = {--
 		["type"] = "RECIPE",
@@ -594,6 +338,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 120,
 		},
+	[4348] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3868,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 125,
+		},
 	[4349] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3851,--
@@ -601,26 +352,12 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 125,
 		},
-	[7114] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3854,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 145,
-		},
 	[4350] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3856,--
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 140,
-		},
-	[14630] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3857,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 165,
 		},
 	[4351] = {--
 		["type"] = "RECIPE",
@@ -636,47 +373,12 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 175,
 		},
-	[4355] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3862,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 200,
-		},
 	[4353] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3863,--
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 180,
-		},
-	[4356] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3864,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 200,
-		},
-	[4348] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3868,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 125,
-		},
-	[14627] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3869,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 135,
-		},
-	[6401] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3870,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 155,
 		},
 	[4354] = {--
 		["type"] = "RECIPE",
@@ -685,12 +387,24 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 185,
 		},
-	[10728] = {--
+	[4355] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 3873,--
+		["teachesSpell"] = 3862,--
 		["quality"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 200,
+		},
+	[4356] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3864,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 200,
+		},
+	[4401] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 4055,--Mechanical Squirrel
+		["quality"] = 1,
 		},
 	[4408] = {--
 		["type"] = "RECIPE",
@@ -706,13 +420,6 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 100,
 		},
-	[13309] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3939,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 120,
-		},
 	[4410] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3940,--
@@ -727,26 +434,12 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 125,
 		},
-	[14639] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3952,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 140,
-		},
 	[4412] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3954,--
 		["quality"] = 2,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 145,
-		},
-	[13308] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3957,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 155,
 		},
 	[4413] = {--
 		["type"] = "RECIPE",
@@ -776,59 +469,12 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 195,
 		},
-	[13311] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3969,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 200,
-		},
-	[7742] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3971,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 200,
-		},
 	[4417] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3972,--
 		["quality"] = 2,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 200,
-		},
-	[13310] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 3979,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 180,
-		},
-	[4401] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 4055,--Mechanical Squirrel
-		["quality"] = 1,
-		},
-	[4609] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 4094,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 175,
-		},
-	[13287] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 4096,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 165,
-		},
-	[13288] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 4097,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 165,
 		},
 	[4597] = {--
 		["type"] = "RECIPE",
@@ -837,15 +483,12 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 50,
 		},
-	[16331] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 4511,--Phase Shift
+	[4609] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 4094,--
 		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 12,
-		["unique"] = 1,
-		["note"] = "removed",
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 175,
 		},
 	[4624] = {--
 		["type"] = "RECIPE",
@@ -860,36 +503,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 40,
-		},
-	[16321] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 6307,--Blood Pact (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 4,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16379] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 6358,--Seduction
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 26,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16375] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 6360,--Soothing Kiss (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 22,
-		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[5482] = {--
 		["type"] = "RECIPE",
@@ -926,14 +539,6 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
 		},
-	[44977] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 6417,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 90,
-		},
 	[5487] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6417,--
@@ -969,19 +574,19 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 140,
 		},
+	[5578] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2673,--
+		["quality"] = 2,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 130,
+		},
 	[5640] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6617,--
 		["quality"] = 1,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 60,
-		},
-	[5643] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 6618,--
-		["quality"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 175,
 		},
 	[5642] = {--
 		["type"] = "RECIPE",
@@ -990,9 +595,26 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 150,
 		},
+	[5643] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 6618,--
+		["quality"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 175,
+		},
 	[5655] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 6648,--Chestnut Mare
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[5656] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 458,--Brown Horse
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
@@ -1093,13 +715,15 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5875] = {--
+	[5872] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 6897,--Blue Ram
-		["quality"] = 1,
-		["binding"] = 3,
-		["reqLevel"] = 40,
-		["note"] = "fake",
+		["teachesSpell"] = 6899,--Brown Ram
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
 		},
 	[5873] = {--
 		["type"] = "MOUNT",
@@ -1111,15 +735,13 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[5872] = {--
+	[5875] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 6899,--Brown Ram
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
+		["teachesSpell"] = 6897,--Blue Ram
+		["quality"] = 1,
+		["binding"] = 3,
+		["reqLevel"] = 40,
+		["note"] = "fake",
 		},
 	[5972] = {--
 		["type"] = "RECIPE",
@@ -1170,6 +792,13 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 190,
 		},
+	[6047] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3503,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 190,
+		},
 	[6053] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7255,--
@@ -1205,24 +834,31 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 190,
 		},
-	[6342] = {--
+	[6068] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 7443,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 20,
+		["teachesSpell"] = 3449,--
+		["quality"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 165,
 		},
-	[6271] = {--
+	[6211] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 7629,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 55,
+		["teachesSpell"] = 3188,--
+		["quality"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 150,
 		},
 	[6270] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7630,--
 		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 55,
+		},
+	[6271] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 7629,--
+		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 55,
 		},
@@ -1246,14 +882,6 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 115,
-		},
-	[16083] = {--
-		["type"] = "OTHER",
-		["teachesSpell"] = 7732,--Expert Fishing
-		["quality"] = 1,
-		["reqSkill"] = 356,
-		["reqSkillLevel"] = 125,
-		["note"] = "removed",
 		},
 	[6325] = {--
 		["type"] = "RECIPE",
@@ -1290,6 +918,13 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 100,
 		},
+	[6342] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 7443,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 20,
+		},
 	[6344] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7766,--
@@ -1325,136 +960,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 100,
 		},
-	[16302] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7799,--Firebolt (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 8,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16316] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7800,--Firebolt (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 18,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16317] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7801,--Firebolt (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 28,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16318] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7802,--Firebolt (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 38,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16322] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7804,--Blood Pact (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 14,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16323] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7805,--Blood Pact (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 26,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16346] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7809,--Torment (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 20,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16347] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7810,--Torment (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 30,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16348] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7811,--Torment (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 40,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16351] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7812,--Sacrifice (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 16,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16376] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7813,--Soothing Kiss (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 34,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16368] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7815,--Lash of Pain (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 28,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16371] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7816,--Lash of Pain (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 36,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
 	[6368] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7827,--
@@ -1483,16 +988,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 125,
 		},
-	[16380] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 7870,--Lesser Invisibility
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 32,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
 	[6390] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 7892,--
@@ -1507,21 +1002,12 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 120,
 		},
-	[16084] = {--
-		["type"] = "OTHER",
-		["teachesSpell"] = 7924,--Expert First Aid
-		["quality"] = 1,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 125,
-		["note"] = "removed",
-		},
-	[16112] = {--
+	[6401] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 7929,--
+		["teachesSpell"] = 3870,--
 		["quality"] = 1,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 180,
-		["note"] = "removed",
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 155,
 		},
 	[6454] = {--
 		["type"] = "RECIPE",
@@ -1529,7 +1015,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 129,
 		["reqSkillLevel"] = 130,
-		["note"] = "removed",
 		},
 	[6474] = {--
 		["type"] = "RECIPE",
@@ -1573,26 +1058,6 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 185,
 		},
-	[16327] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 8316,--Fire Shield (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 24,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16328] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 8317,--Fire Shield (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 34,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
 	[6710] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8322,--
@@ -1614,67 +1079,12 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 100,
 		},
-	[8631] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 8394,--Striped Frostsaber
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[8588] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 8395,--Emerald Raptor
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
 	[6892] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8607,--
 		["quality"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 40,
-		},
-	[7092] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 8780,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 145,
-		},
-	[7091] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 8782,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 150,
-		},
-	[7090] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 8784,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 165,
-		},
-	[7089] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 8786,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 175,
-		},
-	[7087] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 8789,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 180,
 		},
 	[7084] = {--
 		["type"] = "RECIPE",
@@ -1697,12 +1107,54 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 195,
 		},
+	[7087] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 8789,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 180,
+		},
 	[7088] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 8802,--
 		["quality"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 205,
+		},
+	[7089] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 8786,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 175,
+		},
+	[7090] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 8784,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 165,
+		},
+	[7091] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 8782,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 150,
+		},
+	[7092] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 8780,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 145,
+		},
+	[7114] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3854,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 145,
 		},
 	[7288] = {--
 		["type"] = "RECIPE",
@@ -1722,6 +1174,13 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9072,--
 		["quality"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 120,
+		},
+	[7360] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3765,--
+		["quality"] = 2,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 120,
 		},
@@ -1802,13 +1261,12 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 165,
 		},
-	[18160] = {--
+	[7613] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 9513,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 60,
+		["teachesSpell"] = 3772,--
+		["quality"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 155,
 		},
 	[7678] = {--
 		["type"] = "RECIPE",
@@ -1817,6 +1275,27 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 60,
 		["note"] = "removed",
+		},
+	[7742] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3971,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 200,
+		},
+	[7975] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9933,--
+		["quality"] = 2,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 210,
+		},
+	[7976] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9939,--
+		["quality"] = 3,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 215,
 		},
 	[7978] = {--
 		["type"] = "RECIPE",
@@ -1853,27 +1332,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 185,
 		},
-	[7975] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9933,--
-		["quality"] = 2,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 210,
-		},
-	[7995] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9937,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 215,
-		},
-	[7976] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9939,--
-		["quality"] = 3,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 215,
-		},
 	[7983] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9945,--
@@ -1898,17 +1356,34 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 225,
 		},
+	[7986] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9972,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 240,
+		},
+	[7987] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9980,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 245,
+		},
+	[7988] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9979,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 245,
+		},
 	[7989] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 9964,--
 		["quality"] = 2,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 235,
-		},
-	[7991] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9966,--
-		["quality"] = 3,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 235,
 		},
@@ -1919,29 +1394,12 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 245,
 		},
-	[7986] = {--
+	[7991] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 9972,--
-		["quality"] = 2,
-		["binding"] = 1,
+		["teachesSpell"] = 9966,--
+		["quality"] = 3,
 		["reqSkill"] = 164,
-		["reqSkillLevel"] = 240,
-		},
-	[7988] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9979,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 245,
-		},
-	[7987] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9980,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 245,
+		["reqSkillLevel"] = 235,
 		},
 	[7992] = {--
 		["type"] = "RECIPE",
@@ -1950,14 +1408,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 220,
 		},
-	[8029] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 9997,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 225,
-		},
 	[7993] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10005,--
@@ -1965,12 +1415,27 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 240,
 		},
+	[7995] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9937,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 215,
+		},
 	[8028] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10009,--
 		["quality"] = 3,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 245,
+		},
+	[8029] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9997,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 225,
 		},
 	[8030] = {--
 		["type"] = "RECIPE",
@@ -1994,13 +1459,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 205,
 		},
-	[8409] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10516,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 210,
-		},
 	[8386] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10520,--
@@ -2008,24 +1466,30 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 215,
 		},
-	[8395] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10525,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 220,
-		},
-	[8403] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10529,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 220,
-		},
 	[8387] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10531,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 220,
+		},
+	[8389] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10560,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 240,
+		},
+	[8390] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10562,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 240,
+		},
+	[8395] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10525,--
 		["quality"] = 2,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 220,
@@ -2044,6 +1508,42 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 225,
 		},
+	[8399] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10554,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 235,
+		},
+	[8400] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10564,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 240,
+		},
+	[8401] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10568,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 245,
+		},
+	[8402] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10570,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 250,
+		},
+	[8403] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10529,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 220,
+		},
 	[8404] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10544,--
@@ -2060,34 +1560,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 225,
 		},
-	[8399] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10554,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 235,
-		},
-	[8389] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10560,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 240,
-		},
-	[8390] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10562,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 240,
-		},
-	[8400] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10564,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 240,
-		},
 	[8406] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 10566,--
@@ -2095,20 +1567,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 245,
-		},
-	[8401] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10568,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 245,
-		},
-	[8402] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10570,--
-		["quality"] = 2,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 250,
 		},
 	[8407] = {--
 		["type"] = "RECIPE",
@@ -2126,6 +1584,13 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 250,
 		},
+	[8409] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10516,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 210,
+		},
 	[8485] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10673,--Bombay Cat
@@ -2136,19 +1601,9 @@ LibTextbookDB = {
 		["teachesSpell"] = 10674,--Cornish Rex Cat
 		["quality"] = 1,
 		},
-	[8491] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10675,--Black Tabby Cat
-		["quality"] = 1,
-		},
 	[8487] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10676,--Orange Tabby Cat
-		["quality"] = 1,
-		},
-	[8490] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10677,--Siamese Cat
 		["quality"] = 1,
 		},
 	[8488] = {--
@@ -2161,14 +1616,14 @@ LibTextbookDB = {
 		["teachesSpell"] = 10679,--White Kitten
 		["quality"] = 1,
 		},
-	[8496] = {--
+	[8490] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 10680,--Cockatiel
+		["teachesSpell"] = 10677,--Siamese Cat
 		["quality"] = 1,
 		},
-	[8494] = {--
+	[8491] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 10682,--Hyacinth Macaw
+		["teachesSpell"] = 10675,--Black Tabby Cat
 		["quality"] = 1,
 		},
 	[8492] = {--
@@ -2176,64 +1631,19 @@ LibTextbookDB = {
 		["teachesSpell"] = 10683,--Green Wing Macaw
 		["quality"] = 1,
 		},
+	[8494] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10682,--Hyacinth Macaw
+		["quality"] = 1,
+		},
 	[8495] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 10684,--Senegal
 		["quality"] = 1,
 		},
-	[11023] = {--
+	[8496] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 10685,--Ancona Chicken
-		["quality"] = 1,
-		},
-	[10393] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10688,--Cockroach
-		["quality"] = 1,
-		},
-	[10822] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10695,--Dark Whelpling
-		["quality"] = 1,
-		},
-	[34535] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10696,--Azure Whelpling
-		["quality"] = 1,
-		},
-	[8499] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10697,--Crimson Whelpling
-		["quality"] = 1,
-		},
-	[8498] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10698,--Emerald Whelpling
-		["quality"] = 1,
-		},
-	[11027] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10703,--Wood Frog
-		["quality"] = 1,
-		},
-	[11026] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10704,--Tree Frog
-		["quality"] = 1,
-		},
-	[8501] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10706,--Hawk Owl
-		["quality"] = 1,
-		},
-	[8500] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10707,--Great Horned Owl
-		["quality"] = 1,
-		},
-	[10394] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 10709,--Brown Prairie Dog
+		["teachesSpell"] = 10680,--Cockatiel
 		["quality"] = 1,
 		},
 	[8497] = {--
@@ -2241,24 +1651,29 @@ LibTextbookDB = {
 		["teachesSpell"] = 10711,--Snowshoe Rabbit
 		["quality"] = 1,
 		},
-	[10360] = {--
+	[8498] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 10714,--Black Kingsnake
+		["teachesSpell"] = 10698,--Emerald Whelpling
 		["quality"] = 1,
 		},
-	[10361] = {--
+	[8499] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 10716,--Brown Snake
+		["teachesSpell"] = 10697,--Crimson Whelpling
 		["quality"] = 1,
 		},
-	[10392] = {--
+	[8500] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 10717,--Crimson Snake
+		["teachesSpell"] = 10707,--Great Horned Owl
 		["quality"] = 1,
 		},
-	[8632] = {--
+	[8501] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10706,--Hawk Owl
+		["quality"] = 1,
+		},
+	[8563] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 10789,--Spotted Frostsaber
+		["teachesSpell"] = 10873,--Red Mechanostrider
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
@@ -2266,21 +1681,22 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[8628] = {--
+	[8586] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 10792,--Spotted Panther
-		["quality"] = 1,
-		["binding"] = 3,
-		["reqRaces"] = 446,
+		["teachesSpell"] = 16084,--Mottled Red Raptor
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
 		["reqLevel"] = 40,
-		["note"] = "fake",
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
 		},
-	[8629] = {--
+	[8588] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 10793,--Striped Nightsaber
+		["teachesSpell"] = 8395,--Emerald Raptor
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqRaces"] = 2202,
+		["reqRaces"] = 1380,
 		["reqLevel"] = 30,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
@@ -2305,32 +1721,6 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[16113] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 10840,--
-		["quality"] = 1,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 210,
-		["note"] = "removed",
-		},
-	[16085] = {--
-		["type"] = "OTHER",
-		["teachesSpell"] = 10846,--Artisan First Aid
-		["quality"] = 1,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 200,
-		["note"] = "fake",
-		},
-	[8563] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 10873,--Red Mechanostrider
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
 	[8595] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 10969,--Blue Mechanostrider
@@ -2341,6 +1731,52 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
+	[8628] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 10792,--Spotted Panther
+		["quality"] = 1,
+		["binding"] = 3,
+		["reqRaces"] = 446,
+		["reqLevel"] = 40,
+		},
+	[8629] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 10793,--Striped Nightsaber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[8631] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 8394,--Striped Frostsaber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[8632] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 10789,--Spotted Frostsaber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[9214] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 1122,--Inferno (Summon)
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 50,
+		},
 	[9293] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11453,--
@@ -2348,31 +1784,10 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 210,
 		},
-	[10713] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 11454,--
-		["quality"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 200,
-		},
-	[10644] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 11456,--
-		["quality"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 210,
-		},
 	[9294] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 11458,--
 		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 225,
-		},
-	[9303] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 11459,--
-		["quality"] = 1,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 225,
 		},
@@ -2404,12 +1819,12 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 245,
 		},
-	[9302] = {--
+	[9300] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 11473,--
+		["teachesSpell"] = 11477,--
 		["quality"] = 1,
 		["reqSkill"] = 171,
-		["reqSkillLevel"] = 245,
+		["reqSkillLevel"] = 250,
 		},
 	[9301] = {--
 		["type"] = "RECIPE",
@@ -2418,12 +1833,19 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 250,
 		},
-	[9300] = {--
+	[9302] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 11477,--
+		["teachesSpell"] = 11473,--
 		["quality"] = 1,
 		["reqSkill"] = 171,
-		["reqSkillLevel"] = 250,
+		["reqSkillLevel"] = 245,
+		},
+	[9303] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 11459,--
+		["quality"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 225,
 		},
 	[9304] = {--
 		["type"] = "RECIPE",
@@ -2445,143 +1867,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 205,
-		},
-	[16319] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11762,--Firebolt (Rank 6)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 48,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16320] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11763,--Firebolt (Rank 7)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 58,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16324] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11766,--Blood Pact (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 38,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16325] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11767,--Blood Pact (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 50,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16329] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11770,--Fire Shield (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 44,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16330] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11771,--Fire Shield (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 54,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16349] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11774,--Torment (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 50,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16350] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11775,--Torment (Rank 6)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16372] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11778,--Lash of Pain (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 44,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16373] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11779,--Lash of Pain (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 52,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16374] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11780,--Lash of Pain (Rank 6)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16377] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11784,--Soothing Kiss (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 46,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16378] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 11785,--Soothing Kiss (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 58,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[10316] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 12047,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 120,
 		},
 	[10300] = {--
 		["type"] = "RECIPE",
@@ -2632,6 +1917,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 235,
 		},
+	[10316] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 12047,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 120,
+		},
 	[10317] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12080,--
@@ -2660,13 +1952,6 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 240,
 		},
-	[10463] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 12086,--
-		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 245,
-		},
 	[10323] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 12089,--
@@ -2688,6 +1973,31 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		},
+	[10360] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10714,--Black Kingsnake
+		["quality"] = 1,
+		},
+	[10361] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10716,--Brown Snake
+		["quality"] = 1,
+		},
+	[10392] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10717,--Crimson Snake
+		["quality"] = 1,
+		},
+	[10393] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10688,--Cockroach
+		["quality"] = 1,
+		},
+	[10394] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10709,--Brown Prairie Dog
+		["quality"] = 1,
+		},
 	[10398] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 12243,--Mechanical Chicken
@@ -2699,6 +2009,13 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 155,
+		},
+	[10463] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 12086,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 245,
 		},
 	[10601] = {--
 		["type"] = "RECIPE",
@@ -2763,6 +2080,54 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 250,
+		},
+	[10644] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 11456,--
+		["quality"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 210,
+		},
+	[10713] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 11454,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 200,
+		},
+	[10728] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3873,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 200,
+		},
+	[10822] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10695,--Dark Whelpling
+		["quality"] = 1,
+		},
+	[10858] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3494,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 155,
+		},
+	[11023] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10685,--Ancona Chicken
+		["quality"] = 1,
+		},
+	[11026] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10704,--Tree Frog
+		["quality"] = 1,
+		},
+	[11027] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10703,--Wood Frog
+		["quality"] = 1,
 		},
 	[11038] = {--
 		["type"] = "RECIPE",
@@ -2847,6 +2212,13 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 175,
 		},
+	[11166] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 13698,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 200,
+		},
 	[11167] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 13687,--
@@ -2860,13 +2232,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 195,
-		},
-	[11166] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 13698,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 200,
 		},
 	[11202] = {--
 		["type"] = "RECIPE",
@@ -2945,18 +2310,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 250,
 		},
-	[11825] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 15048,--Pet Bombling
-		["quality"] = 1,
-		["binding"] = 1,
-		},
-	[11826] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 15049,--Lil' Smoky
-		["quality"] = 1,
-		["binding"] = 1,
-		},
 	[11474] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 15067,--Sprite Darter Hatchling
@@ -2970,6 +2323,20 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 265,
 		},
+	[11611] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15294,--
+		["quality"] = 3,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 275,
+		},
+	[11612] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15296,--
+		["quality"] = 3,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 285,
+		},
 	[11614] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15293,--
@@ -2977,13 +2344,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 270,
-		},
-	[11611] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15294,--
-		["quality"] = 3,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 275,
 		},
 	[11615] = {--
 		["type"] = "RECIPE",
@@ -2993,22 +2353,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 280,
 		},
-	[11612] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15296,--
-		["quality"] = 3,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 285,
-		},
-	[45050] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15596,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 265,
-		["note"] = "beta",
-		},
 	[11813] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15596,--
@@ -3016,13 +2360,17 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 265,
 		},
-	[11828] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15628,--
-		["quality"] = 2,
+	[11825] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 15048,--Pet Bombling
+		["quality"] = 1,
 		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 205,
+		},
+	[11826] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 15049,--Lil' Smoky
+		["quality"] = 1,
+		["binding"] = 1,
 		},
 	[11827] = {--
 		["type"] = "RECIPE",
@@ -3032,15 +2380,41 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 205,
 		},
-	[13326] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 15779,--White Mechanostrider Mod B
-		["quality"] = 4,
+	[11828] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15628,--
+		["quality"] = 2,
 		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 205,
+		},
+	[12162] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3492,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 160,
+		},
+	[12163] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3496,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 180,
+		},
+	[12164] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3498,--
+		["quality"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 185,
+		},
+	[12226] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15935,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 1,
 		},
 	[12227] = {--
 		["type"] = "RECIPE",
@@ -3098,27 +2472,6 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 200,
 		},
-	[16111] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15915,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 225,
-		},
-	[16110] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15933,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 225,
-		},
-	[12226] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 15935,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 1,
-		},
 	[12261] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 15973,--
@@ -3132,23 +2485,23 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[12303] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 16055,--Black Nightsaber
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
 	[12302] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 16056,--Ancient Frostsaber
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[12303] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 16055,--Black Nightsaber
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3191,7 +2544,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3201,17 +2554,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[12354] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 16082,--Palomino
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3221,17 +2564,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[8586] = {--
+	[12354] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 16084,--Mottled Red Raptor
+		["teachesSpell"] = 16082,--Palomino
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3336,18 +2679,33 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 285,
 		},
-	[12699] = {--
+	[12696] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 16655,--
+		["teachesSpell"] = 16667,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 164,
-		["reqSkillLevel"] = 290,
+		["reqSkillLevel"] = 285,
 		},
 	[12697] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16656,--
 		["quality"] = 2,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 290,
+		},
+	[12698] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 16660,--
+		["quality"] = 3,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 290,
+		},
+	[12699] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 16655,--
+		["quality"] = 3,
+		["binding"] = 1,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
@@ -3373,13 +2731,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
-		},
-	[12698] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 16660,--
-		["quality"] = 3,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 290,
 		},
 	[12703] = {--
 		["type"] = "RECIPE",
@@ -3419,14 +2770,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[12696] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 16667,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 285,
-		},
 	[12711] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16724,--
@@ -3449,6 +2792,14 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
+	[12715] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 16730,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 300,
+		},
 	[12716] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16728,--
@@ -3460,14 +2811,6 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 16729,--
 		["quality"] = 4,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 300,
-		},
-	[12715] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 16730,--
-		["quality"] = 2,
-		["binding"] = 1,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
@@ -3645,9 +2988,51 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
+		},
+	[13287] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 4096,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 165,
+		},
+	[13288] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 4097,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 165,
+		},
+	[13308] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3957,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 155,
+		},
+	[13309] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3939,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 120,
+		},
+	[13310] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3979,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 180,
+		},
+	[13311] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3969,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 200,
 		},
 	[13317] = {--
 		["type"] = "MOUNT",
@@ -3655,7 +3040,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3690,23 +3075,23 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
 		},
+	[13326] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 15779,--White Mechanostrider Mod B
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
 	[13327] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 17459,--Icy Blue Mechanostrider Mod A
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[13329] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 17460,--Frost Ram
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3716,7 +3101,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[13329] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 17460,--Frost Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3756,7 +3151,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -3765,7 +3160,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 17481,--Rivendare's Deathcharger
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
@@ -3971,30 +3366,10 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[31354] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 17635,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 935,
-		["reqReputation"] = 7,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 300,
-		},
 	[13519] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17635,--
 		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 300,
-		},
-	[31356] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 17636,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 942,
-		["reqReputation"] = 7,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
@@ -4005,30 +3380,10 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
-	[31355] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 17637,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 989,
-		["reqReputation"] = 7,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 300,
-		},
 	[13521] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 17637,--
 		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 300,
-		},
-	[31357] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 17638,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 1011,
-		["reqReputation"] = 7,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
 		},
@@ -4038,6 +3393,12 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 300,
+		},
+	[13582] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 17709,--Zergling
+		["quality"] = 3,
+		["binding"] = 6,
 		},
 	[13583] = {--
 		["type"] = "CRITTER",
@@ -4050,112 +3411,6 @@ LibTextbookDB = {
 		["teachesSpell"] = 17708,--Mini Diablo
 		["quality"] = 3,
 		["binding"] = 6,
-		},
-	[13582] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 17709,--Zergling
-		["quality"] = 3,
-		["binding"] = 6,
-		},
-	[16363] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17735,--Suffering (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 24,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16364] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17750,--Suffering (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 36,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16365] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17751,--Suffering (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 48,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16366] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17752,--Suffering (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16357] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17767,--Consume Shadows (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 18,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16358] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17850,--Consume Shadows (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 26,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16359] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17851,--Consume Shadows (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 34,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16360] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17852,--Consume Shadows (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 42,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16361] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17853,--Consume Shadows (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 50,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16362] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 17854,--Consume Shadows (Rank 6)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 58,
-		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[13939] = {--
 		["type"] = "RECIPE",
@@ -4171,19 +3426,19 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
-	[13942] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 18240,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 240,
-		},
 	[13941] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18241,--
 		["quality"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
+		},
+	[13942] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 18240,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 240,
 		},
 	[13943] = {--
 		["type"] = "RECIPE",
@@ -4410,11 +3665,10 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 280,
 		},
-	[14493] = {--
+	[14491] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 18436,--
-		["quality"] = 3,
-		["binding"] = 1,
+		["teachesSpell"] = 18438,--
+		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 285,
 		},
@@ -4426,10 +3680,11 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 285,
 		["note"] = "trainable",
 		},
-	[14491] = {--
+	[14493] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 18438,--
-		["quality"] = 2,
+		["teachesSpell"] = 18436,--
+		["quality"] = 3,
+		["binding"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 285,
 		},
@@ -4437,13 +3692,6 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18439,--
 		["quality"] = 2,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 290,
-		},
-	[14497] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 18440,--
-		["quality"] = 3,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		},
@@ -4462,6 +3710,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
+		},
+	[14497] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 18440,--
+		["quality"] = 3,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 290,
 		},
 	[14498] = {--
 		["type"] = "RECIPE",
@@ -4493,13 +3748,6 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14507] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 18448,--
-		["quality"] = 3,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 300,
-		},
 	[14504] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18449,--
@@ -4522,9 +3770,9 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14509] = {--
+	[14507] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 18452,--
+		["teachesSpell"] = 18448,--
 		["quality"] = 3,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
@@ -4536,232 +3784,24 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[14511] = {--
+	[14509] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 18454,--
-		["quality"] = 4,
+		["teachesSpell"] = 18452,--
+		["quality"] = 3,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
-		},
-	[23811] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30341,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 335,
-		},
-	[23814] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30344,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 942,
-		["reqReputation"] = 4,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 335,
-		},
-	[23815] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30347,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 335,
-		},
-	[23816] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30348,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 325,
-		},
-	[23817] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30349,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 405,
-		},
-	[23874] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30547,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 933,
-		["reqReputation"] = 6,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 350,
-		},
-	[23888] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30548,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 305,
-		},
-	[35310] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30551,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 330,
-		},
-	[23883] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30551,--
-		["quality"] = 3,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 330,
-		},
-	[35311] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30552,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 345,
-		},
-	[23884] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30552,--
-		["quality"] = 3,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 345,
-		},
-	[23887] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30556,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 355,
-		},
-	[23885] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30582,--
-		["quality"] = 3,
-		["note"] = "fake",
-		},
-	[24102] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 31016,--Eviscerate (Rank 9)
-		["quality"] = 3,
-		["reqClasses"] = 16,
-		["reqLevel"] = 60,
-		},
-	[24101] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 31018,--Ferocious Bite (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 2048,
-		["reqLevel"] = 60,
-		},
-	[24158] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31053,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[24159] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31054,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 355,
-		},
-	[24160] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31055,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 355,
-		},
-	[24161] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31056,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24162] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31057,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[24163] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31058,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 345,
-		},
-	[24164] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31060,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 355,
-		},
-	[24165] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31061,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[24174] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31062,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 989,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24175] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31063,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1011,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24176] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31064,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 934,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24177] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31065,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 932,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
 		},
 	[14510] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18455,--
 		["quality"] = 3,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 300,
+		},
+	[14511] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 18454,--
+		["quality"] = 4,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
@@ -4786,20 +3826,47 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[4213] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 18540,--Ritual of Doom
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		},
 	[14526] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 18560,--
 		["quality"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
+		},
+	[14627] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3869,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 135,
+		},
+	[14630] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3857,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 165,
+		},
+	[14634] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3454,--
+		["quality"] = 2,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 200,
+		},
+	[14635] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3778,--
+		["quality"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 185,
+		},
+	[14639] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3952,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 140,
 		},
 	[15277] = {--
 		["type"] = "MOUNT",
@@ -4827,7 +3894,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -4837,7 +3904,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -4963,16 +4030,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 275,
 		},
-	[20253] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 19068,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 576,
-		["reqReputation"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 275,
-		},
 	[15742] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19068,--
@@ -5049,16 +4106,6 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19079,--
 		["quality"] = 3,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 285,
-		},
-	[20254] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 19080,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 576,
-		["reqReputation"] = 4,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 285,
 		},
@@ -5239,156 +4286,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[16388] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19244,--Spell Lock (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 36,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16352] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19438,--Sacrifice (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 24,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16353] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19440,--Sacrifice (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 32,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16354] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19441,--Sacrifice (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 40,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16355] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19442,--Sacrifice (Rank 5)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 48,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16356] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19443,--Sacrifice (Rank 6)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 56,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16384] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19478,--Tainted Blood (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 32,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16390] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19480,--Paranoia
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 42,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16389] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19647,--Spell Lock (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 52,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16385] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19655,--Tainted Blood (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 40,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16386] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19656,--Tainted Blood (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 48,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16387] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19660,--Tainted Blood (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 56,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16381] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19731,--Devour Magic (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 38,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16382] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19734,--Devour Magic (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 46,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[16383] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19736,--Devour Magic (Rank 4)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 54,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
 	[15996] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 19772,--Lifelike Toad
@@ -5432,6 +4329,146 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 270,
 		["note"] = "trainable",
 		},
+	[16046] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 19814,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 275,
+		},
+	[22540] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27946,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 340,
+		},
+	[22541] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27947,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[22542] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27948,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 305,
+		},
+	[22543] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27950,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 320,
+		},
+	[22544] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27951,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 340,
+		},
+	[22545] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27954,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 370,
+		},
+	[22547] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27960,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 6,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 345,
+		},
+	[22548] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27962,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 330,
+		},
+	[22551] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27968,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 340,
+		},
+	[22552] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27967,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 933,
+		["reqReputation"] = 5,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 340,
+		},
+	[22553] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27972,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 350,
+		},
+	[22554] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27971,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 350,
+		},
+	[22555] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27975,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 350,
+		},
+	[22556] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27977,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[22557] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28004,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[22558] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28003,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[22559] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27984,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 375,
+		},
 	[16047] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19795,--
@@ -5454,6 +4491,13 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 285,
 		},
+	[16050] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 19815,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 285,
+		},
 	[16051] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 19800,--
@@ -5461,29 +4505,6 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 285,
 		["note"] = "trainable",
-		},
-	[16665] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 19801,--Tranquilizing Shot
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqClasses"] = 8,
-		["reqLevel"] = 60,
-		["unique"] = 1,
-		},
-	[16046] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 19814,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 275,
-		},
-	[16050] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 19815,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 285,
 		},
 	[16052] = {--
 		["type"] = "RECIPE",
@@ -5521,6 +4542,68 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
+	[16072] = {--
+		["type"] = "OTHER",
+		["teachesSpell"] = 3413,--Expert Cook
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 125,
+		["note"] = "removed",
+		},
+	[16083] = {--
+		["type"] = "OTHER",
+		["teachesSpell"] = 7732,--Expert Fishing
+		["quality"] = 1,
+		["reqSkill"] = 356,
+		["reqSkillLevel"] = 125,
+		["note"] = "removed",
+		},
+	[16084] = {--
+		["type"] = "OTHER",
+		["teachesSpell"] = 7924,--Expert First Aid
+		["quality"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 125,
+		["note"] = "removed",
+		},
+	[16085] = {--
+		["type"] = "OTHER",
+		["teachesSpell"] = 10846,--Artisan First Aid
+		["quality"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 200,
+		["note"] = "fake",
+		},
+	[16110] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15933,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 225,
+		},
+	[16111] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15915,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 225,
+		},
+	[16112] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 7929,--
+		["quality"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 180,
+		["note"] = "removed",
+		},
+	[16113] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 10840,--
+		["quality"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 210,
+		["note"] = "removed",
+		},
 	[16214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20008,--
@@ -5529,42 +4612,12 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 255,
 		["note"] = "trainable",
 		},
-	[16218] = {--
+	[16215] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 20009,--
+		["teachesSpell"] = 20020,--
 		["quality"] = 2,
 		["reqSkill"] = 333,
-		["reqSkillLevel"] = 270,
-		},
-	[16246] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20010,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 295,
-		},
-	[16251] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20011,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
-	[16219] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20012,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 270,
-		["note"] = "trainable",
-		},
-	[16244] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20013,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 295,
-		["note"] = "trainable",
+		["reqSkillLevel"] = 260,
 		},
 	[16216] = {--
 		["type"] = "RECIPE",
@@ -5574,12 +4627,42 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 265,
 		["note"] = "trainable",
 		},
-	[16224] = {--
+	[16217] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 20015,--
+		["teachesSpell"] = 20017,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 265,
+		},
+	[16218] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20009,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 270,
+		},
+	[16219] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20012,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 270,
+		["note"] = "trainable",
+		},
+	[16220] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20024,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 275,
+		},
+	[16221] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20026,--
 		["quality"] = 1,
 		["reqSkill"] = 333,
-		["reqSkillLevel"] = 285,
+		["reqSkillLevel"] = 275,
 		},
 	[16222] = {--replaced with Enchant Shield - Vitality
 		["type"] = "RECIPE",
@@ -5589,48 +4672,19 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 280,
 		["note"] = "removed",
 		},
-	[16217] = {--
+	[16223] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 20017,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 265,
-		},
-	[16215] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20020,--
+		["teachesSpell"] = 20029,--
 		["quality"] = 2,
 		["reqSkill"] = 333,
-		["reqSkillLevel"] = 260,
+		["reqSkillLevel"] = 285,
 		},
-	[16245] = {--
+	[16224] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 20023,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 295,
-		},
-	[16220] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20024,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 275,
-		},
-	[16253] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20025,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
-	[16221] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20026,--
+		["teachesSpell"] = 20015,--
 		["quality"] = 1,
 		["reqSkill"] = 333,
-		["reqSkillLevel"] = 275,
+		["reqSkillLevel"] = 285,
 		},
 	[16242] = {--
 		["type"] = "RECIPE",
@@ -5640,12 +4694,34 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 290,
 		["note"] = "trainable",
 		},
-	[16223] = {--
+	[16243] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 20029,--
+		["teachesSpell"] = 20051,--
+		["quality"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 290,
+		},
+	[16244] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20013,--
 		["quality"] = 2,
 		["reqSkill"] = 333,
-		["reqSkillLevel"] = 285,
+		["reqSkillLevel"] = 295,
+		["note"] = "trainable",
+		},
+	[16245] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20023,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 295,
+		},
+	[16246] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20010,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 295,
 		},
 	[16247] = {--
 		["type"] = "RECIPE",
@@ -5654,9 +4730,44 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 295,
 		},
+	[16248] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20033,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 295,
+		},
+	[16249] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20036,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
 	[16250] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20031,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[16251] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20011,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[16252] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20034,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[16253] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20025,--
 		["quality"] = 2,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
@@ -5668,20 +4779,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16248] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20033,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 295,
-		},
-	[16252] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20034,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
 	[16255] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20035,--
@@ -5689,19 +4786,550 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[16249] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20036,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
-	[16243] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20051,--
+	[16302] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7799,--Firebolt (Rank 2)
 		["quality"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 290,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 8,
+		["unique"] = 1,
+		},
+	[16316] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7800,--Firebolt (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 18,
+		["unique"] = 1,
+		},
+	[16317] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7801,--Firebolt (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 28,
+		["unique"] = 1,
+		},
+	[16318] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7802,--Firebolt (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 38,
+		["unique"] = 1,
+		},
+	[16319] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11762,--Firebolt (Rank 6)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 48,
+		["unique"] = 1,
+		},
+	[16320] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11763,--Firebolt (Rank 7)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 58,
+		["unique"] = 1,
+		},
+	[16321] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 6307,--Blood Pact (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 4,
+		["unique"] = 1,
+		},
+	[16322] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7804,--Blood Pact (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 14,
+		["unique"] = 1,
+		},
+	[16323] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7805,--Blood Pact (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 26,
+		["unique"] = 1,
+		},
+	[16324] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11766,--Blood Pact (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 38,
+		["unique"] = 1,
+		},
+	[16325] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11767,--Blood Pact (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 50,
+		["unique"] = 1,
+		},
+	[16326] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 2947,--Fire Shield (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 14,
+		["unique"] = 1,
+		},
+	[16327] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 8316,--Fire Shield (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 24,
+		["unique"] = 1,
+		},
+	[16328] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 8317,--Fire Shield (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 34,
+		["unique"] = 1,
+		},
+	[16329] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11770,--Fire Shield (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 44,
+		["unique"] = 1,
+		},
+	[16330] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11771,--Fire Shield (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 54,
+		["unique"] = 1,
+		},
+	[16331] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 4511,--Phase Shift
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 12,
+		["unique"] = 1,
+		},
+	[16346] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7809,--Torment (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 20,
+		["unique"] = 1,
+		},
+	[16347] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7810,--Torment (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 30,
+		["unique"] = 1,
+		},
+	[16348] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7811,--Torment (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 40,
+		["unique"] = 1,
+		},
+	[16349] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11774,--Torment (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 50,
+		["unique"] = 1,
+		},
+	[16350] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11775,--Torment (Rank 6)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[16351] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7812,--Sacrifice (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 16,
+		["unique"] = 1,
+		},
+	[16352] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19438,--Sacrifice (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 24,
+		["unique"] = 1,
+		},
+	[16353] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19440,--Sacrifice (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 32,
+		["unique"] = 1,
+		},
+	[16354] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19441,--Sacrifice (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 40,
+		["unique"] = 1,
+		},
+	[16355] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19442,--Sacrifice (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 48,
+		["unique"] = 1,
+		},
+	[16356] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19443,--Sacrifice (Rank 6)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 56,
+		["unique"] = 1,
+		},
+	[16357] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17767,--Consume Shadows (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 18,
+		["unique"] = 1,
+		},
+	[16358] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17850,--Consume Shadows (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 26,
+		["unique"] = 1,
+		},
+	[16359] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17851,--Consume Shadows (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 34,
+		["unique"] = 1,
+		},
+	[16360] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17852,--Consume Shadows (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 42,
+		["unique"] = 1,
+		},
+	[16361] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17853,--Consume Shadows (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 50,
+		["unique"] = 1,
+		},
+	[16362] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17854,--Consume Shadows (Rank 6)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 58,
+		["unique"] = 1,
+		},
+	[16363] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17735,--Suffering (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 24,
+		["unique"] = 1,
+		},
+	[16364] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17750,--Suffering (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 36,
+		["unique"] = 1,
+		},
+	[16365] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17751,--Suffering (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 48,
+		["unique"] = 1,
+		},
+	[16366] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 17752,--Suffering (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[16368] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7815,--Lash of Pain (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 28,
+		["unique"] = 1,
+		},
+	[16371] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7816,--Lash of Pain (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 36,
+		["unique"] = 1,
+		},
+	[16372] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11778,--Lash of Pain (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 44,
+		["unique"] = 1,
+		},
+	[16373] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11779,--Lash of Pain (Rank 5)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 52,
+		["unique"] = 1,
+		},
+	[16374] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11780,--Lash of Pain (Rank 6)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[16375] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 6360,--Soothing Kiss (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 22,
+		["unique"] = 1,
+		},
+	[16376] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7813,--Soothing Kiss (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 34,
+		["unique"] = 1,
+		},
+	[16377] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11784,--Soothing Kiss (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 46,
+		["unique"] = 1,
+		},
+	[16378] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 11785,--Soothing Kiss (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 58,
+		["unique"] = 1,
+		},
+	[16379] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 6358,--Seduction
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 26,
+		["unique"] = 1,
+		},
+	[16380] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 7870,--Lesser Invisibility
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 32,
+		["unique"] = 1,
+		},
+	[16381] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19731,--Devour Magic (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 38,
+		["unique"] = 1,
+		},
+	[16382] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19734,--Devour Magic (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 46,
+		["unique"] = 1,
+		},
+	[16383] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19736,--Devour Magic (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 54,
+		["unique"] = 1,
+		},
+	[16384] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19478,--Tainted Blood (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 32,
+		["unique"] = 1,
+		["note"] = "removed",
+		},
+	[16385] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19655,--Tainted Blood (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 40,
+		["unique"] = 1,
+		["note"] = "removed",
+		},
+	[16386] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19656,--Tainted Blood (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 48,
+		["unique"] = 1,
+		["note"] = "removed",
+		},
+	[16387] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19660,--Tainted Blood (Rank 4)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 56,
+		["unique"] = 1,
+		["note"] = "removed",
+		},
+	[16388] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19244,--Spell Lock (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 36,
+		["unique"] = 1,
+		},
+	[16389] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19647,--Spell Lock (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 52,
+		["unique"] = 1,
+		},
+	[16390] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19480,--Paranoia
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 42,
+		["unique"] = 1,
+		["note"] = "removed",
+		},
+	[16665] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 19801,--Tranquilizing Shot
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqClasses"] = 8,
+		["reqLevel"] = 60,
+		["unique"] = 1,
 		},
 	[16767] = {--
 		["type"] = "RECIPE",
@@ -5758,14 +5386,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 295,
 		},
-	[17053] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 20873,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 300,
-		},
 	[17051] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20874,--
@@ -5777,6 +5397,14 @@ LibTextbookDB = {
 	[17052] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 20876,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 300,
+		},
+	[17053] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 20873,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 164,
@@ -5818,14 +5446,6 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 35,
-		},
-	[18592] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 21161,--
-		["quality"] = 4,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
 		},
 	[17413] = {--
 		["type"] = "BOOK",
@@ -5869,13 +5489,6 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 190,
 		},
-	[17725] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 21931,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 190,
-		},
 	[17720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 21940,--
@@ -5897,6 +5510,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 190,
 		},
+	[17725] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 21931,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 190,
+		},
 	[18046] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22480,--
@@ -5904,92 +5524,20 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 225,
 		},
+	[18160] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 9513,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 60,
+		},
 	[18239] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 22711,--
 		["quality"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 200,
-		},
-	[29468] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22717,--Black War Steed
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29466] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22718,--Black War Kodo
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29465] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22719,--Black Battlestrider
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29467] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22720,--Black War Ram
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29472] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22721,--Black War Raptor
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29470] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22722,--Red Skeletal Warhorse
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29471] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22723,--Black War Tiger
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29469] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 22724,--Black War Wolf
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
 		},
 	[18252] = {--
 		["type"] = "RECIPE",
@@ -6051,17 +5599,17 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18292] = {--
+	[18291] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 22795,--
+		["teachesSpell"] = 22797,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18291] = {--
+	[18292] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 22797,--
+		["teachesSpell"] = 22795,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 202,
@@ -6158,13 +5706,13 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[44956] = {--
+	[18592] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 22967,--Smelt Elementium
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 186,
+		["teachesSpell"] = 21161,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
+		["unique"] = 1,
 		},
 	[18600] = {--
 		["type"] = "BOOK",
@@ -6180,16 +5728,16 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 150,
 		},
-	[18649] = {--
+	[18648] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 23067,--
+		["teachesSpell"] = 23068,--
 		["quality"] = 1,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 150,
 		},
-	[18648] = {--
+	[18649] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 23068,--
+		["teachesSpell"] = 23067,--
 		["quality"] = 1,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 150,
@@ -6224,6 +5772,14 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 265,
 		},
+	[18654] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 23096,--
+		["quality"] = 2,
+		["reqSpell"] = 20219,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 265,
+		},
 	[18655] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23079,--
@@ -6252,14 +5808,6 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 300,
 		},
-	[18654] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 23096,--
-		["quality"] = 2,
-		["reqSpell"] = 20219,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 265,
-		},
 	[18661] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23129,--
@@ -6275,13 +5823,23 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 150,
 		},
+	[18766] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 23221,--Swift Frostsaber
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
 	[18767] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 23219,--Swift Mistsaber
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6291,28 +5849,18 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[18766] = {--
+	[18772] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 23221,--Swift Frostsaber
+		["teachesSpell"] = 23225,--Swift Green Mechanostrider
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[18774] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 23222,--Swift Yellow Mechanostrider
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6322,17 +5870,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18772] = {--
+	[18774] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 23225,--Swift Green Mechanostrider
+		["teachesSpell"] = 23222,--Swift Yellow Mechanostrider
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6342,17 +5890,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[18778] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 23228,--Swift White Steed
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6362,27 +5900,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[18786] = {--
+	[18778] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 23238,--Swift Brown Ram
+		["teachesSpell"] = 23228,--Swift White Steed
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[18787] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 23239,--Swift Gray Ram
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6392,7 +5920,27 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[18786] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 23238,--Swift Brown Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[18787] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 23239,--Swift Gray Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6402,7 +5950,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6412,7 +5960,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6422,7 +5970,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6432,7 +5980,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6442,17 +5990,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[18795] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 23248,--Great Gray Kodo
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6462,7 +6000,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[18795] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 23248,--Great Gray Kodo
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6472,7 +6020,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6482,7 +6030,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6492,7 +6040,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6502,7 +6050,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6526,7 +6074,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 23509,--Frostwolf Howler
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6535,7 +6083,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 23510,--Stormpike Battle Charger
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -6561,16 +6109,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
 		},
-	[19204] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 23629,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 576,
-		["reqReputation"] = 6,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 300,
-		},
 	[19203] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23632,--
@@ -6580,6 +6118,16 @@ LibTextbookDB = {
 		["reqReputation"] = 5,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 290,
+		},
+	[19204] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 23629,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 576,
+		["reqReputation"] = 6,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 300,
 		},
 	[19205] = {--
 		["type"] = "RECIPE",
@@ -6657,16 +6205,6 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 290,
 		},
-	[19218] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 23663,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 576,
-		["reqReputation"] = 6,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 300,
-		},
 	[19216] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 23664,--
@@ -6683,6 +6221,16 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqFaction"] = 529,
+		["reqReputation"] = 6,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 300,
+		},
+	[19218] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 23663,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 576,
 		["reqReputation"] = 6,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
@@ -6991,7 +6539,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 24242,--Swift Razzashi Raptor
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
@@ -7001,7 +6549,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 24252,--Swift Zulian Tiger
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
@@ -7080,6 +6628,26 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 150,
+		},
+	[20253] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 19068,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 576,
+		["reqReputation"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 275,
+		},
+	[20254] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 19080,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 576,
+		["reqReputation"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 285,
 		},
 	[20371] = {--
 		["type"] = "CRITTER",
@@ -7165,16 +6733,16 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[20548] = {--
+	[20547] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 24902,--
+		["teachesSpell"] = 24903,--
 		["quality"] = 3,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[20547] = {--
+	[20548] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 24903,--
+		["teachesSpell"] = 24902,--
 		["quality"] = 3,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
@@ -7186,16 +6754,16 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[20555] = {--
+	[20554] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 24913,--
+		["teachesSpell"] = 24914,--
 		["quality"] = 3,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[20554] = {--
+	[20555] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 24914,--
+		["teachesSpell"] = 24913,--
 		["quality"] = 3,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
@@ -7206,22 +6774,6 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 100,
-		},
-	[30360] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 24988,--Lurky
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[33153] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25072,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 935,
-		["reqReputation"] = 7,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
 		},
 	[20726] = {--
 		["type"] = "RECIPE",
@@ -7263,16 +6815,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33152] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25080,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 989,
-		["reqReputation"] = 7,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
 	[20731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25080,--
@@ -7301,50 +6843,11 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33149] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25083,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 942,
-		["reqReputation"] = 7,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
 	[20734] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25083,--
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
-	[33147] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25084,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 7,
-		["note"] = "fake",
-		},
-	[33150] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25084,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 7,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
-	[33151] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25084,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 7,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
@@ -7356,16 +6859,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
-	[33148] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25086,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1011,
-		["reqReputation"] = 7,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 300,
-		},
 	[20736] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25086,--
@@ -7373,13 +6866,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
-		},
-	[20758] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 25124,--
-		["quality"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 45,
 		},
 	[20752] = {--
 		["type"] = "RECIPE",
@@ -7429,6 +6915,13 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 300,
 		},
+	[20758] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25124,--
+		["quality"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 45,
+		},
 	[20761] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 25146,--
@@ -7445,166 +6938,12 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["unique"] = 1,
 		},
-	[21297] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25286,--Heroic Strike (Rank 9)
-		["quality"] = 3,
-		["reqClasses"] = 2,
-		["reqLevel"] = 60,
-		},
-	[21299] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25288,--Revenge (Rank 6)
-		["quality"] = 3,
-		["reqClasses"] = 2,
-		["reqLevel"] = 60,
-		},
-	[21298] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25289,--Battle Shout (Rank 7)
-		["quality"] = 3,
-		["reqClasses"] = 2,
-		["reqLevel"] = 60,
-		},
-	[21288] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25290,--Blessing of Wisdom (Rank 6)
-		["quality"] = 3,
-		["reqClasses"] = 4,
-		["reqLevel"] = 60,
-		},
-	[21289] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25291,--Blessing of Might (Rank 7)
-		["quality"] = 3,
-		["reqClasses"] = 4,
-		["reqLevel"] = 60,
-		},
-	[21290] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25292,--Holy Light (Rank 9)
-		["quality"] = 3,
-		["reqClasses"] = 4,
-		["reqLevel"] = 60,
-		},
-	[21304] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25294,--Guide: Multi-Shot (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 8,
-		["reqLevel"] = 60,
-		},
-	[21306] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25295,--Guide: Serpent Sting (Rank 9)
-		["quality"] = 3,
-		["reqClasses"] = 8,
-		["reqLevel"] = 60,
-		},
-	[21307] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25296,--Guide: Aspect of the Hawk (Rank 7)
-		["quality"] = 3,
-		["reqClasses"] = 8,
-		["reqLevel"] = 60,
-		},
-	[21294] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25297,--Healing Touch (Rank 11)
-		["quality"] = 3,
-		["reqClasses"] = 2048,
-		["reqLevel"] = 60,
-		},
-	[21295] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25298,--Starfire (Rank 7)
-		["quality"] = 3,
-		["reqClasses"] = 2048,
-		["reqLevel"] = 60,
-		},
-	[21296] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25299,--Rejuvenation (Rank 11)
-		["quality"] = 3,
-		["reqClasses"] = 2048,
-		["reqLevel"] = 60,
-		},
-	[21300] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25300,--HandBackstab (Rank 9)
-		["quality"] = 3,
-		["reqClasses"] = 16,
-		["reqLevel"] = 60,
-		},
-	[21303] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25302,--HandFeint (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 16,
-		["reqLevel"] = 60,
-		},
-	[21214] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25304,--Frostbolt (Rank 11)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 60,
-		},
-	[21279] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25306,--Fireball (Rank 12)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 60,
-		},
-	[21281] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25307,--Shadow Bolt (Rank 10)
-		["quality"] = 3,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		},
-	[21282] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25309,--Immolate (Rank 8)
-		["quality"] = 3,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		},
-	[21283] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25311,--Corruption (Rank 7)
-		["quality"] = 3,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		},
-	[21284] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25314,--Greater Heal (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 32,
-		["reqLevel"] = 60,
-		},
-	[21285] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25315,--Renew (Rank 10)
-		["quality"] = 3,
-		["reqClasses"] = 32,
-		["reqLevel"] = 60,
-		},
-	[21287] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25316,--Prayer of Healing (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 32,
-		["reqLevel"] = 60,
-		},
-	[20856] = {--
+	[20854] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 25320,--
+		["teachesSpell"] = 25339,--
 		["quality"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 150,
+		["reqSkillLevel"] = 110,
 		},
 	[20855] = {--
 		["type"] = "RECIPE",
@@ -7613,55 +6952,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 125,
 		},
-	[20854] = {--
+	[20856] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 25339,--
+		["teachesSpell"] = 25320,--
 		["quality"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 110,
-		},
-	[21280] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25345,--Arcane Missiles (Rank 8)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 60,
-		},
-	[21302] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25347,--HandDeadly Poison (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 16,
-		["reqLevel"] = 60,
-		["note"] = "removed",
-		},
-	[21291] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25357,--Healing Wave (Rank 10)
-		["quality"] = 3,
-		["reqClasses"] = 128,
-		["reqLevel"] = 60,
-		},
-	[21293] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25359,--Grace of Air Totem (Rank 3)
-		["quality"] = 3,
-		["reqClasses"] = 128,
-		["reqLevel"] = 60,
-		},
-	[21292] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25361,--Strength of Earth Totem (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 128,
-		["reqLevel"] = 60,
-		},
-	[29549] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 25392,--Prayer of Fortitude (Rank 3)
-		["quality"] = 3,
-		["reqClasses"] = 32,
-		["reqLevel"] = 70,
+		["reqSkillLevel"] = 150,
 		},
 	[20970] = {--
 		["type"] = "RECIPE",
@@ -7721,12 +7017,29 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 80,
 		},
+	[21176] = {--AQ40 opening quest
+		["type"] = "MOUNT",
+		["teachesSpell"] = 26656,--Black Qiraji Battle Tank
+		["quality"] = 5,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["unique"] = 1,
+		},
+	[21214] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25304,--Frostbolt (Rank 11)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 60,
+		},
 	[21218] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 25953,--Blue Qiraji Battle Tank
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
@@ -7743,6 +7056,207 @@ LibTextbookDB = {
 		["teachesSpell"] = 26010,--Tranquil Mechanical Yeti
 		["quality"] = 1,
 		},
+	[21279] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25306,--Fireball (Rank 12)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 60,
+		},
+	[21280] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25345,--Arcane Missiles (Rank 8)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 60,
+		},
+	[21281] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25307,--Shadow Bolt (Rank 10)
+		["quality"] = 3,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		},
+	[21282] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25309,--Immolate (Rank 8)
+		["quality"] = 3,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		},
+	[21283] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25311,--Corruption (Rank 7)
+		["quality"] = 3,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		},
+	[21284] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25314,--Greater Heal (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 32,
+		["reqLevel"] = 60,
+		},
+	[21285] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25315,--Renew (Rank 10)
+		["quality"] = 3,
+		["reqClasses"] = 32,
+		["reqLevel"] = 60,
+		},
+	[21287] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25316,--Prayer of Healing (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 32,
+		["reqLevel"] = 60,
+		},
+	[21288] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25290,--Blessing of Wisdom (Rank 6)
+		["quality"] = 3,
+		["reqClasses"] = 4,
+		["reqLevel"] = 60,
+		},
+	[21289] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25291,--Blessing of Might (Rank 7)
+		["quality"] = 3,
+		["reqClasses"] = 4,
+		["reqLevel"] = 60,
+		},
+	[21290] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25292,--Holy Light (Rank 9)
+		["quality"] = 3,
+		["reqClasses"] = 4,
+		["reqLevel"] = 60,
+		},
+	[21291] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25357,--Healing Wave (Rank 10)
+		["quality"] = 3,
+		["reqClasses"] = 128,
+		["reqLevel"] = 60,
+		},
+	[21292] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25361,--Strength of Earth Totem (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 128,
+		["reqLevel"] = 60,
+		},
+	[21293] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25359,--Grace of Air Totem (Rank 3)
+		["quality"] = 3,
+		["reqClasses"] = 128,
+		["reqLevel"] = 60,
+		},
+	[21294] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25297,--Healing Touch (Rank 11)
+		["quality"] = 3,
+		["reqClasses"] = 2048,
+		["reqLevel"] = 60,
+		},
+	[21295] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25298,--Starfire (Rank 7)
+		["quality"] = 3,
+		["reqClasses"] = 2048,
+		["reqLevel"] = 60,
+		},
+	[21296] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25299,--Rejuvenation (Rank 11)
+		["quality"] = 3,
+		["reqClasses"] = 2048,
+		["reqLevel"] = 60,
+		},
+	[21297] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25286,--Heroic Strike (Rank 9)
+		["quality"] = 3,
+		["reqClasses"] = 2,
+		["reqLevel"] = 60,
+		},
+	[21298] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25289,--Battle Shout (Rank 7)
+		["quality"] = 3,
+		["reqClasses"] = 2,
+		["reqLevel"] = 60,
+		},
+	[21299] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25288,--Revenge (Rank 6)
+		["quality"] = 3,
+		["reqClasses"] = 2,
+		["reqLevel"] = 60,
+		},
+	[21300] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25300,--HandBackstab (Rank 9)
+		["quality"] = 3,
+		["reqClasses"] = 16,
+		["reqLevel"] = 60,
+		},
+	[21301] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 26533,--Father Winter's Helper
+		["quality"] = 1,
+		["binding"] = 3,
+		},
+	[21302] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25347,--HandDeadly Poison (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 16,
+		["reqLevel"] = 60,
+		["note"] = "removed",
+		},
+	[21303] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25302,--HandFeint (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 16,
+		["reqLevel"] = 60,
+		},
+	[21304] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25294,--Guide: Multi-Shot (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 8,
+		["reqLevel"] = 60,
+		},
+	[21305] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 26541,--Winter's Little Helper
+		["quality"] = 1,
+		["binding"] = 3,
+		},
+	[21306] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25295,--Guide: Serpent Sting (Rank 9)
+		["quality"] = 3,
+		["reqClasses"] = 8,
+		["reqLevel"] = 60,
+		},
+	[21307] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25296,--Guide: Aspect of the Hawk (Rank 7)
+		["quality"] = 3,
+		["reqClasses"] = 8,
+		["reqLevel"] = 60,
+		},
+	[21308] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 26529,--Winter Reindeer
+		["quality"] = 1,
+		["binding"] = 3,
+		},
 	[21309] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 26045,--Tiny Snowman
@@ -7754,17 +7268,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 26054,--Red Qiraji Battle Tank
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		["unique"] = 1,
-		},
-	[21324] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 26055,--Yellow Qiraji Battle Tank
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
@@ -7774,7 +7278,17 @@ LibTextbookDB = {
 		["teachesSpell"] = 26056,--Green Qiraji Battle Tank
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["unique"] = 1,
+		},
+	[21324] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 26055,--Yellow Qiraji Battle Tank
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		["unique"] = 1,
@@ -7807,14 +7321,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[44916] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26403,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 250,
-		},
 	[21722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 26403,--
@@ -7822,14 +7328,6 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 250,
 		["note"] = "removed",
-		},
-	[44917] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26407,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 250,
 		},
 	[21723] = {--
 		["type"] = "RECIPE",
@@ -7935,29 +7433,13 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[44919] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26442,--
-		["quality"] = 2,
+	[21736] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 3363,--Nether Drake
+		["quality"] = 3,
 		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 225,
-		},
-	[21738] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26442,--
-		["quality"] = 2,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 225,
-		["note"] = "removed",
-		},
-	[44918] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26443,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 275,
+		["reqLevel"] = 60,
+		["note"] = "fake",
 		},
 	[21737] = {--
 		["type"] = "RECIPE",
@@ -7967,33 +7449,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "removed",
 		},
-	[21308] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 26529,--Winter Reindeer
-		["quality"] = 1,
-		["binding"] = 3,
-		},
-	[21301] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 26533,--Father Winter's Helper
-		["quality"] = 1,
-		["binding"] = 3,
-		},
-	[21305] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 26541,--Winter's Little Helper
-		["quality"] = 1,
-		["binding"] = 3,
-		},
-	[21176] = {--AQ40 opening quest
-		["type"] = "MOUNT",
-		["teachesSpell"] = 26656,--Black Qiraji Battle Tank
-		["quality"] = 5,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["unique"] = 1,
+	[21738] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26442,--
+		["quality"] = 2,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 225,
+		["note"] = "removed",
 		},
 	[21892] = {--
 		["type"] = "RECIPE",
@@ -8022,111 +7484,6 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
-		},
-	[21908] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26752,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26797,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 355,
-		},
-	[21909] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26753,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26797,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
-		},
-	[21910] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26754,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26797,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 375,
-		},
-	[21911] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26755,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 375,
-		},
-	[21912] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26756,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26801,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 355,
-		},
-	[21914] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26757,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26801,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
-		},
-	[21913] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26758,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26801,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 375,
-		},
-	[21915] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26759,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 375,
-		},
-	[21916] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26760,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26798,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 355,
-		},
-	[21918] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26761,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26798,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
-		},
-	[21917] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26762,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSpell"] = 26798,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 375,
-		},
-	[21919] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 26763,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 375,
 		},
 	[21896] = {--
 		["type"] = "RECIPE",
@@ -8216,6 +7573,111 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 370,
+		},
+	[21908] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26752,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26797,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 355,
+		},
+	[21909] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26753,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26797,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[21910] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26754,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26797,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 375,
+		},
+	[21911] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26755,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 375,
+		},
+	[21912] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26756,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26801,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 355,
+		},
+	[21913] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26758,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26801,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 375,
+		},
+	[21914] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26757,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26801,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[21915] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26759,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 375,
+		},
+	[21916] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26760,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26798,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 355,
+		},
+	[21917] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26762,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26798,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 375,
+		},
+	[21918] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26761,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSpell"] = 26798,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[21919] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26763,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 375,
 		},
 	[21940] = {--
 		["type"] = "RECIPE",
@@ -8324,21 +7786,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 305,
 		},
-	[22146] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 26991,--Gift of the Wild (Rank 3)
-		["quality"] = 3,
-		["reqClasses"] = 2048,
-		["reqLevel"] = 70,
-		},
-	[22012] = {--
-		["type"] = "OTHER",
-		["teachesSpell"] = 27028,--Master First Aid
-		["quality"] = 1,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 300,
-		["note"] = "removed",
-		},
 	[21992] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27032,--
@@ -8355,11 +7802,26 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 360,
 		["note"] = "removed",
 		},
-	[29550] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 27090,--Conjure Water (Rank 9)
+	[22012] = {--
+		["type"] = "OTHER",
+		["teachesSpell"] = 27028,--Master First Aid
+		["quality"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 300,
+		["note"] = "removed",
+		},
+	[22114] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 27241,--Gurky
 		["quality"] = 3,
-		["reqClasses"] = 256,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[22146] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 26991,--Gift of the Wild (Rank 3)
+		["quality"] = 3,
+		["reqClasses"] = 2048,
 		["reqLevel"] = 70,
 		},
 	[22153] = {--
@@ -8369,13 +7831,6 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 70,
 		},
-	[22114] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 27241,--Gurky
-		["quality"] = 3,
-		["binding"] = 1,
-		["unique"] = 1,
-		},
 	[22179] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 27267,--Firebolt (Rank 8)
@@ -8384,7 +7839,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 68,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22180] = {--
 		["type"] = "BOOK",
@@ -8394,7 +7848,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 62,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22181] = {--
 		["type"] = "BOOK",
@@ -8404,7 +7857,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 64,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22182] = {--
 		["type"] = "BOOK",
@@ -8414,7 +7866,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22183] = {--
 		["type"] = "BOOK",
@@ -8424,7 +7875,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 63,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22184] = {--
 		["type"] = "BOOK",
@@ -8434,7 +7884,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 66,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22185] = {--
 		["type"] = "BOOK",
@@ -8444,7 +7893,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 64,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22186] = {--
 		["type"] = "BOOK",
@@ -8454,7 +7902,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 68,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22187] = {--
 		["type"] = "BOOK",
@@ -8464,7 +7911,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22188] = {--
 		["type"] = "BOOK",
@@ -8474,7 +7920,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 62,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22189] = {--
 		["type"] = "BOOK",
@@ -8484,7 +7929,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[22190] = {--
 		["type"] = "BOOK",
@@ -8496,12 +7940,6 @@ LibTextbookDB = {
 		["unique"] = 1,
 		["note"] = "removed",
 		},
-	[22235] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 27570,--Peddlefeet
-		["quality"] = 1,
-		["binding"] = 1,
-		},
 	[22209] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27585,--
@@ -8512,23 +7950,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22219] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27586,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 609,
-		["reqReputation"] = 6,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 300,
-		},
-	[22222] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27587,--
-		["quality"] = 3,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 300,
-		},
 	[22214] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27588,--
@@ -8536,6 +7957,16 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 609,
 		["reqReputation"] = 5,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 300,
+		},
+	[22219] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27586,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 609,
+		["reqReputation"] = 6,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
@@ -8555,6 +7986,19 @@ LibTextbookDB = {
 		["reqReputation"] = 7,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
+		},
+	[22222] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27587,--
+		["quality"] = 3,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 300,
+		},
+	[22235] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 27570,--Peddlefeet
+		["quality"] = 1,
+		["binding"] = 1,
 		},
 	[22307] = {--
 		["type"] = "RECIPE",
@@ -8576,13 +8020,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
-		},
-	[22393] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 27683,--Prayer of Shadow Protection (Rank 1)
-		["quality"] = 3,
-		["reqClasses"] = 32,
-		["reqLevel"] = 60,
 		},
 	[22310] = {--
 		["type"] = "RECIPE",
@@ -8611,16 +8048,16 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22390] = {--
+	[22389] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27830,--
+		["teachesSpell"] = 27832,--
 		["quality"] = 4,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22389] = {--
+	[22390] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27832,--
+		["teachesSpell"] = 27830,--
 		["quality"] = 4,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
@@ -8635,6 +8072,13 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 290,
 		},
+	[22393] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 27683,--Prayer of Shadow Protection (Rank 1)
+		["quality"] = 3,
+		["reqClasses"] = 32,
+		["reqLevel"] = 60,
+		},
 	[22530] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 27906,--
@@ -8642,16 +8086,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 320,
-		},
-	[24000] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27911,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 4,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 325,
 		},
 	[22531] = {--
 		["type"] = "RECIPE",
@@ -8733,58 +8167,236 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 325,
 		},
-	[22540] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27946,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 340,
+	[23731] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 30198,--Intercept (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 69,
+		["unique"] = 1,
 		},
-	[22541] = {--
+	[23734] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 30213,--Cleave (Rank 1)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 50,
+		["unique"] = 1,
+		},
+	[23745] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 30219,--Cleave (Rank 2)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[23755] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 30223,--Cleave (Rank 3)
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqClasses"] = 512,
+		["reqLevel"] = 68,
+		["unique"] = 1,
+		},
+	[23799] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27947,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
+		["teachesSpell"] = 30313,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 350,
+		},
+	[23800] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30314,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 202,
 		["reqSkillLevel"] = 360,
 		},
-	[35298] = {--
+	[23802] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27948,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 305,
+		["teachesSpell"] = 30315,--
+		["quality"] = 3,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
 		},
-	[22542] = {--
+	[23803] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27948,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 305,
-		},
-	[22543] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27950,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 320,
-		},
-	[22544] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27951,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
+		["teachesSpell"] = 30316,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
 		["reqSkillLevel"] = 340,
 		},
-	[22545] = {--
+	[23804] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27954,--
-		["quality"] = 2,
+		["teachesSpell"] = 30317,--
+		["quality"] = 3,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 340,
+		},
+	[23805] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30318,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 350,
+		},
+	[23806] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30325,--
+		["quality"] = 3,
 		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 360,
+		},
+	[23807] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30329,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 335,
+		},
+	[23808] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30332,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 360,
+		},
+	[23809] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30334,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[23810] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30337,--
+		["quality"] = 2,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 325,
+		},
+	[23811] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30341,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 335,
+		},
+	[23814] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30344,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 942,
+		["reqReputation"] = 4,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 335,
+		},
+	[23815] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30347,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 335,
+		},
+	[23816] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30348,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 325,
+		},
+	[23817] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30349,--
+		["quality"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 405,
+		},
+	[23874] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30547,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 933,
+		["reqReputation"] = 6,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 350,
+		},
+	[23883] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30551,--
+		["quality"] = 3,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 330,
+		},
+	[23884] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30552,--
+		["quality"] = 3,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 345,
+		},
+	[23885] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30582,--
+		["quality"] = 3,
+		["note"] = "fake",
+		},
+	[23887] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30556,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 355,
+		},
+	[23888] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30548,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 305,
+		},
+	[24000] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27911,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 4,
 		["reqSkill"] = 333,
-		["reqSkillLevel"] = 370,
+		["reqSkillLevel"] = 325,
+		},
+	[24001] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28553,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 5,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 330,
+		},
+	[24002] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 29657,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 7,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 360,
 		},
 	[24003] = {--
 		["type"] = "RECIPE",
@@ -8796,71 +8408,208 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 345,
 		},
-	[22547] = {--
+	[24101] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 31018,--Ferocious Bite (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 2048,
+		["reqLevel"] = 60,
+		},
+	[24102] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 31016,--Eviscerate (Rank 9)
+		["quality"] = 3,
+		["reqClasses"] = 16,
+		["reqLevel"] = 60,
+		},
+	[24158] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 27960,--
-		["quality"] = 1,
+		["teachesSpell"] = 31053,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[24159] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31054,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 355,
+		},
+	[24160] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31055,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 355,
+		},
+	[24161] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31056,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24162] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31057,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[24163] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31058,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 345,
+		},
+	[24164] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31060,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 355,
+		},
+	[24165] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31061,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[24166] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31067,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 355,
+		},
+	[24167] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31068,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 355,
+		},
+	[24168] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31070,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24169] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31071,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24170] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31072,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[24171] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31076,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[24172] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31077,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[24173] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31078,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[24174] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31062,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 989,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24175] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31063,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1011,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24176] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31064,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 934,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24177] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31065,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 932,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24178] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31066,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 933,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[24179] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31079,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1011,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[24180] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31080,--
+		["quality"] = 3,
 		["binding"] = 1,
 		["reqFaction"] = 946,
 		["reqReputation"] = 6,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 345,
-		},
-	[22548] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27962,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 330,
-		},
-	[22552] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27967,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 933,
-		["reqReputation"] = 5,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 340,
-		},
-	[22551] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27968,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 340,
-		},
-	[22554] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27971,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 350,
-		},
-	[22553] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27972,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 350,
-		},
-	[22555] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27975,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 350,
-		},
-	[22556] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27977,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 360,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
 		},
 	[22560] = {--
 		["type"] = "RECIPE",
@@ -8877,28 +8626,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
-		},
-	[22559] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 27984,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 375,
-		},
-	[22558] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28003,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 360,
-		},
-	[22557] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28004,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 360,
 		},
 	[22562] = {--
 		["type"] = "RECIPE",
@@ -8929,6 +8656,13 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 335,
 		},
+	[22647] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28267,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 60,
+		},
 	[22683] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28210,--
@@ -8939,20 +8673,6 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22647] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28267,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 60,
-		},
-	[22739] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 28271,--Polymorph (Turtle)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 60,
-		},
 	[22729] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28327,--
@@ -8960,6 +8680,13 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
+		},
+	[22739] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 28271,--Polymorph (Turtle)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 60,
 		},
 	[22766] = {--
 		["type"] = "RECIPE",
@@ -8991,13 +8718,13 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 300,
 		},
-	[22771] = {--
+	[22769] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 28472,--
+		["teachesSpell"] = 28474,--
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqFaction"] = 609,
-		["reqReputation"] = 6,
+		["reqReputation"] = 4,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
@@ -9011,23 +8738,23 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 300,
 		},
-	[22769] = {--
+	[22771] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 28474,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 609,
-		["reqReputation"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 300,
-		},
-	[22774] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28480,--
+		["teachesSpell"] = 28472,--
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqFaction"] = 609,
 		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 300,
+		},
+	[22772] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28482,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 609,
+		["reqReputation"] = 4,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
@@ -9041,13 +8768,13 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
-	[22772] = {--
+	[22774] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 28482,--
+		["teachesSpell"] = 28480,--
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqFaction"] = 609,
-		["reqReputation"] = 4,
+		["reqReputation"] = 6,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 300,
 		},
@@ -9057,6 +8784,27 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["binding"] = 1,
 		["unique"] = 1,
+		},
+	[22890] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 28609,--Frost Ward (Rank 5)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 60,
+		},
+	[22891] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 28610,--Shadow Ward (Rank 4)
+		["quality"] = 3,
+		["reqClasses"] = 512,
+		["reqLevel"] = 60,
+		},
+	[22897] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 28612,--Conjure Food (Rank 7)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 60,
 		},
 	[22900] = {--
 		["type"] = "RECIPE",
@@ -9092,16 +8840,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 325,
-		},
-	[24001] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28553,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 5,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 330,
 		},
 	[22905] = {--
 		["type"] = "RECIPE",
@@ -9171,14 +8909,6 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[35295] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28564,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 350,
-		},
 	[22913] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28564,--
@@ -9209,16 +8939,6 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["binding"] = 1,
 		["reqFaction"] = 970,
-		["reqReputation"] = 6,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 350,
-		},
-	[30443] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28568,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 978,
 		["reqReputation"] = 6,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
@@ -9300,14 +9020,6 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 360,
 		},
-	[35294] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28578,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 365,
-		},
 	[22926] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 28578,--
@@ -9322,27 +9034,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 365,
-		},
-	[22890] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 28609,--Frost Ward (Rank 5)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 60,
-		},
-	[22891] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 28610,--Shadow Ward (Rank 4)
-		["quality"] = 3,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		},
-	[22897] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 28612,--Conjure Food (Rank 7)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 60,
 		},
 	[23002] = {--
 		["type"] = "CRITTER",
@@ -9460,16 +9151,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 305,
 		["note"] = "removed",
-		},
-	[31359] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 28918,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 315,
 		},
 	[23142] = {--
 		["type"] = "RECIPE",
@@ -9603,6 +9284,13 @@ LibTextbookDB = {
 		["reqClasses"] = 128,
 		["reqLevel"] = 60,
 		},
+	[23574] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 29688,--
+		["quality"] = 2,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 350,
+		},
 	[23590] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29566,--
@@ -9662,16 +9350,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 355,
 		},
-	[23599] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 29610,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 934,
-		["reqReputation"] = 6,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 360,
-		},
 	[23598] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29611,--
@@ -9681,6 +9359,16 @@ LibTextbookDB = {
 		["reqReputation"] = 5,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 355,
+		},
+	[23599] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 29610,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 934,
+		["reqReputation"] = 6,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 360,
 		},
 	[23600] = {--
 		["type"] = "RECIPE",
@@ -9753,13 +9441,6 @@ LibTextbookDB = {
 		["teachesSpell"] = 29621,--
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 365,
-		},
-	[23621] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 29622,--
-		["quality"] = 4,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		},
@@ -9837,16 +9518,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[24002] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 29657,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 7,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 360,
-		},
 	[23619] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29657,--
@@ -9860,6 +9531,13 @@ LibTextbookDB = {
 	[23620] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 29658,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[23621] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 29622,--
 		["quality"] = 4,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
@@ -9912,13 +9590,6 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
-		},
-	[23574] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 29688,--
-		["quality"] = 2,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 350,
 		},
 	[23629] = {--
 		["type"] = "RECIPE",
@@ -10006,7 +9677,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 52,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[23713] = {--
 		["type"] = "CRITTER",
@@ -10029,226 +9699,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 61,
 		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[23731] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 30198,--Intercept (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 69,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[23734] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 30213,--Cleave (Rank 1)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 50,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[23745] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 30219,--Cleave (Rank 2)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 60,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[23755] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 30223,--Cleave (Rank 3)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 68,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[23799] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30313,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 350,
-		},
-	[23800] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30314,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 360,
-		},
-	[23802] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30315,--
-		["quality"] = 3,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[23803] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30316,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 340,
-		},
-	[23804] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30317,--
-		["quality"] = 3,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 340,
-		},
-	[23805] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30318,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 350,
-		},
-	[23806] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30325,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 360,
-		},
-	[23807] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30329,--
-		["quality"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 335,
-		},
-	[23808] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30332,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 360,
-		},
-	[23809] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30334,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[23810] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 30337,--
-		["quality"] = 2,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 325,
-		},
-	[24178] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31066,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 933,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24166] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31067,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 355,
-		},
-	[24167] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31068,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 355,
-		},
-	[24168] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31070,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24169] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31071,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[24170] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31072,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[24171] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31076,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[24172] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31077,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[24173] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31078,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[24179] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31079,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1011,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[31358] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31080,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[24180] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31080,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
 		},
 	[24181] = {--
 		["type"] = "RECIPE",
@@ -10280,6 +9730,13 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
+	[24192] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31089,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
 	[24193] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31084,--
@@ -10301,32 +9758,9 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35305] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31088,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
 	[24196] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31088,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[35306] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31089,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[24192] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31089,--
 		["quality"] = 3,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
@@ -10345,17 +9779,16 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[35304] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31092,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
 	[24199] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31092,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[24200] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31149,--
 		["quality"] = 3,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
@@ -10385,14 +9818,6 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31097,--
 		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[35307] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31098,--
-		["quality"] = 3,
-		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
@@ -10509,20 +9934,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[24200] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31149,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[24316] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31373,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 350,
-		},
 	[24292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 31430,--
@@ -10562,14 +9973,6 @@ LibTextbookDB = {
 		["reqReputation"] = 7,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
-		},
-	[35308] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31434,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 350,
 		},
 	[24296] = {--
 		["type"] = "RECIPE",
@@ -10612,14 +10015,6 @@ LibTextbookDB = {
 		["quality"] = 3,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 350,
-		},
-	[35309] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 31442,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
 		},
 	[24302] = {--
 		["type"] = "RECIPE",
@@ -10732,6 +10127,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 325,
 		["note"] = "fake",
 		},
+	[24316] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31373,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 350,
+		},
 	[24345] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 31709,--Cower (Rank 4)
@@ -10747,14 +10149,13 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[25470] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 32235,--Golden Gryphon
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 60,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
@@ -10764,7 +10165,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 32239,--Ebon Gryphon
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 60,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
@@ -10774,7 +10175,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 32240,--Snowy Gryphon
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 60,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
@@ -10794,7 +10195,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 32243,--Tawny Wind Rider
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 60,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
@@ -10804,7 +10205,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 32244,--Blue Wind Rider
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 60,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
@@ -10814,7 +10215,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 32245,--Green Wind Rider
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 60,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
@@ -10912,7 +10313,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqLevel"] = 70,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[25720] = {--
 		["type"] = "RECIPE",
@@ -10971,17 +10371,17 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25731] = {--
+	[25730] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 32488,--
+		["teachesSpell"] = 32489,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[25730] = {--
+	[25731] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 32489,--
+		["teachesSpell"] = 32488,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 165,
@@ -11047,16 +10447,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 355,
 		},
-	[29213] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32498,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
 	[25738] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32498,--
@@ -11067,32 +10457,12 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29214] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32499,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 360,
-		},
 	[25739] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32499,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqFaction"] = 947,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 360,
-		},
-	[29215] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32500,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 946,
 		["reqReputation"] = 5,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
@@ -11107,16 +10477,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 360,
 		},
-	[29217] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32501,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 978,
-		["reqReputation"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 340,
-		},
 	[25741] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32501,--
@@ -11124,16 +10484,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 941,
 		["reqReputation"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 340,
-		},
-	[29219] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32502,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 978,
-		["reqReputation"] = 5,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
 		},
@@ -11146,16 +10496,6 @@ LibTextbookDB = {
 		["reqReputation"] = 5,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 340,
-		},
-	[29218] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32503,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 978,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
 		},
 	[25743] = {--
 		["type"] = "RECIPE",
@@ -11205,16 +10545,6 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
 		},
-	[29232] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32766,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 5,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 350,
-		},
 	[25870] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32766,--
@@ -11240,7 +10570,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 56,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[25902] = {--
 		["type"] = "RECIPE",
@@ -11262,6 +10591,16 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
+	[25904] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32870,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 935,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
 	[25905] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32868,--
@@ -11276,26 +10615,9 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
-	[25904] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32870,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 935,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
 	[25907] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 32871,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[25909] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 32872,--
 		["quality"] = 3,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
@@ -11307,6 +10629,13 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 933,
 		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[25909] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32872,--
+		["quality"] = 3,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
@@ -11335,6 +10664,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 275,
 		["note"] = "removed",
 		},
+	[27684] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 33279,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 300,
+		},
 	[27685] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 33276,--
@@ -11355,13 +10691,6 @@ LibTextbookDB = {
 		["quality"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 50,
-		},
-	[27684] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 33279,--
-		["quality"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 300,
 		},
 	[27688] = {--
 		["type"] = "RECIPE",
@@ -11462,15 +10791,14 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["note"] = "removed",
 		},
-	[28936] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 33660,--Swift Pink Hawkstrider
-		["quality"] = 4,
+	[28068] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 33701,--Suffering (Rank 6)
+		["quality"] = 1,
 		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
+		["reqClasses"] = 512,
+		["reqLevel"] = 69,
+		["unique"] = 1,
 		},
 	[28071] = {--
 		["type"] = "BOOK",
@@ -11480,7 +10808,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 50,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[28072] = {--
 		["type"] = "BOOK",
@@ -11490,7 +10817,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 60,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[28073] = {--
 		["type"] = "BOOK",
@@ -11500,24 +10826,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 70,
 		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[28068] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 33701,--Suffering (Rank 6)
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqClasses"] = 512,
-		["reqLevel"] = 69,
-		["unique"] = 1,
-		["note"] = "removed",
-		},
-	[31501] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 33717,--Conjure Food (Rank 8)
-		["quality"] = 3,
-		["reqClasses"] = 256,
-		["reqLevel"] = 70,
 		},
 	[28270] = {--
 		["type"] = "RECIPE",
@@ -11582,26 +10890,10 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
 		},
-	[35299] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 34007,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 360,
-		},
 	[28279] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34007,--
 		["quality"] = 3,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 360,
-		},
-	[35297] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 34008,--
-		["quality"] = 3,
-		["binding"] = 1,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
@@ -11612,13 +10904,6 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 360,
 		},
-	[28282] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 34009,--
-		["quality"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 325,
-		},
 	[28281] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 34010,--
@@ -11628,6 +10913,13 @@ LibTextbookDB = {
 		["reqReputation"] = 6,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 350,
+		},
+	[28282] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 34009,--
+		["quality"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 325,
 		},
 	[28291] = {--now trainable
 		["type"] = "RECIPE",
@@ -11653,7 +10945,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
@@ -11676,12 +10968,12 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 350,
 		},
-	[29228] = {--
+	[28915] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 34790,--Dark War Talbuk
+		["teachesSpell"] = 39316,--Dark Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -11695,14 +10987,13 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29227] = {--Alliance
+	[28936] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 34896,--Cobalt War Talbuk
+		["teachesSpell"] = 33660,--Swift Pink Hawkstrider
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqFaction"] = 978,
-		["reqReputation"] = 7,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -11711,19 +11002,8 @@ LibTextbookDB = {
 		["teachesSpell"] = 34896,--Cobalt War Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29231] = {--Alliance
-		["type"] = "MOUNT",
-		["teachesSpell"] = 34897,--White War Talbuk
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
@@ -11733,19 +11013,8 @@ LibTextbookDB = {
 		["teachesSpell"] = 34897,--White War Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29229] = {--Alliance
-		["type"] = "MOUNT",
-		["teachesSpell"] = 34898,--Silver War Talbuk
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
@@ -11755,19 +11024,8 @@ LibTextbookDB = {
 		["teachesSpell"] = 34898,--Silver War Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[29230] = {--Alliance
-		["type"] = "MOUNT",
-		["teachesSpell"] = 34899,--Tan War Talbuk
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
@@ -11777,21 +11035,71 @@ LibTextbookDB = {
 		["teachesSpell"] = 34899,--Tan War Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[29222] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 35018,--Purple Hawkstrider
+	[29213] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32498,--
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
+		["reqFaction"] = 946,
+		["reqReputation"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[29214] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32499,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 360,
+		},
+	[29215] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32500,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 360,
+		},
+	[29217] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32501,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 340,
+		},
+	[29218] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32503,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[29219] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32502,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 340,
 		},
 	[29220] = {--
 		["type"] = "MOUNT",
@@ -11813,13 +11121,23 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
+	[29222] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 35018,--Purple Hawkstrider
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
 	[29223] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35025,--Swift Green Hawkstrider
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -11829,19 +11147,72 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[34129] = {--
+	[29227] = {--Alliance
 		["type"] = "MOUNT",
-		["teachesSpell"] = 35028,--Swift Warstrider
+		["teachesSpell"] = 34896,--Cobalt War Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqFaction"] = 978,
+		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
+		},
+	[29228] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 34790,--Dark War Talbuk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29229] = {--Alliance
+		["type"] = "MOUNT",
+		["teachesSpell"] = 34898,--Silver War Talbuk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqFaction"] = 978,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29230] = {--Alliance
+		["type"] = "MOUNT",
+		["teachesSpell"] = 34899,--Tan War Talbuk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqFaction"] = 978,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29231] = {--Alliance
+		["type"] = "MOUNT",
+		["teachesSpell"] = 34897,--White War Talbuk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqFaction"] = 978,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29232] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 32766,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 5,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 350,
 		},
 	[29363] = {--
 		["type"] = "CRITTER",
@@ -11852,6 +11223,110 @@ LibTextbookDB = {
 		["type"] = "CRITTER",
 		["teachesSpell"] = 35239,--Brown Rabbit
 		["quality"] = 1,
+		},
+	[29465] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22719,--Black Battlestrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29466] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22718,--Black War Kodo
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29467] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22720,--Black War Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29468] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22717,--Black War Steed
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29469] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22724,--Black War Wolf
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29470] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22722,--Red Skeletal Warhorse
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29471] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22723,--Black War Tiger
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29472] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 22721,--Black War Raptor
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29549] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 25392,--Prayer of Fortitude (Rank 3)
+		["quality"] = 3,
+		["reqClasses"] = 32,
+		["reqLevel"] = 70,
+		},
+	[29550] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 27090,--Conjure Water (Rank 9)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 70,
+		},
+	[29664] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35530,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 941,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 325,
 		},
 	[29669] = {--
 		["type"] = "RECIPE",
@@ -11923,16 +11398,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[29691] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35528,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 932,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
 	[29689] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35529,--
@@ -11943,25 +11408,15 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 350,
 		},
-	[30444] = {--
+	[29691] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 35530,--
+		["teachesSpell"] = 35528,--
 		["quality"] = 1,
 		["binding"] = 1,
-		["reqFaction"] = 978,
-		["reqReputation"] = 5,
+		["reqFaction"] = 932,
+		["reqReputation"] = 6,
 		["reqSkill"] = 165,
-		["reqSkillLevel"] = 325,
-		},
-	[29664] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35530,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 941,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 325,
+		["reqSkillLevel"] = 350,
 		},
 	[29693] = {--
 		["type"] = "RECIPE",
@@ -12043,26 +11498,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 370,
 		},
-	[34174] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35539,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 941,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
-	[34175] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35539,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 978,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
 	[29714] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35539,--
@@ -12080,42 +11515,12 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[34172] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35544,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 941,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 345,
-		},
-	[34173] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35544,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 978,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 345,
-		},
 	[29718] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35544,--
 		["quality"] = 2,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 345,
-		},
-	[31361] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35549,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 335,
 		},
 	[29719] = {--
 		["type"] = "RECIPE",
@@ -12126,26 +11531,6 @@ LibTextbookDB = {
 		["reqReputation"] = 5,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 335,
-		},
-	[31362] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35554,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 7,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[29722] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35554,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 7,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
 		},
 	[29720] = {--
 		["type"] = "RECIPE",
@@ -12167,18 +11552,20 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
+	[29722] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35554,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 7,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
 	[29723] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35558,--
 		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35302] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35559,--
-		["quality"] = 4,
-		["binding"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
@@ -12200,14 +11587,6 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35561,--
 		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35303] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35562,--
-		["quality"] = 4,
-		["binding"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
@@ -12239,14 +11618,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[35300] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35568,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
 	[29731] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35568,--
@@ -12258,14 +11629,6 @@ LibTextbookDB = {
 		["type"] = "RECIPE",
 		["teachesSpell"] = 35572,--
 		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35301] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 35573,--
-		["quality"] = 4,
-		["binding"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
@@ -12283,16 +11646,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
 		},
-	[29744] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 35710,--Gray Elekk
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
 	[29743] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 35711,--Purple Elekk
@@ -12303,15 +11656,15 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[29746] = {--
+	[29744] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 35712,--Great Green Elekk
-		["quality"] = 4,
+		["teachesSpell"] = 35710,--Gray Elekk
+		["quality"] = 3,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 30,
 		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
+		["reqSkillLevel"] = 75,
 		},
 	[29745] = {--
 		["type"] = "MOUNT",
@@ -12319,7 +11672,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[29746] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 35712,--Great Green Elekk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -12329,7 +11692,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -12505,22 +11868,48 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 375,
 		},
-	[30483] = {--
+	[30360] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 24988,--Lurky
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[30443] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 36686,--
-		["quality"] = 1,
-		["reqSkill"] = 197,
+		["teachesSpell"] = 28568,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 6,
+		["reqSkill"] = 171,
 		["reqSkillLevel"] = 350,
+		},
+	[30444] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35530,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 325,
 		},
 	[30480] = {--Karazhan
 		["type"] = "MOUNT",
 		["teachesSpell"] = 36702,--Fiery Warhorse
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 70,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
+		},
+	[30483] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 36686,--
+		["quality"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 350,
 		},
 	[30609] = {--
 		["type"] = "MOUNT",
@@ -12581,6 +11970,86 @@ LibTextbookDB = {
 		["reqReputation"] = 7,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 370,
+		},
+	[31354] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 17635,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 935,
+		["reqReputation"] = 7,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 300,
+		},
+	[31355] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 17637,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 989,
+		["reqReputation"] = 7,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 300,
+		},
+	[31356] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 17636,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 942,
+		["reqReputation"] = 7,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 300,
+		},
+	[31357] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 17638,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 1011,
+		["reqReputation"] = 7,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 300,
+		},
+	[31358] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31080,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[31359] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28918,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 315,
+		},
+	[31361] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35549,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 335,
+		},
+	[31362] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35554,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 7,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
 		},
 	[31390] = {--
 		["type"] = "RECIPE",
@@ -12662,17 +12131,24 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[31675] = {--
+	[31501] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 33717,--Conjure Food (Rank 8)
+		["quality"] = 3,
+		["reqClasses"] = 256,
+		["reqLevel"] = 70,
+		},
+	[31674] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 38867,--
+		["teachesSpell"] = 38868,--
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 335,
 		},
-	[31674] = {--
+	[31675] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 38868,--
+		["teachesSpell"] = 38867,--
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqSkill"] = 185,
@@ -12686,14 +12162,6 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 335,
 		},
-	[31682] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 38961,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 360,
-		},
 	[31681] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 38962,--
@@ -12702,49 +12170,37 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 345,
 		},
+	[31682] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 38961,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 360,
+		},
 	[31760] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 39181,--Miniwing
 		["quality"] = 1,
 		["binding"] = 1,
 		},
-	[31830] = {--Alliance
-		["type"] = "MOUNT",
-		["teachesSpell"] = 39315,--Cobalt Riding Talbuk
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqFaction"] = 978,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
 	[31829] = {--Horde
 		["type"] = "MOUNT",
 		["teachesSpell"] = 39315,--Cobalt Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[28915] = {--
+	[31830] = {--Alliance
 		["type"] = "MOUNT",
-		["teachesSpell"] = 39316,--Dark Riding Talbuk
+		["teachesSpell"] = 39315,--Cobalt Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[31832] = {--Alliance
-		["type"] = "MOUNT",
-		["teachesSpell"] = 39317,--Silver Riding Talbuk
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
@@ -12755,18 +12211,18 @@ LibTextbookDB = {
 		["teachesSpell"] = 39317,--Silver Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31834] = {--Alliance
+	[31832] = {--Alliance
 		["type"] = "MOUNT",
-		["teachesSpell"] = 39318,--Tan Riding Talbuk
+		["teachesSpell"] = 39317,--Silver Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
@@ -12777,18 +12233,18 @@ LibTextbookDB = {
 		["teachesSpell"] = 39318,--Tan Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[31836] = {--Alliance
+	[31834] = {--Alliance
 		["type"] = "MOUNT",
-		["teachesSpell"] = 39319,--White Riding Talbuk
+		["teachesSpell"] = 39318,--Tan Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
@@ -12799,8 +12255,19 @@ LibTextbookDB = {
 		["teachesSpell"] = 39319,--White Riding Talbuk
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 941,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[31836] = {--Alliance
+		["type"] = "MOUNT",
+		["teachesSpell"] = 39319,--White Riding Talbuk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqFaction"] = 978,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
@@ -12819,13 +12286,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31875] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39452,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
 	[31871] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39455,--
@@ -12840,20 +12300,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
 		},
-	[31877] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39462,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[31876] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39463,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
 	[31873] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39466,--
@@ -12867,6 +12313,27 @@ LibTextbookDB = {
 		["quality"] = 2,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 325,
+		},
+	[31875] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39452,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[31876] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39463,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[31877] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39462,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
 		},
 	[31878] = {--
 		["type"] = "RECIPE",
@@ -12900,15 +12367,11 @@ LibTextbookDB = {
 		["reqSkill"] = 171,
 		["reqSkillLevel"] = 330,
 		},
-	[35244] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39705,--
-		["quality"] = 1,
+	[32233] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 39709,--Wolpertinger
+		["quality"] = 3,
 		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
 		},
 	[32274] = {--
 		["type"] = "RECIPE",
@@ -12916,16 +12379,6 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35246] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39706,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -12940,38 +12393,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[32233] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 39709,--Wolpertinger
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[35250] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39710,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32281] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39710,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35248] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39711,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -12986,32 +12413,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35245] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39712,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32283] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39712,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35249] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39713,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13026,31 +12433,11 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35247] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39714,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32285] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39714,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35263] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39715,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13060,16 +12447,6 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35264] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39716,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13084,16 +12461,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35262] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39717,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32288] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39717,--
@@ -13101,16 +12468,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 990,
 		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35265] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39718,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13122,32 +12479,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35255] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39719,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32290] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39719,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35260] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39720,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13162,16 +12499,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35259] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39721,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32292] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39721,--
@@ -13182,32 +12509,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35256] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39722,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32293] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39722,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35261] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39723,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 4,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13222,31 +12529,11 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35258] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39724,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32295] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39724,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35257] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39725,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13258,31 +12545,11 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35243] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39727,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32297] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39727,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35242] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39728,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13294,32 +12561,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35238] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39729,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39729,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35240] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39730,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 5,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13334,16 +12581,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35239] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39731,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32301] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39731,--
@@ -13351,16 +12588,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 990,
 		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35241] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39732,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 6,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13374,31 +12601,11 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35267] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39733,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32303] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39733,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35269] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39734,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13408,16 +12615,6 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35268] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39735,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 5,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13432,16 +12629,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35266] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39736,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32306] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39736,--
@@ -13449,16 +12636,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 990,
 		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35270] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39737,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -13470,32 +12647,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35271] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39738,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32308] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39738,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35252] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39739,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 6,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13510,16 +12667,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35254] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39740,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39740,--
@@ -13530,32 +12677,12 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35251] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39741,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[32311] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39741,--
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqFaction"] = 990,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35253] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39742,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
 		["reqReputation"] = 5,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
@@ -13582,9 +12709,9 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32317] = {--
+	[32316] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 39800,--Red Riding Nether Ray
+		["teachesSpell"] = 39801,--Purple Riding Nether Ray
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqLevel"] = 70,
@@ -13594,9 +12721,9 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[32316] = {--
+	[32317] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 39801,--Purple Riding Nether Ray
+		["teachesSpell"] = 39800,--Red Riding Nether Ray
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqLevel"] = 70,
@@ -13637,13 +12764,10 @@ LibTextbookDB = {
 		["reqSkill"] = 202,
 		["reqSkillLevel"] = 275,
 		},
-	[33622] = {--
+	[32411] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 39961,--
+		["teachesSpell"] = 39963,--
 		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 933,
-		["reqReputation"] = 7,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 365,
 		},
@@ -13658,16 +12782,19 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 365,
 		["note"] = "fake",
 		},
-	[32411] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 39963,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
 	[32429] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 39997,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1012,
+		["reqReputation"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 375,
+		},
+	[32430] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 52733,--
 		["quality"] = 1,
 		["binding"] = 1,
 		["reqFaction"] = 1012,
@@ -13848,16 +12975,16 @@ LibTextbookDB = {
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[32617] = {--
+	[32616] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 40613,--Willy
+		["teachesSpell"] = 40614,--Egbert
 		["quality"] = 3,
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[32616] = {--
+	[32617] = {--
 		["type"] = "CRITTER",
-		["teachesSpell"] = 40614,--Egbert
+		["teachesSpell"] = 40613,--Willy
 		["quality"] = 3,
 		["binding"] = 1,
 		["unique"] = 1,
@@ -13868,12 +12995,6 @@ LibTextbookDB = {
 		["quality"] = 3,
 		["binding"] = 1,
 		["unique"] = 1,
-		},
-	[40653] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 40990,--Stinker
-		["quality"] = 3,
-		["binding"] = 1,
 		},
 	[32736] = {--
 		["type"] = "RECIPE",
@@ -13994,6 +13115,2328 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 375,
+		},
+	[32768] = {--Sethekk Halls
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41252,--Raven Lord
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["unique"] = 1,
+		},
+	[32857] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41513,--Onyx Netherwing Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[32858] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41514,--Azure Netherwing Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[32859] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41515,--Cobalt Netherwing Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[32860] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41516,--Purple Netherwing Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[32861] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41517,--Veridian Netherwing Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[32862] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 41518,--Violet Netherwing Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[33124] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42546,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 967,
+		["reqReputation"] = 7,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 360,
+		},
+	[33147] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25084,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 7,
+		["note"] = "fake",
+		},
+	[33148] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25086,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1011,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[33149] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25083,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 942,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[33150] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25084,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[33151] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25084,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[33152] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25080,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 989,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[33153] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 25072,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 935,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 300,
+		},
+	[33154] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 42609,--Sinister Squashling
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[33155] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42588,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 935,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33156] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42589,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 933,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33157] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42590,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1011,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33158] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42591,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 989,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33159] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42592,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 935,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33160] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42593,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 989,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33165] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42620,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 967,
+		["reqReputation"] = 7,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 350,
+		},
+	[33174] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42662,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[33186] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42688,--
+		["quality"] = 2,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 335,
+		},
+	[33205] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42731,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqFaction"] = 967,
+		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[33209] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42736,--
+		["quality"] = 2,
+		["reqFaction"] = 967,
+		["reqReputation"] = 5,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 375,
+		},
+	[33224] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 42776,--Spectral Tiger
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[33225] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 42777,--Swift Spectral Tiger
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[33305] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42558,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 933,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 360,
+		},
+	[33307] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42974,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 375,
+		},
+	[33622] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39961,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 933,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[33783] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43493,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[33792] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43549,--
+		["quality"] = 2,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 35,
+		},
+	[33804] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43676,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 335,
+		},
+	[33809] = {--Zul'Aman
+		["type"] = "MOUNT",
+		["teachesSpell"] = 43688,--Amani War Bear
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["unique"] = 1,
+		},
+	[33816] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 43697,--Toothy
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[33818] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 43698,--Muckbreath
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[33869] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43761,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 300,
+		},
+	[33870] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43707,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 325,
+		},
+	[33871] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43758,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 300,
+		},
+	[33873] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43765,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 325,
+		},
+	[33875] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43772,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 300,
+		},
+	[33925] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43779,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 1,
+		},
+	[33954] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 43846,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[33976] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 43899,--Brewfest Ram
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[33977] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 43900,--Swift Brewfest Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[33993] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 43918,--Mojo
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[33999] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 43927,--Cenarion War Hippogryph
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqFaction"] = 942,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[34060] = {--Engineering 350
+		["type"] = "MOUNT",
+		["teachesSpell"] = 44153,--Flying Machine
+		["quality"] = 3,
+		["reqLevel"] = 60,
+		["reqSpell"] = 34090,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 350,
+		},
+	[34061] = {--Engineering 375
+		["type"] = "MOUNT",
+		["teachesSpell"] = 44151,--Turbo-Charged Flying Machine
+		["quality"] = 4,
+		["reqLevel"] = 70,
+		["reqSpell"] = 34091,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[34092] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 44744,--Merciless Nether Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[34109] = {--
+		["type"] = "OTHER",
+		["teachesSpell"] = 43308,--Find Fish
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 356,
+		["reqSkillLevel"] = 100,
+		},
+	[34114] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44391,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 360,
+		},
+	[34126] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44438,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 350,
+		["note"] = "beta",
+		},
+	[34129] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 35028,--Swift Warstrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[34172] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35544,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 941,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 345,
+		},
+	[34173] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35544,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 345,
+		},
+	[34174] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35539,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 941,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[34175] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35539,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 978,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[34200] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44359,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1011,
+		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[34201] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44768,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 947,
+		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[34218] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44768,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 946,
+		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 350,
+		},
+	[34221] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44794,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		["note"] = "removed",
+		},
+	[34261] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44950,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 250,
+		},
+	[34262] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44953,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 285,
+		},
+	[34319] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44958,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 250,
+		},
+	[34413] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45022,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 325,
+		},
+	[34425] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 54187,--Clockwork Rocket Bot
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[34478] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 45082,--Tiny Sporebat
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 970,
+		["reqReputation"] = 7,
+		},
+	[34491] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45117,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 360,
+		},
+	[34492] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 45125,--Rocket Chicken
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[34493] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 45127,--Dragon Kite
+		["quality"] = 4,
+		["binding"] = 1,
+		},
+	[34518] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 45174,--Golden Pig
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[34519] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 45175,--Silver Pig
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[34535] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10696,--Azure Whelpling
+		["quality"] = 1,
+		},
+	[34689] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44794,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[34834] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45695,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 100,
+		},
+	[34872] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45765,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 375,
+		},
+	[34955] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 45890,--Scorchling
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[35186] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46111,--
+		["quality"] = 4,
+		["reqClasses"] = 800,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35187] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46107,--
+		["quality"] = 4,
+		["reqClasses"] = 4,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35189] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46108,--
+		["quality"] = 4,
+		["reqClasses"] = 32,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35190] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46109,--
+		["quality"] = 4,
+		["reqClasses"] = 2048,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35191] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46106,--
+		["quality"] = 4,
+		["reqClasses"] = 2048,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35192] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46110,--
+		["quality"] = 4,
+		["reqClasses"] = 128,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35193] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46112,--
+		["quality"] = 4,
+		["reqClasses"] = 128,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35194] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46113,--
+		["quality"] = 4,
+		["reqClasses"] = 136,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35195] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46114,--
+		["quality"] = 4,
+		["reqClasses"] = 70,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35196] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46115,--
+		["quality"] = 4,
+		["reqClasses"] = 70,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35197] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46116,--
+		["quality"] = 4,
+		["reqClasses"] = 2064,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 375,
+		},
+	[35198] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46122,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[35199] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46123,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[35200] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46124,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[35201] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46125,--
+		["quality"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[35202] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46126,--
+		["quality"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[35203] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46127,--
+		["quality"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 365,
+		},
+	[35204] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46128,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[35205] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46129,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[35206] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46130,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[35207] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46131,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[35208] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46140,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[35209] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46141,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[35210] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46142,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[35211] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46144,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 365,
+		},
+	[35212] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46132,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35213] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46133,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35214] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46134,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35215] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46135,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35216] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46136,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35217] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46137,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35218] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46138,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35219] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46139,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35225] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 46197,--X-51 Nether-Rocket
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqLevel"] = 60,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 225,
+		["unique"] = 1,
+		},
+	[35226] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 46199,--X-51 Nether-Rocket X-TREME
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[35238] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39729,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35239] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39731,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35240] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39730,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35241] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39732,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35242] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39728,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35243] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39727,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35244] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39705,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35245] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39712,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35246] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39706,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35247] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39714,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35248] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39711,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35249] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39713,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35250] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39710,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35251] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39741,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35252] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39739,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35253] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39742,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35254] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39740,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35255] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39719,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35256] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39722,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35257] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39725,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35258] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39724,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35259] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39721,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35260] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39720,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35261] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39723,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35262] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39717,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35263] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39715,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35264] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39716,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35265] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39718,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35266] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39736,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35267] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39733,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35268] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39735,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35269] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39734,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35270] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39737,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35271] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 39738,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35273] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46353,--Smelt Hardened Khorium
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 186,
+		["reqSkillLevel"] = 375,
+		},
+	[35294] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28578,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 365,
+		},
+	[35295] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 28564,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 350,
+		},
+	[35296] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 42688,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 335,
+		["note"] = "fake",
+		},
+	[46758] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65640,--Swift Gray Steed
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqFaction"] = 72,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46759] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65638,--Swift Moonsaber
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqFaction"] = 69,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46760] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65644,--Swift Purple Raptor
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqFaction"] = 530,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46761] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65639,--Swift Red Hawkstrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqFaction"] = 911,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46762] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65643,--Swift Violet Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqFaction"] = 47,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46763] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65642,--Turbostrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqFaction"] = 54,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46764] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65645,--White Skeletal Warhorse
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqFaction"] = 68,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
+		},
+	[46767] = {--Mountain Dew Game Fuel promotion
+		["type"] = "CRITTER",
+		["teachesSpell"] = 65682,--Battle-Bot
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[46778] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65917,--Magic Rooster
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["unique"] = 1,
+		},
+	[44557] = {--Tailoring 450
+		["type"] = "MOUNT",
+		["teachesSpell"] = 60975,--Swift Ebonweave Carpet
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["unique"] = 1,
+		["note"] = "beta",
+		},
+	[39303] = {--Tailoring 420
+		["type"] = "MOUNT",
+		["teachesSpell"] = 52649,--Swift Flying Carpet
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 420,
+		["unique"] = 1,
+		["note"] = "beta",
+		},
+	[47179] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66906,--Argent Charger
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqClasses"] = 2,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[47180] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 67466,--Argent Warhorse
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46815] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66090,--Quel'dorei Steed
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46816] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66091,--Sunreaver Hawkstrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46814] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66088,--Sunreaver Dragonhawk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqFaction"] = 1124,
+		["reqReputation"] = 5,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[46813] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66087,--Silver Covenant Hippogryph
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqFaction"] = 1094,
+		["reqReputation"] = 5,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
+	[47101] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66846,--Ochre Skeletal Warhorse
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[47100] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 66847,--Striped Dawnsaber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 20,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[46802] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 66030,--Grunty
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[46545] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 65381,--Curious Oracle Hatchling
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[46544] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 65382,--Curious Wolvar Pup
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[48112] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67413,--Darting Hatchling
+		["quality"] = 1,
+		},
+	[48114] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67414,--Deviate Hatchling
+		["quality"] = 1,
+		},
+	[48116] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67415,--Gundrak Hatchling
+		["quality"] = 1,
+		},
+	[48118] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67416,--Leaping Hatchling
+		["quality"] = 1,
+		},
+	[48120] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67417,--Obsidian Hatchling
+		["quality"] = 1,
+		},
+	[48122] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67418,--Ravasaur Hatchling
+		["quality"] = 1,
+		},
+	[48124] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67419,--Razormaw Hatchling
+		["quality"] = 1,
+		},
+	[48126] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 67420,--Razzashi Hatchling
+		["quality"] = 1,
+		},
+	[46821] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 66096,--Shimmering Wyrmling
+		["quality"] = 3,
+		["reqFaction"] = 1124,
+		["reqReputation"] = 5,
+		},
+	[46820] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 66096,--Shimmering Wyrmling
+		["quality"] = 3,
+		["reqFaction"] = 1094,
+		["reqReputation"] = 5,
+		},
+	[47010] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66576,--Accurate Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46934] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66553,--Balanced Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46917] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66447,--Bold Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46919] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66449,--Bright Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46930] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66503,--Brilliant King's Amber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47015] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66579,--Champion's Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46900] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66430,--Dazzling Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46949] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66568,--Deadly Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46941] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66560,--Defender's Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47020] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66584,--Deft Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46918] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66448,--Delicate Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46952] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66571,--Durable Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47016] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66580,--Empowered Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46897] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66338,--Enduring Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46912] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66442,--Energized Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46953] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66572,--Etched Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47019] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66583,--Fierce Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46923] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66453,--Flashing Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46904] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66434,--Forceful Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46921] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66451,--Fractured Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47012] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66578,--Glimmering Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47008] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66575,--Glinting Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46936] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66555,--Glowing Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46942] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66561,--Guardian's Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46945] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66564,--Infused Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46948] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66567,--Inscribed Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46910] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66440,--Intricate Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46901] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66431,--Jagged Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46909] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66439,--Lambent Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47021] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66585,--Lucent Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46947] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66566,--Luminous Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46927] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66500,--Lustrous Majestic Zircon
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46905] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66435,--Misty Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46943] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66562,--Mysterious Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46932] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66505,--Mystic King's Amber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46914] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66444,--Opaque Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46950] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66569,--Potent Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46920] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66450,--Precise Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46956] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66573,--Pristine Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46944] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66563,--Puissant Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46937] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66556,--Purified Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46933] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66506,--Quick King's Amber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46911] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66441,--Radiant Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47007] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66574,--Reckless Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46940] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66559,--Regal Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47018] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66582,--Resplendent Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46928] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66501,--Rigid King's Amber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46939] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66558,--Royal Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46916] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66446,--Runed Cardinal Ruby
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46903] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66433,--Seer's Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46913] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66443,--Shattered Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46938] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66557,--Shifting Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46907] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66437,--Shining Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46929] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66502,--Smooth King's Amber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46924] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66497,--Solid Majestic Zircon
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46935] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66554,--Sovereign Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46925] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66498,--Sparkling Majestic Zircon
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47017] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66581,--Stalwart Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46898] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66428,--Steady Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[35297] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 34008,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[35298] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 27948,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 305,
+		},
+	[35299] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 34007,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[35300] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35568,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35301] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35573,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35302] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35559,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35303] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 35562,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 365,
+		},
+	[35304] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31092,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35305] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31088,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35306] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31089,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35307] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31098,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35308] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31434,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 350,
+		},
+	[35309] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 31442,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 365,
+		},
+	[35310] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30551,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 330,
+		},
+	[35311] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 30552,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 345,
+		},
+	[35322] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46403,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35323] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46404,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35325] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46405,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[35349] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 46425,--Snarly
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[35350] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 46426,--Chuck
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[35498] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46578,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 350,
+		},
+	[35500] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46594,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 5,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 360,
+		},
+	[35502] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46597,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[35504] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 46599,--Phoenix Hatchling
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[35505] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 46601,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[35513] = {--Magister's Terrace - Heroic
+		["type"] = "MOUNT",
+		["teachesSpell"] = 46628,--Swift White Hawkstrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["unique"] = 1,
 		},
 	[35517] = {--
 		["type"] = "RECIPE",
@@ -14123,913 +15566,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 375,
 		["note"] = "fake",
 		},
-	[32768] = {--Sethekk Halls
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41252,--Raven Lord
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["unique"] = 1,
-		},
-	[32857] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41513,--Onyx Netherwing Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[32858] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41514,--Azure Netherwing Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[32859] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41515,--Cobalt Netherwing Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[32860] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41516,--Purple Netherwing Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[32861] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41517,--Veridian Netherwing Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[32862] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 41518,--Violet Netherwing Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[33124] = {--
+	[35541] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 42546,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 967,
-		["reqReputation"] = 7,
+		["teachesSpell"] = 46133,--
+		["quality"] = 4,
 		["reqSkill"] = 165,
-		["reqSkillLevel"] = 360,
-		},
-	[33305] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42558,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 933,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33155] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42588,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 935,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33156] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42589,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 933,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33157] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42590,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1011,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33158] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42591,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 989,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33159] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42592,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 935,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33160] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42593,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 989,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 360,
-		},
-	[33154] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 42609,--Sinister Squashling
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[33165] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42620,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 967,
-		["reqReputation"] = 7,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 350,
-		},
-	[33174] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42662,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
-		},
-	[35296] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42688,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 335,
 		["note"] = "fake",
-		},
-	[33186] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42688,--
-		["quality"] = 2,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 335,
-		},
-	[33205] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42731,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqFaction"] = 967,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[33209] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42736,--
-		["quality"] = 2,
-		["reqFaction"] = 967,
-		["reqReputation"] = 5,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 375,
-		},
-	[33224] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 42776,--Spectral Tiger
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[33225] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 42777,--Swift Spectral Tiger
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[33307] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 42974,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 375,
-		},
-	[34109] = {--
-		["type"] = "OTHER",
-		["teachesSpell"] = 43308,--Find Fish
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 356,
-		["reqSkillLevel"] = 100,
-		},
-	[33783] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43493,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[33792] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43549,--
-		["quality"] = 2,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 35,
-		},
-	[33804] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43676,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 335,
-		},
-	[33809] = {--Zul'Aman
-		["type"] = "MOUNT",
-		["teachesSpell"] = 43688,--Amani War Bear
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["unique"] = 1,
-		},
-	[33816] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 43697,--Toothy
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[33818] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 43698,--Muckbreath
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[33870] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43707,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 325,
-		},
-	[33871] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43758,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 300,
-		},
-	[33869] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43761,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 300,
-		},
-	[33873] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43765,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 325,
-		},
-	[33875] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43772,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 300,
-		},
-	[33925] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43779,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 1,
-		},
-	[33954] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 43846,--
-		["quality"] = 4,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 365,
-		},
-	[33976] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 43899,--Brewfest Ram
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		},
-	[33977] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 43900,--Swift Brewfest Ram
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[33993] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 43918,--Mojo
-		["quality"] = 3,
-		["binding"] = 1,
-		["unique"] = 1,
-		},
-	[33999] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 43927,--Cenarion War Hippogryph
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqFaction"] = 942,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[34061] = {--Engineering 375
-		["type"] = "MOUNT",
-		["teachesSpell"] = 44151,--Turbo-Charged Flying Machine
-		["quality"] = 4,
-		["reqLevel"] = 70,
-		["reqSpell"] = 34091,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[34060] = {--Engineering 350
-		["type"] = "MOUNT",
-		["teachesSpell"] = 44153,--Flying Machine
-		["quality"] = 3,
-		["reqLevel"] = 70,
-		["reqSpell"] = 34090,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 350,
-		},
-	[34200] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44359,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1011,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
-	[34114] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44391,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 360,
-		},
-	[34126] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44438,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 350,
-		["note"] = "beta",
-		},
-	[37332] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44483,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 400,
-		},
-	[37333] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44494,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 400,
-		},
-	[37344] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44524,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 425,
-		},
-	[37331] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44556,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 400,
-		},
-	[44484] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44575,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 430,
-		},
-	[44494] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44576,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 425,
-		},
-	[37340] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44588,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 410,
-		},
-	[37334] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44590,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 400,
-		},
-	[37347] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44591,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 435,
-		},
-	[44473] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44595,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 430,
-		},
-	[37330] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44596,--
-		["quality"] = 2,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 400,
-		},
-	[37339] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44621,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 430,
-		},
-	[44485] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44625,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 435,
-		},
-	[37349] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44631,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
-		},
-	[34092] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 44744,--Merciless Nether Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[34218] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44768,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 946,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
-	[34201] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44768,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 947,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 350,
-		},
-	[34689] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44794,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[34221] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44794,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		["note"] = "removed",
-		},
-	[34261] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44950,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 250,
-		},
-	[34262] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44953,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 285,
-		},
-	[34319] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 44958,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 250,
-		},
-	[34413] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45022,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 325,
-		},
-	[34478] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 45082,--Tiny Sporebat
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 970,
-		["reqReputation"] = 7,
-		},
-	[34491] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45117,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 360,
-		},
-	[34492] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 45125,--Rocket Chicken
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[34493] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 45127,--Dragon Kite
-		["quality"] = 4,
-		["binding"] = 1,
-		},
-	[34518] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 45174,--Golden Pig
-		["quality"] = 3,
-		["binding"] = 1,
-		["unique"] = 1,
-		},
-	[34519] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 45175,--Silver Pig
-		["quality"] = 3,
-		["binding"] = 1,
-		["unique"] = 1,
-		},
-	[39152] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45546,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 400,
-		["note"] = "removed",
-		},
-	[39692] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45547,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 350,
-		["note"] = "beta",
-		},
-	[43018] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45555,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43019] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45556,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43020] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45557,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43021] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45558,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43022] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45559,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43023] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45567,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43024] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45568,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43026] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45570,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[43025] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45571,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 400,
-		},
-	[34834] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45695,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 100,
-		},
-	[34872] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 45765,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 375,
-		},
-	[34955] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 45890,--Scorchling
-		["quality"] = 3,
-		["binding"] = 1,
-		["unique"] = 1,
-		},
-	[35191] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46106,--
-		["quality"] = 4,
-		["reqClasses"] = 2048,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35187] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46107,--
-		["quality"] = 4,
-		["reqClasses"] = 4,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35189] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46108,--
-		["quality"] = 4,
-		["reqClasses"] = 32,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35190] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46109,--
-		["quality"] = 4,
-		["reqClasses"] = 2048,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35192] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46110,--
-		["quality"] = 4,
-		["reqClasses"] = 128,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35186] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46111,--
-		["quality"] = 4,
-		["reqClasses"] = 800,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35193] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46112,--
-		["quality"] = 4,
-		["reqClasses"] = 128,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35194] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46113,--
-		["quality"] = 4,
-		["reqClasses"] = 136,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35195] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46114,--
-		["quality"] = 4,
-		["reqClasses"] = 70,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35196] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46115,--
-		["quality"] = 4,
-		["reqClasses"] = 70,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35197] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46116,--
-		["quality"] = 4,
-		["reqClasses"] = 2064,
-		["reqSkill"] = 202,
-		["reqSkillLevel"] = 375,
-		},
-	[35198] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46122,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[35199] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46123,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[35200] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46124,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[35201] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46125,--
-		["quality"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[35202] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46126,--
-		["quality"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[35203] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46127,--
-		["quality"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 365,
-		},
-	[35204] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46128,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
 		},
 	[35544] = {--
 		["type"] = "RECIPE",
@@ -15039,20 +15582,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 365,
 		["note"] = "fake",
 		},
-	[35205] = {--
+	[35546] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 46129,--
+		["teachesSpell"] = 46132,--
 		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 197,
+		["reqSkill"] = 165,
 		["reqSkillLevel"] = 365,
-		},
-	[35206] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46130,--
-		["quality"] = 4,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
+		["note"] = "fake",
 		},
 	[35548] = {--
 		["type"] = "RECIPE",
@@ -15062,82 +15598,6 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 365,
 		["note"] = "fake",
 		},
-	[35207] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46131,--
-		["quality"] = 4,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 365,
-		},
-	[35546] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46132,--
-		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		["note"] = "fake",
-		},
-	[35212] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46132,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35541] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46133,--
-		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		["note"] = "fake",
-		},
-	[35213] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46133,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35214] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46134,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35215] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46135,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35216] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46136,--
-		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35217] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46137,--
-		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35218] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46138,--
-		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
 	[35549] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46139,--
@@ -15146,21 +15606,6 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 365,
 		["note"] = "fake",
 		},
-	[35219] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46139,--
-		["quality"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 365,
-		},
-	[35208] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46140,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 365,
-		},
 	[35553] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 46141,--
@@ -15168,153 +15613,6 @@ LibTextbookDB = {
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 365,
 		["note"] = "fake",
-		},
-	[35209] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46141,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 365,
-		},
-	[35210] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46142,--
-		["quality"] = 4,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 365,
-		},
-	[35211] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46144,--
-		["quality"] = 4,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 365,
-		},
-	[35225] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 46197,--X-51 Nether-Rocket
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 225,
-		["unique"] = 1,
-		},
-	[35226] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 46199,--X-51 Nether-Rocket X-TREME
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[35273] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46353,--Smelt Hardened Khorium
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 186,
-		["reqSkillLevel"] = 375,
-		},
-	[35322] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46403,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[35323] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46404,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[35325] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46405,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[35349] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 46425,--Snarly
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[35350] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 46426,--Chuck
-		["quality"] = 3,
-		["binding"] = 1,
-		},
-	[35498] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46578,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 350,
-		},
-	[35500] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46594,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 5,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 360,
-		},
-	[35502] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46597,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[35504] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 46599,--Phoenix Hatchling
-		["quality"] = 3,
-		["binding"] = 1,
-		["unique"] = 1,
-		},
-	[35505] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 46601,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[35513] = {--Magister's Terrace - Heroic
-		["type"] = "MOUNT",
-		["teachesSpell"] = 46628,--Swift White Hawkstrider
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["unique"] = 1,
 		},
 	[35564] = {--
 		["type"] = "RECIPE",
@@ -15446,13 +15744,33 @@ LibTextbookDB = {
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 375,
 		},
-	[35769] = {--
+	[35762] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 47053,--
+		["teachesSpell"] = 47055,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqFaction"] = 1077,
-		["reqReputation"] = 6,
+		["reqFaction"] = 990,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35763] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47056,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqFaction"] = 990,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 375,
+		},
+	[35764] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47054,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqFaction"] = 990,
+		["reqReputation"] = 5,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -15476,16 +15794,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35764] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 47054,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqFaction"] = 990,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
 	[35767] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 47055,--
@@ -15493,16 +15801,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 1077,
 		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 375,
-		},
-	[35762] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 47055,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqFaction"] = 990,
-		["reqReputation"] = 5,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
@@ -15516,47 +15814,25 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[35763] = {--
+	[35769] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 47056,--
+		["teachesSpell"] = 47053,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqFaction"] = 990,
-		["reqReputation"] = 5,
+		["reqFaction"] = 1077,
+		["reqReputation"] = 6,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 375,
 		},
-	[44471] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 47672,--
-		["quality"] = 2,
+	[35906] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 48027,--Black War Elekk
+		["quality"] = 4,
 		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 430,
-		},
-	[44472] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 47898,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 430,
-		},
-	[44488] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 47899,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
-		},
-	[44491] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 47901,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
 		},
 	[36955] = {--
 		["type"] = "BOOK",
@@ -15566,7 +15842,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 78,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[36959] = {--
 		["type"] = "BOOK",
@@ -15586,7 +15861,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 76,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[36964] = {--
 		["type"] = "BOOK",
@@ -15596,7 +15870,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 72,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[36965] = {--
 		["type"] = "BOOK",
@@ -15606,7 +15879,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 79,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[36966] = {--
 		["type"] = "BOOK",
@@ -15616,7 +15888,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 73,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[36967] = {--
 		["type"] = "BOOK",
@@ -15626,7 +15897,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 78,
 		["unique"] = 1,
-		["note"] = "removed",
 		},
 	[36968] = {--
 		["type"] = "BOOK",
@@ -15636,7 +15906,6 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 75,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[36970] = {--
 		["type"] = "BOOK",
@@ -15646,26 +15915,15 @@ LibTextbookDB = {
 		["reqClasses"] = 512,
 		["reqLevel"] = 80,
 		["unique"] = 1,
-		["note"] = "fake",
 		},
 	[37012] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 48025,--Headless Horseman's Mount
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
-		},
-	[35906] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 48027,--Black War Elekk
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
 		},
 	[37297] = {--
 		["type"] = "CRITTER",
@@ -15680,6 +15938,81 @@ LibTextbookDB = {
 		["quality"] = 3,
 		["binding"] = 1,
 		["unique"] = 1,
+		},
+	[37330] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44596,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		},
+	[37331] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44556,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		},
+	[37332] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44483,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		},
+	[37333] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44494,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		},
+	[37334] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44590,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		},
+	[37339] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44621,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 430,
+		},
+	[37340] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44588,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 410,
+		},
+	[37344] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44524,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 425,
+		},
+	[37347] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44591,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 435,
+		},
+	[37349] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44631,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
 		},
 	[37504] = {--
 		["type"] = "RECIPE",
@@ -15706,17 +16039,27 @@ LibTextbookDB = {
 		["teachesSpell"] = 49322,--Swift Zhevra
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
+		},
+	[37827] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 50869,--Brewfest Kodo
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["note"] = "fake",
 		},
 	[37828] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 49379,--Great Brewfest Kodo
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -15757,42 +16100,12 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 245,
 		},
-	[37827] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 50869,--Brewfest Kodo
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
-		["note"] = "fake",
-		},
-	[44509] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 50970,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1073,
-		["reqReputation"] = 6,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 415,
-		},
-	[44510] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 50971,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1119,
-		["reqReputation"] = 5,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 415,
-		},
 	[38576] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 51412,--Big Battle Bear
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
@@ -15805,36 +16118,35 @@ LibTextbookDB = {
 		["reqFaction"] = 1031,
 		["reqReputation"] = 7,
 		},
-	[39153] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 51801,--
-		["quality"] = 2,
-		["binding"] = 0,
-		["reqSkill"] = 129,
-		["reqSkillLevel"] = 450,
-		["note"] = "fake",
-		},
 	[38658] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 51851,--Vampiric Batling
 		["quality"] = 3,
 		["binding"] = 1,
 		},
+	[39152] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45546,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 400,
+		["note"] = "removed",
+		},
+	[39153] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 51801,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 129,
+		["reqSkillLevel"] = 450,
+		["note"] = "fake",
+		},
 	[39286] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 52615,--Frosty
 		["quality"] = 3,
 		["binding"] = 6,
-		},
-	[32430] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 52733,--
-		["quality"] = 1,
-		["binding"] = 1,
-		["reqFaction"] = 1012,
-		["reqReputation"] = 4,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 375,
 		},
 	[39644] = {--
 		["type"] = "RECIPE",
@@ -15850,19 +16162,93 @@ LibTextbookDB = {
 		["quality"] = 3,
 		["binding"] = 6,
 		},
+	[39692] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45547,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 350,
+		["note"] = "beta",
+		},
+	[39896] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 61348,--Tickbird Hatchling
+		["quality"] = 1,
+		},
+	[39898] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 61351,--Cobra Hatchling
+		["quality"] = 1,
+		},
+	[39899] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 61349,--White Tickbird Hatchling
+		["quality"] = 1,
+		},
 	[39973] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 53316,--Ghostly Skull
 		["quality"] = 3,
 		["binding"] = 1,
 		},
-	[41576] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53830,--
+	[40653] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 40990,--Stinker
 		["quality"] = 3,
 		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
+		},
+	[40775] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 54729,--Winged Steed of the Ebon Blade
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqClasses"] = 64,
+		["reqLevel"] = 60,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 225,
+		["unique"] = 1,
+		},
+	[41120] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54980,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 375,
+		},
+	[41122] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54981,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 375,
+		},
+	[41123] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54979,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 375,
+		},
+	[41124] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54978,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 375,
+		},
+	[41508] = {--Engineering, Horde
+		["type"] = "MOUNT",
+		["teachesSpell"] = 55531,--Mechano-hog
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
 		},
 	[41559] = {--
 		["type"] = "RECIPE",
@@ -15872,53 +16258,9 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41575] = {--
+	[41560] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 53865,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[41574] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53869,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 1073,
-		["reqReputation"] = 5,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[41566] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53875,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[41562] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53877,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqFaction"] = 1098,
-		["reqReputation"] = 4,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[41565] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53879,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[41563] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53884,--
+		["teachesSpell"] = 53943,--
 		["quality"] = 2,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -15934,9 +16276,43 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
+	[41562] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53877,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 1098,
+		["reqReputation"] = 4,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[41563] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53884,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
 	[41564] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53888,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[41565] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53879,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[41566] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53875,--
 		["quality"] = 2,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -15952,14 +16328,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41572] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53919,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
 	[41568] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53921,--
@@ -15970,17 +16338,9 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41571] = {--
+	[41569] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 53924,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 350,
-		},
-	[41573] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53929,--
+		["teachesSpell"] = 53933,--
 		["quality"] = 2,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -15994,61 +16354,55 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[41569] = {--
+	[41571] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 53933,--
+		["teachesSpell"] = 53924,--
 		["quality"] = 2,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
 		},
-	[44564] = {--
+	[41572] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 53936,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 400,
-		},
-	[44566] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53937,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 400,
-		},
-	[44568] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53938,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 400,
-		},
-	[44565] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53939,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 400,
-		},
-	[44567] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53942,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 171,
-		["reqSkillLevel"] = 400,
-		},
-	[41560] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53943,--
+		["teachesSpell"] = 53919,--
 		["quality"] = 2,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 350,
+		},
+	[41573] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53929,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[41574] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53869,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqFaction"] = 1073,
+		["reqReputation"] = 5,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[41575] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53865,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 350,
+		},
+	[41576] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53830,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
 		},
 	[41577] = {--
 		["type"] = "RECIPE",
@@ -16057,6 +16411,230 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
+		},
+	[41578] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53949,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41579] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53961,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41580] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53958,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41581] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53954,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41582] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53980,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41686] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53984,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41687] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53991,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41688] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53985,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41689] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53983,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41690] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53987,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41692] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54011,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41693] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54001,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41694] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54006,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41696] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54009,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41697] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53998,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41698] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53997,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41699] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54002,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41701] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53967,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41702] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53973,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41703] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53971,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41704] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55389,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41705] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55384,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41706] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55392,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41707] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55407,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41708] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55396,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41709] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55404,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41710] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55400,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41711] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55403,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
 		},
 	[41718] = {--
 		["type"] = "RECIPE",
@@ -16076,54 +16654,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41578] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53949,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41817] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53950,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41790] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53951,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[42138] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53952,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41581] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53954,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41728] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53955,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
 	[41720] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53957,--
@@ -16131,236 +16661,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 1119,
 		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41580] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53958,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41791] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53959,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41727] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53960,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41579] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53961,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41784] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53962,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41747] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53963,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41785] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53964,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41725] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53965,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1098,
-		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41783] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53966,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41701] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53967,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41740] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53968,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41796] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53970,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41703] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53971,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41820] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53972,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41702] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53973,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41726] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53974,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1106,
-		["reqReputation"] = 6,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41789] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53975,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41777] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53976,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41780] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53977,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41734] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53978,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41794] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53979,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41582] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53980,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41733] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53981,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41792] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53982,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41689] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53983,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41686] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53984,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41688] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53985,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41730] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53986,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41690] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53987,--
-		["quality"] = 3,
-		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
@@ -16374,29 +16674,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41732] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53990,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41687] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53991,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41779] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53992,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
 	[41722] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 53993,--
@@ -16404,22 +16681,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 1091,
 		["reqReputation"] = 7,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41818] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53994,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41795] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53995,--
-		["quality"] = 3,
-		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
@@ -16433,76 +16694,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41698] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53997,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41697] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 53998,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41738] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54000,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41693] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54001,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41699] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54002,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41781] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54003,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41782] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54004,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41737] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54005,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
-	[41694] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54006,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 390,
-		},
 	[41724] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 54008,--
@@ -16513,41 +16704,69 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41696] = {--
+	[41725] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54009,--
+		["teachesSpell"] = 53965,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1098,
+		["reqReputation"] = 7,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41726] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53974,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1106,
+		["reqReputation"] = 6,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41727] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53960,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41739] = {--
+	[41728] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54010,--
+		["teachesSpell"] = 53955,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41692] = {--
+	[41730] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54011,--
+		["teachesSpell"] = 53986,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41819] = {--
+	[41732] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54012,--
+		["teachesSpell"] = 53990,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41736] = {--
+	[41733] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54013,--
+		["teachesSpell"] = 53981,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41734] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53978,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -16561,82 +16780,49 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41793] = {--
+	[41736] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54019,--
+		["teachesSpell"] = 54013,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[41778] = {--
+	[41737] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54023,--
+		["teachesSpell"] = 54005,--
 		["quality"] = 3,
+		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 390,
 		},
-	[34425] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 54187,--Clockwork Rocket Bot
+	[41738] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54000,--
 		["quality"] = 3,
 		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
 		},
-	[40775] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 54729,--Winged Steed of the Ebon Blade
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqClasses"] = 64,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 225,
-		["unique"] = 1,
-		},
-	[43962] = {--Quest - Hyldnir Spoils
-		["type"] = "MOUNT",
-		["teachesSpell"] = 54753,--White Polar Bear Mount
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[41124] = {--
+	[41739] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54978,--
-		["quality"] = 2,
+		["teachesSpell"] = 54010,--
+		["quality"] = 3,
 		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 375,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
 		},
-	[41123] = {--
+	[41740] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54979,--
-		["quality"] = 2,
+		["teachesSpell"] = 53968,--
+		["quality"] = 3,
 		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 375,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
 		},
-	[41120] = {--
+	[41742] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 54980,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 375,
-		},
-	[41122] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 54981,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 375,
-		},
-	[41705] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 55384,--
+		["teachesSpell"] = 55393,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -16658,34 +16844,81 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41704] = {--
+	[41747] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55389,--
+		["teachesSpell"] = 53963,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
+		["reqSkillLevel"] = 390,
+		},
+	[41777] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53976,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41778] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54023,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41779] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53992,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41780] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53977,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41781] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54003,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41782] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54004,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41783] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53966,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41784] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53962,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41785] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53964,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
 		},
 	[41786] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 55390,--
 		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
-		},
-	[41706] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 55392,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
-		},
-	[41742] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 55393,--
-		["quality"] = 3,
-		["binding"] = 1,
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
@@ -16696,9 +16929,79 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41708] = {--
+	[41788] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55396,--
+		["teachesSpell"] = 55405,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 420,
+		},
+	[41789] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53975,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41790] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53951,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41791] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53959,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41792] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53982,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41793] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 54019,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41794] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53979,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41795] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53995,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41796] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53970,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 390,
+		},
+	[41797] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 55401,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -16720,61 +17023,45 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
-	[41710] = {--
+	[41817] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55400,--
+		["teachesSpell"] = 53950,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
+		["reqSkillLevel"] = 390,
 		},
-	[41797] = {--
+	[41818] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55401,--
+		["teachesSpell"] = 53994,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
+		["reqSkillLevel"] = 390,
 		},
-	[41711] = {--
+	[41819] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55403,--
+		["teachesSpell"] = 54012,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
+		["reqSkillLevel"] = 390,
 		},
-	[41709] = {--
+	[41820] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55404,--
+		["teachesSpell"] = 53972,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
+		["reqSkillLevel"] = 390,
 		},
-	[41788] = {--
+	[42138] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55405,--
-		["quality"] = 3,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
-		},
-	[41707] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 55407,--
+		["teachesSpell"] = 53952,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
-		["reqSkillLevel"] = 420,
-		},
-	[41508] = {--Engineering, Horde
-		["type"] = "MOUNT",
-		["teachesSpell"] = 55531,--Mechano-hog
-		["quality"] = 4,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 80,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
+		["reqSkillLevel"] = 390,
 		},
 	[42172] = {--
 		["type"] = "RECIPE",
@@ -16797,16 +17084,16 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42177] = {--
+	[42176] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55997,--
+		["teachesSpell"] = 55998,--
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
 		},
-	[42176] = {--
+	[42177] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 55998,--
+		["teachesSpell"] = 55997,--
 		["quality"] = 2,
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 400,
@@ -16876,22 +17163,6 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42301] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 56052,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[42309] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 56053,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
 	[42299] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56054,--
@@ -16900,9 +17171,17 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
-	[42314] = {--
+	[42300] = {--
 		["type"] = "RECIPE",
-		["teachesSpell"] = 56055,--
+		["teachesSpell"] = 56074,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[42301] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 56052,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -16911,14 +17190,6 @@ LibTextbookDB = {
 	[42302] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56056,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 755,
-		["reqSkillLevel"] = 370,
-		},
-	[42300] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 56074,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -16972,6 +17243,14 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 370,
 		},
+	[42309] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 56053,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
 	[42310] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56085,--
@@ -16999,6 +17278,14 @@ LibTextbookDB = {
 	[42313] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 56088,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 370,
+		},
+	[42314] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 56055,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqSkill"] = 755,
@@ -17067,6 +17354,78 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 450,
+		},
+	[43018] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45555,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43019] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45556,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43020] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45557,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43021] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45558,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43022] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45559,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43023] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45567,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43024] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45568,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43025] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45571,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
+		},
+	[43026] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 45570,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 400,
 		},
 	[43027] = {--
 		["type"] = "RECIPE",
@@ -17156,46 +17515,6 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
-	[44559] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 57692,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 400,
-		},
-	[44560] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 57694,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 400,
-		},
-	[44561] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 57696,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 400,
-		},
-	[44562] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 57699,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 400,
-		},
-	[44563] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 57701,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 165,
-		["reqSkillLevel"] = 400,
-		},
 	[43317] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58147,--
@@ -17244,6 +17563,22 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 420,
 		},
+	[43505] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 58527,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 425,
+		},
+	[43506] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 58528,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 425,
+		},
 	[43507] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 58512,--
@@ -17275,22 +17610,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 350,
-		},
-	[43505] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 58527,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 425,
-		},
-	[43506] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 58528,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 185,
-		["reqSkillLevel"] = 425,
 		},
 	[43516] = {--
 		["type"] = "MOUNT",
@@ -17333,6 +17652,16 @@ LibTextbookDB = {
 		["reqSkill"] = 197,
 		["reqSkillLevel"] = 325,
 		},
+	[43951] = {--Stratholme - heroic
+		["type"] = "MOUNT",
+		["teachesSpell"] = 59569,--Bronze Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
 	[43952] = {--25-man Malygos
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59567,--Azure Drake
@@ -17353,9 +17682,9 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43951] = {--Stratholme - heroic
+	[43954] = {--25-man Sartharion
 		["type"] = "MOUNT",
-		["teachesSpell"] = 59569,--Bronze Drake
+		["teachesSpell"] = 59571,--Twilight Drake
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqLevel"] = 70,
@@ -17375,59 +17704,78 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43954] = {--25-man Sartharion
+	[43956] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 59571,--Twilight Drake
+		["teachesSpell"] = 59785,--Black War Mammoth
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
-	[43964] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 59572,--Black Polar Bear
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
-		["note"] = "fake",
+		},
+	[43958] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 59799,--Ice Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqFaction"] = 1119,
+		["reqReputation"] = 6,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[43959] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61465,--Grand Black War Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[43961] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61470,--Grand Ice Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqFaction"] = 1119,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[43962] = {--Quest - Hyldnir Spoils
+		["type"] = "MOUNT",
+		["teachesSpell"] = 54753,--White Polar Bear Mount
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
 		},
 	[43963] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59573,--Brown Polar Bear
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[44496] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 59619,--
-		["quality"] = 3,
+	[43964] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 59572,--Black Polar Bear
+		["quality"] = 4,
 		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
-		},
-	[44492] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 59621,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
-		},
-	[44495] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 59625,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["note"] = "fake",
 		},
 	[43986] = {--10-man Sartharion
 		["type"] = "MOUNT",
@@ -17439,43 +17787,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[43956] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 59785,--Black War Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
 	[44077] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 59788,--Black War Mammoth
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44230] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 59791,--Wooly Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44231] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 59793,--Wooly Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -17485,23 +17803,43 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 1119,
 		["reqReputation"] = 6,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[43958] = {--
+	[44083] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 59799,--Ice Mammoth
+		["teachesSpell"] = 61467,--Grand Black War Mammoth
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 1119,
-		["reqReputation"] = 6,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
+		},
+	[44086] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61469,--Grand Ice Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqFaction"] = 1119,
+		["reqReputation"] = 7,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44151] = {--Utgarde Pinnacle - heroic
+		["type"] = "MOUNT",
+		["teachesSpell"] = 59996,--Blue Proto-Drake
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
 		},
 	[44160] = {--Glory of the Hero
 		["type"] = "MOUNT",
@@ -17523,22 +17861,12 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44151] = {--Utgarde Pinnacle - heroic
-		["type"] = "MOUNT",
-		["teachesSpell"] = 59996,--Blue Proto-Drake
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 80,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
-		},
 	[44168] = {--sturmgipfel
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60002,--Time-Lost Proto-Drake
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 80,
+		["reqLevel"] = 70,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
@@ -17573,33 +17901,13 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44225] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 60114,--Armored Brown Bear
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44226] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 60116,--Armored Brown Bear
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
 	[44223] = {--For The Alliance!
 		["type"] = "MOUNT",
 		["teachesSpell"] = 60118,--Black War Bear
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -17609,7 +17917,67 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44225] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 60114,--Armored Brown Bear
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44226] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 60116,--Armored Brown Bear
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44230] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 59791,--Wooly Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44231] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 59793,--Wooly Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44234] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61447,--Traveler's Tundra Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[44235] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61425,--Traveler's Tundra Mammoth
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -17618,9 +17986,185 @@ LibTextbookDB = {
 		["teachesSpell"] = 60424,--Mekgineer's Chopper
 		["quality"] = 4,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 80,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
+		},
+	[44471] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47672,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 430,
+		},
+	[44472] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47898,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 430,
+		},
+	[44473] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44595,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 430,
+		},
+	[44483] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60691,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 430,
+		},
+	[44484] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44575,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 430,
+		},
+	[44485] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44625,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 435,
+		},
+	[44486] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60707,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 435,
+		},
+	[44487] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60714,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 435,
+		},
+	[44488] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47899,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44489] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60692,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44490] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60763,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44491] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47901,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44492] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 59621,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44494] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44576,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 425,
+		},
+	[44495] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 59625,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44496] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 59619,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44498] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60767,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 440,
+		},
+	[44502] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60866,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqFaction"] = 1052,
+		["reqReputation"] = 7,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 450,
+		},
+	[44503] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 60867,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqFaction"] = 1037,
+		["reqReputation"] = 7,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 450,
+		},
+	[44509] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 50970,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1073,
+		["reqReputation"] = 6,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 415,
+		},
+	[44510] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 50971,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1119,
+		["reqReputation"] = 5,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 415,
 		},
 	[44511] = {--
 		["type"] = "RECIPE",
@@ -17641,22 +18185,6 @@ LibTextbookDB = {
 		["reqReputation"] = 5,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 415,
-		},
-	[44483] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60691,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 430,
-		},
-	[44489] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60692,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
 		},
 	[44513] = {--
 		["type"] = "RECIPE",
@@ -17706,14 +18234,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
 		},
-	[44486] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60707,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 435,
-		},
 	[44519] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 60711,--
@@ -17729,14 +18249,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 425,
-		},
-	[44487] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60714,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 435,
 		},
 	[44521] = {--
 		["type"] = "RECIPE",
@@ -17994,41 +18506,126 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44490] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60763,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
+	[44554] = {--Tailoring 410
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61451,--Flying Carpet
+		["quality"] = 3,
+		["reqLevel"] = 60,
+		["reqSpell"] = 34090,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 410,
 		},
-	[44498] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60767,--
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 440,
-		},
-	[44502] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60866,--
+	[44555] = {--Tailoring 450
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61442,--Swift Mooncloth Carpet
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqFaction"] = 1052,
-		["reqReputation"] = 7,
-		["reqSkill"] = 202,
+		["reqLevel"] = 70,
+		["reqSkill"] = 197,
 		["reqSkillLevel"] = 450,
+		["unique"] = 1,
+		["note"] = "beta",
 		},
-	[44503] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 60867,--
+	[44556] = {--Tailoring 450
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61446,--Swift Spellfire Carpet
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqFaction"] = 1037,
-		["reqReputation"] = 7,
-		["reqSkill"] = 202,
+		["reqLevel"] = 70,
+		["reqSkill"] = 197,
 		["reqSkillLevel"] = 450,
+		["unique"] = 1,
+		["note"] = "beta",
+		},
+	[44558] = {--Tailoring 425
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61309,--Magnificent Flying Carpet
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSpell"] = 34091,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 425,
+		},
+	[44559] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 57692,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 400,
+		},
+	[44560] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 57694,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 400,
+		},
+	[44561] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 57696,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 400,
+		},
+	[44562] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 57699,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 400,
+		},
+	[44563] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 57701,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 400,
+		},
+	[44564] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53936,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 400,
+		},
+	[44565] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53939,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 400,
+		},
+	[44566] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53937,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 400,
+		},
+	[44567] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53942,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 400,
+		},
+	[44568] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 53938,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 400,
 		},
 	[44584] = {--
 		["type"] = "RECIPE",
@@ -18078,14 +18675,6 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 420,
 		},
-	[44602] = {--
-		["type"] = "BOOK",
-		["teachesSpell"] = 61024,--Dalaran Intellect (Rank 7)
-		["quality"] = 2,
-		["reqClasses"] = 256,
-		["reqLevel"] = 80,
-		["reqSpell"] = 27126,
-		},
 	[44600] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61025,--Polymorph (Serpent)
@@ -18094,6 +18683,14 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		["note"] = "fake",
+		},
+	[44602] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 61024,--Dalaran Intellect (Rank 7)
+		["quality"] = 2,
+		["reqClasses"] = 256,
+		["reqLevel"] = 80,
+		["reqSpell"] = 27126,
 		},
 	[44689] = {--
 		["type"] = "MOUNT",
@@ -18120,7 +18717,7 @@ LibTextbookDB = {
 		["teachesSpell"] = 61294,--Green Proto-Drake
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqLevel"] = 80,
+		["reqLevel"] = 70,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
@@ -18132,16 +18729,6 @@ LibTextbookDB = {
 		["reqClasses"] = 256,
 		["reqLevel"] = 60,
 		},
-	[44558] = {--Tailoring 425
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61309,--Magnificent Flying Carpet
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSpell"] = 34091,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 425,
-		},
 	[44714] = {--
 		["type"] = "BOOK",
 		["teachesSpell"] = 61316,--Dalaran Brilliance (Rank 3)
@@ -18150,24 +18737,9 @@ LibTextbookDB = {
 		["reqLevel"] = 80,
 		["reqSpell"] = 27127,
 		},
-	[39896] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 61348,--Tickbird Hatchling
-		["quality"] = 1,
-		},
-	[39899] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 61349,--White Tickbird Hatchling
-		["quality"] = 1,
-		},
 	[44721] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 61350,--Proto-Drake Whelp
-		["quality"] = 1,
-		},
-	[39898] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 61351,--Cobra Hatchling
 		["quality"] = 1,
 		},
 	[44723] = {--
@@ -18177,99 +18749,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqFaction"] = 1073,
 		["reqReputation"] = 7,
-		},
-	[44235] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61425,--Traveler's Tundra Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44555] = {--Tailoring 450
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61442,--Swift Mooncloth Carpet
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 450,
-		["unique"] = 1,
-		},
-	[44556] = {--Tailoring 450
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61446,--Swift Spellfire Carpet
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 450,
-		["unique"] = 1,
-		},
-	[44234] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61447,--Traveler's Tundra Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44554] = {--Tailoring 410
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61451,--Flying Carpet
-		["quality"] = 3,
-		["reqLevel"] = 70,
-		["reqSpell"] = 34090,
-		["reqSkill"] = 197,
-		["reqSkillLevel"] = 410,
-		},
-	[43959] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61465,--Grand Black War Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44083] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61467,--Grand Black War Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[44086] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61469,--Grand Ice Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqFaction"] = 1119,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[43961] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61470,--Grand Ice Mammoth
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 1119,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
 		},
 	[44738] = {--
 		["type"] = "CRITTER",
@@ -18305,6 +18784,16 @@ LibTextbookDB = {
 		["quality"] = 3,
 		["binding"] = 1,
 		},
+	[44842] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 61997,--Red Dragonhawk
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["unique"] = 1,
+		},
 	[44843] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 61996,--Blue Dragonhawk
@@ -18315,15 +18804,37 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[44842] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 61997,--Red Dragonhawk
-		["quality"] = 4,
+	[44916] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26403,--
+		["quality"] = 2,
 		["binding"] = 1,
-		["reqLevel"] = 70,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 300,
-		["unique"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 250,
+		},
+	[44917] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26407,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 250,
+		},
+	[44918] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26443,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 275,
+		},
+	[44919] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 26442,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 225,
 		},
 	[44932] = {--
 		["type"] = "RECIPE",
@@ -18341,22 +18852,22 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 440,
 		},
-	[44938] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 62202,--
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqFaction"] = 1052,
-		["reqReputation"] = 7,
-		["reqSkill"] = 164,
-		["reqSkillLevel"] = 450,
-		},
 	[44937] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 62202,--
 		["quality"] = 3,
 		["binding"] = 1,
 		["reqFaction"] = 1037,
+		["reqReputation"] = 7,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[44938] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 62202,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqFaction"] = 1052,
 		["reqReputation"] = 7,
 		["reqSkill"] = 164,
 		["reqSkillLevel"] = 450,
@@ -18386,6 +18897,14 @@ LibTextbookDB = {
 		["reqSkill"] = 185,
 		["reqSkillLevel"] = 400,
 		},
+	[44956] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 22967,--Smelt Elementium
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 186,
+		["reqSkillLevel"] = 300,
+		},
 	[44965] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62491,--Teldrassil Sproutling
@@ -18411,9 +18930,22 @@ LibTextbookDB = {
 		["teachesSpell"] = 62516,--Elwynn Lamb
 		["quality"] = 3,
 		},
+	[44977] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 6417,--
+		["quality"] = 1,
+		["binding"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 90,
+		},
 	[44980] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62542,--Mulgore Hatchling
+		["quality"] = 3,
+		},
+	[44982] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 62564,--Enchanted Broom
 		["quality"] = 3,
 		},
 	[44983] = {--
@@ -18425,11 +18957,6 @@ LibTextbookDB = {
 	[44984] = {--
 		["type"] = "CRITTER",
 		["teachesSpell"] = 62562,--Ammen Vale Lashling
-		["quality"] = 3,
-		},
-	[44982] = {--
-		["type"] = "CRITTER",
-		["teachesSpell"] = 62564,--Enchanted Broom
 		["quality"] = 3,
 		},
 	[44998] = {--
@@ -18448,6 +18975,15 @@ LibTextbookDB = {
 		["teachesSpell"] = 62746,--Argent Gruntling
 		["quality"] = 3,
 		["binding"] = 1,
+		},
+	[45050] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 15596,--
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 265,
+		["note"] = "beta",
 		},
 	[45059] = {--
 		["type"] = "RECIPE",
@@ -18589,7 +19125,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18600,33 +19136,13 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["unique"] = 1,
 		},
-	[45593] = {--formerly Swift Darkspear Raptor
-		["type"] = "MOUNT",
-		["teachesSpell"] = 63635,--Darkspear Raptor
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
 	[45586] = {--formerly Swift Ironforge Ram
 		["type"] = "MOUNT",
 		["teachesSpell"] = 63636,--Ironforge Ram
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[45591] = {--formerly Swift Darnassian Mistsaber
-		["type"] = "MOUNT",
-		["teachesSpell"] = 63637,--Darnassian Mistsaber
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18636,7 +19152,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18646,17 +19162,17 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[45595] = {--formerly Swift Orgrimmar Wolf
+	[45591] = {--formerly Swift Darnassian Mistsaber
 		["type"] = "MOUNT",
-		["teachesSpell"] = 63640,--Orgrimmar Wolf
+		["teachesSpell"] = 63637,--Darnassian Mistsaber
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18666,7 +19182,27 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[45593] = {--formerly Swift Darkspear Raptor
+		["type"] = "MOUNT",
+		["teachesSpell"] = 63635,--Darkspear Raptor
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[45595] = {--formerly Swift Orgrimmar Wolf
+		["type"] = "MOUNT",
+		["teachesSpell"] = 63640,--Orgrimmar Wolf
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18676,7 +19212,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18686,7 +19222,7 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18745,14 +19281,6 @@ LibTextbookDB = {
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
 		},
-	[46108] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 64051,--Rituals of the New Moon
-		["quality"] = 2,
-		["binding"] = 1,
-		["reqSkill"] = 773,
-		["reqSkillLevel"] = 350,
-		},
 	[46027] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 64441,--
@@ -18760,34 +19288,6 @@ LibTextbookDB = {
 		["binding"] = 1,
 		["reqSkill"] = 333,
 		["reqSkillLevel"] = 450,
-		},
-	[46348] = {--
-		["type"] = "RECIPE",
-		["teachesSpell"] = 64579,--
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqSkill"] = 333,
-		["reqSkillLevel"] = 450,
-		},
-	[46101] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 64656,--Blue Skeletal Warhorse
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[46100] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 64657,--White Kodo
-		["quality"] = 3,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 30,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 75,
 		},
 	[46099] = {--
 		["type"] = "MOUNT",
@@ -18799,6 +19299,26 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
+	[46100] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 64657,--White Kodo
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[46101] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 64656,--Blue Skeletal Warhorse
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
 	[46102] = {--
 		["type"] = "MOUNT",
 		["teachesSpell"] = 64659,--Venomhide Ravasaur
@@ -18809,6 +19329,14 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		["note"] = "fake",
+		},
+	[46108] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 64051,--Rituals of the New Moon
+		["quality"] = 2,
+		["binding"] = 1,
+		["reqSkill"] = 773,
+		["reqSkillLevel"] = 350,
 		},
 	[46109] = {--
 		["type"] = "MOUNT",
@@ -18838,28 +19366,23 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
 		},
-	[46745] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65637,--Great Red Elekk
+	[46348] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 64579,--
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 450,
 		},
-	[46756] = {--
+	[46743] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 65637,--Great Red Elekk
+		["teachesSpell"] = 65644,--Swift Purple Raptor
 		["quality"] = 4,
 		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 930,
-		["reqReputation"] = 7,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
-		["note"] = "fake",
 		},
 	[46744] = {--
 		["type"] = "MOUNT",
@@ -18867,68 +19390,59 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46759] = {--
+	[46745] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 65638,--Swift Moonsaber
+		["teachesSpell"] = 65637,--Great Red Elekk
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 69,
-		["reqReputation"] = 7,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
-		["note"] = "fake",
 		},
-	[46751] = {--
+	[46746] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 65639,--Swift Red Hawkstrider
+		["teachesSpell"] = 65645,--White Skeletal Warhorse
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
-	[46761] = {--
+	[46747] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 65639,--Swift Red Hawkstrider
+		["teachesSpell"] = 65642,--Turbostrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46748] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65643,--Swift Violet Ram
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46749] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65646,--Swift Burgundy Wolf
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqFaction"] = 911,
-		["reqReputation"] = 7,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
-		["note"] = "fake",
-		},
-	[46752] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65640,--Swift Gray Steed
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[46758] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65640,--Swift Gray Steed
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 72,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["note"] = "fake",
 		},
 	[46750] = {--
 		["type"] = "MOUNT",
@@ -18936,7 +19450,27 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46751] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65639,--Swift Red Hawkstrider
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 40,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		},
+	[46752] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65640,--Swift Gray Steed
+		["quality"] = 4,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		},
@@ -18946,114 +19480,25 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 81,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46747] = {--
+	[46756] = {--
 		["type"] = "MOUNT",
-		["teachesSpell"] = 65642,--Turbostrider
+		["teachesSpell"] = 65637,--Great Red Elekk
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[46763] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65642,--Turbostrider
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 54,
+		["reqLevel"] = 40,
+		["reqFaction"] = 930,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
-		},
-	[46748] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65643,--Swift Violet Ram
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[46762] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65643,--Swift Violet Ram
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 2202,
-		["reqLevel"] = 60,
-		["reqFaction"] = 47,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["note"] = "fake",
-		},
-	[46743] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65644,--Swift Purple Raptor
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[46760] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65644,--Swift Purple Raptor
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqFaction"] = 530,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["note"] = "fake",
-		},
-	[46746] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65645,--White Skeletal Warhorse
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		},
-	[46764] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65645,--White Skeletal Warhorse
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqFaction"] = 68,
-		["reqReputation"] = 7,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["note"] = "fake",
-		},
-	[46749] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65646,--Swift Burgundy Wolf
-		["quality"] = 4,
-		["binding"] = 1,
-		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
-		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
 		},
 	[46757] = {--
 		["type"] = "MOUNT",
@@ -19061,70 +19506,252 @@ LibTextbookDB = {
 		["quality"] = 4,
 		["binding"] = 1,
 		["reqRaces"] = 1380,
-		["reqLevel"] = 60,
+		["reqLevel"] = 40,
 		["reqFaction"] = 76,
 		["reqReputation"] = 7,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["note"] = "fake",
 		},
-	[46767] = {--Mountain Dew Game Fuel promotion
-		["type"] = "CRITTER",
-		["teachesSpell"] = 65682,--Battle-Bot
+	[46926] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66499,--Stormy Majestic Zircon
 		["quality"] = 3,
 		["binding"] = 1,
-		["unique"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
 		},
-	[46778] = {--
-		["type"] = "MOUNT",
-		["teachesSpell"] = 65917,--Magic Rooster
-		["quality"] = 4,
+	[46922] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66452,--Subtle Cardinal Ruby
+		["quality"] = 3,
 		["binding"] = 1,
-		["reqLevel"] = 60,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46906] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66436,--Sundered Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46908] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66438,--Tense Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46946] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66565,--Tenuous Dreadstone
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46931] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66504,--Thick King's Amber
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46902] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66432,--Timeless Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46915] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66445,--Turbid Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46951] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66570,--Veiled Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[46899] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66429,--Vivid Eye of Zul
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[47011] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66577,--Wicked Ametrine
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		},
+	[728] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2543,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 75,
+		},
+	[1132] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 580,--Timber Wolf
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 1380,
+		["reqLevel"] = 30,
 		["reqSkill"] = 762,
-		["reqSkillLevel"] = 150,
-		["unique"] = 1,
+		["reqSkillLevel"] = 75,
+		},
+	[2406] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2158,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 90,
+		},
+	[2407] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2163,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 60,
+		},
+	[2408] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2164,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 75,
+		},
+	[2409] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2169,--
+		["quality"] = 2,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 100,
+		},
+	[2411] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 470,--Black Stallion
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[2414] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 472,--Pinto
+		["quality"] = 3,
+		["binding"] = 1,
+		["reqRaces"] = 2202,
+		["reqLevel"] = 30,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		},
+	[2553] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 3230,--
+		["quality"] = 2,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 50,
+		},
+	[2555] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2335,--
+		["quality"] = 2,
+		["reqSkill"] = 171,
+		["reqSkillLevel"] = 60,
+		},
+	[2598] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2389,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 40,
+		},
+	[2601] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2403,--
+		["quality"] = 2,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 105,
+		},
+	[2697] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2542,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 50,
+		},
+	[2698] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2545,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 85,
+		},
+	[2699] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2547,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 100,
+		},
+	[2700] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2548,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 110,
+		},
+	[2701] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2549,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 100,
+		},
+	[2881] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 2667,--
+		["quality"] = 2,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 80,
 		},
 	}
 
 local loc = GetLocale()
 if loc == "enUS" or loc == "enGB" then
-	LibTextbookDB[5656]["itemName"] = "Brown Horse Bridle"
-	LibTextbookDB[2411]["itemName"] = "Black Stallion Bridle"
-	LibTextbookDB[2414]["itemName"] = "Pinto Bridle"
-	LibTextbookDB[1132]["itemName"] = "Horn of the Timber Wolf"
-	LibTextbookDB[9214]["itemName"] = "Grimoire of Inferno"
-	LibTextbookDB[2406]["itemName"] = "Pattern: Fine Leather Boots"
-	LibTextbookDB[2407]["itemName"] = "Pattern: White Leather Jerkin"
-	LibTextbookDB[2408]["itemName"] = "Pattern: Fine Leather Gloves"
-	LibTextbookDB[2409]["itemName"] = "Pattern: Dark Leather Tunic"
-	LibTextbookDB[3396]["itemName"] = "Recipe: Elixir of Lesser Agility"
-	LibTextbookDB[2555]["itemName"] = "Recipe: Swiftness Potion"
-	LibTextbookDB[2598]["itemName"] = "Pattern: Red Linen Robe"
-	LibTextbookDB[2601]["itemName"] = "Pattern: Gray Woolen Robe"
-	LibTextbookDB[2697]["itemName"] = "Recipe: Goretusk Liver Pie"
-	LibTextbookDB[728]["itemName"] = "Recipe: Westfall Stew"
-	LibTextbookDB[2698]["itemName"] = "Recipe: Cooked Crab Claw"
-	LibTextbookDB[2699]["itemName"] = "Recipe: Redridge Goulash"
-	LibTextbookDB[2700]["itemName"] = "Recipe: Succulent Pork Ribs"
-	LibTextbookDB[2701]["itemName"] = "Recipe: Seasoned Wolf Kabob"
-	LibTextbookDB[2881]["itemName"] = "Plans: Runed Copper Breastplate"
-	LibTextbookDB[5578]["itemName"] = "Plans: Silvered Bronze Breastplate"
+	LibTextbookDB[2882]["itemName"] = "Plans: Silvered Bronze Shoulders"
+	LibTextbookDB[2883]["itemName"] = "Plans: Deadly Bronze Poniard"
 	LibTextbookDB[2889]["itemName"] = "Recipe: Beer Basted Boar Ribs"
-	LibTextbookDB[16326]["itemName"] = "Grimoire of Fire Shield (Rank 1)"
 	LibTextbookDB[3393]["itemName"] = "Recipe: Minor Magic Resistance Potion"
 	LibTextbookDB[3394]["itemName"] = "Recipe: Potion of Curing"
 	LibTextbookDB[3395]["itemName"] = "Recipe: Limited Invulnerability Potion"
-	LibTextbookDB[6211]["itemName"] = "Recipe: Elixir of Ogre's Strength"
-	LibTextbookDB[2553]["itemName"] = "Recipe: Elixir of Minor Agility"
-	LibTextbookDB[2883]["itemName"] = "Plans: Deadly Bronze Poniard"
+	LibTextbookDB[3396]["itemName"] = "Recipe: Elixir of Lesser Agility"
 	LibTextbookDB[3608]["itemName"] = "Plans: Mighty Iron Hammer"
 	LibTextbookDB[3609]["itemName"] = "Plans: Copper Chain Vest"
 	LibTextbookDB[3610]["itemName"] = "Plans: Gemmed Copper Gauntlets"
-	LibTextbookDB[2882]["itemName"] = "Plans: Silvered Bronze Shoulders"
 	LibTextbookDB[3611]["itemName"] = "Plans: Green Iron Boots"
 	LibTextbookDB[3612]["itemName"] = "Plans: Green Iron Gauntlets"
-	LibTextbookDB[21736]["itemName"] = "Nether Drake Reins"
 	LibTextbookDB[3678]["itemName"] = "Recipe: Crocolisk Steak"
 	LibTextbookDB[3679]["itemName"] = "Recipe: Blood Sausage"
 	LibTextbookDB[3680]["itemName"] = "Recipe: Murloc Fin Soup"
@@ -19135,98 +19762,72 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[3735]["itemName"] = "Recipe: Hot Lion Chops"
 	LibTextbookDB[3736]["itemName"] = "Recipe: Tasty Lion Steak"
 	LibTextbookDB[3737]["itemName"] = "Recipe: Soothing Turtle Bisque"
-	LibTextbookDB[16072]["itemName"] = "Expert Cookbook"
-	LibTextbookDB[6068]["itemName"] = "Recipe: Shadow Oil"
 	LibTextbookDB[3830]["itemName"] = "Recipe: Elixir of Fortitude"
 	LibTextbookDB[3831]["itemName"] = "Recipe: Mighty Troll's Blood Elixir"
 	LibTextbookDB[3832]["itemName"] = "Recipe: Elixir of Detect Lesser Invisibility"
-	LibTextbookDB[14634]["itemName"] = "Recipe: Frost Oil"
-	LibTextbookDB[12162]["itemName"] = "Plans: Hardened Iron Shortsword"
 	LibTextbookDB[3866]["itemName"] = "Plans: Jade Serpentblade"
-	LibTextbookDB[10858]["itemName"] = "Plans: Solid Iron Maul"
 	LibTextbookDB[3867]["itemName"] = "Plans: Golden Iron Destroyer"
-	LibTextbookDB[12163]["itemName"] = "Plans: Moonsteel Broadsword"
 	LibTextbookDB[3868]["itemName"] = "Plans: Frost Tiger Blade"
-	LibTextbookDB[12164]["itemName"] = "Plans: Massive Iron Axe"
 	LibTextbookDB[3869]["itemName"] = "Plans: Shadow Crescent Axe"
-	LibTextbookDB[6047]["itemName"] = "Plans: Golden Scale Coif"
 	LibTextbookDB[3870]["itemName"] = "Plans: Green Iron Shoulders"
 	LibTextbookDB[3871]["itemName"] = "Plans: Golden Scale Shoulders"
 	LibTextbookDB[3872]["itemName"] = "Plans: Golden Scale Leggings"
 	LibTextbookDB[3873]["itemName"] = "Plans: Golden Scale Cuirass"
 	LibTextbookDB[3874]["itemName"] = "Plans: Polished Steel Boots"
 	LibTextbookDB[3875]["itemName"] = "Plans: Golden Scale Boots"
+	LibTextbookDB[4213]["itemName"] = "Grimoire of Doom"
 	LibTextbookDB[4292]["itemName"] = "Pattern: Green Woolen Bag"
 	LibTextbookDB[4293]["itemName"] = "Pattern: Hillman's Leather Vest"
-	LibTextbookDB[7360]["itemName"] = "Pattern: Dark Leather Gloves"
 	LibTextbookDB[4294]["itemName"] = "Pattern: Hillman's Belt"
 	LibTextbookDB[4296]["itemName"] = "Pattern: Dark Leather Shoulders"
 	LibTextbookDB[4297]["itemName"] = "Pattern: Barbaric Gloves"
-	LibTextbookDB[7613]["itemName"] = "Pattern: Green Leather Armor"
-	LibTextbookDB[4299]["itemName"] = "Pattern: Guardian Armor"
 	LibTextbookDB[4298]["itemName"] = "Pattern: Guardian Belt"
+	LibTextbookDB[4299]["itemName"] = "Pattern: Guardian Armor"
 	LibTextbookDB[4300]["itemName"] = "Pattern: Guardian Leather Bracers"
-	LibTextbookDB[14635]["itemName"] = "Pattern: Gem-studded Leather Belt"
 	LibTextbookDB[4301]["itemName"] = "Pattern: Barbaric Belt"
-	LibTextbookDB[4346]["itemName"] = "Pattern: Heavy Woolen Cloak"
 	LibTextbookDB[4345]["itemName"] = "Pattern: Red Woolen Boots"
+	LibTextbookDB[4346]["itemName"] = "Pattern: Heavy Woolen Cloak"
 	LibTextbookDB[4347]["itemName"] = "Pattern: Reinforced Woolen Shoulders"
+	LibTextbookDB[4348]["itemName"] = "Pattern: Phoenix Gloves"
 	LibTextbookDB[4349]["itemName"] = "Pattern: Phoenix Pants"
-	LibTextbookDB[7114]["itemName"] = "Pattern: Azure Silk Gloves"
 	LibTextbookDB[4350]["itemName"] = "Pattern: Spider Silk Slippers"
-	LibTextbookDB[14630]["itemName"] = "Pattern: Enchanter's Cowl"
 	LibTextbookDB[4351]["itemName"] = "Pattern: Shadow Hood"
 	LibTextbookDB[4352]["itemName"] = "Pattern: Boots of the Enchanter"
-	LibTextbookDB[4355]["itemName"] = "Pattern: Icy Cloak"
 	LibTextbookDB[4353]["itemName"] = "Pattern: Spider Belt"
-	LibTextbookDB[4356]["itemName"] = "Pattern: Star Belt"
-	LibTextbookDB[4348]["itemName"] = "Pattern: Phoenix Gloves"
-	LibTextbookDB[14627]["itemName"] = "Pattern: Bright Yellow Shirt"
-	LibTextbookDB[6401]["itemName"] = "Pattern: Dark Silk Shirt"
 	LibTextbookDB[4354]["itemName"] = "Pattern: Rich Purple Silk Shirt"
-	LibTextbookDB[10728]["itemName"] = "Pattern: Black Swashbuckler's Shirt"
+	LibTextbookDB[4355]["itemName"] = "Pattern: Icy Cloak"
+	LibTextbookDB[4356]["itemName"] = "Pattern: Star Belt"
+	LibTextbookDB[4401]["itemName"] = "Mechanical Squirrel Box"
 	LibTextbookDB[4408]["itemName"] = "Schematic: Mechanical Squirrel Box"
 	LibTextbookDB[4409]["itemName"] = "Schematic: Small Seaforium Charge"
-	LibTextbookDB[13309]["itemName"] = "Schematic: Lovingly Crafted Boomstick"
 	LibTextbookDB[4410]["itemName"] = "Schematic: Shadow Goggles"
 	LibTextbookDB[4411]["itemName"] = "Schematic: Flame Deflector"
-	LibTextbookDB[14639]["itemName"] = "Schematic: Minor Recombobulator"
 	LibTextbookDB[4412]["itemName"] = "Schematic: Moonsight Rifle"
-	LibTextbookDB[13308]["itemName"] = "Schematic: Ice Deflector"
 	LibTextbookDB[4413]["itemName"] = "Schematic: Discombobulator Ray"
 	LibTextbookDB[4414]["itemName"] = "Schematic: Portable Bronze Mortar"
 	LibTextbookDB[4415]["itemName"] = "Schematic: Craftsman's Monocle"
 	LibTextbookDB[4416]["itemName"] = "Schematic: Goblin Land Mine"
-	LibTextbookDB[13311]["itemName"] = "Schematic: Mechanical Dragonling"
-	LibTextbookDB[7742]["itemName"] = "Schematic: Gnomish Cloaking Device"
 	LibTextbookDB[4417]["itemName"] = "Schematic: Large Seaforium Charge"
-	LibTextbookDB[13310]["itemName"] = "Schematic: Accurate Scope"
-	LibTextbookDB[4401]["itemName"] = "Mechanical Squirrel Box"
-	LibTextbookDB[4609]["itemName"] = "Recipe: Barbecued Buzzard Wing"
-	LibTextbookDB[13287]["itemName"] = "Pattern: Raptor Hide Harness"
-	LibTextbookDB[13288]["itemName"] = "Pattern: Raptor Hide Belt"
 	LibTextbookDB[4597]["itemName"] = "Recipe: Discolored Healing Potion"
-	LibTextbookDB[16331]["itemName"] = "Grimoire of Phase Shift"
+	LibTextbookDB[4609]["itemName"] = "Recipe: Barbecued Buzzard Wing"
 	LibTextbookDB[4624]["itemName"] = "Recipe: Lesser Stoneshield Potion"
 	LibTextbookDB[5083]["itemName"] = "Pattern: Kodo Hide Bag"
-	LibTextbookDB[16321]["itemName"] = "Grimoire of Blood Pact (Rank 1)"
-	LibTextbookDB[16379]["itemName"] = "Grimoire of Seduction"
-	LibTextbookDB[16375]["itemName"] = "Grimoire of Soothing Kiss (Rank 1)"
 	LibTextbookDB[5482]["itemName"] = "Recipe: Kaldorei Spider Kabob"
 	LibTextbookDB[5483]["itemName"] = "Recipe: Scorpid Surprise"
 	LibTextbookDB[5484]["itemName"] = "Recipe: Roasted Kodo Meat"
 	LibTextbookDB[5485]["itemName"] = "Recipe: Fillet of Frenzy"
 	LibTextbookDB[5486]["itemName"] = "Recipe: Strider Stew"
-	LibTextbookDB[44977]["itemName"] = "Recipe: Dig Rat Stew"
 	LibTextbookDB[5487]["itemName"] = "Recipe: Dig Rat Stew"
 	LibTextbookDB[5488]["itemName"] = "Recipe: Crispy Lizard Tail"
 	LibTextbookDB[5489]["itemName"] = "Recipe: Lean Venison"
 	LibTextbookDB[5528]["itemName"] = "Recipe: Clam Chowder"
 	LibTextbookDB[5543]["itemName"] = "Plans: Iridescent Hammer"
+	LibTextbookDB[5578]["itemName"] = "Plans: Silvered Bronze Breastplate"
 	LibTextbookDB[5640]["itemName"] = "Recipe: Rage Potion"
-	LibTextbookDB[5643]["itemName"] = "Recipe: Great Rage Potion"
 	LibTextbookDB[5642]["itemName"] = "Recipe: Free Action Potion"
+	LibTextbookDB[5643]["itemName"] = "Recipe: Great Rage Potion"
 	LibTextbookDB[5655]["itemName"] = "Chestnut Mare Bridle"
+	LibTextbookDB[5656]["itemName"] = "Brown Horse Bridle"
 	LibTextbookDB[5665]["itemName"] = "Horn of the Dire Wolf"
 	LibTextbookDB[5668]["itemName"] = "Horn of the Brown Wolf"
 	LibTextbookDB[5771]["itemName"] = "Pattern: Red Linen Bag"
@@ -19239,9 +19840,9 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[5788]["itemName"] = "Pattern: Thick Murloc Armor"
 	LibTextbookDB[5789]["itemName"] = "Pattern: Murloc Scale Bracers"
 	LibTextbookDB[5864]["itemName"] = "Gray Ram"
-	LibTextbookDB[5875]["itemName"] = "Harness: Blue Ram"
-	LibTextbookDB[5873]["itemName"] = "White Ram"
 	LibTextbookDB[5872]["itemName"] = "Brown Ram"
+	LibTextbookDB[5873]["itemName"] = "White Ram"
+	LibTextbookDB[5875]["itemName"] = "Harness: Blue Ram"
 	LibTextbookDB[5972]["itemName"] = "Pattern: Fine Leather Pants"
 	LibTextbookDB[5973]["itemName"] = "Pattern: Barbaric Leggings"
 	LibTextbookDB[5974]["itemName"] = "Pattern: Guardian Cloak"
@@ -19249,50 +19850,37 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[6044]["itemName"] = "Plans: Iron Shield Spike"
 	LibTextbookDB[6045]["itemName"] = "Plans: Iron Counterweight"
 	LibTextbookDB[6046]["itemName"] = "Plans: Steel Weapon Chain"
+	LibTextbookDB[6047]["itemName"] = "Plans: Golden Scale Coif"
 	LibTextbookDB[6053]["itemName"] = "Recipe: Holy Protection Potion"
 	LibTextbookDB[6054]["itemName"] = "Recipe: Shadow Protection Potion"
 	LibTextbookDB[6055]["itemName"] = "Recipe: Fire Protection Potion"
 	LibTextbookDB[6056]["itemName"] = "Recipe: Frost Protection Potion"
 	LibTextbookDB[6057]["itemName"] = "Recipe: Nature Protection Potion"
-	LibTextbookDB[6342]["itemName"] = "Formula: Enchant Chest - Minor Mana"
-	LibTextbookDB[6271]["itemName"] = "Pattern: Red Linen Vest"
+	LibTextbookDB[6068]["itemName"] = "Recipe: Shadow Oil"
+	LibTextbookDB[6211]["itemName"] = "Recipe: Elixir of Ogre's Strength"
 	LibTextbookDB[6270]["itemName"] = "Pattern: Blue Linen Vest"
+	LibTextbookDB[6271]["itemName"] = "Pattern: Red Linen Vest"
 	LibTextbookDB[6272]["itemName"] = "Pattern: Blue Linen Robe"
 	LibTextbookDB[6274]["itemName"] = "Pattern: Blue Overalls"
 	LibTextbookDB[6275]["itemName"] = "Pattern: Greater Adept's Robe"
-	LibTextbookDB[16083]["itemName"] = "Expert Fishing - The Bass and You"
 	LibTextbookDB[6325]["itemName"] = "Recipe: Brilliant Smallfish"
 	LibTextbookDB[6326]["itemName"] = "Recipe: Slitherskin Mackerel"
 	LibTextbookDB[6328]["itemName"] = "Recipe: Longjaw Mud Snapper"
 	LibTextbookDB[6329]["itemName"] = "Recipe: Loch Frenzy Delight"
 	LibTextbookDB[6330]["itemName"] = "Recipe: Bristle Whisker Catfish"
+	LibTextbookDB[6342]["itemName"] = "Formula: Enchant Chest - Minor Mana"
 	LibTextbookDB[6344]["itemName"] = "Formula: Enchant Bracer - Minor Spirit"
 	LibTextbookDB[6346]["itemName"] = "Formula: Enchant Chest - Lesser Mana"
 	LibTextbookDB[6347]["itemName"] = "Formula: Enchant Bracer - Minor Strength"
 	LibTextbookDB[6348]["itemName"] = "Formula: Enchant Weapon - Minor Beastslayer"
 	LibTextbookDB[6349]["itemName"] = "Formula: Enchant 2H Weapon - Lesser Intellect"
-	LibTextbookDB[16302]["itemName"] = "Grimoire of Firebolt (Rank 2)"
-	LibTextbookDB[16316]["itemName"] = "Grimoire of Firebolt (Rank 3)"
-	LibTextbookDB[16317]["itemName"] = "Grimoire of Firebolt (Rank 4)"
-	LibTextbookDB[16318]["itemName"] = "Grimoire of Firebolt (Rank 5)"
-	LibTextbookDB[16322]["itemName"] = "Grimoire of Blood Pact (Rank 2)"
-	LibTextbookDB[16323]["itemName"] = "Grimoire of Blood Pact (Rank 3)"
-	LibTextbookDB[16346]["itemName"] = "Grimoire of Torment (Rank 2)"
-	LibTextbookDB[16347]["itemName"] = "Grimoire of Torment (Rank 3)"
-	LibTextbookDB[16348]["itemName"] = "Grimoire of Torment (Rank 4)"
-	LibTextbookDB[16351]["itemName"] = "Grimoire of Sacrifice (Rank 1)"
-	LibTextbookDB[16376]["itemName"] = "Grimoire of Soothing Kiss (Rank 2)"
-	LibTextbookDB[16368]["itemName"] = "Grimoire of Lash of Pain (Rank 2)"
-	LibTextbookDB[16371]["itemName"] = "Grimoire of Lash of Pain (Rank 3)"
 	LibTextbookDB[6368]["itemName"] = "Recipe: Rainbow Fin Albacore"
 	LibTextbookDB[6369]["itemName"] = "Recipe: Rockscale Cod"
 	LibTextbookDB[6375]["itemName"] = "Formula: Enchant Bracer - Lesser Spirit"
 	LibTextbookDB[6377]["itemName"] = "Formula: Enchant Boots - Minor Agility"
-	LibTextbookDB[16380]["itemName"] = "Grimoire of Lesser Invisibility"
 	LibTextbookDB[6390]["itemName"] = "Pattern: Stylish Blue Shirt"
 	LibTextbookDB[6391]["itemName"] = "Pattern: Stylish Green Shirt"
-	LibTextbookDB[16084]["itemName"] = "Expert First Aid - Under Wraps"
-	LibTextbookDB[16112]["itemName"] = "Manual: Heavy Silk Bandage"
+	LibTextbookDB[6401]["itemName"] = "Pattern: Dark Silk Shirt"
 	LibTextbookDB[6454]["itemName"] = "Manual: Strong Anti-Venom"
 	LibTextbookDB[6474]["itemName"] = "Pattern: Deviate Scale Cloak"
 	LibTextbookDB[6475]["itemName"] = "Pattern: Deviate Scale Gloves"
@@ -19300,26 +19888,24 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[6661]["itemName"] = "Recipe: Savory Deviate Delight"
 	LibTextbookDB[6663]["itemName"] = "Recipe: Elixir of Giant Growth"
 	LibTextbookDB[6672]["itemName"] = "Schematic: Flash Bomb"
-	LibTextbookDB[16327]["itemName"] = "Grimoire of Fire Shield (Rank 2)"
-	LibTextbookDB[16328]["itemName"] = "Grimoire of Fire Shield (Rank 3)"
 	LibTextbookDB[6710]["itemName"] = "Pattern: Moonglow Vest"
 	LibTextbookDB[6716]["itemName"] = "Schematic: EZ-Thro Dynamite"
 	LibTextbookDB[6735]["itemName"] = "Plans: Ironforge Breastplate"
-	LibTextbookDB[8631]["itemName"] = "Reins of the Striped Frostsaber"
-	LibTextbookDB[8588]["itemName"] = "Whistle of the Emerald Raptor"
 	LibTextbookDB[6892]["itemName"] = "Recipe: Smoked Bear Meat"
-	LibTextbookDB[7092]["itemName"] = "Pattern: Hands of Darkness"
-	LibTextbookDB[7091]["itemName"] = "Pattern: Truefaith Gloves"
-	LibTextbookDB[7090]["itemName"] = "Pattern: Green Silk Armor"
-	LibTextbookDB[7089]["itemName"] = "Pattern: Azure Silk Cloak"
-	LibTextbookDB[7087]["itemName"] = "Pattern: Crimson Silk Cloak"
 	LibTextbookDB[7084]["itemName"] = "Pattern: Crimson Silk Shoulders"
 	LibTextbookDB[7085]["itemName"] = "Pattern: Azure Shoulders"
 	LibTextbookDB[7086]["itemName"] = "Pattern: Earthen Silk Belt"
+	LibTextbookDB[7087]["itemName"] = "Pattern: Crimson Silk Cloak"
 	LibTextbookDB[7088]["itemName"] = "Pattern: Crimson Silk Robe"
+	LibTextbookDB[7089]["itemName"] = "Pattern: Azure Silk Cloak"
+	LibTextbookDB[7090]["itemName"] = "Pattern: Green Silk Armor"
+	LibTextbookDB[7091]["itemName"] = "Pattern: Truefaith Gloves"
+	LibTextbookDB[7092]["itemName"] = "Pattern: Hands of Darkness"
+	LibTextbookDB[7114]["itemName"] = "Pattern: Azure Silk Gloves"
 	LibTextbookDB[7288]["itemName"] = "Pattern: Rugged Leather Pants"
 	LibTextbookDB[7289]["itemName"] = "Pattern: Black Whelp Cloak"
 	LibTextbookDB[7290]["itemName"] = "Pattern: Red Whelp Gloves"
+	LibTextbookDB[7360]["itemName"] = "Pattern: Dark Leather Gloves"
 	LibTextbookDB[7361]["itemName"] = "Pattern: Herbalist's Gloves"
 	LibTextbookDB[7362]["itemName"] = "Pattern: Earthen Leather Shoulders"
 	LibTextbookDB[7363]["itemName"] = "Pattern: Pilferer's Gloves"
@@ -19331,114 +19917,91 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[7453]["itemName"] = "Pattern: Swift Boots"
 	LibTextbookDB[7560]["itemName"] = "Schematic: Gnomish Universal Remote"
 	LibTextbookDB[7561]["itemName"] = "Schematic: Goblin Jumper Cables"
-	LibTextbookDB[18160]["itemName"] = "Recipe: Thistle Tea"
+	LibTextbookDB[7613]["itemName"] = "Pattern: Green Leather Armor"
 	LibTextbookDB[7678]["itemName"] = "Recipe: Thistle Tea"
+	LibTextbookDB[7742]["itemName"] = "Schematic: Gnomish Cloaking Device"
+	LibTextbookDB[7975]["itemName"] = "Plans: Heavy Mithril Pants"
+	LibTextbookDB[7976]["itemName"] = "Plans: Mithril Shield Spike"
 	LibTextbookDB[7978]["itemName"] = "Plans: Barbaric Iron Shoulders"
 	LibTextbookDB[7979]["itemName"] = "Plans: Barbaric Iron Breastplate"
 	LibTextbookDB[7980]["itemName"] = "Plans: Barbaric Iron Helm"
 	LibTextbookDB[7981]["itemName"] = "Plans: Barbaric Iron Boots"
 	LibTextbookDB[7982]["itemName"] = "Plans: Barbaric Iron Gloves"
-	LibTextbookDB[7975]["itemName"] = "Plans: Heavy Mithril Pants"
-	LibTextbookDB[7995]["itemName"] = "Plans: Mithril Scale Bracers"
-	LibTextbookDB[7976]["itemName"] = "Plans: Mithril Shield Spike"
 	LibTextbookDB[7983]["itemName"] = "Plans: Ornate Mithril Pants"
 	LibTextbookDB[7984]["itemName"] = "Plans: Ornate Mithril Gloves"
 	LibTextbookDB[7985]["itemName"] = "Plans: Ornate Mithril Shoulder"
-	LibTextbookDB[7989]["itemName"] = "Plans: Mithril Spurs"
-	LibTextbookDB[7991]["itemName"] = "Plans: Mithril Scale Shoulders"
-	LibTextbookDB[7990]["itemName"] = "Plans: Heavy Mithril Helm"
 	LibTextbookDB[7986]["itemName"] = "Plans: Ornate Mithril Breastplate"
-	LibTextbookDB[7988]["itemName"] = "Plans: Ornate Mithril Boots"
 	LibTextbookDB[7987]["itemName"] = "Plans: Ornate Mithril Helm"
+	LibTextbookDB[7988]["itemName"] = "Plans: Ornate Mithril Boots"
+	LibTextbookDB[7989]["itemName"] = "Plans: Mithril Spurs"
+	LibTextbookDB[7990]["itemName"] = "Plans: Heavy Mithril Helm"
+	LibTextbookDB[7991]["itemName"] = "Plans: Mithril Scale Shoulders"
 	LibTextbookDB[7992]["itemName"] = "Plans: Blue Glittering Axe"
-	LibTextbookDB[8029]["itemName"] = "Plans: Wicked Mithril Blade"
 	LibTextbookDB[7993]["itemName"] = "Plans: Dazzling Mithril Rapier"
+	LibTextbookDB[7995]["itemName"] = "Plans: Mithril Scale Bracers"
 	LibTextbookDB[8028]["itemName"] = "Plans: Runed Mithril Hammer"
+	LibTextbookDB[8029]["itemName"] = "Plans: Wicked Mithril Blade"
 	LibTextbookDB[8030]["itemName"] = "Plans: Ebon Shiv"
 	LibTextbookDB[8384]["itemName"] = "Pattern: Comfortable Leather Hat"
 	LibTextbookDB[8385]["itemName"] = "Pattern: Turtle Scale Gloves"
-	LibTextbookDB[8409]["itemName"] = "Pattern: Nightscape Shoulders"
 	LibTextbookDB[8386]["itemName"] = "Pattern: Big Voodoo Robe"
-	LibTextbookDB[8395]["itemName"] = "Pattern: Tough Scorpid Breastplate"
-	LibTextbookDB[8403]["itemName"] = "Pattern: Wild Leather Shoulders"
 	LibTextbookDB[8387]["itemName"] = "Pattern: Big Voodoo Mask"
-	LibTextbookDB[8397]["itemName"] = "Pattern: Tough Scorpid Bracers"
-	LibTextbookDB[8398]["itemName"] = "Pattern: Tough Scorpid Gloves"
-	LibTextbookDB[8404]["itemName"] = "Pattern: Wild Leather Vest"
-	LibTextbookDB[8405]["itemName"] = "Pattern: Wild Leather Helmet"
-	LibTextbookDB[8399]["itemName"] = "Pattern: Tough Scorpid Boots"
 	LibTextbookDB[8389]["itemName"] = "Pattern: Big Voodoo Pants"
 	LibTextbookDB[8390]["itemName"] = "Pattern: Big Voodoo Cloak"
+	LibTextbookDB[8395]["itemName"] = "Pattern: Tough Scorpid Breastplate"
+	LibTextbookDB[8397]["itemName"] = "Pattern: Tough Scorpid Bracers"
+	LibTextbookDB[8398]["itemName"] = "Pattern: Tough Scorpid Gloves"
+	LibTextbookDB[8399]["itemName"] = "Pattern: Tough Scorpid Boots"
 	LibTextbookDB[8400]["itemName"] = "Pattern: Tough Scorpid Shoulders"
-	LibTextbookDB[8406]["itemName"] = "Pattern: Wild Leather Boots"
 	LibTextbookDB[8401]["itemName"] = "Pattern: Tough Scorpid Leggings"
 	LibTextbookDB[8402]["itemName"] = "Pattern: Tough Scorpid Helm"
+	LibTextbookDB[8403]["itemName"] = "Pattern: Wild Leather Shoulders"
+	LibTextbookDB[8404]["itemName"] = "Pattern: Wild Leather Vest"
+	LibTextbookDB[8405]["itemName"] = "Pattern: Wild Leather Helmet"
+	LibTextbookDB[8406]["itemName"] = "Pattern: Wild Leather Boots"
 	LibTextbookDB[8407]["itemName"] = "Pattern: Wild Leather Leggings"
 	LibTextbookDB[8408]["itemName"] = "Pattern: Wild Leather Cloak"
+	LibTextbookDB[8409]["itemName"] = "Pattern: Nightscape Shoulders"
 	LibTextbookDB[8485]["itemName"] = "Cat Carrier (Bombay)"
 	LibTextbookDB[8486]["itemName"] = "Cat Carrier (Cornish Rex)"
-	LibTextbookDB[8491]["itemName"] = "Cat Carrier (Black Tabby)"
 	LibTextbookDB[8487]["itemName"] = "Cat Carrier (Orange Tabby)"
-	LibTextbookDB[8490]["itemName"] = "Cat Carrier (Siamese)"
 	LibTextbookDB[8488]["itemName"] = "Cat Carrier (Silver Tabby)"
 	LibTextbookDB[8489]["itemName"] = "Cat Carrier (White Kitten)"
-	LibTextbookDB[8496]["itemName"] = "Parrot Cage (Cockatiel)"
-	LibTextbookDB[8494]["itemName"] = "Parrot Cage (Hyacinth Macaw)"
+	LibTextbookDB[8490]["itemName"] = "Cat Carrier (Siamese)"
+	LibTextbookDB[8491]["itemName"] = "Cat Carrier (Black Tabby)"
 	LibTextbookDB[8492]["itemName"] = "Parrot Cage (Green Wing Macaw)"
+	LibTextbookDB[8494]["itemName"] = "Parrot Cage (Hyacinth Macaw)"
 	LibTextbookDB[8495]["itemName"] = "Parrot Cage (Senegal)"
-	LibTextbookDB[11023]["itemName"] = "Ancona Chicken"
-	LibTextbookDB[10393]["itemName"] = "Cockroach"
-	LibTextbookDB[10822]["itemName"] = "Dark Whelpling"
-	LibTextbookDB[34535]["itemName"] = "Azure Whelpling"
-	LibTextbookDB[8499]["itemName"] = "Tiny Crimson Whelpling"
-	LibTextbookDB[8498]["itemName"] = "Tiny Emerald Whelpling"
-	LibTextbookDB[11027]["itemName"] = "Wood Frog Box"
-	LibTextbookDB[11026]["itemName"] = "Tree Frog Box"
-	LibTextbookDB[8501]["itemName"] = "Hawk Owl"
-	LibTextbookDB[8500]["itemName"] = "Great Horned Owl"
-	LibTextbookDB[10394]["itemName"] = "Prairie Dog Whistle"
+	LibTextbookDB[8496]["itemName"] = "Parrot Cage (Cockatiel)"
 	LibTextbookDB[8497]["itemName"] = "Rabbit Crate (Snowshoe)"
-	LibTextbookDB[10360]["itemName"] = "Black Kingsnake"
-	LibTextbookDB[10361]["itemName"] = "Brown Snake"
-	LibTextbookDB[10392]["itemName"] = "Crimson Snake"
-	LibTextbookDB[8632]["itemName"] = "Reins of the Spotted Frostsaber"
-	LibTextbookDB[8628]["itemName"] = "Reins of the Spotted Nightsaber"
-	LibTextbookDB[8629]["itemName"] = "Reins of the Striped Nightsaber"
+	LibTextbookDB[8498]["itemName"] = "Tiny Emerald Whelpling"
+	LibTextbookDB[8499]["itemName"] = "Tiny Crimson Whelpling"
+	LibTextbookDB[8500]["itemName"] = "Great Horned Owl"
+	LibTextbookDB[8501]["itemName"] = "Hawk Owl"
+	LibTextbookDB[8563]["itemName"] = "Red Mechanostrider"
+	LibTextbookDB[8586]["itemName"] = "Whistle of the Mottled Red Raptor"
+	LibTextbookDB[8588]["itemName"] = "Whistle of the Emerald Raptor"
 	LibTextbookDB[8591]["itemName"] = "Whistle of the Turquoise Raptor"
 	LibTextbookDB[8592]["itemName"] = "Whistle of the Violet Raptor"
-	LibTextbookDB[16113]["itemName"] = "Manual: Mageweave Bandage"
-	LibTextbookDB[16085]["itemName"] = "Artisan First Aid - Heal Thyself"
-	LibTextbookDB[8563]["itemName"] = "Red Mechanostrider"
 	LibTextbookDB[8595]["itemName"] = "Blue Mechanostrider"
+	LibTextbookDB[8628]["itemName"] = "Reins of the Spotted Nightsaber"
+	LibTextbookDB[8629]["itemName"] = "Reins of the Striped Nightsaber"
+	LibTextbookDB[8631]["itemName"] = "Reins of the Striped Frostsaber"
+	LibTextbookDB[8632]["itemName"] = "Reins of the Spotted Frostsaber"
+	LibTextbookDB[9214]["itemName"] = "Grimoire of Inferno"
 	LibTextbookDB[9293]["itemName"] = "Recipe: Magic Resistance Potion"
-	LibTextbookDB[10713]["itemName"] = "Plans: Inlaid Mithril Cylinder"
-	LibTextbookDB[10644]["itemName"] = "Recipe: Goblin Rocket Fuel"
 	LibTextbookDB[9294]["itemName"] = "Recipe: Wildvine Potion"
-	LibTextbookDB[9303]["itemName"] = "Recipe: Philosopher's Stone"
 	LibTextbookDB[9295]["itemName"] = "Recipe: Invisibility Potion"
 	LibTextbookDB[9296]["itemName"] = "Recipe: Gift of Arthas"
 	LibTextbookDB[9297]["itemName"] = "Recipe: Elixir of Dream Vision"
 	LibTextbookDB[9298]["itemName"] = "Recipe: Elixir of Giants"
-	LibTextbookDB[9302]["itemName"] = "Recipe: Ghost Dye"
-	LibTextbookDB[9301]["itemName"] = "Recipe: Elixir of Shadow Power"
 	LibTextbookDB[9300]["itemName"] = "Recipe: Elixir of Demonslaying"
+	LibTextbookDB[9301]["itemName"] = "Recipe: Elixir of Shadow Power"
+	LibTextbookDB[9302]["itemName"] = "Recipe: Ghost Dye"
+	LibTextbookDB[9303]["itemName"] = "Recipe: Philosopher's Stone"
 	LibTextbookDB[9304]["itemName"] = "Recipe: Transmute Iron to Gold"
 	LibTextbookDB[9305]["itemName"] = "Recipe: Transmute Mithril to Truesilver"
 	LibTextbookDB[9367]["itemName"] = "Plans: Golden Scale Gauntlets"
-	LibTextbookDB[16319]["itemName"] = "Grimoire of Firebolt (Rank 6)"
-	LibTextbookDB[16320]["itemName"] = "Grimoire of Firebolt (Rank 7)"
-	LibTextbookDB[16324]["itemName"] = "Grimoire of Blood Pact (Rank 4)"
-	LibTextbookDB[16325]["itemName"] = "Grimoire of Blood Pact (Rank 5)"
-	LibTextbookDB[16329]["itemName"] = "Grimoire of Fire Shield (Rank 4)"
-	LibTextbookDB[16330]["itemName"] = "Grimoire of Fire Shield (Rank 5)"
-	LibTextbookDB[16349]["itemName"] = "Grimoire of Torment (Rank 5)"
-	LibTextbookDB[16350]["itemName"] = "Grimoire of Torment (Rank 6)"
-	LibTextbookDB[16372]["itemName"] = "Grimoire of Lash of Pain (Rank 4)"
-	LibTextbookDB[16373]["itemName"] = "Grimoire of Lash of Pain (Rank 5)"
-	LibTextbookDB[16374]["itemName"] = "Grimoire of Lash of Pain (Rank 6)"
-	LibTextbookDB[16377]["itemName"] = "Grimoire of Soothing Kiss (Rank 3)"
-	LibTextbookDB[16378]["itemName"] = "Grimoire of Soothing Kiss (Rank 4)"
-	LibTextbookDB[10316]["itemName"] = "Pattern: Colorful Kilt"
 	LibTextbookDB[10300]["itemName"] = "Pattern: Red Mageweave Vest"
 	LibTextbookDB[10301]["itemName"] = "Pattern: White Bandit Mask"
 	LibTextbookDB[10302]["itemName"] = "Pattern: Red Mageweave Pants"
@@ -19446,16 +20009,22 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[10312]["itemName"] = "Pattern: Red Mageweave Gloves"
 	LibTextbookDB[10314]["itemName"] = "Pattern: Lavender Mageweave Shirt"
 	LibTextbookDB[10315]["itemName"] = "Pattern: Red Mageweave Shoulders"
+	LibTextbookDB[10316]["itemName"] = "Pattern: Colorful Kilt"
 	LibTextbookDB[10317]["itemName"] = "Pattern: Pink Mageweave Shirt"
 	LibTextbookDB[10318]["itemName"] = "Pattern: Admiral's Hat"
 	LibTextbookDB[10320]["itemName"] = "Pattern: Red Mageweave Headband"
 	LibTextbookDB[10321]["itemName"] = "Pattern: Tuxedo Shirt"
-	LibTextbookDB[10463]["itemName"] = "Pattern: Shadoweave Mask"
 	LibTextbookDB[10323]["itemName"] = "Pattern: Tuxedo Pants"
 	LibTextbookDB[10325]["itemName"] = "Pattern: White Wedding Dress"
 	LibTextbookDB[10326]["itemName"] = "Pattern: Tuxedo Jacket"
+	LibTextbookDB[10360]["itemName"] = "Black Kingsnake"
+	LibTextbookDB[10361]["itemName"] = "Brown Snake"
+	LibTextbookDB[10392]["itemName"] = "Crimson Snake"
+	LibTextbookDB[10393]["itemName"] = "Cockroach"
+	LibTextbookDB[10394]["itemName"] = "Prairie Dog Whistle"
 	LibTextbookDB[10398]["itemName"] = "Mechanical Chicken"
 	LibTextbookDB[10424]["itemName"] = "Plans: Silvered Bronze Leggings"
+	LibTextbookDB[10463]["itemName"] = "Pattern: Shadoweave Mask"
 	LibTextbookDB[10601]["itemName"] = "Schematic: Bright-Eye Goggles"
 	LibTextbookDB[10602]["itemName"] = "Schematic: Deadly Scope"
 	LibTextbookDB[10603]["itemName"] = "Schematic: Catseye Ultra Goggles"
@@ -19465,6 +20034,14 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[10607]["itemName"] = "Schematic: Deepdive Helmet"
 	LibTextbookDB[10608]["itemName"] = "Schematic: Sniper Scope"
 	LibTextbookDB[10609]["itemName"] = "Schematic: Mithril Mechanical Dragonling"
+	LibTextbookDB[10644]["itemName"] = "Recipe: Goblin Rocket Fuel"
+	LibTextbookDB[10713]["itemName"] = "Plans: Inlaid Mithril Cylinder"
+	LibTextbookDB[10728]["itemName"] = "Pattern: Black Swashbuckler's Shirt"
+	LibTextbookDB[10822]["itemName"] = "Dark Whelpling"
+	LibTextbookDB[10858]["itemName"] = "Plans: Solid Iron Maul"
+	LibTextbookDB[11023]["itemName"] = "Ancona Chicken"
+	LibTextbookDB[11026]["itemName"] = "Tree Frog Box"
+	LibTextbookDB[11027]["itemName"] = "Wood Frog Box"
 	LibTextbookDB[11038]["itemName"] = "Formula: Enchant 2H Weapon - Lesser Spirit"
 	LibTextbookDB[11039]["itemName"] = "Formula: Enchant Cloak - Minor Agility"
 	LibTextbookDB[11081]["itemName"] = "Formula: Enchant Shield - Lesser Protection"
@@ -19477,9 +20054,9 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[11163]["itemName"] = "Formula: Enchant Bracer - Lesser Deflection"
 	LibTextbookDB[11164]["itemName"] = "Formula: Enchant Weapon - Lesser Beastslayer"
 	LibTextbookDB[11165]["itemName"] = "Formula: Enchant Weapon - Lesser Elemental Slayer"
+	LibTextbookDB[11166]["itemName"] = "Formula: Enchant Gloves - Skinning"
 	LibTextbookDB[11167]["itemName"] = "Formula: Enchant Boots - Lesser Spirit"
 	LibTextbookDB[11168]["itemName"] = "Formula: Enchant Shield - Lesser Block"
-	LibTextbookDB[11166]["itemName"] = "Formula: Enchant Gloves - Skinning"
 	LibTextbookDB[11202]["itemName"] = "Formula: Enchant Shield - Stamina"
 	LibTextbookDB[11203]["itemName"] = "Formula: Enchant Gloves - Advanced Mining"
 	LibTextbookDB[11204]["itemName"] = "Formula: Enchant Bracer - Greater Spirit"
@@ -19491,19 +20068,21 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[11224]["itemName"] = "Formula: Enchant Shield - Frost Resistance"
 	LibTextbookDB[11225]["itemName"] = "Formula: Enchant Bracer - Greater Stamina"
 	LibTextbookDB[11226]["itemName"] = "Formula: Enchant Gloves - Riding Skill"
-	LibTextbookDB[11825]["itemName"] = "Pet Bombling"
-	LibTextbookDB[11826]["itemName"] = "Lil' Smoky"
 	LibTextbookDB[11474]["itemName"] = "Sprite Darter Egg"
 	LibTextbookDB[11610]["itemName"] = "Plans: Dark Iron Pulverizer"
-	LibTextbookDB[11614]["itemName"] = "Plans: Dark Iron Mail"
 	LibTextbookDB[11611]["itemName"] = "Plans: Dark Iron Sunderer"
-	LibTextbookDB[11615]["itemName"] = "Plans: Dark Iron Shoulders"
 	LibTextbookDB[11612]["itemName"] = "Plans: Dark Iron Plate"
-	LibTextbookDB[45050]["itemName"] = "Formula: Smoking Heart of the Mountain"
+	LibTextbookDB[11614]["itemName"] = "Plans: Dark Iron Mail"
+	LibTextbookDB[11615]["itemName"] = "Plans: Dark Iron Shoulders"
 	LibTextbookDB[11813]["itemName"] = "Formula: Smoking Heart of the Mountain"
-	LibTextbookDB[11828]["itemName"] = "Schematic: Pet Bombling"
+	LibTextbookDB[11825]["itemName"] = "Pet Bombling"
+	LibTextbookDB[11826]["itemName"] = "Lil' Smoky"
 	LibTextbookDB[11827]["itemName"] = "Schematic: Lil' Smoky"
-	LibTextbookDB[13326]["itemName"] = "White Mechanostrider Mod B"
+	LibTextbookDB[11828]["itemName"] = "Schematic: Pet Bombling"
+	LibTextbookDB[12162]["itemName"] = "Plans: Hardened Iron Shortsword"
+	LibTextbookDB[12163]["itemName"] = "Plans: Moonsteel Broadsword"
+	LibTextbookDB[12164]["itemName"] = "Plans: Massive Iron Axe"
+	LibTextbookDB[12226]["itemName"] = "Recipe: Crispy Bat Wing"
 	LibTextbookDB[12227]["itemName"] = "Recipe: Lean Wolf Steak"
 	LibTextbookDB[12228]["itemName"] = "Recipe: Roast Raptor"
 	LibTextbookDB[12229]["itemName"] = "Recipe: Hot Wolf Ribs"
@@ -19512,21 +20091,17 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[12233]["itemName"] = "Recipe: Mystery Stew"
 	LibTextbookDB[12239]["itemName"] = "Recipe: Dragonbreath Chili"
 	LibTextbookDB[12240]["itemName"] = "Recipe: Heavy Kodo Stew"
-	LibTextbookDB[16111]["itemName"] = "Recipe: Spiced Chili Crab"
-	LibTextbookDB[16110]["itemName"] = "Recipe: Monster Omelet"
-	LibTextbookDB[12226]["itemName"] = "Recipe: Crispy Bat Wing"
 	LibTextbookDB[12261]["itemName"] = "Plans: Searing Golden Blade"
 	LibTextbookDB[12264]["itemName"] = "Worg Carrier"
-	LibTextbookDB[12303]["itemName"] = "Reins of the Nightsaber"
 	LibTextbookDB[12302]["itemName"] = "Reins of the Ancient Frostsaber"
+	LibTextbookDB[12303]["itemName"] = "Reins of the Nightsaber"
 	LibTextbookDB[12325]["itemName"] = "Reins of the Primal Leopard"
 	LibTextbookDB[12326]["itemName"] = "Reins of the Tawny Sabercat"
 	LibTextbookDB[12327]["itemName"] = "Reins of the Golden Sabercat"
 	LibTextbookDB[12330]["itemName"] = "Horn of the Red Wolf"
 	LibTextbookDB[12351]["itemName"] = "Horn of the Arctic Wolf"
-	LibTextbookDB[12354]["itemName"] = "Palomino Bridle"
 	LibTextbookDB[12353]["itemName"] = "White Stallion Bridle"
-	LibTextbookDB[8586]["itemName"] = "Whistle of the Mottled Red Raptor"
+	LibTextbookDB[12354]["itemName"] = "Palomino Bridle"
 	LibTextbookDB[12529]["itemName"] = "Smolderweb Carrier"
 	LibTextbookDB[12682]["itemName"] = "Plans: Thorium Armor"
 	LibTextbookDB[12683]["itemName"] = "Plans: Thorium Belt"
@@ -19541,24 +20116,24 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[12693]["itemName"] = "Plans: Thorium Boots"
 	LibTextbookDB[12694]["itemName"] = "Plans: Thorium Helm"
 	LibTextbookDB[12695]["itemName"] = "Plans: Radiant Gloves"
-	LibTextbookDB[12699]["itemName"] = "Plans: Fiery Plate Gauntlets"
+	LibTextbookDB[12696]["itemName"] = "Plans: Demon Forged Breastplate"
 	LibTextbookDB[12697]["itemName"] = "Plans: Radiant Boots"
+	LibTextbookDB[12698]["itemName"] = "Plans: Dawnbringer Shoulders"
+	LibTextbookDB[12699]["itemName"] = "Plans: Fiery Plate Gauntlets"
 	LibTextbookDB[12700]["itemName"] = "Plans: Imperial Plate Boots"
 	LibTextbookDB[12701]["itemName"] = "Plans: Imperial Plate Helm"
 	LibTextbookDB[12702]["itemName"] = "Plans: Radiant Circlet"
-	LibTextbookDB[12698]["itemName"] = "Plans: Dawnbringer Shoulders"
 	LibTextbookDB[12703]["itemName"] = "Plans: Storm Gauntlets"
 	LibTextbookDB[12704]["itemName"] = "Plans: Thorium Leggings"
 	LibTextbookDB[12705]["itemName"] = "Plans: Imperial Plate Chest"
 	LibTextbookDB[12706]["itemName"] = "Plans: Runic Plate Shoulders"
 	LibTextbookDB[12707]["itemName"] = "Plans: Runic Plate Boots"
-	LibTextbookDB[12696]["itemName"] = "Plans: Demon Forged Breastplate"
 	LibTextbookDB[12711]["itemName"] = "Plans: Whitesoul Helm"
 	LibTextbookDB[12713]["itemName"] = "Plans: Radiant Leggings"
 	LibTextbookDB[12714]["itemName"] = "Plans: Runic Plate Helm"
+	LibTextbookDB[12715]["itemName"] = "Plans: Imperial Plate Leggings"
 	LibTextbookDB[12716]["itemName"] = "Plans: Helm of the Great Chief"
 	LibTextbookDB[12717]["itemName"] = "Plans: Lionheart Helm"
-	LibTextbookDB[12715]["itemName"] = "Plans: Imperial Plate Leggings"
 	LibTextbookDB[12718]["itemName"] = "Plans: Runic Breastplate"
 	LibTextbookDB[12719]["itemName"] = "Plans: Runic Plate Leggings"
 	LibTextbookDB[12720]["itemName"] = "Plans: Stronghold Gauntlets"
@@ -19583,13 +20158,20 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[12839]["itemName"] = "Plans: Heartseeker"
 	LibTextbookDB[12958]["itemName"] = "Recipe: Transmute Arcanite"
 	LibTextbookDB[13086]["itemName"] = "Reins of the Winterspring Frostsaber"
+	LibTextbookDB[13287]["itemName"] = "Pattern: Raptor Hide Harness"
+	LibTextbookDB[13288]["itemName"] = "Pattern: Raptor Hide Belt"
+	LibTextbookDB[13308]["itemName"] = "Schematic: Ice Deflector"
+	LibTextbookDB[13309]["itemName"] = "Schematic: Lovingly Crafted Boomstick"
+	LibTextbookDB[13310]["itemName"] = "Schematic: Accurate Scope"
+	LibTextbookDB[13311]["itemName"] = "Schematic: Mechanical Dragonling"
 	LibTextbookDB[13317]["itemName"] = "Whistle of the Ivory Raptor"
 	LibTextbookDB[13321]["itemName"] = "Green Mechanostrider"
 	LibTextbookDB[13322]["itemName"] = "Unpainted Mechanostrider"
 	LibTextbookDB[13323]["itemName"] = "Purple Mechanostrider"
+	LibTextbookDB[13326]["itemName"] = "White Mechanostrider Mod B"
 	LibTextbookDB[13327]["itemName"] = "Icy Blue Mechanostrider Mod A"
-	LibTextbookDB[13329]["itemName"] = "Frost Ram"
 	LibTextbookDB[13328]["itemName"] = "Black Ram"
+	LibTextbookDB[13329]["itemName"] = "Frost Ram"
 	LibTextbookDB[13331]["itemName"] = "Red Skeletal Horse"
 	LibTextbookDB[13332]["itemName"] = "Blue Skeletal Horse"
 	LibTextbookDB[13333]["itemName"] = "Brown Skeletal Horse"
@@ -19621,31 +20203,17 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[13501]["itemName"] = "Recipe: Major Mana Potion"
 	LibTextbookDB[13517]["itemName"] = "Recipe: Alchemist's Stone"
 	LibTextbookDB[13518]["itemName"] = "Recipe: Flask of Petrification"
-	LibTextbookDB[31354]["itemName"] = "Recipe: Flask of the Titans"
 	LibTextbookDB[13519]["itemName"] = "Recipe: Flask of the Titans"
-	LibTextbookDB[31356]["itemName"] = "Recipe: Flask of Distilled Wisdom"
 	LibTextbookDB[13520]["itemName"] = "Recipe: Flask of Distilled Wisdom"
-	LibTextbookDB[31355]["itemName"] = "Recipe: Flask of Supreme Power"
 	LibTextbookDB[13521]["itemName"] = "Recipe: Flask of Supreme Power"
-	LibTextbookDB[31357]["itemName"] = "Recipe: Flask of Chromatic Resistance"
 	LibTextbookDB[13522]["itemName"] = "Recipe: Flask of Chromatic Resistance"
+	LibTextbookDB[13582]["itemName"] = "Zergling Leash"
 	LibTextbookDB[13583]["itemName"] = "Panda Collar"
 	LibTextbookDB[13584]["itemName"] = "Diablo Stone"
-	LibTextbookDB[13582]["itemName"] = "Zergling Leash"
-	LibTextbookDB[16363]["itemName"] = "Grimoire of Suffering (Rank 1)"
-	LibTextbookDB[16364]["itemName"] = "Grimoire of Suffering (Rank 2)"
-	LibTextbookDB[16365]["itemName"] = "Grimoire of Suffering (Rank 3)"
-	LibTextbookDB[16366]["itemName"] = "Grimoire of Suffering (Rank 4)"
-	LibTextbookDB[16357]["itemName"] = "Grimoire of Consume Shadows (Rank 1)"
-	LibTextbookDB[16358]["itemName"] = "Grimoire of Consume Shadows (Rank 2)"
-	LibTextbookDB[16359]["itemName"] = "Grimoire of Consume Shadows (Rank 3)"
-	LibTextbookDB[16360]["itemName"] = "Grimoire of Consume Shadows (Rank 4)"
-	LibTextbookDB[16361]["itemName"] = "Grimoire of Consume Shadows (Rank 5)"
-	LibTextbookDB[16362]["itemName"] = "Grimoire of Consume Shadows (Rank 6)"
 	LibTextbookDB[13939]["itemName"] = "Recipe: Spotted Yellowtail"
 	LibTextbookDB[13940]["itemName"] = "Recipe: Cooked Glossy Mightfish"
-	LibTextbookDB[13942]["itemName"] = "Recipe: Grilled Squid"
 	LibTextbookDB[13941]["itemName"] = "Recipe: Filet of Redgill"
+	LibTextbookDB[13942]["itemName"] = "Recipe: Grilled Squid"
 	LibTextbookDB[13943]["itemName"] = "Recipe: Hot Smoked Bass"
 	LibTextbookDB[13945]["itemName"] = "Recipe: Nightfin Soup"
 	LibTextbookDB[13946]["itemName"] = "Recipe: Poached Sunscale Salmon"
@@ -19676,57 +20244,34 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[14488]["itemName"] = "Pattern: Runecloth Boots"
 	LibTextbookDB[14489]["itemName"] = "Pattern: Frostweave Pants"
 	LibTextbookDB[14490]["itemName"] = "Pattern: Cindercloth Pants"
-	LibTextbookDB[14493]["itemName"] = "Pattern: Robe of Winter Night"
-	LibTextbookDB[14492]["itemName"] = "Pattern: Felcloth Boots"
 	LibTextbookDB[14491]["itemName"] = "Pattern: Runecloth Pants"
+	LibTextbookDB[14492]["itemName"] = "Pattern: Felcloth Boots"
+	LibTextbookDB[14493]["itemName"] = "Pattern: Robe of Winter Night"
 	LibTextbookDB[14494]["itemName"] = "Pattern: Brightcloth Pants"
-	LibTextbookDB[14497]["itemName"] = "Pattern: Mooncloth Leggings"
 	LibTextbookDB[14495]["itemName"] = "Pattern: Ghostweave Pants"
 	LibTextbookDB[14496]["itemName"] = "Pattern: Felcloth Hood"
+	LibTextbookDB[14497]["itemName"] = "Pattern: Mooncloth Leggings"
 	LibTextbookDB[14498]["itemName"] = "Pattern: Runecloth Headband"
 	LibTextbookDB[14499]["itemName"] = "Pattern: Mooncloth Bag"
 	LibTextbookDB[14500]["itemName"] = "Pattern: Wizardweave Robe"
 	LibTextbookDB[14501]["itemName"] = "Pattern: Mooncloth Vest"
-	LibTextbookDB[14507]["itemName"] = "Pattern: Mooncloth Shoulders"
 	LibTextbookDB[14504]["itemName"] = "Pattern: Runecloth Shoulders"
 	LibTextbookDB[14505]["itemName"] = "Pattern: Wizardweave Turban"
 	LibTextbookDB[14506]["itemName"] = "Pattern: Felcloth Robe"
-	LibTextbookDB[14509]["itemName"] = "Pattern: Mooncloth Circlet"
+	LibTextbookDB[14507]["itemName"] = "Pattern: Mooncloth Shoulders"
 	LibTextbookDB[14508]["itemName"] = "Pattern: Felcloth Shoulders"
-	LibTextbookDB[14511]["itemName"] = "Pattern: Gloves of Spell Mastery"
-	LibTextbookDB[23811]["itemName"] = "Schematic: White Smoke Flare"
-	LibTextbookDB[23814]["itemName"] = "Schematic: Green Smoke Flare"
-	LibTextbookDB[23815]["itemName"] = "Schematic: Adamantite Shell Machine"
-	LibTextbookDB[23816]["itemName"] = "Schematic: Fel Iron Toolbox"
-	LibTextbookDB[23817]["itemName"] = "Schematic: Titanium Toolbox"
-	LibTextbookDB[23874]["itemName"] = "Schematic: Elemental Seaforium Charge"
-	LibTextbookDB[23888]["itemName"] = "Schematic: Zapthrottle Mote Extractor"
-	LibTextbookDB[35310]["itemName"] = "Schematic: Healing Potion Injector"
-	LibTextbookDB[23883]["itemName"] = "Schematic: Healing Potion Injector"
-	LibTextbookDB[35311]["itemName"] = "Schematic: Mana Potion Injector"
-	LibTextbookDB[23884]["itemName"] = "Schematic: Mana Potion Injector"
-	LibTextbookDB[23887]["itemName"] = "Schematic: Rocket Boots Xtreme"
-	LibTextbookDB[23885]["itemName"] = "Schematic: Remote Mail Terminal"
-	LibTextbookDB[24102]["itemName"] = "Manual of Eviscerate IX"
-	LibTextbookDB[24101]["itemName"] = "Book of Ferocious Bite V"
-	LibTextbookDB[24158]["itemName"] = "Design: Khorium Band of Shadows"
-	LibTextbookDB[24159]["itemName"] = "Design: Khorium Band of Frost"
-	LibTextbookDB[24160]["itemName"] = "Design: Khorium Inferno Band"
-	LibTextbookDB[24161]["itemName"] = "Design: Khorium Band of Leaves"
-	LibTextbookDB[24162]["itemName"] = "Design: Arcane Khorium Band"
-	LibTextbookDB[24163]["itemName"] = "Design: Heavy Felsteel Ring"
-	LibTextbookDB[24164]["itemName"] = "Design: Delicate Eternium Ring"
-	LibTextbookDB[24165]["itemName"] = "Design: Blazing Eternium Band"
-	LibTextbookDB[24174]["itemName"] = "Design: Pendant of Frozen Flame"
-	LibTextbookDB[24175]["itemName"] = "Design: Pendant of Thawing"
-	LibTextbookDB[24176]["itemName"] = "Design: Pendant of Withering"
-	LibTextbookDB[24177]["itemName"] = "Design: Pendant of Shadow's End"
+	LibTextbookDB[14509]["itemName"] = "Pattern: Mooncloth Circlet"
 	LibTextbookDB[14510]["itemName"] = "Pattern: Bottomless Bag"
+	LibTextbookDB[14511]["itemName"] = "Pattern: Gloves of Spell Mastery"
 	LibTextbookDB[14512]["itemName"] = "Pattern: Truefaith Vestments"
 	LibTextbookDB[14513]["itemName"] = "Pattern: Robe of the Archmage"
 	LibTextbookDB[14514]["itemName"] = "Pattern: Robe of the Void"
-	LibTextbookDB[4213]["itemName"] = "Grimoire of Doom"
 	LibTextbookDB[14526]["itemName"] = "Pattern: Mooncloth"
+	LibTextbookDB[14627]["itemName"] = "Pattern: Bright Yellow Shirt"
+	LibTextbookDB[14630]["itemName"] = "Pattern: Enchanter's Cowl"
+	LibTextbookDB[14634]["itemName"] = "Recipe: Frost Oil"
+	LibTextbookDB[14635]["itemName"] = "Pattern: Gem-studded Leather Belt"
+	LibTextbookDB[14639]["itemName"] = "Schematic: Minor Recombobulator"
 	LibTextbookDB[15277]["itemName"] = "Gray Kodo"
 	LibTextbookDB[15290]["itemName"] = "Brown Kodo"
 	LibTextbookDB[15292]["itemName"] = "Green Kodo"
@@ -19748,7 +20293,6 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[15739]["itemName"] = "Pattern: Runic Leather Bracers"
 	LibTextbookDB[15740]["itemName"] = "Pattern: Frostsaber Boots"
 	LibTextbookDB[15741]["itemName"] = "Pattern: Stormshroud Pants"
-	LibTextbookDB[20253]["itemName"] = "Pattern: Warbear Harness"
 	LibTextbookDB[15742]["itemName"] = "Pattern: Warbear Harness"
 	LibTextbookDB[15743]["itemName"] = "Pattern: Heavy Scorpid Belt"
 	LibTextbookDB[15744]["itemName"] = "Pattern: Wicked Leather Headband"
@@ -19760,7 +20304,6 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[15751]["itemName"] = "Pattern: Blue Dragonscale Breastplate"
 	LibTextbookDB[15752]["itemName"] = "Pattern: Living Leggings"
 	LibTextbookDB[15753]["itemName"] = "Pattern: Stormshroud Armor"
-	LibTextbookDB[20254]["itemName"] = "Pattern: Warbear Woolies"
 	LibTextbookDB[15754]["itemName"] = "Pattern: Warbear Woolies"
 	LibTextbookDB[15755]["itemName"] = "Pattern: Chimeric Vest"
 	LibTextbookDB[15756]["itemName"] = "Pattern: Runic Leather Headband"
@@ -19785,64 +20328,133 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[15777]["itemName"] = "Pattern: Runic Leather Shoulders"
 	LibTextbookDB[15779]["itemName"] = "Pattern: Frostsaber Tunic"
 	LibTextbookDB[15781]["itemName"] = "Pattern: Black Dragonscale Leggings"
-	LibTextbookDB[16388]["itemName"] = "Grimoire of Spell Lock (Rank 1)"
-	LibTextbookDB[16352]["itemName"] = "Grimoire of Sacrifice (Rank 2)"
-	LibTextbookDB[16353]["itemName"] = "Grimoire of Sacrifice (Rank 3)"
-	LibTextbookDB[16354]["itemName"] = "Grimoire of Sacrifice (Rank 4)"
-	LibTextbookDB[16355]["itemName"] = "Grimoire of Sacrifice (Rank 5)"
-	LibTextbookDB[16356]["itemName"] = "Grimoire of Sacrifice (Rank 6)"
-	LibTextbookDB[16384]["itemName"] = "Grimoire of Tainted Blood (Rank 1)"
-	LibTextbookDB[16390]["itemName"] = "Grimoire of Paranoia"
-	LibTextbookDB[16389]["itemName"] = "Grimoire of Spell Lock (Rank 2)"
-	LibTextbookDB[16385]["itemName"] = "Grimoire of Tainted Blood (Rank 2)"
-	LibTextbookDB[16386]["itemName"] = "Grimoire of Tainted Blood (Rank 3)"
-	LibTextbookDB[16387]["itemName"] = "Grimoire of Tainted Blood (Rank 4)"
-	LibTextbookDB[16381]["itemName"] = "Grimoire of Devour Magic (Rank 2)"
-	LibTextbookDB[16382]["itemName"] = "Grimoire of Devour Magic (Rank 3)"
-	LibTextbookDB[16383]["itemName"] = "Grimoire of Devour Magic (Rank 4)"
 	LibTextbookDB[15996]["itemName"] = "Lifelike Mechanical Toad"
 	LibTextbookDB[16041]["itemName"] = "Schematic: Thorium Grenade"
 	LibTextbookDB[16042]["itemName"] = "Schematic: Thorium Widget"
 	LibTextbookDB[16043]["itemName"] = "Schematic: Thorium Rifle"
 	LibTextbookDB[16044]["itemName"] = "Schematic: Lifelike Mechanical Toad"
 	LibTextbookDB[16045]["itemName"] = "Schematic: Spellpower Goggles Xtreme Plus"
+	LibTextbookDB[16046]["itemName"] = "Schematic: Masterwork Target Dummy"
+	LibTextbookDB[22540]["itemName"] = "Formula: Enchant Shield - Shield Block"
+	LibTextbookDB[22541]["itemName"] = "Formula: Enchant Shield - Resistance"
+	LibTextbookDB[22542]["itemName"] = "Formula: Enchant Boots - Vitality"
+	LibTextbookDB[22543]["itemName"] = "Formula: Enchant Boots - Fortitude"
+	LibTextbookDB[22544]["itemName"] = "Formula: Enchant Boots - Dexterity"
+	LibTextbookDB[22545]["itemName"] = "Formula: Enchant Boots - Surefooted"
+	LibTextbookDB[22547]["itemName"] = "Formula: Enchant Chest - Exceptional Stats"
+	LibTextbookDB[22548]["itemName"] = "Formula: Enchant Cloak - Major Resistance"
+	LibTextbookDB[22551]["itemName"] = "Formula: Enchant Weapon - Major Intellect"
+	LibTextbookDB[22552]["itemName"] = "Formula: Enchant Weapon - Major Striking"
+	LibTextbookDB[22553]["itemName"] = "Formula: Enchant Weapon - Potency"
+	LibTextbookDB[22554]["itemName"] = "Formula: Enchant 2H Weapon - Savagery"
+	LibTextbookDB[22555]["itemName"] = "Formula: Enchant Weapon - Major Spellpower"
+	LibTextbookDB[22556]["itemName"] = "Formula: Enchant 2H Weapon - Major Agility"
+	LibTextbookDB[22557]["itemName"] = "Formula: Enchant Weapon - Battlemaster"
+	LibTextbookDB[22558]["itemName"] = "Formula: Enchant Weapon - Spellsurge"
+	LibTextbookDB[22559]["itemName"] = "Formula: Enchant Weapon - Mongoose"
 	LibTextbookDB[16047]["itemName"] = "Schematic: Thorium Tube"
 	LibTextbookDB[16048]["itemName"] = "Schematic: Dark Iron Rifle"
 	LibTextbookDB[16049]["itemName"] = "Schematic: Dark Iron Bomb"
-	LibTextbookDB[16051]["itemName"] = "Schematic: Thorium Shells"
-	LibTextbookDB[16665]["itemName"] = "Tome of Tranquilizing Shot"
-	LibTextbookDB[16046]["itemName"] = "Schematic: Masterwork Target Dummy"
 	LibTextbookDB[16050]["itemName"] = "Schematic: Delicate Arcanite Converter"
+	LibTextbookDB[16051]["itemName"] = "Schematic: Thorium Shells"
 	LibTextbookDB[16052]["itemName"] = "Schematic: Voice Amplification Modulator"
 	LibTextbookDB[16053]["itemName"] = "Schematic: Master Engineer's Goggles"
 	LibTextbookDB[16054]["itemName"] = "Schematic: Arcanite Dragonling"
 	LibTextbookDB[16055]["itemName"] = "Schematic: Arcane Bomb"
 	LibTextbookDB[16056]["itemName"] = "Schematic: Flawless Arcanite Rifle"
+	LibTextbookDB[16072]["itemName"] = "Expert Cookbook"
+	LibTextbookDB[16083]["itemName"] = "Expert Fishing - The Bass and You"
+	LibTextbookDB[16084]["itemName"] = "Expert First Aid - Under Wraps"
+	LibTextbookDB[16085]["itemName"] = "Artisan First Aid - Heal Thyself"
+	LibTextbookDB[16110]["itemName"] = "Recipe: Monster Omelet"
+	LibTextbookDB[16111]["itemName"] = "Recipe: Spiced Chili Crab"
+	LibTextbookDB[16112]["itemName"] = "Manual: Heavy Silk Bandage"
+	LibTextbookDB[16113]["itemName"] = "Manual: Mageweave Bandage"
 	LibTextbookDB[16214]["itemName"] = "Formula: Enchant Bracer - Greater Intellect"
-	LibTextbookDB[16218]["itemName"] = "Formula: Enchant Bracer - Superior Spirit"
-	LibTextbookDB[16246]["itemName"] = "Formula: Enchant Bracer - Superior Strength"
-	LibTextbookDB[16251]["itemName"] = "Formula: Enchant Bracer - Superior Stamina"
-	LibTextbookDB[16219]["itemName"] = "Formula: Enchant Gloves - Greater Agility"
-	LibTextbookDB[16244]["itemName"] = "Formula: Enchant Gloves - Greater Strength"
-	LibTextbookDB[16216]["itemName"] = "Formula: Enchant Cloak - Greater Resistance"
-	LibTextbookDB[16224]["itemName"] = "Formula: Enchant Cloak - Superior Defense"
-	LibTextbookDB[16222]["itemName"] = "Formula: Enchant Shield - Superior Spirit"
-	LibTextbookDB[16217]["itemName"] = "Formula: Enchant Shield - Greater Stamina"
 	LibTextbookDB[16215]["itemName"] = "Formula: Enchant Boots - Greater Stamina"
-	LibTextbookDB[16245]["itemName"] = "Formula: Enchant Boots - Greater Agility"
+	LibTextbookDB[16216]["itemName"] = "Formula: Enchant Cloak - Greater Resistance"
+	LibTextbookDB[16217]["itemName"] = "Formula: Enchant Shield - Greater Stamina"
+	LibTextbookDB[16218]["itemName"] = "Formula: Enchant Bracer - Superior Spirit"
+	LibTextbookDB[16219]["itemName"] = "Formula: Enchant Gloves - Greater Agility"
 	LibTextbookDB[16220]["itemName"] = "Formula: Enchant Boots - Spirit"
-	LibTextbookDB[16253]["itemName"] = "Formula: Enchant Chest - Greater Stats"
 	LibTextbookDB[16221]["itemName"] = "Formula: Enchant Chest - Major Health"
-	LibTextbookDB[16242]["itemName"] = "Formula: Enchant Chest - Major Mana"
+	LibTextbookDB[16222]["itemName"] = "Formula: Enchant Shield - Superior Spirit"
 	LibTextbookDB[16223]["itemName"] = "Formula: Enchant Weapon - Icy Chill"
-	LibTextbookDB[16247]["itemName"] = "Formula: Enchant 2H Weapon - Superior Impact"
-	LibTextbookDB[16250]["itemName"] = "Formula: Enchant Weapon - Superior Striking"
-	LibTextbookDB[16254]["itemName"] = "Formula: Enchant Weapon - Lifestealing"
-	LibTextbookDB[16248]["itemName"] = "Formula: Enchant Weapon - Unholy"
-	LibTextbookDB[16252]["itemName"] = "Formula: Enchant Weapon - Crusader"
-	LibTextbookDB[16255]["itemName"] = "Formula: Enchant 2H Weapon - Major Spirit"
-	LibTextbookDB[16249]["itemName"] = "Formula: Enchant 2H Weapon - Major Intellect"
+	LibTextbookDB[16224]["itemName"] = "Formula: Enchant Cloak - Superior Defense"
+	LibTextbookDB[16242]["itemName"] = "Formula: Enchant Chest - Major Mana"
 	LibTextbookDB[16243]["itemName"] = "Formula: Runed Arcanite Rod"
+	LibTextbookDB[16244]["itemName"] = "Formula: Enchant Gloves - Greater Strength"
+	LibTextbookDB[16245]["itemName"] = "Formula: Enchant Boots - Greater Agility"
+	LibTextbookDB[16246]["itemName"] = "Formula: Enchant Bracer - Superior Strength"
+	LibTextbookDB[16247]["itemName"] = "Formula: Enchant 2H Weapon - Superior Impact"
+	LibTextbookDB[16248]["itemName"] = "Formula: Enchant Weapon - Unholy"
+	LibTextbookDB[16249]["itemName"] = "Formula: Enchant 2H Weapon - Major Intellect"
+	LibTextbookDB[16250]["itemName"] = "Formula: Enchant Weapon - Superior Striking"
+	LibTextbookDB[16251]["itemName"] = "Formula: Enchant Bracer - Superior Stamina"
+	LibTextbookDB[16252]["itemName"] = "Formula: Enchant Weapon - Crusader"
+	LibTextbookDB[16253]["itemName"] = "Formula: Enchant Chest - Greater Stats"
+	LibTextbookDB[16254]["itemName"] = "Formula: Enchant Weapon - Lifestealing"
+	LibTextbookDB[16255]["itemName"] = "Formula: Enchant 2H Weapon - Major Spirit"
+	LibTextbookDB[16302]["itemName"] = "Grimoire of Firebolt (Rank 2)"
+	LibTextbookDB[16316]["itemName"] = "Grimoire of Firebolt (Rank 3)"
+	LibTextbookDB[16317]["itemName"] = "Grimoire of Firebolt (Rank 4)"
+	LibTextbookDB[16318]["itemName"] = "Grimoire of Firebolt (Rank 5)"
+	LibTextbookDB[16319]["itemName"] = "Grimoire of Firebolt (Rank 6)"
+	LibTextbookDB[16320]["itemName"] = "Grimoire of Firebolt (Rank 7)"
+	LibTextbookDB[16321]["itemName"] = "Grimoire of Blood Pact (Rank 1)"
+	LibTextbookDB[16322]["itemName"] = "Grimoire of Blood Pact (Rank 2)"
+	LibTextbookDB[16323]["itemName"] = "Grimoire of Blood Pact (Rank 3)"
+	LibTextbookDB[16324]["itemName"] = "Grimoire of Blood Pact (Rank 4)"
+	LibTextbookDB[16325]["itemName"] = "Grimoire of Blood Pact (Rank 5)"
+	LibTextbookDB[16326]["itemName"] = "Grimoire of Fire Shield (Rank 1)"
+	LibTextbookDB[16327]["itemName"] = "Grimoire of Fire Shield (Rank 2)"
+	LibTextbookDB[16328]["itemName"] = "Grimoire of Fire Shield (Rank 3)"
+	LibTextbookDB[16329]["itemName"] = "Grimoire of Fire Shield (Rank 4)"
+	LibTextbookDB[16330]["itemName"] = "Grimoire of Fire Shield (Rank 5)"
+	LibTextbookDB[16331]["itemName"] = "Grimoire of Phase Shift"
+	LibTextbookDB[16346]["itemName"] = "Grimoire of Torment (Rank 2)"
+	LibTextbookDB[16347]["itemName"] = "Grimoire of Torment (Rank 3)"
+	LibTextbookDB[16348]["itemName"] = "Grimoire of Torment (Rank 4)"
+	LibTextbookDB[16349]["itemName"] = "Grimoire of Torment (Rank 5)"
+	LibTextbookDB[16350]["itemName"] = "Grimoire of Torment (Rank 6)"
+	LibTextbookDB[16351]["itemName"] = "Grimoire of Sacrifice (Rank 1)"
+	LibTextbookDB[16352]["itemName"] = "Grimoire of Sacrifice (Rank 2)"
+	LibTextbookDB[16353]["itemName"] = "Grimoire of Sacrifice (Rank 3)"
+	LibTextbookDB[16354]["itemName"] = "Grimoire of Sacrifice (Rank 4)"
+	LibTextbookDB[16355]["itemName"] = "Grimoire of Sacrifice (Rank 5)"
+	LibTextbookDB[16356]["itemName"] = "Grimoire of Sacrifice (Rank 6)"
+	LibTextbookDB[16357]["itemName"] = "Grimoire of Consume Shadows (Rank 1)"
+	LibTextbookDB[16358]["itemName"] = "Grimoire of Consume Shadows (Rank 2)"
+	LibTextbookDB[16359]["itemName"] = "Grimoire of Consume Shadows (Rank 3)"
+	LibTextbookDB[16360]["itemName"] = "Grimoire of Consume Shadows (Rank 4)"
+	LibTextbookDB[16361]["itemName"] = "Grimoire of Consume Shadows (Rank 5)"
+	LibTextbookDB[16362]["itemName"] = "Grimoire of Consume Shadows (Rank 6)"
+	LibTextbookDB[16363]["itemName"] = "Grimoire of Suffering (Rank 1)"
+	LibTextbookDB[16364]["itemName"] = "Grimoire of Suffering (Rank 2)"
+	LibTextbookDB[16365]["itemName"] = "Grimoire of Suffering (Rank 3)"
+	LibTextbookDB[16366]["itemName"] = "Grimoire of Suffering (Rank 4)"
+	LibTextbookDB[16368]["itemName"] = "Grimoire of Lash of Pain (Rank 2)"
+	LibTextbookDB[16371]["itemName"] = "Grimoire of Lash of Pain (Rank 3)"
+	LibTextbookDB[16372]["itemName"] = "Grimoire of Lash of Pain (Rank 4)"
+	LibTextbookDB[16373]["itemName"] = "Grimoire of Lash of Pain (Rank 5)"
+	LibTextbookDB[16374]["itemName"] = "Grimoire of Lash of Pain (Rank 6)"
+	LibTextbookDB[16375]["itemName"] = "Grimoire of Soothing Kiss (Rank 1)"
+	LibTextbookDB[16376]["itemName"] = "Grimoire of Soothing Kiss (Rank 2)"
+	LibTextbookDB[16377]["itemName"] = "Grimoire of Soothing Kiss (Rank 3)"
+	LibTextbookDB[16378]["itemName"] = "Grimoire of Soothing Kiss (Rank 4)"
+	LibTextbookDB[16379]["itemName"] = "Grimoire of Seduction"
+	LibTextbookDB[16380]["itemName"] = "Grimoire of Lesser Invisibility"
+	LibTextbookDB[16381]["itemName"] = "Grimoire of Devour Magic (Rank 2)"
+	LibTextbookDB[16382]["itemName"] = "Grimoire of Devour Magic (Rank 3)"
+	LibTextbookDB[16383]["itemName"] = "Grimoire of Devour Magic (Rank 4)"
+	LibTextbookDB[16384]["itemName"] = "Grimoire of Tainted Blood (Rank 1)"
+	LibTextbookDB[16385]["itemName"] = "Grimoire of Tainted Blood (Rank 2)"
+	LibTextbookDB[16386]["itemName"] = "Grimoire of Tainted Blood (Rank 3)"
+	LibTextbookDB[16387]["itemName"] = "Grimoire of Tainted Blood (Rank 4)"
+	LibTextbookDB[16388]["itemName"] = "Grimoire of Spell Lock (Rank 1)"
+	LibTextbookDB[16389]["itemName"] = "Grimoire of Spell Lock (Rank 2)"
+	LibTextbookDB[16390]["itemName"] = "Grimoire of Paranoia"
+	LibTextbookDB[16665]["itemName"] = "Tome of Tranquilizing Shot"
 	LibTextbookDB[16767]["itemName"] = "Recipe: Undermine Clam Chowder"
 	LibTextbookDB[17017]["itemName"] = "Pattern: Flarecore Mantle"
 	LibTextbookDB[17018]["itemName"] = "Pattern: Flarecore Gloves"
@@ -19850,35 +20462,27 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[17023]["itemName"] = "Pattern: Molten Helm"
 	LibTextbookDB[17025]["itemName"] = "Pattern: Black Dragonscale Boots"
 	LibTextbookDB[17049]["itemName"] = "Plans: Fiery Chain Girdle"
-	LibTextbookDB[17053]["itemName"] = "Plans: Fiery Chain Shoulders"
 	LibTextbookDB[17051]["itemName"] = "Plans: Dark Iron Bracers"
 	LibTextbookDB[17052]["itemName"] = "Plans: Dark Iron Leggings"
+	LibTextbookDB[17053]["itemName"] = "Plans: Fiery Chain Shoulders"
 	LibTextbookDB[17059]["itemName"] = "Plans: Dark Iron Reaver"
 	LibTextbookDB[17060]["itemName"] = "Plans: Dark Iron Destroyer"
 	LibTextbookDB[17062]["itemName"] = "Recipe: Mithril Head Trout"
 	LibTextbookDB[17200]["itemName"] = "Recipe: Gingerbread Cookie"
 	LibTextbookDB[17201]["itemName"] = "Recipe: Egg Nog"
-	LibTextbookDB[18592]["itemName"] = "Plans: Sulfuron Hammer"
 	LibTextbookDB[17413]["itemName"] = "Codex: Prayer of Fortitude"
 	LibTextbookDB[17414]["itemName"] = "Codex: Prayer of Fortitude II"
 	LibTextbookDB[17682]["itemName"] = "Book: Gift of the Wild"
 	LibTextbookDB[17683]["itemName"] = "Book: Gift of the Wild II"
 	LibTextbookDB[17706]["itemName"] = "Plans: Edge of Winter"
 	LibTextbookDB[17709]["itemName"] = "Recipe: Elixir of Frost Power"
-	LibTextbookDB[17725]["itemName"] = "Formula: Enchant Weapon - Winter's Might"
 	LibTextbookDB[17720]["itemName"] = "Schematic: Snowmaster 9000"
 	LibTextbookDB[17722]["itemName"] = "Pattern: Gloves of the Greatfather"
 	LibTextbookDB[17724]["itemName"] = "Pattern: Green Holiday Shirt"
+	LibTextbookDB[17725]["itemName"] = "Formula: Enchant Weapon - Winter's Might"
 	LibTextbookDB[18046]["itemName"] = "Recipe: Tender Wolf Steak"
+	LibTextbookDB[18160]["itemName"] = "Recipe: Thistle Tea"
 	LibTextbookDB[18239]["itemName"] = "Pattern: Shadowskin Gloves"
-	LibTextbookDB[29468]["itemName"] = "Black War Steed Bridle"
-	LibTextbookDB[29466]["itemName"] = "Black War Kodo"
-	LibTextbookDB[29465]["itemName"] = "Black Battlestrider"
-	LibTextbookDB[29467]["itemName"] = "Black War Ram"
-	LibTextbookDB[29472]["itemName"] = "Whistle of the Black War Raptor"
-	LibTextbookDB[29470]["itemName"] = "Red Skeletal Warhorse"
-	LibTextbookDB[29471]["itemName"] = "Reins of the Black War Tiger"
-	LibTextbookDB[29469]["itemName"] = "Horn of the Black War Wolf"
 	LibTextbookDB[18252]["itemName"] = "Pattern: Core Armor Kit"
 	LibTextbookDB[18257]["itemName"] = "Recipe: Major Rejuvenation Potion"
 	LibTextbookDB[18259]["itemName"] = "Formula: Enchant Weapon - Spell Power"
@@ -19887,8 +20491,8 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[18265]["itemName"] = "Pattern: Flarecore Wraps"
 	LibTextbookDB[18267]["itemName"] = "Recipe: Runn Tum Tuber Surprise"
 	LibTextbookDB[18290]["itemName"] = "Schematic: Biznicks 247x128 Accurascope"
-	LibTextbookDB[18292]["itemName"] = "Schematic: Core Marksman Rifle"
 	LibTextbookDB[18291]["itemName"] = "Schematic: Force Reactive Disk"
+	LibTextbookDB[18292]["itemName"] = "Schematic: Core Marksman Rifle"
 	LibTextbookDB[18414]["itemName"] = "Pattern: Belt of the Archmage"
 	LibTextbookDB[18415]["itemName"] = "Pattern: Felcloth Gloves"
 	LibTextbookDB[18416]["itemName"] = "Pattern: Inferno Gloves"
@@ -19901,41 +20505,41 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[18517]["itemName"] = "Pattern: Chromatic Cloak"
 	LibTextbookDB[18518]["itemName"] = "Pattern: Hide of the Wild"
 	LibTextbookDB[18519]["itemName"] = "Pattern: Shifting Cloak"
-	LibTextbookDB[44956]["itemName"] = "Goblin's Guide to Elementium"
+	LibTextbookDB[18592]["itemName"] = "Plans: Sulfuron Hammer"
 	LibTextbookDB[18600]["itemName"] = "Tome of Arcane Brilliance"
 	LibTextbookDB[18647]["itemName"] = "Schematic: Red Firework"
-	LibTextbookDB[18649]["itemName"] = "Schematic: Blue Firework"
 	LibTextbookDB[18648]["itemName"] = "Schematic: Green Firework"
+	LibTextbookDB[18649]["itemName"] = "Schematic: Blue Firework"
 	LibTextbookDB[18650]["itemName"] = "Schematic: EZ-Thro Dynamite II"
 	LibTextbookDB[18651]["itemName"] = "Schematic: Truesilver Transformer"
 	LibTextbookDB[18652]["itemName"] = "Schematic: Gyrofreeze Ice Reflector"
 	LibTextbookDB[18653]["itemName"] = "Schematic: Goblin Jumper Cables XL"
+	LibTextbookDB[18654]["itemName"] = "Schematic: Gnomish Alarm-O-Bot"
 	LibTextbookDB[18655]["itemName"] = "Schematic: Major Recombobulator"
 	LibTextbookDB[18656]["itemName"] = "Schematic: Powerful Seaforium Charge"
 	LibTextbookDB[18657]["itemName"] = "Schematic: Hyper-Radiant Flame Reflector"
 	LibTextbookDB[18658]["itemName"] = "Schematic: Ultra-Flash Shadow Reflector"
-	LibTextbookDB[18654]["itemName"] = "Schematic: Gnomish Alarm-O-Bot"
 	LibTextbookDB[18661]["itemName"] = "Schematic: World Enlarger"
 	LibTextbookDB[18731]["itemName"] = "Pattern: Heavy Leather Ball"
+	LibTextbookDB[18766]["itemName"] = "Reins of the Swift Frostsaber"
 	LibTextbookDB[18767]["itemName"] = "Reins of the Swift Mistsaber"
 	LibTextbookDB[18768]["itemName"] = "Reins of the Swift Dawnsaber"
-	LibTextbookDB[18766]["itemName"] = "Reins of the Swift Frostsaber"
-	LibTextbookDB[18774]["itemName"] = "Swift Yellow Mechanostrider"
-	LibTextbookDB[18773]["itemName"] = "Swift White Mechanostrider"
 	LibTextbookDB[18772]["itemName"] = "Swift Green Mechanostrider"
+	LibTextbookDB[18773]["itemName"] = "Swift White Mechanostrider"
+	LibTextbookDB[18774]["itemName"] = "Swift Yellow Mechanostrider"
 	LibTextbookDB[18776]["itemName"] = "Swift Palomino"
-	LibTextbookDB[18778]["itemName"] = "Swift White Steed"
 	LibTextbookDB[18777]["itemName"] = "Swift Brown Steed"
+	LibTextbookDB[18778]["itemName"] = "Swift White Steed"
+	LibTextbookDB[18785]["itemName"] = "Swift White Ram"
 	LibTextbookDB[18786]["itemName"] = "Swift Brown Ram"
 	LibTextbookDB[18787]["itemName"] = "Swift Gray Ram"
-	LibTextbookDB[18785]["itemName"] = "Swift White Ram"
 	LibTextbookDB[18788]["itemName"] = "Swift Blue Raptor"
 	LibTextbookDB[18789]["itemName"] = "Swift Olive Raptor"
 	LibTextbookDB[18790]["itemName"] = "Swift Orange Raptor"
 	LibTextbookDB[18791]["itemName"] = "Purple Skeletal Warhorse"
 	LibTextbookDB[18793]["itemName"] = "Great White Kodo"
-	LibTextbookDB[18795]["itemName"] = "Great Gray Kodo"
 	LibTextbookDB[18794]["itemName"] = "Great Brown Kodo"
+	LibTextbookDB[18795]["itemName"] = "Great Gray Kodo"
 	LibTextbookDB[18796]["itemName"] = "Horn of the Swift Brown Wolf"
 	LibTextbookDB[18797]["itemName"] = "Horn of the Swift Timber Wolf"
 	LibTextbookDB[18798]["itemName"] = "Horn of the Swift Gray Wolf"
@@ -19947,8 +20551,8 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[19054]["itemName"] = "Red Dragon Orb"
 	LibTextbookDB[19055]["itemName"] = "Green Dragon Orb"
 	LibTextbookDB[19202]["itemName"] = "Plans: Heavy Timbermaw Belt"
-	LibTextbookDB[19204]["itemName"] = "Plans: Heavy Timbermaw Boots"
 	LibTextbookDB[19203]["itemName"] = "Plans: Girdle of the Dawn"
+	LibTextbookDB[19204]["itemName"] = "Plans: Heavy Timbermaw Boots"
 	LibTextbookDB[19205]["itemName"] = "Plans: Gloves of the Dawn"
 	LibTextbookDB[19206]["itemName"] = "Plans: Dark Iron Helm"
 	LibTextbookDB[19207]["itemName"] = "Plans: Dark Iron Gauntlets"
@@ -19958,9 +20562,9 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[19211]["itemName"] = "Plans: Blackguard"
 	LibTextbookDB[19212]["itemName"] = "Plans: Nightfall"
 	LibTextbookDB[19215]["itemName"] = "Pattern: Wisdom of the Timbermaw"
-	LibTextbookDB[19218]["itemName"] = "Pattern: Mantle of the Timbermaw"
 	LibTextbookDB[19216]["itemName"] = "Pattern: Argent Boots"
 	LibTextbookDB[19217]["itemName"] = "Pattern: Argent Shoulders"
+	LibTextbookDB[19218]["itemName"] = "Pattern: Mantle of the Timbermaw"
 	LibTextbookDB[19219]["itemName"] = "Pattern: Flarecore Robe"
 	LibTextbookDB[19220]["itemName"] = "Pattern: Flarecore Leggings"
 	LibTextbookDB[19326]["itemName"] = "Pattern: Might of the Timbermaw"
@@ -20003,6 +20607,8 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[20014]["itemName"] = "Recipe: Major Troll's Blood Elixir"
 	LibTextbookDB[20040]["itemName"] = "Plans: Dark Iron Boots"
 	LibTextbookDB[20075]["itemName"] = "Recipe: Heavy Crocolisk Stew"
+	LibTextbookDB[20253]["itemName"] = "Pattern: Warbear Harness"
+	LibTextbookDB[20254]["itemName"] = "Pattern: Warbear Woolies"
 	LibTextbookDB[20371]["itemName"] = "Blue Murloc Egg"
 	LibTextbookDB[20382]["itemName"] = "Pattern: Dreamscale Breastplate"
 	LibTextbookDB[20506]["itemName"] = "Pattern: Spitfire Bracers"
@@ -20012,71 +20618,35 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[20510]["itemName"] = "Pattern: Sandstalker Gauntlets"
 	LibTextbookDB[20511]["itemName"] = "Pattern: Sandstalker Breastplate"
 	LibTextbookDB[20546]["itemName"] = "Pattern: Runed Stygian Leggings"
-	LibTextbookDB[20548]["itemName"] = "Pattern: Runed Stygian Belt"
 	LibTextbookDB[20547]["itemName"] = "Pattern: Runed Stygian Boots"
+	LibTextbookDB[20548]["itemName"] = "Pattern: Runed Stygian Belt"
 	LibTextbookDB[20553]["itemName"] = "Plans: Darkrune Gauntlets"
-	LibTextbookDB[20555]["itemName"] = "Plans: Darkrune Helm"
 	LibTextbookDB[20554]["itemName"] = "Plans: Darkrune Breastplate"
+	LibTextbookDB[20555]["itemName"] = "Plans: Darkrune Helm"
 	LibTextbookDB[20576]["itemName"] = "Pattern: Black Whelp Tunic"
-	LibTextbookDB[30360]["itemName"] = "Lurky's Egg"
-	LibTextbookDB[33153]["itemName"] = "Formula: Enchant Gloves - Threat"
 	LibTextbookDB[20726]["itemName"] = "Formula: Enchant Gloves - Threat"
 	LibTextbookDB[20727]["itemName"] = "Formula: Enchant Gloves - Shadow Power"
 	LibTextbookDB[20728]["itemName"] = "Formula: Enchant Gloves - Frost Power"
 	LibTextbookDB[20729]["itemName"] = "Formula: Enchant Gloves - Fire Power"
 	LibTextbookDB[20730]["itemName"] = "Formula: Enchant Gloves - Healing Power"
-	LibTextbookDB[33152]["itemName"] = "Formula: Enchant Gloves - Superior Agility"
 	LibTextbookDB[20731]["itemName"] = "Formula: Enchant Gloves - Superior Agility"
 	LibTextbookDB[20732]["itemName"] = "Formula: Enchant Cloak - Greater Fire Resistance"
 	LibTextbookDB[20733]["itemName"] = "Formula: Enchant Cloak - Greater Nature Resistance"
-	LibTextbookDB[33149]["itemName"] = "Formula: Enchant Cloak - Stealth"
 	LibTextbookDB[20734]["itemName"] = "Formula: Enchant Cloak - Stealth"
-	LibTextbookDB[33147]["itemName"] = "Formula: Enchant Cloak - Subtlety"
-	LibTextbookDB[33150]["itemName"] = "Formula: Enchant Cloak - Subtlety"
-	LibTextbookDB[33151]["itemName"] = "Formula: Enchant Cloak - Subtlety"
 	LibTextbookDB[20735]["itemName"] = "Formula: Enchant Cloak - Subtlety"
-	LibTextbookDB[33148]["itemName"] = "Formula: Enchant Cloak - Dodge"
 	LibTextbookDB[20736]["itemName"] = "Formula: Enchant Cloak - Dodge"
-	LibTextbookDB[20758]["itemName"] = "Formula: Minor Wizard Oil"
 	LibTextbookDB[20752]["itemName"] = "Formula: Minor Mana Oil"
 	LibTextbookDB[20753]["itemName"] = "Formula: Lesser Wizard Oil"
 	LibTextbookDB[20754]["itemName"] = "Formula: Lesser Mana Oil"
 	LibTextbookDB[20755]["itemName"] = "Formula: Wizard Oil"
 	LibTextbookDB[20756]["itemName"] = "Formula: Brilliant Wizard Oil"
 	LibTextbookDB[20757]["itemName"] = "Formula: Brilliant Mana Oil"
+	LibTextbookDB[20758]["itemName"] = "Formula: Minor Wizard Oil"
 	LibTextbookDB[20761]["itemName"] = "Recipe: Transmute Elemental Fire"
 	LibTextbookDB[20769]["itemName"] = "Disgusting Oozeling"
-	LibTextbookDB[21297]["itemName"] = "Manual of Heroic Strike IX"
-	LibTextbookDB[21299]["itemName"] = "Manual of Revenge VI"
-	LibTextbookDB[21298]["itemName"] = "Manual of Battle Shout VII"
-	LibTextbookDB[21288]["itemName"] = "Libram: Blessing of Wisdom VI"
-	LibTextbookDB[21289]["itemName"] = "Libram: Blessing of Might VII"
-	LibTextbookDB[21290]["itemName"] = "Libram: Holy Light IX"
-	LibTextbookDB[21304]["itemName"] = "Guide: Multi-Shot V"
-	LibTextbookDB[21306]["itemName"] = "Guide: Serpent Sting IX"
-	LibTextbookDB[21307]["itemName"] = "Guide: Aspect of the Hawk VII"
-	LibTextbookDB[21294]["itemName"] = "Book of Healing Touch XI"
-	LibTextbookDB[21295]["itemName"] = "Book of Starfire VII"
-	LibTextbookDB[21296]["itemName"] = "Book of Rejuvenation XI"
-	LibTextbookDB[21300]["itemName"] = "Handbook of Backstab IX"
-	LibTextbookDB[21303]["itemName"] = "Handbook of Feint V"
-	LibTextbookDB[21214]["itemName"] = "Tome of Frostbolt XI"
-	LibTextbookDB[21279]["itemName"] = "Tome of Fireball XII"
-	LibTextbookDB[21281]["itemName"] = "Grimoire of Shadow Bolt X"
-	LibTextbookDB[21282]["itemName"] = "Grimoire of Immolate VIII"
-	LibTextbookDB[21283]["itemName"] = "Grimoire of Corruption VII"
-	LibTextbookDB[21284]["itemName"] = "Codex of Greater Heal V"
-	LibTextbookDB[21285]["itemName"] = "Codex of Renew X"
-	LibTextbookDB[21287]["itemName"] = "Codex of Prayer of Healing V"
-	LibTextbookDB[20856]["itemName"] = "Design: Heavy Golden Necklace of Battle"
-	LibTextbookDB[20855]["itemName"] = "Design: Wicked Moonstone Ring"
 	LibTextbookDB[20854]["itemName"] = "Design: Amulet of the Moon"
-	LibTextbookDB[21280]["itemName"] = "Tome of Arcane Missiles VIII"
-	LibTextbookDB[21302]["itemName"] = "Handbook of Deadly Poison V"
-	LibTextbookDB[21291]["itemName"] = "Tablet of Healing Wave X"
-	LibTextbookDB[21293]["itemName"] = "Tablet of Grace of Air Totem III"
-	LibTextbookDB[21292]["itemName"] = "Tablet of Strength of Earth Totem V"
-	LibTextbookDB[29549]["itemName"] = "Codex: Prayer of Fortitude III"
+	LibTextbookDB[20855]["itemName"] = "Design: Wicked Moonstone Ring"
+	LibTextbookDB[20856]["itemName"] = "Design: Heavy Golden Necklace of Battle"
 	LibTextbookDB[20970]["itemName"] = "Design: Pendant of the Agate Shield"
 	LibTextbookDB[20971]["itemName"] = "Design: Heavy Iron Knuckles"
 	LibTextbookDB[20973]["itemName"] = "Design: Blazing Citrine Ring"
@@ -20085,20 +20655,49 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[20976]["itemName"] = "Design: Citrine Pendant of Golden Healing"
 	LibTextbookDB[21025]["itemName"] = "Recipe: Dirge's Kickin' Chimaerok Chops"
 	LibTextbookDB[21099]["itemName"] = "Recipe: Smoked Sagefish"
+	LibTextbookDB[21176]["itemName"] = "Black Qiraji Resonating Crystal"
+	LibTextbookDB[21214]["itemName"] = "Tome of Frostbolt XI"
 	LibTextbookDB[21218]["itemName"] = "Blue Qiraji Resonating Crystal"
 	LibTextbookDB[21219]["itemName"] = "Recipe: Sagefish Delight"
 	LibTextbookDB[21277]["itemName"] = "Tranquil Mechanical Yeti"
+	LibTextbookDB[21279]["itemName"] = "Tome of Fireball XII"
+	LibTextbookDB[21280]["itemName"] = "Tome of Arcane Missiles VIII"
+	LibTextbookDB[21281]["itemName"] = "Grimoire of Shadow Bolt X"
+	LibTextbookDB[21282]["itemName"] = "Grimoire of Immolate VIII"
+	LibTextbookDB[21283]["itemName"] = "Grimoire of Corruption VII"
+	LibTextbookDB[21284]["itemName"] = "Codex of Greater Heal V"
+	LibTextbookDB[21285]["itemName"] = "Codex of Renew X"
+	LibTextbookDB[21287]["itemName"] = "Codex of Prayer of Healing V"
+	LibTextbookDB[21288]["itemName"] = "Libram: Blessing of Wisdom VI"
+	LibTextbookDB[21289]["itemName"] = "Libram: Blessing of Might VII"
+	LibTextbookDB[21290]["itemName"] = "Libram: Holy Light IX"
+	LibTextbookDB[21291]["itemName"] = "Tablet of Healing Wave X"
+	LibTextbookDB[21292]["itemName"] = "Tablet of Strength of Earth Totem V"
+	LibTextbookDB[21293]["itemName"] = "Tablet of Grace of Air Totem III"
+	LibTextbookDB[21294]["itemName"] = "Book of Healing Touch XI"
+	LibTextbookDB[21295]["itemName"] = "Book of Starfire VII"
+	LibTextbookDB[21296]["itemName"] = "Book of Rejuvenation XI"
+	LibTextbookDB[21297]["itemName"] = "Manual of Heroic Strike IX"
+	LibTextbookDB[21298]["itemName"] = "Manual of Battle Shout VII"
+	LibTextbookDB[21299]["itemName"] = "Manual of Revenge VI"
+	LibTextbookDB[21300]["itemName"] = "Handbook of Backstab IX"
+	LibTextbookDB[21301]["itemName"] = "Green Helper Box"
+	LibTextbookDB[21302]["itemName"] = "Handbook of Deadly Poison V"
+	LibTextbookDB[21303]["itemName"] = "Handbook of Feint V"
+	LibTextbookDB[21304]["itemName"] = "Guide: Multi-Shot V"
+	LibTextbookDB[21305]["itemName"] = "Red Helper Box"
+	LibTextbookDB[21306]["itemName"] = "Guide: Serpent Sting IX"
+	LibTextbookDB[21307]["itemName"] = "Guide: Aspect of the Hawk VII"
+	LibTextbookDB[21308]["itemName"] = "Jingling Bell"
 	LibTextbookDB[21309]["itemName"] = "Snowman Kit"
 	LibTextbookDB[21321]["itemName"] = "Red Qiraji Resonating Crystal"
-	LibTextbookDB[21324]["itemName"] = "Yellow Qiraji Resonating Crystal"
 	LibTextbookDB[21323]["itemName"] = "Green Qiraji Resonating Crystal"
+	LibTextbookDB[21324]["itemName"] = "Yellow Qiraji Resonating Crystal"
 	LibTextbookDB[21358]["itemName"] = "Pattern: Soul Pouch"
 	LibTextbookDB[21371]["itemName"] = "Pattern: Core Felcloth Bag"
 	LibTextbookDB[21547]["itemName"] = "Recipe: Elixir of Greater Firepower"
 	LibTextbookDB[21548]["itemName"] = "Pattern: Stormshroud Gloves"
-	LibTextbookDB[44916]["itemName"] = "Pattern: Festival Dress"
 	LibTextbookDB[21722]["itemName"] = "Pattern: Festival Dress"
-	LibTextbookDB[44917]["itemName"] = "Pattern: Festival Suit"
 	LibTextbookDB[21723]["itemName"] = "Pattern: Festival Suit"
 	LibTextbookDB[21724]["itemName"] = "Schematic: Small Blue Rocket"
 	LibTextbookDB[21725]["itemName"] = "Schematic: Small Green Rocket"
@@ -20112,30 +20711,13 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[21733]["itemName"] = "Schematic: Large Blue Rocket Cluster"
 	LibTextbookDB[21734]["itemName"] = "Schematic: Large Green Rocket Cluster"
 	LibTextbookDB[21735]["itemName"] = "Schematic: Large Red Rocket Cluster"
-	LibTextbookDB[44919]["itemName"] = "Schematic: Firework Launcher"
-	LibTextbookDB[21738]["itemName"] = "Schematic: Firework Launcher"
-	LibTextbookDB[44918]["itemName"] = "Schematic: Cluster Launcher"
+	LibTextbookDB[21736]["itemName"] = "Nether Drake Reins"
 	LibTextbookDB[21737]["itemName"] = "Schematic: Cluster Launcher"
-	LibTextbookDB[21308]["itemName"] = "Jingling Bell"
-	LibTextbookDB[21301]["itemName"] = "Green Helper Box"
-	LibTextbookDB[21305]["itemName"] = "Red Helper Box"
-	LibTextbookDB[21176]["itemName"] = "Black Qiraji Resonating Crystal"
+	LibTextbookDB[21738]["itemName"] = "Schematic: Firework Launcher"
 	LibTextbookDB[21892]["itemName"] = "Pattern: Bolt of Imbued Netherweave"
 	LibTextbookDB[21893]["itemName"] = "Pattern: Imbued Netherweave Bag"
 	LibTextbookDB[21894]["itemName"] = "Pattern: Bolt of Soulcloth"
 	LibTextbookDB[21895]["itemName"] = "Pattern: Primal Mooncloth"
-	LibTextbookDB[21908]["itemName"] = "Pattern: Spellfire Belt"
-	LibTextbookDB[21909]["itemName"] = "Pattern: Spellfire Gloves"
-	LibTextbookDB[21910]["itemName"] = "Pattern: Spellfire Robe"
-	LibTextbookDB[21911]["itemName"] = "Pattern: Spellfire Bag"
-	LibTextbookDB[21912]["itemName"] = "Pattern: Frozen Shadoweave Shoulders"
-	LibTextbookDB[21914]["itemName"] = "Pattern: Frozen Shadoweave Boots"
-	LibTextbookDB[21913]["itemName"] = "Pattern: Frozen Shadoweave Robe"
-	LibTextbookDB[21915]["itemName"] = "Pattern: Ebon Shadowbag"
-	LibTextbookDB[21916]["itemName"] = "Pattern: Primal Mooncloth Belt"
-	LibTextbookDB[21918]["itemName"] = "Pattern: Primal Mooncloth Shoulders"
-	LibTextbookDB[21917]["itemName"] = "Pattern: Primal Mooncloth Robe"
-	LibTextbookDB[21919]["itemName"] = "Pattern: Primal Mooncloth Bag"
 	LibTextbookDB[21896]["itemName"] = "Pattern: Netherweave Robe"
 	LibTextbookDB[21897]["itemName"] = "Pattern: Netherweave Tunic"
 	LibTextbookDB[21898]["itemName"] = "Pattern: Imbued Netherweave Pants"
@@ -20148,6 +20730,18 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[21905]["itemName"] = "Pattern: Arcanoweave Bracers"
 	LibTextbookDB[21906]["itemName"] = "Pattern: Arcanoweave Boots"
 	LibTextbookDB[21907]["itemName"] = "Pattern: Arcanoweave Robe"
+	LibTextbookDB[21908]["itemName"] = "Pattern: Spellfire Belt"
+	LibTextbookDB[21909]["itemName"] = "Pattern: Spellfire Gloves"
+	LibTextbookDB[21910]["itemName"] = "Pattern: Spellfire Robe"
+	LibTextbookDB[21911]["itemName"] = "Pattern: Spellfire Bag"
+	LibTextbookDB[21912]["itemName"] = "Pattern: Frozen Shadoweave Shoulders"
+	LibTextbookDB[21913]["itemName"] = "Pattern: Frozen Shadoweave Robe"
+	LibTextbookDB[21914]["itemName"] = "Pattern: Frozen Shadoweave Boots"
+	LibTextbookDB[21915]["itemName"] = "Pattern: Ebon Shadowbag"
+	LibTextbookDB[21916]["itemName"] = "Pattern: Primal Mooncloth Belt"
+	LibTextbookDB[21917]["itemName"] = "Pattern: Primal Mooncloth Robe"
+	LibTextbookDB[21918]["itemName"] = "Pattern: Primal Mooncloth Shoulders"
+	LibTextbookDB[21919]["itemName"] = "Pattern: Primal Mooncloth Bag"
 	LibTextbookDB[21940]["itemName"] = "Design: Golden Hare"
 	LibTextbookDB[21941]["itemName"] = "Design: Black Pearl Panther"
 	LibTextbookDB[21942]["itemName"] = "Design: Ruby Crown of Restoration"
@@ -20163,13 +20757,12 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[21955]["itemName"] = "Design: Black Diamond Crab"
 	LibTextbookDB[21956]["itemName"] = "Design: Dark Iron Scorpid"
 	LibTextbookDB[21957]["itemName"] = "Design: Necklace of the Diamond Tower"
-	LibTextbookDB[22146]["itemName"] = "Book: Gift of the Wild III"
-	LibTextbookDB[22012]["itemName"] = "Master First Aid - Doctor in the House"
 	LibTextbookDB[21992]["itemName"] = "Manual: Netherweave Bandage"
 	LibTextbookDB[21993]["itemName"] = "Manual: Heavy Netherweave Bandage"
-	LibTextbookDB[29550]["itemName"] = "Tome of Conjure Water IX"
-	LibTextbookDB[22153]["itemName"] = "Tome of Arcane Brilliance 2"
+	LibTextbookDB[22012]["itemName"] = "Master First Aid - Doctor in the House"
 	LibTextbookDB[22114]["itemName"] = "Pink Murloc Egg"
+	LibTextbookDB[22146]["itemName"] = "Book: Gift of the Wild III"
+	LibTextbookDB[22153]["itemName"] = "Tome of Arcane Brilliance 2"
 	LibTextbookDB[22179]["itemName"] = "Grimoire of Firebolt (Rank 8)"
 	LibTextbookDB[22180]["itemName"] = "Grimoire of Blood Pact (Rank 6)"
 	LibTextbookDB[22181]["itemName"] = "Grimoire of Fire Shield (Rank 6)"
@@ -20182,25 +20775,24 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[22188]["itemName"] = "Grimoire of Devour Magic (Rank 5)"
 	LibTextbookDB[22189]["itemName"] = "Grimoire of Devour Magic (Rank 6)"
 	LibTextbookDB[22190]["itemName"] = "Grimoire of Tainted Blood (Rank 5)"
-	LibTextbookDB[22235]["itemName"] = "Truesilver Shafted Arrow"
 	LibTextbookDB[22209]["itemName"] = "Plans: Heavy Obsidian Belt"
-	LibTextbookDB[22219]["itemName"] = "Plans: Jagged Obsidian Shield"
-	LibTextbookDB[22222]["itemName"] = "Plans: Thick Obsidian Breastplate"
 	LibTextbookDB[22214]["itemName"] = "Plans: Light Obsidian Belt"
+	LibTextbookDB[22219]["itemName"] = "Plans: Jagged Obsidian Shield"
 	LibTextbookDB[22220]["itemName"] = "Plans: Black Grasp of the Destroyer"
 	LibTextbookDB[22221]["itemName"] = "Plans: Obsidian Mail Tunic"
+	LibTextbookDB[22222]["itemName"] = "Plans: Thick Obsidian Breastplate"
+	LibTextbookDB[22235]["itemName"] = "Truesilver Shafted Arrow"
 	LibTextbookDB[22307]["itemName"] = "Pattern: Enchanted Mageweave Pouch"
 	LibTextbookDB[22308]["itemName"] = "Pattern: Enchanted Runecloth Bag"
 	LibTextbookDB[22309]["itemName"] = "Pattern: Big Bag of Enchantment"
-	LibTextbookDB[22393]["itemName"] = "Codex: Prayer of Shadow Protection"
 	LibTextbookDB[22310]["itemName"] = "Pattern: Cenarion Herb Bag"
 	LibTextbookDB[22312]["itemName"] = "Pattern: Satchel of Cenarius"
 	LibTextbookDB[22388]["itemName"] = "Plans: Titanic Leggings"
-	LibTextbookDB[22390]["itemName"] = "Plans: Persuader"
 	LibTextbookDB[22389]["itemName"] = "Plans: Sageblade"
+	LibTextbookDB[22390]["itemName"] = "Plans: Persuader"
 	LibTextbookDB[22392]["itemName"] = "Formula: Enchant 2H Weapon - Agility"
+	LibTextbookDB[22393]["itemName"] = "Codex: Prayer of Shadow Protection"
 	LibTextbookDB[22530]["itemName"] = "Formula: Enchant Bracer - Major Defense"
-	LibTextbookDB[24000]["itemName"] = "Formula: Enchant Bracer - Superior Healing"
 	LibTextbookDB[22531]["itemName"] = "Formula: Enchant Bracer - Superior Healing"
 	LibTextbookDB[22532]["itemName"] = "Formula: Enchant Bracer - Restore Mana Prime"
 	LibTextbookDB[22533]["itemName"] = "Formula: Enchant Bracer - Fortitude"
@@ -20210,164 +20802,6 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[22537]["itemName"] = "Formula: Enchant Ring - Healing Power"
 	LibTextbookDB[22538]["itemName"] = "Formula: Enchant Ring - Stats"
 	LibTextbookDB[22539]["itemName"] = "Formula: Enchant Shield - Intellect"
-	LibTextbookDB[22540]["itemName"] = "Formula: Enchant Shield - Shield Block"
-	LibTextbookDB[22541]["itemName"] = "Formula: Enchant Shield - Resistance"
-	LibTextbookDB[35298]["itemName"] = "Formula: Enchant Boots - Vitality"
-	LibTextbookDB[22542]["itemName"] = "Formula: Enchant Boots - Vitality"
-	LibTextbookDB[22543]["itemName"] = "Formula: Enchant Boots - Fortitude"
-	LibTextbookDB[22544]["itemName"] = "Formula: Enchant Boots - Dexterity"
-	LibTextbookDB[22545]["itemName"] = "Formula: Enchant Boots - Surefooted"
-	LibTextbookDB[24003]["itemName"] = "Formula: Enchant Chest - Exceptional Stats"
-	LibTextbookDB[22547]["itemName"] = "Formula: Enchant Chest - Exceptional Stats"
-	LibTextbookDB[22548]["itemName"] = "Formula: Enchant Cloak - Major Resistance"
-	LibTextbookDB[22552]["itemName"] = "Formula: Enchant Weapon - Major Striking"
-	LibTextbookDB[22551]["itemName"] = "Formula: Enchant Weapon - Major Intellect"
-	LibTextbookDB[22554]["itemName"] = "Formula: Enchant 2H Weapon - Savagery"
-	LibTextbookDB[22553]["itemName"] = "Formula: Enchant Weapon - Potency"
-	LibTextbookDB[22555]["itemName"] = "Formula: Enchant Weapon - Major Spellpower"
-	LibTextbookDB[22556]["itemName"] = "Formula: Enchant 2H Weapon - Major Agility"
-	LibTextbookDB[22560]["itemName"] = "Formula: Enchant Weapon - Sunfire"
-	LibTextbookDB[22561]["itemName"] = "Formula: Enchant Weapon - Soulfrost"
-	LibTextbookDB[22559]["itemName"] = "Formula: Enchant Weapon - Mongoose"
-	LibTextbookDB[22558]["itemName"] = "Formula: Enchant Weapon - Spellsurge"
-	LibTextbookDB[22557]["itemName"] = "Formula: Enchant Weapon - Battlemaster"
-	LibTextbookDB[22562]["itemName"] = "Formula: Superior Mana Oil"
-	LibTextbookDB[22563]["itemName"] = "Formula: Superior Wizard Oil"
-	LibTextbookDB[22564]["itemName"] = "Formula: Arcane Dust"
-	LibTextbookDB[22565]["itemName"] = "Formula: Large Prismatic Shard"
-	LibTextbookDB[22683]["itemName"] = "Pattern: Gaea's Embrace"
-	LibTextbookDB[22647]["itemName"] = "Recipe: Crunchy Spider Surprise"
-	LibTextbookDB[22739]["itemName"] = "Tome of Polymorph: Turtle"
-	LibTextbookDB[22729]["itemName"] = "Schematic: Steam Tonk Controller"
-	LibTextbookDB[22766]["itemName"] = "Plans: Ironvine Breastplate"
-	LibTextbookDB[22767]["itemName"] = "Plans: Ironvine Gloves"
-	LibTextbookDB[22768]["itemName"] = "Plans: Ironvine Belt"
-	LibTextbookDB[22771]["itemName"] = "Pattern: Bramblewood Helm"
-	LibTextbookDB[22770]["itemName"] = "Pattern: Bramblewood Boots"
-	LibTextbookDB[22769]["itemName"] = "Pattern: Bramblewood Belt"
-	LibTextbookDB[22774]["itemName"] = "Pattern: Sylvan Vest"
-	LibTextbookDB[22773]["itemName"] = "Pattern: Sylvan Crown"
-	LibTextbookDB[22772]["itemName"] = "Pattern: Sylvan Shoulders"
-	LibTextbookDB[22781]["itemName"] = "Polar Bear Collar"
-	LibTextbookDB[22900]["itemName"] = "Recipe: Elixir of Camouflage"
-	LibTextbookDB[22901]["itemName"] = "Recipe: Sneaking Potion"
-	LibTextbookDB[22902]["itemName"] = "Recipe: Elixir of Major Frost Power"
-	LibTextbookDB[22903]["itemName"] = "Recipe: Insane Strength Potion"
-	LibTextbookDB[22904]["itemName"] = "Recipe: Elixir of the Searching Eye"
-	LibTextbookDB[24001]["itemName"] = "Recipe: Elixir of Major Agility"
-	LibTextbookDB[22905]["itemName"] = "Recipe: Elixir of Major Agility"
-	LibTextbookDB[22906]["itemName"] = "Recipe: Shrouding Potion"
-	LibTextbookDB[22907]["itemName"] = "Recipe: Super Mana Potion"
-	LibTextbookDB[22908]["itemName"] = "Recipe: Elixir of Major Firepower"
-	LibTextbookDB[22909]["itemName"] = "Recipe: Elixir of Major Defense"
-	LibTextbookDB[22910]["itemName"] = "Recipe: Elixir of Major Shadow Power"
-	LibTextbookDB[22911]["itemName"] = "Recipe: Major Dreamless Sleep Potion"
-	LibTextbookDB[22912]["itemName"] = "Recipe: Heroic Potion"
-	LibTextbookDB[35295]["itemName"] = "Recipe: Haste Potion"
-	LibTextbookDB[22913]["itemName"] = "Recipe: Haste Potion"
-	LibTextbookDB[22914]["itemName"] = "Recipe: Destruction Potion"
-	LibTextbookDB[22915]["itemName"] = "Recipe: Transmute Primal Air to Fire"
-	LibTextbookDB[22916]["itemName"] = "Recipe: Transmute Primal Earth to Water"
-	LibTextbookDB[30443]["itemName"] = "Recipe: Transmute Primal Fire to Earth"
-	LibTextbookDB[22917]["itemName"] = "Recipe: Transmute Primal Fire to Earth"
-	LibTextbookDB[22918]["itemName"] = "Recipe: Transmute Primal Water to Air"
-	LibTextbookDB[22919]["itemName"] = "Recipe: Elixir of Major Mageblood"
-	LibTextbookDB[22920]["itemName"] = "Recipe: Major Fire Protection Potion"
-	LibTextbookDB[22921]["itemName"] = "Recipe: Major Frost Protection Potion"
-	LibTextbookDB[22922]["itemName"] = "Recipe: Major Nature Protection Potion"
-	LibTextbookDB[22923]["itemName"] = "Recipe: Major Arcane Protection Potion"
-	LibTextbookDB[22924]["itemName"] = "Recipe: Major Shadow Protection Potion"
-	LibTextbookDB[22925]["itemName"] = "Recipe: Major Holy Protection Potion"
-	LibTextbookDB[35294]["itemName"] = "Recipe: Elixir of Empowerment"
-	LibTextbookDB[22926]["itemName"] = "Recipe: Elixir of Empowerment"
-	LibTextbookDB[22927]["itemName"] = "Recipe: Ironshield Potion"
-	LibTextbookDB[22890]["itemName"] = "Tome of Frost Ward V"
-	LibTextbookDB[22891]["itemName"] = "Grimoire of Shadow Ward IV"
-	LibTextbookDB[22897]["itemName"] = "Tome of Conjure Food VII"
-	LibTextbookDB[23002]["itemName"] = "Turtle Box"
-	LibTextbookDB[23007]["itemName"] = "Piglet's Collar"
-	LibTextbookDB[23015]["itemName"] = "Rat Cage"
-	LibTextbookDB[23083]["itemName"] = "Captured Flame"
-	LibTextbookDB[23130]["itemName"] = "Design: Teardrop Blood Garnet"
-	LibTextbookDB[23131]["itemName"] = "Design: Bold Blood Garnet"
-	LibTextbookDB[23133]["itemName"] = "Design: Runed Blood Garnet"
-	LibTextbookDB[23134]["itemName"] = "Design: Delicate Blood Garnet"
-	LibTextbookDB[23135]["itemName"] = "Design: Inscribed Flame Spessarite"
-	LibTextbookDB[23136]["itemName"] = "Design: Luminous Flame Spessarite"
-	LibTextbookDB[23137]["itemName"] = "Design: Glinting Flame Spessarite"
-	LibTextbookDB[23138]["itemName"] = "Design: Potent Flame Spessarite"
-	LibTextbookDB[23140]["itemName"] = "Design: Radiant Deep Peridot"
-	LibTextbookDB[23141]["itemName"] = "Design: Jagged Deep Peridot"
-	LibTextbookDB[31359]["itemName"] = "Design: Enduring Deep Peridot"
-	LibTextbookDB[23142]["itemName"] = "Design: Enduring Deep Peridot"
-	LibTextbookDB[23143]["itemName"] = "Design: Dazzling Deep Peridot"
-	LibTextbookDB[23144]["itemName"] = "Design: Glowing Shadow Draenite"
-	LibTextbookDB[23145]["itemName"] = "Design: Royal Shadow Draenite"
-	LibTextbookDB[23146]["itemName"] = "Design: Shifting Shadow Draenite"
-	LibTextbookDB[23147]["itemName"] = "Design: Sovereign Shadow Draenite"
-	LibTextbookDB[23148]["itemName"] = "Design: Brilliant Golden Draenite"
-	LibTextbookDB[23149]["itemName"] = "Design: Gleaming Golden Draenite"
-	LibTextbookDB[23150]["itemName"] = "Design: Thick Golden Draenite"
-	LibTextbookDB[23151]["itemName"] = "Design: Rigid Golden Draenite"
-	LibTextbookDB[23152]["itemName"] = "Design: Solid Azure Moonstone"
-	LibTextbookDB[23153]["itemName"] = "Design: Sparkling Azure Moonstone"
-	LibTextbookDB[23154]["itemName"] = "Design: Stormy Azure Moonstone"
-	LibTextbookDB[23155]["itemName"] = "Design: Lustrous Azure Moonstone"
-	LibTextbookDB[23320]["itemName"] = "Tablet of Flame Shock VI"
-	LibTextbookDB[23590]["itemName"] = "Plans: Adamantite Maul"
-	LibTextbookDB[23591]["itemName"] = "Plans: Adamantite Cleaver"
-	LibTextbookDB[23592]["itemName"] = "Plans: Adamantite Dagger"
-	LibTextbookDB[23593]["itemName"] = "Plans: Adamantite Rapier"
-	LibTextbookDB[23594]["itemName"] = "Plans: Adamantite Plate Bracers"
-	LibTextbookDB[23595]["itemName"] = "Plans: Adamantite Plate Gloves"
-	LibTextbookDB[23596]["itemName"] = "Plans: Adamantite Breastplate"
-	LibTextbookDB[23597]["itemName"] = "Plans: Enchanted Adamantite Belt"
-	LibTextbookDB[23599]["itemName"] = "Plans: Enchanted Adamantite Breastplate"
-	LibTextbookDB[23598]["itemName"] = "Plans: Enchanted Adamantite Boots"
-	LibTextbookDB[23600]["itemName"] = "Plans: Enchanted Adamantite Leggings"
-	LibTextbookDB[23601]["itemName"] = "Plans: Flamebane Bracers"
-	LibTextbookDB[23602]["itemName"] = "Plans: Flamebane Helm"
-	LibTextbookDB[23603]["itemName"] = "Plans: Flamebane Gloves"
-	LibTextbookDB[23604]["itemName"] = "Plans: Flamebane Breastplate"
-	LibTextbookDB[23605]["itemName"] = "Plans: Felsteel Gloves"
-	LibTextbookDB[23606]["itemName"] = "Plans: Felsteel Leggings"
-	LibTextbookDB[23607]["itemName"] = "Plans: Felsteel Helm"
-	LibTextbookDB[23621]["itemName"] = "Plans: Gauntlets of the Iron Tower"
-	LibTextbookDB[23608]["itemName"] = "Plans: Khorium Belt"
-	LibTextbookDB[23609]["itemName"] = "Plans: Khorium Pants"
-	LibTextbookDB[23610]["itemName"] = "Plans: Khorium Boots"
-	LibTextbookDB[23611]["itemName"] = "Plans: Ragesteel Gloves"
-	LibTextbookDB[23612]["itemName"] = "Plans: Ragesteel Helm"
-	LibTextbookDB[23613]["itemName"] = "Plans: Ragesteel Breastplate"
-	LibTextbookDB[23615]["itemName"] = "Plans: Swiftsteel Gloves"
-	LibTextbookDB[23617]["itemName"] = "Plans: Earthpeace Breastplate"
-	LibTextbookDB[23618]["itemName"] = "Plans: Adamantite Sharpening Stone"
-	LibTextbookDB[24002]["itemName"] = "Plans: Felsteel Shield Spike"
-	LibTextbookDB[23619]["itemName"] = "Plans: Felsteel Shield Spike"
-	LibTextbookDB[23620]["itemName"] = "Plans: Felfury Gauntlets"
-	LibTextbookDB[23622]["itemName"] = "Plans: Steelgrip Gauntlets"
-	LibTextbookDB[23623]["itemName"] = "Plans: Storm Helm"
-	LibTextbookDB[23624]["itemName"] = "Plans: Helm of the Stalwart Defender"
-	LibTextbookDB[23625]["itemName"] = "Plans: Oathkeeper's Helm"
-	LibTextbookDB[23626]["itemName"] = "Plans: Black Felsteel Bracers"
-	LibTextbookDB[23627]["itemName"] = "Plans: Bracers of the Green Fortress"
-	LibTextbookDB[23628]["itemName"] = "Plans: Blessed Bracers"
-	LibTextbookDB[23574]["itemName"] = "Recipe: Transmute Primal Might"
-	LibTextbookDB[23629]["itemName"] = "Plans: Felsteel Longblade"
-	LibTextbookDB[23630]["itemName"] = "Plans: Khorium Champion"
-	LibTextbookDB[23631]["itemName"] = "Plans: Fel Edged Battleaxe"
-	LibTextbookDB[23632]["itemName"] = "Plans: Felsteel Reaper"
-	LibTextbookDB[23633]["itemName"] = "Plans: Runic Hammer"
-	LibTextbookDB[23634]["itemName"] = "Plans: Fel Hardened Maul"
-	LibTextbookDB[23635]["itemName"] = "Plans: Eternium Runed Blade"
-	LibTextbookDB[23636]["itemName"] = "Plans: Dirge"
-	LibTextbookDB[23637]["itemName"] = "Plans: Hand of Eternity"
-	LibTextbookDB[23638]["itemName"] = "Plans: Lesser Ward of Shielding"
-	LibTextbookDB[23639]["itemName"] = "Plans: Greater Ward of Shielding"
-	LibTextbookDB[23711]["itemName"] = "Grimoire of Intercept (Rank 1)"
-	LibTextbookDB[23713]["itemName"] = "Hippogryph Hatchling"
-	LibTextbookDB[23720]["itemName"] = "Riding Turtle"
-	LibTextbookDB[23730]["itemName"] = "Grimoire of Intercept (Rank 2)"
 	LibTextbookDB[23731]["itemName"] = "Grimoire of Intercept (Rank 3)"
 	LibTextbookDB[23734]["itemName"] = "Grimoire of Cleave (Rank 1)"
 	LibTextbookDB[23745]["itemName"] = "Grimoire of Cleave (Rank 2)"
@@ -20383,7 +20817,31 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[23808]["itemName"] = "Schematic: Khorium Scope"
 	LibTextbookDB[23809]["itemName"] = "Schematic: Stabilized Eternium Scope"
 	LibTextbookDB[23810]["itemName"] = "Schematic: Crashin' Thrashin' Robot"
-	LibTextbookDB[24178]["itemName"] = "Design: Pendant of the Null Rune"
+	LibTextbookDB[23811]["itemName"] = "Schematic: White Smoke Flare"
+	LibTextbookDB[23814]["itemName"] = "Schematic: Green Smoke Flare"
+	LibTextbookDB[23815]["itemName"] = "Schematic: Adamantite Shell Machine"
+	LibTextbookDB[23816]["itemName"] = "Schematic: Fel Iron Toolbox"
+	LibTextbookDB[23817]["itemName"] = "Schematic: Titanium Toolbox"
+	LibTextbookDB[23874]["itemName"] = "Schematic: Elemental Seaforium Charge"
+	LibTextbookDB[23883]["itemName"] = "Schematic: Healing Potion Injector"
+	LibTextbookDB[23884]["itemName"] = "Schematic: Mana Potion Injector"
+	LibTextbookDB[23885]["itemName"] = "Schematic: Remote Mail Terminal"
+	LibTextbookDB[23887]["itemName"] = "Schematic: Rocket Boots Xtreme"
+	LibTextbookDB[23888]["itemName"] = "Schematic: Zapthrottle Mote Extractor"
+	LibTextbookDB[24000]["itemName"] = "Formula: Enchant Bracer - Superior Healing"
+	LibTextbookDB[24001]["itemName"] = "Recipe: Elixir of Major Agility"
+	LibTextbookDB[24002]["itemName"] = "Plans: Felsteel Shield Spike"
+	LibTextbookDB[24003]["itemName"] = "Formula: Enchant Chest - Exceptional Stats"
+	LibTextbookDB[24101]["itemName"] = "Book of Ferocious Bite V"
+	LibTextbookDB[24102]["itemName"] = "Manual of Eviscerate IX"
+	LibTextbookDB[24158]["itemName"] = "Design: Khorium Band of Shadows"
+	LibTextbookDB[24159]["itemName"] = "Design: Khorium Band of Frost"
+	LibTextbookDB[24160]["itemName"] = "Design: Khorium Inferno Band"
+	LibTextbookDB[24161]["itemName"] = "Design: Khorium Band of Leaves"
+	LibTextbookDB[24162]["itemName"] = "Design: Arcane Khorium Band"
+	LibTextbookDB[24163]["itemName"] = "Design: Heavy Felsteel Ring"
+	LibTextbookDB[24164]["itemName"] = "Design: Delicate Eternium Ring"
+	LibTextbookDB[24165]["itemName"] = "Design: Blazing Eternium Band"
 	LibTextbookDB[24166]["itemName"] = "Design: Thick Felsteel Necklace"
 	LibTextbookDB[24167]["itemName"] = "Design: Living Ruby Pendant"
 	LibTextbookDB[24168]["itemName"] = "Design: Braided Eternium Chain"
@@ -20392,28 +20850,162 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[24171]["itemName"] = "Design: Chain of the Twilight Owl"
 	LibTextbookDB[24172]["itemName"] = "Design: Coronet of Verdant Flame"
 	LibTextbookDB[24173]["itemName"] = "Design: Circlet of Arcane Might"
+	LibTextbookDB[24174]["itemName"] = "Design: Pendant of Frozen Flame"
+	LibTextbookDB[24175]["itemName"] = "Design: Pendant of Thawing"
+	LibTextbookDB[24176]["itemName"] = "Design: Pendant of Withering"
+	LibTextbookDB[24177]["itemName"] = "Design: Pendant of Shadow's End"
+	LibTextbookDB[24178]["itemName"] = "Design: Pendant of the Null Rune"
 	LibTextbookDB[24179]["itemName"] = "Design: Felsteel Boar"
-	LibTextbookDB[31358]["itemName"] = "Design: Dawnstone Crab"
 	LibTextbookDB[24180]["itemName"] = "Design: Dawnstone Crab"
+	LibTextbookDB[22560]["itemName"] = "Formula: Enchant Weapon - Sunfire"
+	LibTextbookDB[22561]["itemName"] = "Formula: Enchant Weapon - Soulfrost"
+	LibTextbookDB[22562]["itemName"] = "Formula: Superior Mana Oil"
+	LibTextbookDB[22563]["itemName"] = "Formula: Superior Wizard Oil"
+	LibTextbookDB[22564]["itemName"] = "Formula: Arcane Dust"
+	LibTextbookDB[22565]["itemName"] = "Formula: Large Prismatic Shard"
+	LibTextbookDB[22647]["itemName"] = "Recipe: Crunchy Spider Surprise"
+	LibTextbookDB[22683]["itemName"] = "Pattern: Gaea's Embrace"
+	LibTextbookDB[22729]["itemName"] = "Schematic: Steam Tonk Controller"
+	LibTextbookDB[22739]["itemName"] = "Tome of Polymorph: Turtle"
+	LibTextbookDB[22766]["itemName"] = "Plans: Ironvine Breastplate"
+	LibTextbookDB[22767]["itemName"] = "Plans: Ironvine Gloves"
+	LibTextbookDB[22768]["itemName"] = "Plans: Ironvine Belt"
+	LibTextbookDB[22769]["itemName"] = "Pattern: Bramblewood Belt"
+	LibTextbookDB[22770]["itemName"] = "Pattern: Bramblewood Boots"
+	LibTextbookDB[22771]["itemName"] = "Pattern: Bramblewood Helm"
+	LibTextbookDB[22772]["itemName"] = "Pattern: Sylvan Shoulders"
+	LibTextbookDB[22773]["itemName"] = "Pattern: Sylvan Crown"
+	LibTextbookDB[22774]["itemName"] = "Pattern: Sylvan Vest"
+	LibTextbookDB[22781]["itemName"] = "Polar Bear Collar"
+	LibTextbookDB[22890]["itemName"] = "Tome of Frost Ward V"
+	LibTextbookDB[22891]["itemName"] = "Grimoire of Shadow Ward IV"
+	LibTextbookDB[22897]["itemName"] = "Tome of Conjure Food VII"
+	LibTextbookDB[22900]["itemName"] = "Recipe: Elixir of Camouflage"
+	LibTextbookDB[22901]["itemName"] = "Recipe: Sneaking Potion"
+	LibTextbookDB[22902]["itemName"] = "Recipe: Elixir of Major Frost Power"
+	LibTextbookDB[22903]["itemName"] = "Recipe: Insane Strength Potion"
+	LibTextbookDB[22904]["itemName"] = "Recipe: Elixir of the Searching Eye"
+	LibTextbookDB[22905]["itemName"] = "Recipe: Elixir of Major Agility"
+	LibTextbookDB[22906]["itemName"] = "Recipe: Shrouding Potion"
+	LibTextbookDB[22907]["itemName"] = "Recipe: Super Mana Potion"
+	LibTextbookDB[22908]["itemName"] = "Recipe: Elixir of Major Firepower"
+	LibTextbookDB[22909]["itemName"] = "Recipe: Elixir of Major Defense"
+	LibTextbookDB[22910]["itemName"] = "Recipe: Elixir of Major Shadow Power"
+	LibTextbookDB[22911]["itemName"] = "Recipe: Major Dreamless Sleep Potion"
+	LibTextbookDB[22912]["itemName"] = "Recipe: Heroic Potion"
+	LibTextbookDB[22913]["itemName"] = "Recipe: Haste Potion"
+	LibTextbookDB[22914]["itemName"] = "Recipe: Destruction Potion"
+	LibTextbookDB[22915]["itemName"] = "Recipe: Transmute Primal Air to Fire"
+	LibTextbookDB[22916]["itemName"] = "Recipe: Transmute Primal Earth to Water"
+	LibTextbookDB[22917]["itemName"] = "Recipe: Transmute Primal Fire to Earth"
+	LibTextbookDB[22918]["itemName"] = "Recipe: Transmute Primal Water to Air"
+	LibTextbookDB[22919]["itemName"] = "Recipe: Elixir of Major Mageblood"
+	LibTextbookDB[22920]["itemName"] = "Recipe: Major Fire Protection Potion"
+	LibTextbookDB[22921]["itemName"] = "Recipe: Major Frost Protection Potion"
+	LibTextbookDB[22922]["itemName"] = "Recipe: Major Nature Protection Potion"
+	LibTextbookDB[22923]["itemName"] = "Recipe: Major Arcane Protection Potion"
+	LibTextbookDB[22924]["itemName"] = "Recipe: Major Shadow Protection Potion"
+	LibTextbookDB[22925]["itemName"] = "Recipe: Major Holy Protection Potion"
+	LibTextbookDB[22926]["itemName"] = "Recipe: Elixir of Empowerment"
+	LibTextbookDB[22927]["itemName"] = "Recipe: Ironshield Potion"
+	LibTextbookDB[23002]["itemName"] = "Turtle Box"
+	LibTextbookDB[23007]["itemName"] = "Piglet's Collar"
+	LibTextbookDB[23015]["itemName"] = "Rat Cage"
+	LibTextbookDB[23083]["itemName"] = "Captured Flame"
+	LibTextbookDB[23130]["itemName"] = "Design: Teardrop Blood Garnet"
+	LibTextbookDB[23131]["itemName"] = "Design: Bold Blood Garnet"
+	LibTextbookDB[23133]["itemName"] = "Design: Runed Blood Garnet"
+	LibTextbookDB[23134]["itemName"] = "Design: Delicate Blood Garnet"
+	LibTextbookDB[23135]["itemName"] = "Design: Inscribed Flame Spessarite"
+	LibTextbookDB[23136]["itemName"] = "Design: Luminous Flame Spessarite"
+	LibTextbookDB[23137]["itemName"] = "Design: Glinting Flame Spessarite"
+	LibTextbookDB[23138]["itemName"] = "Design: Potent Flame Spessarite"
+	LibTextbookDB[23140]["itemName"] = "Design: Radiant Deep Peridot"
+	LibTextbookDB[23141]["itemName"] = "Design: Jagged Deep Peridot"
+	LibTextbookDB[23142]["itemName"] = "Design: Enduring Deep Peridot"
+	LibTextbookDB[23143]["itemName"] = "Design: Dazzling Deep Peridot"
+	LibTextbookDB[23144]["itemName"] = "Design: Glowing Shadow Draenite"
+	LibTextbookDB[23145]["itemName"] = "Design: Royal Shadow Draenite"
+	LibTextbookDB[23146]["itemName"] = "Design: Shifting Shadow Draenite"
+	LibTextbookDB[23147]["itemName"] = "Design: Sovereign Shadow Draenite"
+	LibTextbookDB[23148]["itemName"] = "Design: Brilliant Golden Draenite"
+	LibTextbookDB[23149]["itemName"] = "Design: Gleaming Golden Draenite"
+	LibTextbookDB[23150]["itemName"] = "Design: Thick Golden Draenite"
+	LibTextbookDB[23151]["itemName"] = "Design: Rigid Golden Draenite"
+	LibTextbookDB[23152]["itemName"] = "Design: Solid Azure Moonstone"
+	LibTextbookDB[23153]["itemName"] = "Design: Sparkling Azure Moonstone"
+	LibTextbookDB[23154]["itemName"] = "Design: Stormy Azure Moonstone"
+	LibTextbookDB[23155]["itemName"] = "Design: Lustrous Azure Moonstone"
+	LibTextbookDB[23320]["itemName"] = "Tablet of Flame Shock VI"
+	LibTextbookDB[23574]["itemName"] = "Recipe: Transmute Primal Might"
+	LibTextbookDB[23590]["itemName"] = "Plans: Adamantite Maul"
+	LibTextbookDB[23591]["itemName"] = "Plans: Adamantite Cleaver"
+	LibTextbookDB[23592]["itemName"] = "Plans: Adamantite Dagger"
+	LibTextbookDB[23593]["itemName"] = "Plans: Adamantite Rapier"
+	LibTextbookDB[23594]["itemName"] = "Plans: Adamantite Plate Bracers"
+	LibTextbookDB[23595]["itemName"] = "Plans: Adamantite Plate Gloves"
+	LibTextbookDB[23596]["itemName"] = "Plans: Adamantite Breastplate"
+	LibTextbookDB[23597]["itemName"] = "Plans: Enchanted Adamantite Belt"
+	LibTextbookDB[23598]["itemName"] = "Plans: Enchanted Adamantite Boots"
+	LibTextbookDB[23599]["itemName"] = "Plans: Enchanted Adamantite Breastplate"
+	LibTextbookDB[23600]["itemName"] = "Plans: Enchanted Adamantite Leggings"
+	LibTextbookDB[23601]["itemName"] = "Plans: Flamebane Bracers"
+	LibTextbookDB[23602]["itemName"] = "Plans: Flamebane Helm"
+	LibTextbookDB[23603]["itemName"] = "Plans: Flamebane Gloves"
+	LibTextbookDB[23604]["itemName"] = "Plans: Flamebane Breastplate"
+	LibTextbookDB[23605]["itemName"] = "Plans: Felsteel Gloves"
+	LibTextbookDB[23606]["itemName"] = "Plans: Felsteel Leggings"
+	LibTextbookDB[23607]["itemName"] = "Plans: Felsteel Helm"
+	LibTextbookDB[23608]["itemName"] = "Plans: Khorium Belt"
+	LibTextbookDB[23609]["itemName"] = "Plans: Khorium Pants"
+	LibTextbookDB[23610]["itemName"] = "Plans: Khorium Boots"
+	LibTextbookDB[23611]["itemName"] = "Plans: Ragesteel Gloves"
+	LibTextbookDB[23612]["itemName"] = "Plans: Ragesteel Helm"
+	LibTextbookDB[23613]["itemName"] = "Plans: Ragesteel Breastplate"
+	LibTextbookDB[23615]["itemName"] = "Plans: Swiftsteel Gloves"
+	LibTextbookDB[23617]["itemName"] = "Plans: Earthpeace Breastplate"
+	LibTextbookDB[23618]["itemName"] = "Plans: Adamantite Sharpening Stone"
+	LibTextbookDB[23619]["itemName"] = "Plans: Felsteel Shield Spike"
+	LibTextbookDB[23620]["itemName"] = "Plans: Felfury Gauntlets"
+	LibTextbookDB[23621]["itemName"] = "Plans: Gauntlets of the Iron Tower"
+	LibTextbookDB[23622]["itemName"] = "Plans: Steelgrip Gauntlets"
+	LibTextbookDB[23623]["itemName"] = "Plans: Storm Helm"
+	LibTextbookDB[23624]["itemName"] = "Plans: Helm of the Stalwart Defender"
+	LibTextbookDB[23625]["itemName"] = "Plans: Oathkeeper's Helm"
+	LibTextbookDB[23626]["itemName"] = "Plans: Black Felsteel Bracers"
+	LibTextbookDB[23627]["itemName"] = "Plans: Bracers of the Green Fortress"
+	LibTextbookDB[23628]["itemName"] = "Plans: Blessed Bracers"
+	LibTextbookDB[23629]["itemName"] = "Plans: Felsteel Longblade"
+	LibTextbookDB[23630]["itemName"] = "Plans: Khorium Champion"
+	LibTextbookDB[23631]["itemName"] = "Plans: Fel Edged Battleaxe"
+	LibTextbookDB[23632]["itemName"] = "Plans: Felsteel Reaper"
+	LibTextbookDB[23633]["itemName"] = "Plans: Runic Hammer"
+	LibTextbookDB[23634]["itemName"] = "Plans: Fel Hardened Maul"
+	LibTextbookDB[23635]["itemName"] = "Plans: Eternium Runed Blade"
+	LibTextbookDB[23636]["itemName"] = "Plans: Dirge"
+	LibTextbookDB[23637]["itemName"] = "Plans: Hand of Eternity"
+	LibTextbookDB[23638]["itemName"] = "Plans: Lesser Ward of Shielding"
+	LibTextbookDB[23639]["itemName"] = "Plans: Greater Ward of Shielding"
+	LibTextbookDB[23711]["itemName"] = "Grimoire of Intercept (Rank 1)"
+	LibTextbookDB[23713]["itemName"] = "Hippogryph Hatchling"
+	LibTextbookDB[23720]["itemName"] = "Riding Turtle"
+	LibTextbookDB[23730]["itemName"] = "Grimoire of Intercept (Rank 2)"
 	LibTextbookDB[24181]["itemName"] = "Design: Living Ruby Serpent"
 	LibTextbookDB[24182]["itemName"] = "Design: Talasite Owl"
 	LibTextbookDB[24183]["itemName"] = "Design: Nightseye Panther"
+	LibTextbookDB[24192]["itemName"] = "Design: Bright Living Ruby"
 	LibTextbookDB[24193]["itemName"] = "Design: Bold Living Ruby"
 	LibTextbookDB[24194]["itemName"] = "Design: Delicate Living Ruby"
 	LibTextbookDB[24195]["itemName"] = "Design: Teardrop Living Ruby"
-	LibTextbookDB[35305]["itemName"] = "Design: Runed Living Ruby"
 	LibTextbookDB[24196]["itemName"] = "Design: Runed Living Ruby"
-	LibTextbookDB[35306]["itemName"] = "Design: Bright Living Ruby"
-	LibTextbookDB[24192]["itemName"] = "Design: Bright Living Ruby"
 	LibTextbookDB[24197]["itemName"] = "Design: Subtle Living Ruby"
 	LibTextbookDB[24198]["itemName"] = "Design: Flashing Living Ruby"
-	LibTextbookDB[35304]["itemName"] = "Design: Solid Star of Elune"
 	LibTextbookDB[24199]["itemName"] = "Design: Solid Star of Elune"
+	LibTextbookDB[24200]["itemName"] = "Design: Sparkling Star of Elune"
 	LibTextbookDB[24201]["itemName"] = "Design: Lustrous Star of Elune"
 	LibTextbookDB[24202]["itemName"] = "Design: Stormy Star of Elune"
 	LibTextbookDB[24203]["itemName"] = "Design: Brilliant Dawnstone"
 	LibTextbookDB[24204]["itemName"] = "Design: Smooth Dawnstone"
-	LibTextbookDB[35307]["itemName"] = "Design: Rigid Dawnstone"
 	LibTextbookDB[24205]["itemName"] = "Design: Rigid Dawnstone"
 	LibTextbookDB[24206]["itemName"] = "Design: Gleaming Dawnstone"
 	LibTextbookDB[24207]["itemName"] = "Design: Thick Dawnstone"
@@ -20430,20 +21022,16 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[24218]["itemName"] = "Design: Radiant Talasite"
 	LibTextbookDB[24219]["itemName"] = "Design: Dazzling Talasite"
 	LibTextbookDB[24220]["itemName"] = "Design: Jagged Talasite"
-	LibTextbookDB[24200]["itemName"] = "Design: Sparkling Star of Elune"
-	LibTextbookDB[24316]["itemName"] = "Pattern: Spellcloth"
 	LibTextbookDB[24292]["itemName"] = "Pattern: Mystic Spellthread"
 	LibTextbookDB[24293]["itemName"] = "Pattern: Silver Spellthread"
 	LibTextbookDB[24294]["itemName"] = "Pattern: Runic Spellthread"
 	LibTextbookDB[24295]["itemName"] = "Pattern: Golden Spellthread"
-	LibTextbookDB[35308]["itemName"] = "Pattern: Unyielding Bracers"
 	LibTextbookDB[24296]["itemName"] = "Pattern: Unyielding Bracers"
 	LibTextbookDB[24297]["itemName"] = "Pattern: Bracers of Havok"
 	LibTextbookDB[24298]["itemName"] = "Pattern: Blackstrike Bracers"
 	LibTextbookDB[24299]["itemName"] = "Pattern: Cloak of the Black Void"
 	LibTextbookDB[24300]["itemName"] = "Pattern: Cloak of Eternity"
 	LibTextbookDB[24301]["itemName"] = "Pattern: White Remedy Cape"
-	LibTextbookDB[35309]["itemName"] = "Pattern: Unyielding Girdle"
 	LibTextbookDB[24302]["itemName"] = "Pattern: Unyielding Girdle"
 	LibTextbookDB[24303]["itemName"] = "Pattern: Girdle of Ruination"
 	LibTextbookDB[24304]["itemName"] = "Pattern: Black Belt of Knowledge"
@@ -20458,6 +21046,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[24313]["itemName"] = "Pattern: Battlecast Hood"
 	LibTextbookDB[24314]["itemName"] = "Pattern: Bag of Jewels"
 	LibTextbookDB[24315]["itemName"] = "Pattern: Heavy Netherweave Net"
+	LibTextbookDB[24316]["itemName"] = "Pattern: Spellcloth"
 	LibTextbookDB[24345]["itemName"] = "Book of Cower IV"
 	LibTextbookDB[25469]["itemName"] = "Grimoire of Avoidance"
 	LibTextbookDB[25470]["itemName"] = "Golden Gryphon"
@@ -20484,50 +21073,43 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[25726]["itemName"] = "Pattern: Comfortable Insoles"
 	LibTextbookDB[25728]["itemName"] = "Pattern: Stylin' Purple Hat"
 	LibTextbookDB[25729]["itemName"] = "Pattern: Stylin' Adventure Hat"
-	LibTextbookDB[25731]["itemName"] = "Pattern: Stylin' Crimson Hat"
 	LibTextbookDB[25730]["itemName"] = "Pattern: Stylin' Jungle Hat"
+	LibTextbookDB[25731]["itemName"] = "Pattern: Stylin' Crimson Hat"
 	LibTextbookDB[25732]["itemName"] = "Pattern: Fel Leather Gloves"
 	LibTextbookDB[25733]["itemName"] = "Pattern: Fel Leather Boots"
 	LibTextbookDB[25734]["itemName"] = "Pattern: Fel Leather Leggings"
 	LibTextbookDB[25735]["itemName"] = "Pattern: Heavy Clefthoof Vest"
 	LibTextbookDB[25736]["itemName"] = "Pattern: Heavy Clefthoof Leggings"
 	LibTextbookDB[25737]["itemName"] = "Pattern: Heavy Clefthoof Boots"
-	LibTextbookDB[29213]["itemName"] = "Pattern: Felstalker Belt"
 	LibTextbookDB[25738]["itemName"] = "Pattern: Felstalker Belt"
-	LibTextbookDB[29214]["itemName"] = "Pattern: Felstalker Bracers"
 	LibTextbookDB[25739]["itemName"] = "Pattern: Felstalker Bracers"
-	LibTextbookDB[29215]["itemName"] = "Pattern: Felstalker Breastplate"
 	LibTextbookDB[25740]["itemName"] = "Pattern: Felstalker Breastplate"
-	LibTextbookDB[29217]["itemName"] = "Pattern: Netherfury Belt"
 	LibTextbookDB[25741]["itemName"] = "Pattern: Netherfury Belt"
-	LibTextbookDB[29219]["itemName"] = "Pattern: Netherfury Leggings"
 	LibTextbookDB[25742]["itemName"] = "Pattern: Netherfury Leggings"
-	LibTextbookDB[29218]["itemName"] = "Pattern: Netherfury Boots"
 	LibTextbookDB[25743]["itemName"] = "Pattern: Netherfury Boots"
 	LibTextbookDB[25846]["itemName"] = "Plans: Adamantite Rod"
 	LibTextbookDB[25847]["itemName"] = "Plans: Eternium Rod"
 	LibTextbookDB[25848]["itemName"] = "Formula: Runed Adamantite Rod"
 	LibTextbookDB[25849]["itemName"] = "Formula: Runed Eternium Rod"
 	LibTextbookDB[25869]["itemName"] = "Recipe: Transmute Earthstorm Diamond"
-	LibTextbookDB[29232]["itemName"] = "Recipe: Transmute Skyfire Diamond"
 	LibTextbookDB[25870]["itemName"] = "Recipe: Transmute Skyfire Diamond"
 	LibTextbookDB[25887]["itemName"] = "Schematic: Purple Smoke Flare"
 	LibTextbookDB[25900]["itemName"] = "Grimoire of Demonic Frenzy"
 	LibTextbookDB[25902]["itemName"] = "Design: Powerful Earthstorm Diamond"
 	LibTextbookDB[25903]["itemName"] = "Design: Bracing Earthstorm Diamond"
+	LibTextbookDB[25904]["itemName"] = "Design: Insightful Earthstorm Diamond"
 	LibTextbookDB[25905]["itemName"] = "Design: Tenacious Earthstorm Diamond"
 	LibTextbookDB[25906]["itemName"] = "Design: Brutal Earthstorm Diamond"
-	LibTextbookDB[25904]["itemName"] = "Design: Insightful Earthstorm Diamond"
 	LibTextbookDB[25907]["itemName"] = "Design: Destructive Skyfire Diamond"
-	LibTextbookDB[25909]["itemName"] = "Design: Mystical Skyfire Diamond"
 	LibTextbookDB[25908]["itemName"] = "Design: Swift Skyfire Diamond"
+	LibTextbookDB[25909]["itemName"] = "Design: Mystical Skyfire Diamond"
 	LibTextbookDB[25910]["itemName"] = "Design: Enigmatic Skyfire Diamond"
 	LibTextbookDB[27445]["itemName"] = "Magical Crawdad Box"
 	LibTextbookDB[27532]["itemName"] = "Master Fishing - The Art of Angling"
+	LibTextbookDB[27684]["itemName"] = "Recipe: Buzzard Bites"
 	LibTextbookDB[27685]["itemName"] = "Recipe: Lynx Steak"
 	LibTextbookDB[27686]["itemName"] = "Recipe: Roasted Moongraze Tenderloin"
 	LibTextbookDB[27687]["itemName"] = "Recipe: Bat Bites"
-	LibTextbookDB[27684]["itemName"] = "Recipe: Buzzard Bites"
 	LibTextbookDB[27688]["itemName"] = "Recipe: Ravager Dog"
 	LibTextbookDB[27689]["itemName"] = "Recipe: Sporeling Snack"
 	LibTextbookDB[27690]["itemName"] = "Recipe: Blackened Basilisk"
@@ -20542,12 +21124,10 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[27699]["itemName"] = "Recipe: Golden Fish Sticks"
 	LibTextbookDB[27700]["itemName"] = "Recipe: Spicy Crawdad"
 	LibTextbookDB[27736]["itemName"] = "Master Cookbook"
-	LibTextbookDB[28936]["itemName"] = "Swift Pink Hawkstrider"
+	LibTextbookDB[28068]["itemName"] = "Grimoire of Suffering (Rank 6)"
 	LibTextbookDB[28071]["itemName"] = "Grimoire of Anguish (Rank 1)"
 	LibTextbookDB[28072]["itemName"] = "Grimoire of Anguish (Rank 2)"
 	LibTextbookDB[28073]["itemName"] = "Grimoire of Anguish (Rank 3)"
-	LibTextbookDB[28068]["itemName"] = "Grimoire of Suffering (Rank 6)"
-	LibTextbookDB[31501]["itemName"] = "Tome of Conjure Food VIII"
 	LibTextbookDB[28270]["itemName"] = "Formula: Enchant Chest - Major Resilience"
 	LibTextbookDB[28271]["itemName"] = "Formula: Enchant Gloves - Precise Strikes"
 	LibTextbookDB[28272]["itemName"] = "Formula: Enchant Gloves - Major Spellpower"
@@ -20555,35 +21135,52 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[28274]["itemName"] = "Formula: Enchant Cloak - Spell Penetration"
 	LibTextbookDB[28276]["itemName"] = "Formula: Enchant Cloak - Greater Arcane Resistance"
 	LibTextbookDB[28277]["itemName"] = "Formula: Enchant Cloak - Greater Shadow Resistance"
-	LibTextbookDB[35299]["itemName"] = "Formula: Enchant Boots - Cat's Swiftness"
 	LibTextbookDB[28279]["itemName"] = "Formula: Enchant Boots - Cat's Swiftness"
-	LibTextbookDB[35297]["itemName"] = "Formula: Enchant Boots - Boar's Speed"
 	LibTextbookDB[28280]["itemName"] = "Formula: Enchant Boots - Boar's Speed"
-	LibTextbookDB[28282]["itemName"] = "Formula: Enchant Shield - Major Stamina"
 	LibTextbookDB[28281]["itemName"] = "Formula: Enchant Weapon - Major Healing"
+	LibTextbookDB[28282]["itemName"] = "Formula: Enchant Shield - Major Stamina"
 	LibTextbookDB[28291]["itemName"] = "Design: Smooth Golden Draenite"
 	LibTextbookDB[28481]["itemName"] = "Brown Elekk"
 	LibTextbookDB[28482]["itemName"] = "Great Elite Elekk"
 	LibTextbookDB[28596]["itemName"] = "Design: Bright Blood Garnet"
 	LibTextbookDB[28632]["itemName"] = "Plans: Adamantite Weightstone"
-	LibTextbookDB[29228]["itemName"] = "Reins of the Dark War Talbuk"
+	LibTextbookDB[28915]["itemName"] = "Reins of the Dark Riding Talbuk"
 	LibTextbookDB[28927]["itemName"] = "Red Hawkstrider"
-	LibTextbookDB[29227]["itemName"] = "Reins of the Cobalt War Talbuk"
+	LibTextbookDB[28936]["itemName"] = "Swift Pink Hawkstrider"
 	LibTextbookDB[29102]["itemName"] = "Reins of the Cobalt War Talbuk"
-	LibTextbookDB[29231]["itemName"] = "Reins of the White War Talbuk"
 	LibTextbookDB[29103]["itemName"] = "Reins of the White War Talbuk"
-	LibTextbookDB[29229]["itemName"] = "Reins of the Silver War Talbuk"
 	LibTextbookDB[29104]["itemName"] = "Reins of the Silver War Talbuk"
-	LibTextbookDB[29230]["itemName"] = "Reins of the Tan War Talbuk"
 	LibTextbookDB[29105]["itemName"] = "Reins of the Tan War Talbuk"
-	LibTextbookDB[29222]["itemName"] = "Purple Hawkstrider"
+	LibTextbookDB[29213]["itemName"] = "Pattern: Felstalker Belt"
+	LibTextbookDB[29214]["itemName"] = "Pattern: Felstalker Bracers"
+	LibTextbookDB[29215]["itemName"] = "Pattern: Felstalker Breastplate"
+	LibTextbookDB[29217]["itemName"] = "Pattern: Netherfury Belt"
+	LibTextbookDB[29218]["itemName"] = "Pattern: Netherfury Boots"
+	LibTextbookDB[29219]["itemName"] = "Pattern: Netherfury Leggings"
 	LibTextbookDB[29220]["itemName"] = "Blue Hawkstrider"
 	LibTextbookDB[29221]["itemName"] = "Black Hawkstrider"
+	LibTextbookDB[29222]["itemName"] = "Purple Hawkstrider"
 	LibTextbookDB[29223]["itemName"] = "Swift Green Hawkstrider"
 	LibTextbookDB[29224]["itemName"] = "Swift Purple Hawkstrider"
-	LibTextbookDB[34129]["itemName"] = "Swift Warstrider"
+	LibTextbookDB[29227]["itemName"] = "Reins of the Cobalt War Talbuk"
+	LibTextbookDB[29228]["itemName"] = "Reins of the Dark War Talbuk"
+	LibTextbookDB[29229]["itemName"] = "Reins of the Silver War Talbuk"
+	LibTextbookDB[29230]["itemName"] = "Reins of the Tan War Talbuk"
+	LibTextbookDB[29231]["itemName"] = "Reins of the White War Talbuk"
+	LibTextbookDB[29232]["itemName"] = "Recipe: Transmute Skyfire Diamond"
 	LibTextbookDB[29363]["itemName"] = "Mana Wyrmling"
 	LibTextbookDB[29364]["itemName"] = "Brown Rabbit Crate"
+	LibTextbookDB[29465]["itemName"] = "Black Battlestrider"
+	LibTextbookDB[29466]["itemName"] = "Black War Kodo"
+	LibTextbookDB[29467]["itemName"] = "Black War Ram"
+	LibTextbookDB[29468]["itemName"] = "Black War Steed Bridle"
+	LibTextbookDB[29469]["itemName"] = "Horn of the Black War Wolf"
+	LibTextbookDB[29470]["itemName"] = "Red Skeletal Warhorse"
+	LibTextbookDB[29471]["itemName"] = "Reins of the Black War Tiger"
+	LibTextbookDB[29472]["itemName"] = "Whistle of the Black War Raptor"
+	LibTextbookDB[29549]["itemName"] = "Codex: Prayer of Fortitude III"
+	LibTextbookDB[29550]["itemName"] = "Tome of Conjure Water IX"
+	LibTextbookDB[29664]["itemName"] = "Pattern: Reinforced Mining Bag"
 	LibTextbookDB[29669]["itemName"] = "Pattern: Shadow Armor Kit"
 	LibTextbookDB[29672]["itemName"] = "Pattern: Flame Armor Kit"
 	LibTextbookDB[29673]["itemName"] = "Pattern: Frost Armor Kit"
@@ -20592,10 +21189,8 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[29677]["itemName"] = "Pattern: Enchanted Felscale Leggings"
 	LibTextbookDB[29682]["itemName"] = "Pattern: Enchanted Felscale Gloves"
 	LibTextbookDB[29684]["itemName"] = "Pattern: Enchanted Felscale Boots"
-	LibTextbookDB[29691]["itemName"] = "Pattern: Flamescale Boots"
 	LibTextbookDB[29689]["itemName"] = "Pattern: Flamescale Leggings"
-	LibTextbookDB[30444]["itemName"] = "Pattern: Reinforced Mining Bag"
-	LibTextbookDB[29664]["itemName"] = "Pattern: Reinforced Mining Bag"
+	LibTextbookDB[29691]["itemName"] = "Pattern: Flamescale Boots"
 	LibTextbookDB[29693]["itemName"] = "Pattern: Flamescale Belt"
 	LibTextbookDB[29698]["itemName"] = "Pattern: Enchanted Clefthoof Leggings"
 	LibTextbookDB[29700]["itemName"] = "Pattern: Enchanted Clefthoof Gloves"
@@ -20604,39 +21199,29 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[29703]["itemName"] = "Pattern: Blastguard Boots"
 	LibTextbookDB[29704]["itemName"] = "Pattern: Blastguard Belt"
 	LibTextbookDB[29713]["itemName"] = "Pattern: Drums of Panic"
-	LibTextbookDB[34174]["itemName"] = "Pattern: Drums of Restoration"
-	LibTextbookDB[34175]["itemName"] = "Pattern: Drums of Restoration"
 	LibTextbookDB[29714]["itemName"] = "Pattern: Drums of Restoration"
 	LibTextbookDB[29717]["itemName"] = "Pattern: Drums of Battle"
-	LibTextbookDB[34172]["itemName"] = "Pattern: Drums of Speed"
-	LibTextbookDB[34173]["itemName"] = "Pattern: Drums of Speed"
 	LibTextbookDB[29718]["itemName"] = "Pattern: Drums of Speed"
-	LibTextbookDB[31361]["itemName"] = "Pattern: Cobrahide Leg Armor"
 	LibTextbookDB[29719]["itemName"] = "Pattern: Cobrahide Leg Armor"
-	LibTextbookDB[31362]["itemName"] = "Pattern: Nethercobra Leg Armor"
-	LibTextbookDB[29722]["itemName"] = "Pattern: Nethercobra Leg Armor"
 	LibTextbookDB[29720]["itemName"] = "Pattern: Clefthide Leg Armor"
 	LibTextbookDB[29721]["itemName"] = "Pattern: Nethercleft Leg Armor"
+	LibTextbookDB[29722]["itemName"] = "Pattern: Nethercobra Leg Armor"
 	LibTextbookDB[29723]["itemName"] = "Pattern: Cobrascale Hood"
-	LibTextbookDB[35302]["itemName"] = "Pattern: Cobrascale Gloves"
 	LibTextbookDB[29724]["itemName"] = "Pattern: Cobrascale Gloves"
 	LibTextbookDB[29725]["itemName"] = "Pattern: Windscale Hood"
 	LibTextbookDB[29726]["itemName"] = "Pattern: Hood of Primal Life"
-	LibTextbookDB[35303]["itemName"] = "Pattern: Gloves of the Living Touch"
 	LibTextbookDB[29727]["itemName"] = "Pattern: Gloves of the Living Touch"
 	LibTextbookDB[29728]["itemName"] = "Pattern: Windslayer Wraps"
 	LibTextbookDB[29729]["itemName"] = "Pattern: Living Dragonscale Helm"
 	LibTextbookDB[29730]["itemName"] = "Pattern: Earthen Netherscale Boots"
-	LibTextbookDB[35300]["itemName"] = "Pattern: Windstrike Gloves"
 	LibTextbookDB[29731]["itemName"] = "Pattern: Windstrike Gloves"
 	LibTextbookDB[29732]["itemName"] = "Pattern: Netherdrake Helm"
-	LibTextbookDB[35301]["itemName"] = "Pattern: Netherdrake Gloves"
 	LibTextbookDB[29733]["itemName"] = "Pattern: Netherdrake Gloves"
 	LibTextbookDB[29734]["itemName"] = "Pattern: Thick Netherscale Breastplate"
-	LibTextbookDB[29744]["itemName"] = "Gray Elekk"
 	LibTextbookDB[29743]["itemName"] = "Purple Elekk"
-	LibTextbookDB[29746]["itemName"] = "Great Green Elekk"
+	LibTextbookDB[29744]["itemName"] = "Gray Elekk"
 	LibTextbookDB[29745]["itemName"] = "Great Blue Elekk"
+	LibTextbookDB[29746]["itemName"] = "Great Green Elekk"
 	LibTextbookDB[29747]["itemName"] = "Great Purple Elekk"
 	LibTextbookDB[29901]["itemName"] = "Blue Moth Egg"
 	LibTextbookDB[29902]["itemName"] = "Red Moth Egg"
@@ -20664,14 +21249,25 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[30322]["itemName"] = "Plans: Red Belt of Battle"
 	LibTextbookDB[30323]["itemName"] = "Plans: Boots of the Protector"
 	LibTextbookDB[30324]["itemName"] = "Plans: Red Havoc Boots"
-	LibTextbookDB[30483]["itemName"] = "Pattern: Shadowcloth"
+	LibTextbookDB[30360]["itemName"] = "Lurky's Egg"
+	LibTextbookDB[30443]["itemName"] = "Recipe: Transmute Primal Fire to Earth"
+	LibTextbookDB[30444]["itemName"] = "Pattern: Reinforced Mining Bag"
 	LibTextbookDB[30480]["itemName"] = "Fiery Warhorse's Reins"
+	LibTextbookDB[30483]["itemName"] = "Pattern: Shadowcloth"
 	LibTextbookDB[30609]["itemName"] = "Swift Nether Drake"
 	LibTextbookDB[30826]["itemName"] = "Design: Ring of Arcane Shielding"
 	LibTextbookDB[30833]["itemName"] = "Pattern: Cloak of Arcane Evasion"
 	LibTextbookDB[30842]["itemName"] = "Pattern: Flameheart Bracers"
 	LibTextbookDB[30843]["itemName"] = "Pattern: Flameheart Gloves"
 	LibTextbookDB[30844]["itemName"] = "Pattern: Flameheart Vest"
+	LibTextbookDB[31354]["itemName"] = "Recipe: Flask of the Titans"
+	LibTextbookDB[31355]["itemName"] = "Recipe: Flask of Supreme Power"
+	LibTextbookDB[31356]["itemName"] = "Recipe: Flask of Distilled Wisdom"
+	LibTextbookDB[31357]["itemName"] = "Recipe: Flask of Chromatic Resistance"
+	LibTextbookDB[31358]["itemName"] = "Design: Dawnstone Crab"
+	LibTextbookDB[31359]["itemName"] = "Design: Enduring Deep Peridot"
+	LibTextbookDB[31361]["itemName"] = "Pattern: Cobrahide Leg Armor"
+	LibTextbookDB[31362]["itemName"] = "Pattern: Nethercobra Leg Armor"
 	LibTextbookDB[31390]["itemName"] = "Plans: Wildguard Breastplate"
 	LibTextbookDB[31391]["itemName"] = "Plans: Wildguard Leggings"
 	LibTextbookDB[31392]["itemName"] = "Plans: Wildguard Helm"
@@ -20680,113 +21276,79 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[31395]["itemName"] = "Plans: Iceguard Helm"
 	LibTextbookDB[31401]["itemName"] = "Design: The Frozen Eye"
 	LibTextbookDB[31402]["itemName"] = "Design: The Natural Ward"
-	LibTextbookDB[31675]["itemName"] = "Recipe: Mok'Nathal Shortribs"
+	LibTextbookDB[31501]["itemName"] = "Tome of Conjure Food VIII"
 	LibTextbookDB[31674]["itemName"] = "Recipe: Crunchy Serpent"
+	LibTextbookDB[31675]["itemName"] = "Recipe: Mok'Nathal Shortribs"
 	LibTextbookDB[31680]["itemName"] = "Recipe: Fel Strength Elixir"
-	LibTextbookDB[31682]["itemName"] = "Recipe: Fel Mana Potion"
 	LibTextbookDB[31681]["itemName"] = "Recipe: Fel Regeneration Potion"
+	LibTextbookDB[31682]["itemName"] = "Recipe: Fel Mana Potion"
 	LibTextbookDB[31760]["itemName"] = "Miniwing"
-	LibTextbookDB[31830]["itemName"] = "Reins of the Cobalt Riding Talbuk"
 	LibTextbookDB[31829]["itemName"] = "Reins of the Cobalt Riding Talbuk"
-	LibTextbookDB[28915]["itemName"] = "Reins of the Dark Riding Talbuk"
-	LibTextbookDB[31832]["itemName"] = "Reins of the Silver Riding Talbuk"
+	LibTextbookDB[31830]["itemName"] = "Reins of the Cobalt Riding Talbuk"
 	LibTextbookDB[31831]["itemName"] = "Reins of the Silver Riding Talbuk"
-	LibTextbookDB[31834]["itemName"] = "Reins of the Tan Riding Talbuk"
+	LibTextbookDB[31832]["itemName"] = "Reins of the Silver Riding Talbuk"
 	LibTextbookDB[31833]["itemName"] = "Reins of the Tan Riding Talbuk"
-	LibTextbookDB[31836]["itemName"] = "Reins of the White Riding Talbuk"
+	LibTextbookDB[31834]["itemName"] = "Reins of the Tan Riding Talbuk"
 	LibTextbookDB[31835]["itemName"] = "Reins of the White Riding Talbuk"
+	LibTextbookDB[31836]["itemName"] = "Reins of the White Riding Talbuk"
 	LibTextbookDB[31837]["itemName"] = "Codex: Prayer of Shadow Protection II"
 	LibTextbookDB[31870]["itemName"] = "Design: Great Golden Draenite"
-	LibTextbookDB[31875]["itemName"] = "Design: Great Dawnstone"
 	LibTextbookDB[31871]["itemName"] = "Design: Balanced Shadow Draenite"
 	LibTextbookDB[31872]["itemName"] = "Design: Infused Shadow Draenite"
-	LibTextbookDB[31877]["itemName"] = "Design: Infused Nightseye"
-	LibTextbookDB[31876]["itemName"] = "Design: Balanced Nightseye"
 	LibTextbookDB[31873]["itemName"] = "Design: Veiled Flame Spessarite"
 	LibTextbookDB[31874]["itemName"] = "Design: Wicked Flame Spessarite"
+	LibTextbookDB[31875]["itemName"] = "Design: Great Dawnstone"
+	LibTextbookDB[31876]["itemName"] = "Design: Balanced Nightseye"
+	LibTextbookDB[31877]["itemName"] = "Design: Infused Nightseye"
 	LibTextbookDB[31878]["itemName"] = "Design: Veiled Noble Topaz"
 	LibTextbookDB[31879]["itemName"] = "Design: Wicked Noble Topaz"
 	LibTextbookDB[32070]["itemName"] = "Recipe: Earthen Elixir"
 	LibTextbookDB[32071]["itemName"] = "Recipe: Elixir of Ironskin"
-	LibTextbookDB[35244]["itemName"] = "Design: Bold Crimson Spinel"
-	LibTextbookDB[32274]["itemName"] = "Design: Bold Crimson Spinel"
-	LibTextbookDB[35246]["itemName"] = "Design: Delicate Crimson Spinel"
-	LibTextbookDB[32277]["itemName"] = "Design: Delicate Crimson Spinel"
 	LibTextbookDB[32233]["itemName"] = "Wolpertinger's Tankard"
-	LibTextbookDB[35250]["itemName"] = "Design: Teardrop Crimson Spinel"
+	LibTextbookDB[32274]["itemName"] = "Design: Bold Crimson Spinel"
+	LibTextbookDB[32277]["itemName"] = "Design: Delicate Crimson Spinel"
 	LibTextbookDB[32281]["itemName"] = "Design: Teardrop Crimson Spinel"
-	LibTextbookDB[35248]["itemName"] = "Design: Runed Crimson Spinel"
 	LibTextbookDB[32282]["itemName"] = "Design: Runed Crimson Spinel"
-	LibTextbookDB[35245]["itemName"] = "Design: Bright Crimson Spinel"
 	LibTextbookDB[32283]["itemName"] = "Design: Bright Crimson Spinel"
-	LibTextbookDB[35249]["itemName"] = "Design: Subtle Crimson Spinel"
 	LibTextbookDB[32284]["itemName"] = "Design: Subtle Crimson Spinel"
-	LibTextbookDB[35247]["itemName"] = "Design: Flashing Crimson Spinel"
 	LibTextbookDB[32285]["itemName"] = "Design: Flashing Crimson Spinel"
-	LibTextbookDB[35263]["itemName"] = "Design: Solid Empyrean Sapphire"
 	LibTextbookDB[32286]["itemName"] = "Design: Solid Empyrean Sapphire"
-	LibTextbookDB[35264]["itemName"] = "Design: Sparkling Empyrean Sapphire"
 	LibTextbookDB[32287]["itemName"] = "Design: Sparkling Empyrean Sapphire"
-	LibTextbookDB[35262]["itemName"] = "Design: Lustrous Empyrean Sapphire"
 	LibTextbookDB[32288]["itemName"] = "Design: Lustrous Empyrean Sapphire"
-	LibTextbookDB[35265]["itemName"] = "Design: Stormy Empyrean Sapphire"
 	LibTextbookDB[32289]["itemName"] = "Design: Stormy Empyrean Sapphire"
-	LibTextbookDB[35255]["itemName"] = "Design: Brilliant Lionseye"
 	LibTextbookDB[32290]["itemName"] = "Design: Brilliant Lionseye"
-	LibTextbookDB[35260]["itemName"] = "Design: Smooth Lionseye"
 	LibTextbookDB[32291]["itemName"] = "Design: Smooth Lionseye"
-	LibTextbookDB[35259]["itemName"] = "Design: Rigid Lionseye"
 	LibTextbookDB[32292]["itemName"] = "Design: Rigid Lionseye"
-	LibTextbookDB[35256]["itemName"] = "Design: Gleaming Lionseye"
 	LibTextbookDB[32293]["itemName"] = "Design: Gleaming Lionseye"
-	LibTextbookDB[35261]["itemName"] = "Design: Thick Lionseye"
 	LibTextbookDB[32294]["itemName"] = "Design: Thick Lionseye"
-	LibTextbookDB[35258]["itemName"] = "Design: Mystic Lionseye"
 	LibTextbookDB[32295]["itemName"] = "Design: Mystic Lionseye"
-	LibTextbookDB[35257]["itemName"] = "Design: Great Lionseye"
 	LibTextbookDB[32296]["itemName"] = "Design: Great Lionseye"
-	LibTextbookDB[35243]["itemName"] = "Design: Sovereign Shadowsong Amethyst"
 	LibTextbookDB[32297]["itemName"] = "Design: Sovereign Shadowsong Amethyst"
-	LibTextbookDB[35242]["itemName"] = "Design: Shifting Shadowsong Amethyst"
 	LibTextbookDB[32298]["itemName"] = "Design: Shifting Shadowsong Amethyst"
-	LibTextbookDB[35238]["itemName"] = "Design: Balanced Shadowsong Amethyst"
 	LibTextbookDB[32299]["itemName"] = "Design: Balanced Shadowsong Amethyst"
-	LibTextbookDB[35240]["itemName"] = "Design: Infused Shadowsong Amethyst"
 	LibTextbookDB[32300]["itemName"] = "Design: Infused Shadowsong Amethyst"
-	LibTextbookDB[35239]["itemName"] = "Design: Glowing Shadowsong Amethyst"
 	LibTextbookDB[32301]["itemName"] = "Design: Glowing Shadowsong Amethyst"
-	LibTextbookDB[35241]["itemName"] = "Design: Royal Shadowsong Amethyst"
 	LibTextbookDB[32302]["itemName"] = "Design: Royal Shadowsong Amethyst"
-	LibTextbookDB[35267]["itemName"] = "Design: Inscribed Pyrestone"
 	LibTextbookDB[32303]["itemName"] = "Design: Inscribed Pyrestone"
-	LibTextbookDB[35269]["itemName"] = "Design: Potent Pyrestone"
 	LibTextbookDB[32304]["itemName"] = "Design: Potent Pyrestone"
-	LibTextbookDB[35268]["itemName"] = "Design: Luminous Pyrestone"
 	LibTextbookDB[32305]["itemName"] = "Design: Luminous Pyrestone"
-	LibTextbookDB[35266]["itemName"] = "Design: Glinting Pyrestone"
 	LibTextbookDB[32306]["itemName"] = "Design: Glinting Pyrestone"
-	LibTextbookDB[35270]["itemName"] = "Design: Veiled Pyrestone"
 	LibTextbookDB[32307]["itemName"] = "Design: Veiled Pyrestone"
-	LibTextbookDB[35271]["itemName"] = "Design: Wicked Pyrestone"
 	LibTextbookDB[32308]["itemName"] = "Design: Wicked Pyrestone"
-	LibTextbookDB[35252]["itemName"] = "Design: Enduring Seaspray Emerald"
 	LibTextbookDB[32309]["itemName"] = "Design: Enduring Seaspray Emerald"
-	LibTextbookDB[35254]["itemName"] = "Design: Radiant Seaspray Emerald"
 	LibTextbookDB[32310]["itemName"] = "Design: Radiant Seaspray Emerald"
-	LibTextbookDB[35251]["itemName"] = "Design: Dazzling Seaspray Emerald"
 	LibTextbookDB[32311]["itemName"] = "Design: Dazzling Seaspray Emerald"
-	LibTextbookDB[35253]["itemName"] = "Design: Jagged Seaspray Emerald"
 	LibTextbookDB[32312]["itemName"] = "Design: Jagged Seaspray Emerald"
 	LibTextbookDB[32314]["itemName"] = "Green Riding Nether Ray"
-	LibTextbookDB[32317]["itemName"] = "Red Riding Nether Ray"
 	LibTextbookDB[32316]["itemName"] = "Purple Riding Nether Ray"
+	LibTextbookDB[32317]["itemName"] = "Red Riding Nether Ray"
 	LibTextbookDB[32318]["itemName"] = "Silver Riding Nether Ray"
 	LibTextbookDB[32319]["itemName"] = "Blue Riding Nether Ray"
 	LibTextbookDB[32381]["itemName"] = "Schematic: Fused Wiring"
-	LibTextbookDB[33622]["itemName"] = "Design: Relentless Earthstorm Diamond"
-	LibTextbookDB[32412]["itemName"] = "Design: Relentless Earthstorm Diamond"
 	LibTextbookDB[32411]["itemName"] = "Design: Thundering Skyfire Diamond"
+	LibTextbookDB[32412]["itemName"] = "Design: Relentless Earthstorm Diamond"
 	LibTextbookDB[32429]["itemName"] = "Pattern: Boots of Shackled Souls"
+	LibTextbookDB[32430]["itemName"] = "Pattern: Bracers of Shackled Souls"
 	LibTextbookDB[32431]["itemName"] = "Pattern: Greaves of Shackled Souls"
 	LibTextbookDB[32432]["itemName"] = "Pattern: Waistguard of Shackled Souls"
 	LibTextbookDB[32433]["itemName"] = "Pattern: Redeemed Soul Moccasins"
@@ -20805,10 +21367,9 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[32458]["itemName"] = "Ashes of Al'ar"
 	LibTextbookDB[32498]["itemName"] = "Fortune Coin"
 	LibTextbookDB[32588]["itemName"] = "Banana Charm"
-	LibTextbookDB[32617]["itemName"] = "Sleepy Willy"
 	LibTextbookDB[32616]["itemName"] = "Egbert's Egg"
+	LibTextbookDB[32617]["itemName"] = "Sleepy Willy"
 	LibTextbookDB[32622]["itemName"] = "Elekk Training Collar"
-	LibTextbookDB[40653]["itemName"] = "Reeking Pet Carrier"
 	LibTextbookDB[32736]["itemName"] = "Plans: Swiftsteel Bracers"
 	LibTextbookDB[32737]["itemName"] = "Plans: Swiftsteel Shoulders"
 	LibTextbookDB[32738]["itemName"] = "Plans: Dawnsteel Bracers"
@@ -20825,6 +21386,276 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[32753]["itemName"] = "Pattern: Swiftheal Mantle"
 	LibTextbookDB[32754]["itemName"] = "Pattern: Bracers of Nimble Thought"
 	LibTextbookDB[32755]["itemName"] = "Pattern: Mantle of Nimble Thought"
+	LibTextbookDB[32768]["itemName"] = "Reins of the Raven Lord"
+	LibTextbookDB[32857]["itemName"] = "Reins of the Onyx Netherwing Drake"
+	LibTextbookDB[32858]["itemName"] = "Reins of the Azure Netherwing Drake"
+	LibTextbookDB[32859]["itemName"] = "Reins of the Cobalt Netherwing Drake"
+	LibTextbookDB[32860]["itemName"] = "Reins of the Purple Netherwing Drake"
+	LibTextbookDB[32861]["itemName"] = "Reins of the Veridian Netherwing Drake"
+	LibTextbookDB[32862]["itemName"] = "Reins of the Violet Netherwing Drake"
+	LibTextbookDB[33124]["itemName"] = "Pattern: Cloak of Darkness"
+	LibTextbookDB[33147]["itemName"] = "Formula: Enchant Cloak - Subtlety"
+	LibTextbookDB[33148]["itemName"] = "Formula: Enchant Cloak - Dodge"
+	LibTextbookDB[33149]["itemName"] = "Formula: Enchant Cloak - Stealth"
+	LibTextbookDB[33150]["itemName"] = "Formula: Enchant Cloak - Subtlety"
+	LibTextbookDB[33151]["itemName"] = "Formula: Enchant Cloak - Subtlety"
+	LibTextbookDB[33152]["itemName"] = "Formula: Enchant Gloves - Superior Agility"
+	LibTextbookDB[33153]["itemName"] = "Formula: Enchant Gloves - Threat"
+	LibTextbookDB[33154]["itemName"] = "Sinister Squashling"
+	LibTextbookDB[33155]["itemName"] = "Design: Kailee's Rose"
+	LibTextbookDB[33156]["itemName"] = "Design: Crimson Sun"
+	LibTextbookDB[33157]["itemName"] = "Design: Falling Star"
+	LibTextbookDB[33158]["itemName"] = "Design: Stone of Blades"
+	LibTextbookDB[33159]["itemName"] = "Design: Blood of Amber"
+	LibTextbookDB[33160]["itemName"] = "Design: Facet of Eternity"
+	LibTextbookDB[33165]["itemName"] = "Formula: Enchant Weapon - Greater Agility"
+	LibTextbookDB[33174]["itemName"] = "Plans: Ragesteel Shoulders"
+	LibTextbookDB[33186]["itemName"] = "Plans: Adamantite Weapon Chain"
+	LibTextbookDB[33205]["itemName"] = "Pattern: Shadowprowler's Chestguard"
+	LibTextbookDB[33209]["itemName"] = "Recipe: Flask of Chromatic Wonder"
+	LibTextbookDB[33224]["itemName"] = "Reins of the Spectral Tiger"
+	LibTextbookDB[33225]["itemName"] = "Reins of the Swift Spectral Tiger"
+	LibTextbookDB[33305]["itemName"] = "Design: Don Julio's Heart"
+	LibTextbookDB[33307]["itemName"] = "Formula: Enchant Weapon - Executioner"
+	LibTextbookDB[33622]["itemName"] = "Design: Relentless Earthstorm Diamond"
+	LibTextbookDB[33783]["itemName"] = "Design: Steady Talasite"
+	LibTextbookDB[33792]["itemName"] = "Plans: Heavy Copper Longsword"
+	LibTextbookDB[33804]["itemName"] = "Schematic: Adamantite Arrow Maker"
+	LibTextbookDB[33809]["itemName"] = "Amani War Bear"
+	LibTextbookDB[33816]["itemName"] = "Toothy's Bucket"
+	LibTextbookDB[33818]["itemName"] = "Muckbreath's Bucket"
+	LibTextbookDB[33869]["itemName"] = "Recipe: Broiled Bloodfin"
+	LibTextbookDB[33870]["itemName"] = "Recipe: Skullfish Soup"
+	LibTextbookDB[33871]["itemName"] = "Recipe: Stormchops"
+	LibTextbookDB[33873]["itemName"] = "Recipe: Spicy Hot Talbuk"
+	LibTextbookDB[33875]["itemName"] = "Recipe: Kibler's Bits"
+	LibTextbookDB[33925]["itemName"] = "Recipe: Delicious Chocolate Cake"
+	LibTextbookDB[33954]["itemName"] = "Plans: Hammer of Righteous Might"
+	LibTextbookDB[33976]["itemName"] = "Brewfest Ram"
+	LibTextbookDB[33977]["itemName"] = "Swift Brewfest Ram"
+	LibTextbookDB[33993]["itemName"] = "Mojo"
+	LibTextbookDB[33999]["itemName"] = "Cenarion War Hippogryph"
+	LibTextbookDB[34060]["itemName"] = "Flying Machine Control"
+	LibTextbookDB[34061]["itemName"] = "Turbo-Charged Flying Machine Control"
+	LibTextbookDB[34092]["itemName"] = "Merciless Nether Drake"
+	LibTextbookDB[34109]["itemName"] = "Weather-Beaten Journal"
+	LibTextbookDB[34114]["itemName"] = "Schematic: Field Repair Bot 110G"
+	LibTextbookDB[34126]["itemName"] = "Recipe: Shoveltusk Soup"
+	LibTextbookDB[34129]["itemName"] = "Swift Warstrider"
+	LibTextbookDB[34172]["itemName"] = "Pattern: Drums of Speed"
+	LibTextbookDB[34173]["itemName"] = "Pattern: Drums of Speed"
+	LibTextbookDB[34174]["itemName"] = "Pattern: Drums of Restoration"
+	LibTextbookDB[34175]["itemName"] = "Pattern: Drums of Restoration"
+	LibTextbookDB[34200]["itemName"] = "Pattern: Quiver of a Thousand Feathers"
+	LibTextbookDB[34201]["itemName"] = "Pattern: Netherscale Ammo Pouch"
+	LibTextbookDB[34218]["itemName"] = "Pattern: Netherscale Ammo Pouch"
+	LibTextbookDB[34221]["itemName"] = "Design: Chaotic Skyfire Diamond"
+	LibTextbookDB[34261]["itemName"] = "Pattern: Green Winter Clothes"
+	LibTextbookDB[34262]["itemName"] = "Pattern: Winter Boots"
+	LibTextbookDB[34319]["itemName"] = "Pattern: Red Winter Clothes"
+	LibTextbookDB[34413]["itemName"] = "Recipe: Hot Apple Cider"
+	LibTextbookDB[34425]["itemName"] = "Clockwork Rocket Bot"
+	LibTextbookDB[34478]["itemName"] = "Tiny Sporebat"
+	LibTextbookDB[34491]["itemName"] = "Pattern: Bag of Many Hides"
+	LibTextbookDB[34492]["itemName"] = "Rocket Chicken"
+	LibTextbookDB[34493]["itemName"] = "Dragon Kite"
+	LibTextbookDB[34518]["itemName"] = "Golden Pig Coin"
+	LibTextbookDB[34519]["itemName"] = "Silver Pig Coin"
+	LibTextbookDB[34535]["itemName"] = "Azure Whelpling"
+	LibTextbookDB[34689]["itemName"] = "Design: Chaotic Skyfire Diamond"
+	LibTextbookDB[34834]["itemName"] = "Recipe: Captain Rumsey's Lager"
+	LibTextbookDB[34872]["itemName"] = "Formula: Void Shatter"
+	LibTextbookDB[34955]["itemName"] = "Scorched Stone"
+	LibTextbookDB[35186]["itemName"] = "Schematic: Annihilator Holo-Gogs"
+	LibTextbookDB[35187]["itemName"] = "Schematic: Justicebringer 3000 Specs"
+	LibTextbookDB[35189]["itemName"] = "Schematic: Powerheal 9000 Lens"
+	LibTextbookDB[35190]["itemName"] = "Schematic: Hyper-Magnified Moon Specs"
+	LibTextbookDB[35191]["itemName"] = "Schematic: Wonderheal XT68 Shades"
+	LibTextbookDB[35192]["itemName"] = "Schematic: Primal-Attuned Goggles"
+	LibTextbookDB[35193]["itemName"] = "Schematic: Lightning Etched Specs"
+	LibTextbookDB[35194]["itemName"] = "Schematic: Surestrike Goggles v3.0"
+	LibTextbookDB[35195]["itemName"] = "Schematic: Mayhem Projection Goggles"
+	LibTextbookDB[35196]["itemName"] = "Schematic: Hard Khorium Goggles"
+	LibTextbookDB[35197]["itemName"] = "Schematic: Quad Deathblow X44 Goggles"
+	LibTextbookDB[35198]["itemName"] = "Design: Loop of Forged Power"
+	LibTextbookDB[35199]["itemName"] = "Design: Ring of Flowing Life"
+	LibTextbookDB[35200]["itemName"] = "Design: Hard Khorium Band"
+	LibTextbookDB[35201]["itemName"] = "Design: Pendant of Sunfire"
+	LibTextbookDB[35202]["itemName"] = "Design: Amulet of Flowing Life"
+	LibTextbookDB[35203]["itemName"] = "Design: Hard Khorium Choker"
+	LibTextbookDB[35204]["itemName"] = "Pattern: Sunfire Handwraps"
+	LibTextbookDB[35205]["itemName"] = "Pattern: Hands of Eternal Light"
+	LibTextbookDB[35206]["itemName"] = "Pattern: Sunfire Robe"
+	LibTextbookDB[35207]["itemName"] = "Pattern: Robe of Eternal Light"
+	LibTextbookDB[35208]["itemName"] = "Plans: Sunblessed Gauntlets"
+	LibTextbookDB[35209]["itemName"] = "Plans: Hard Khorium Battlefists"
+	LibTextbookDB[35210]["itemName"] = "Plans: Sunblessed Breastplate"
+	LibTextbookDB[35211]["itemName"] = "Plans: Hard Khorium Battleplate"
+	LibTextbookDB[35212]["itemName"] = "Pattern: Leather Gauntlets of the Sun"
+	LibTextbookDB[35213]["itemName"] = "Pattern: Fletcher's Gloves of the Phoenix"
+	LibTextbookDB[35214]["itemName"] = "Pattern: Gloves of Immortal Dusk"
+	LibTextbookDB[35215]["itemName"] = "Pattern: Sun-Drenched Scale Gloves"
+	LibTextbookDB[35216]["itemName"] = "Pattern: Leather Chestguard of the Sun"
+	LibTextbookDB[35217]["itemName"] = "Pattern: Embrace of the Phoenix"
+	LibTextbookDB[35218]["itemName"] = "Pattern: Carapace of Sun and Shadow"
+	LibTextbookDB[35219]["itemName"] = "Pattern: Sun-Drenched Scale Chestguard"
+	LibTextbookDB[35225]["itemName"] = "X-51 Nether-Rocket"
+	LibTextbookDB[35226]["itemName"] = "X-51 Nether-Rocket X-TREME"
+	LibTextbookDB[35238]["itemName"] = "Design: Balanced Shadowsong Amethyst"
+	LibTextbookDB[35239]["itemName"] = "Design: Glowing Shadowsong Amethyst"
+	LibTextbookDB[35240]["itemName"] = "Design: Infused Shadowsong Amethyst"
+	LibTextbookDB[35241]["itemName"] = "Design: Royal Shadowsong Amethyst"
+	LibTextbookDB[35242]["itemName"] = "Design: Shifting Shadowsong Amethyst"
+	LibTextbookDB[35243]["itemName"] = "Design: Sovereign Shadowsong Amethyst"
+	LibTextbookDB[35244]["itemName"] = "Design: Bold Crimson Spinel"
+	LibTextbookDB[35245]["itemName"] = "Design: Bright Crimson Spinel"
+	LibTextbookDB[35246]["itemName"] = "Design: Delicate Crimson Spinel"
+	LibTextbookDB[35247]["itemName"] = "Design: Flashing Crimson Spinel"
+	LibTextbookDB[35248]["itemName"] = "Design: Runed Crimson Spinel"
+	LibTextbookDB[35249]["itemName"] = "Design: Subtle Crimson Spinel"
+	LibTextbookDB[35250]["itemName"] = "Design: Teardrop Crimson Spinel"
+	LibTextbookDB[35251]["itemName"] = "Design: Dazzling Seaspray Emerald"
+	LibTextbookDB[35252]["itemName"] = "Design: Enduring Seaspray Emerald"
+	LibTextbookDB[35253]["itemName"] = "Design: Jagged Seaspray Emerald"
+	LibTextbookDB[35254]["itemName"] = "Design: Radiant Seaspray Emerald"
+	LibTextbookDB[35255]["itemName"] = "Design: Brilliant Lionseye"
+	LibTextbookDB[35256]["itemName"] = "Design: Gleaming Lionseye"
+	LibTextbookDB[35257]["itemName"] = "Design: Great Lionseye"
+	LibTextbookDB[35258]["itemName"] = "Design: Mystic Lionseye"
+	LibTextbookDB[35259]["itemName"] = "Design: Rigid Lionseye"
+	LibTextbookDB[35260]["itemName"] = "Design: Smooth Lionseye"
+	LibTextbookDB[35261]["itemName"] = "Design: Thick Lionseye"
+	LibTextbookDB[35262]["itemName"] = "Design: Lustrous Empyrean Sapphire"
+	LibTextbookDB[35263]["itemName"] = "Design: Solid Empyrean Sapphire"
+	LibTextbookDB[35264]["itemName"] = "Design: Sparkling Empyrean Sapphire"
+	LibTextbookDB[35265]["itemName"] = "Design: Stormy Empyrean Sapphire"
+	LibTextbookDB[35266]["itemName"] = "Design: Glinting Pyrestone"
+	LibTextbookDB[35267]["itemName"] = "Design: Inscribed Pyrestone"
+	LibTextbookDB[35268]["itemName"] = "Design: Luminous Pyrestone"
+	LibTextbookDB[35269]["itemName"] = "Design: Potent Pyrestone"
+	LibTextbookDB[35270]["itemName"] = "Design: Veiled Pyrestone"
+	LibTextbookDB[35271]["itemName"] = "Design: Wicked Pyrestone"
+	LibTextbookDB[35273]["itemName"] = "Study of Advanced Smelting"
+	LibTextbookDB[35294]["itemName"] = "Recipe: Elixir of Empowerment"
+	LibTextbookDB[35295]["itemName"] = "Recipe: Haste Potion"
+	LibTextbookDB[35296]["itemName"] = "Plans: Adamantite Weapon Chain"
+	LibTextbookDB[46758]["itemName"] = "Swift Gray Steed"
+	LibTextbookDB[46759]["itemName"] = "Swift Moonsaber"
+	LibTextbookDB[46760]["itemName"] = "Swift Purple Raptor"
+	LibTextbookDB[46761]["itemName"] = "Swift Red Hawkstrider"
+	LibTextbookDB[46762]["itemName"] = "Swift Violet Ram"
+	LibTextbookDB[46763]["itemName"] = "Turbostrider"
+	LibTextbookDB[46764]["itemName"] = "White Skeletal Warhorse"
+	LibTextbookDB[46767]["itemName"] = "Battle-Bot Ignition Key"
+	LibTextbookDB[46778]["itemName"] = "Magic Rooster Egg"
+	LibTextbookDB[44557]["itemName"] = "Swift Ebonweave Carpet"
+	LibTextbookDB[39303]["itemName"] = "Swift Flying Carpet"
+	LibTextbookDB[47179]["itemName"] = "Argent Charger"
+	LibTextbookDB[47180]["itemName"] = "Argent Warhorse"
+	LibTextbookDB[46815]["itemName"] = "Quel'dorei Steed"
+	LibTextbookDB[46816]["itemName"] = "Sunreaver Hawkstrider"
+	LibTextbookDB[46814]["itemName"] = "Sunreaver Dragonhawk"
+	LibTextbookDB[46813]["itemName"] = "Silver Covenant Hippogryph"
+	LibTextbookDB[47101]["itemName"] = "Ochre Skeletal Warhorse"
+	LibTextbookDB[47100]["itemName"] = "Reins of the Striped Dawnsaber"
+	LibTextbookDB[46802]["itemName"] = "Heavy Murloc Egg"
+	LibTextbookDB[46545]["itemName"] = "Curious Oracle Hatchling"
+	LibTextbookDB[46544]["itemName"] = "Curious Wolvar Pup"
+	LibTextbookDB[48112]["itemName"] = "Darting Hatchling"
+	LibTextbookDB[48114]["itemName"] = "Deviate Hatchling"
+	LibTextbookDB[48116]["itemName"] = "Gundrak Hatchling"
+	LibTextbookDB[48118]["itemName"] = "Leaping Hatchling"
+	LibTextbookDB[48120]["itemName"] = "Obsidian Hatchling"
+	LibTextbookDB[48122]["itemName"] = "Ravasaur Hatchling"
+	LibTextbookDB[48124]["itemName"] = "Razormaw Hatchling"
+	LibTextbookDB[48126]["itemName"] = "Razzashi Hatchling"
+	LibTextbookDB[46821]["itemName"] = "Shimmering Wyrmling"
+	LibTextbookDB[46820]["itemName"] = "Shimmering Wyrmling"
+	LibTextbookDB[47010]["itemName"] = "Design: Accurate Ametrine"
+	LibTextbookDB[46934]["itemName"] = "Design: Balanced Dreadstone"
+	LibTextbookDB[46917]["itemName"] = "Design: Bold Cardinal Ruby"
+	LibTextbookDB[46919]["itemName"] = "Design: Bright Cardinal Ruby"
+	LibTextbookDB[46930]["itemName"] = "Design: Brilliant King's Amber"
+	LibTextbookDB[47015]["itemName"] = "Design: Champion's Ametrine"
+	LibTextbookDB[46900]["itemName"] = "Design: Dazzling Eye of Zul"
+	LibTextbookDB[46949]["itemName"] = "Design: Deadly Ametrine"
+	LibTextbookDB[46941]["itemName"] = "Design: Defender's Dreadstone"
+	LibTextbookDB[47020]["itemName"] = "Design: Deft Ametrine"
+	LibTextbookDB[46918]["itemName"] = "Design: Delicate Cardinal Ruby"
+	LibTextbookDB[46952]["itemName"] = "Design: Durable Ametrine"
+	LibTextbookDB[47016]["itemName"] = "Design: Empowered Ametrine"
+	LibTextbookDB[46897]["itemName"] = "Design: Enduring Eye of Zul"
+	LibTextbookDB[46912]["itemName"] = "Design: Energized Eye of Zul"
+	LibTextbookDB[46953]["itemName"] = "Design: Etched Ametrine"
+	LibTextbookDB[47019]["itemName"] = "Design: Fierce Ametrine"
+	LibTextbookDB[46923]["itemName"] = "Design: Flashing Cardinal Ruby"
+	LibTextbookDB[46904]["itemName"] = "Design: Forceful Eye of Zul"
+	LibTextbookDB[46921]["itemName"] = "Design: Fractured Cardinal Ruby"
+	LibTextbookDB[47012]["itemName"] = "Design: Glimmering Ametrine"
+	LibTextbookDB[47008]["itemName"] = "Design: Glinting Ametrine"
+	LibTextbookDB[46936]["itemName"] = "Design: Glowing Dreadstone"
+	LibTextbookDB[46942]["itemName"] = "Design: Guardian's Dreadstone"
+	LibTextbookDB[46945]["itemName"] = "Design: Infused Dreadstone"
+	LibTextbookDB[46948]["itemName"] = "Design: Inscribed Ametrine"
+	LibTextbookDB[46910]["itemName"] = "Design: Intricate Eye of Zul"
+	LibTextbookDB[46901]["itemName"] = "Design: Jagged Eye of Zul"
+	LibTextbookDB[46909]["itemName"] = "Design: Lambent Eye of Zul"
+	LibTextbookDB[47021]["itemName"] = "Design: Lucent Ametrine"
+	LibTextbookDB[46947]["itemName"] = "Design: Luminous Ametrine"
+	LibTextbookDB[46927]["itemName"] = "Design: Lustrous Majestic Zircon"
+	LibTextbookDB[46905]["itemName"] = "Design: Misty Eye of Zul"
+	LibTextbookDB[46943]["itemName"] = "Design: Mysterious Dreadstone"
+	LibTextbookDB[46932]["itemName"] = "Design: Mystic King's Amber"
+	LibTextbookDB[46914]["itemName"] = "Design: Opaque Eye of Zul"
+	LibTextbookDB[46950]["itemName"] = "Design: Potent Ametrine"
+	LibTextbookDB[46920]["itemName"] = "Design: Precise Cardinal Ruby"
+	LibTextbookDB[46956]["itemName"] = "Design: Pristine Ametrine"
+	LibTextbookDB[46944]["itemName"] = "Design: Puissant Dreadstone"
+	LibTextbookDB[46937]["itemName"] = "Design: Purified Dreadstone"
+	LibTextbookDB[46933]["itemName"] = "Design: Quick King's Amber"
+	LibTextbookDB[46911]["itemName"] = "Design: Radiant Eye of Zul"
+	LibTextbookDB[47007]["itemName"] = "Design: Reckless Ametrine"
+	LibTextbookDB[46940]["itemName"] = "Design: Regal Dreadstone"
+	LibTextbookDB[47018]["itemName"] = "Design: Resplendent Ametrine"
+	LibTextbookDB[46928]["itemName"] = "Design: Rigid King's Amber"
+	LibTextbookDB[46939]["itemName"] = "Design: Royal Dreadstone"
+	LibTextbookDB[46916]["itemName"] = "Design: Runed Cardinal Ruby"
+	LibTextbookDB[46903]["itemName"] = "Design: Seer's Eye of Zul"
+	LibTextbookDB[46913]["itemName"] = "Design: Shattered Eye of Zul"
+	LibTextbookDB[46938]["itemName"] = "Design: Shifting Dreadstone"
+	LibTextbookDB[46907]["itemName"] = "Design: Shining Eye of Zul"
+	LibTextbookDB[46929]["itemName"] = "Design: Smooth King's Amber"
+	LibTextbookDB[46924]["itemName"] = "Design: Solid Majestic Zircon"
+	LibTextbookDB[46935]["itemName"] = "Design: Sovereign Dreadstone"
+	LibTextbookDB[46925]["itemName"] = "Design: Sparkling Majestic Zircon"
+	LibTextbookDB[47017]["itemName"] = "Design: Stalwart Ametrine"
+	LibTextbookDB[46898]["itemName"] = "Design: Steady Eye of Zul"
+	LibTextbookDB[35297]["itemName"] = "Formula: Enchant Boots - Boar's Speed"
+	LibTextbookDB[35298]["itemName"] = "Formula: Enchant Boots - Vitality"
+	LibTextbookDB[35299]["itemName"] = "Formula: Enchant Boots - Cat's Swiftness"
+	LibTextbookDB[35300]["itemName"] = "Pattern: Windstrike Gloves"
+	LibTextbookDB[35301]["itemName"] = "Pattern: Netherdrake Gloves"
+	LibTextbookDB[35302]["itemName"] = "Pattern: Cobrascale Gloves"
+	LibTextbookDB[35303]["itemName"] = "Pattern: Gloves of the Living Touch"
+	LibTextbookDB[35304]["itemName"] = "Design: Solid Star of Elune"
+	LibTextbookDB[35305]["itemName"] = "Design: Runed Living Ruby"
+	LibTextbookDB[35306]["itemName"] = "Design: Bright Living Ruby"
+	LibTextbookDB[35307]["itemName"] = "Design: Rigid Dawnstone"
+	LibTextbookDB[35308]["itemName"] = "Pattern: Unyielding Bracers"
+	LibTextbookDB[35309]["itemName"] = "Pattern: Unyielding Girdle"
+	LibTextbookDB[35310]["itemName"] = "Schematic: Healing Potion Injector"
+	LibTextbookDB[35311]["itemName"] = "Schematic: Mana Potion Injector"
+	LibTextbookDB[35322]["itemName"] = "Design: Quick Dawnstone"
+	LibTextbookDB[35323]["itemName"] = "Design: Reckless Noble Topaz"
+	LibTextbookDB[35325]["itemName"] = "Design: Forceful Talasite"
+	LibTextbookDB[35349]["itemName"] = "Snarly's Bucket"
+	LibTextbookDB[35350]["itemName"] = "Chuck's Bucket"
+	LibTextbookDB[35498]["itemName"] = "Formula: Enchant Weapon - Deathfrost"
+	LibTextbookDB[35500]["itemName"] = "Formula: Enchant Chest - Defense"
+	LibTextbookDB[35502]["itemName"] = "Design: Eternal Earthstorm Diamond"
+	LibTextbookDB[35504]["itemName"] = "Phoenix Hatchling"
+	LibTextbookDB[35505]["itemName"] = "Design: Ember Skyfire Diamond"
+	LibTextbookDB[35513]["itemName"] = "Swift White Hawkstrider"
 	LibTextbookDB[35517]["itemName"] = "Pattern: Bindings of Lightning Reflexes"
 	LibTextbookDB[35518]["itemName"] = "Pattern: Bracers of Nimble Thought"
 	LibTextbookDB[35519]["itemName"] = "Pattern: Bracers of Renewed Life"
@@ -20841,150 +21672,12 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[35530]["itemName"] = "Plans: Dawnsteel Shoulders"
 	LibTextbookDB[35531]["itemName"] = "Plans: Swiftsteel Bracers"
 	LibTextbookDB[35532]["itemName"] = "Plans: Swiftsteel Shoulders"
-	LibTextbookDB[32768]["itemName"] = "Reins of the Raven Lord"
-	LibTextbookDB[32857]["itemName"] = "Reins of the Onyx Netherwing Drake"
-	LibTextbookDB[32858]["itemName"] = "Reins of the Azure Netherwing Drake"
-	LibTextbookDB[32859]["itemName"] = "Reins of the Cobalt Netherwing Drake"
-	LibTextbookDB[32860]["itemName"] = "Reins of the Purple Netherwing Drake"
-	LibTextbookDB[32861]["itemName"] = "Reins of the Veridian Netherwing Drake"
-	LibTextbookDB[32862]["itemName"] = "Reins of the Violet Netherwing Drake"
-	LibTextbookDB[33124]["itemName"] = "Pattern: Cloak of Darkness"
-	LibTextbookDB[33305]["itemName"] = "Design: Don Julio's Heart"
-	LibTextbookDB[33155]["itemName"] = "Design: Kailee's Rose"
-	LibTextbookDB[33156]["itemName"] = "Design: Crimson Sun"
-	LibTextbookDB[33157]["itemName"] = "Design: Falling Star"
-	LibTextbookDB[33158]["itemName"] = "Design: Stone of Blades"
-	LibTextbookDB[33159]["itemName"] = "Design: Blood of Amber"
-	LibTextbookDB[33160]["itemName"] = "Design: Facet of Eternity"
-	LibTextbookDB[33154]["itemName"] = "Sinister Squashling"
-	LibTextbookDB[33165]["itemName"] = "Formula: Enchant Weapon - Greater Agility"
-	LibTextbookDB[33174]["itemName"] = "Plans: Ragesteel Shoulders"
-	LibTextbookDB[35296]["itemName"] = "Plans: Adamantite Weapon Chain"
-	LibTextbookDB[33186]["itemName"] = "Plans: Adamantite Weapon Chain"
-	LibTextbookDB[33205]["itemName"] = "Pattern: Shadowprowler's Chestguard"
-	LibTextbookDB[33209]["itemName"] = "Recipe: Flask of Chromatic Wonder"
-	LibTextbookDB[33224]["itemName"] = "Reins of the Spectral Tiger"
-	LibTextbookDB[33225]["itemName"] = "Reins of the Swift Spectral Tiger"
-	LibTextbookDB[33307]["itemName"] = "Formula: Enchant Weapon - Executioner"
-	LibTextbookDB[34109]["itemName"] = "Weather-Beaten Journal"
-	LibTextbookDB[33783]["itemName"] = "Design: Steady Talasite"
-	LibTextbookDB[33792]["itemName"] = "Plans: Heavy Copper Longsword"
-	LibTextbookDB[33804]["itemName"] = "Schematic: Adamantite Arrow Maker"
-	LibTextbookDB[33809]["itemName"] = "Amani War Bear"
-	LibTextbookDB[33816]["itemName"] = "Toothy's Bucket"
-	LibTextbookDB[33818]["itemName"] = "Muckbreath's Bucket"
-	LibTextbookDB[33870]["itemName"] = "Recipe: Skullfish Soup"
-	LibTextbookDB[33871]["itemName"] = "Recipe: Stormchops"
-	LibTextbookDB[33869]["itemName"] = "Recipe: Broiled Bloodfin"
-	LibTextbookDB[33873]["itemName"] = "Recipe: Spicy Hot Talbuk"
-	LibTextbookDB[33875]["itemName"] = "Recipe: Kibler's Bits"
-	LibTextbookDB[33925]["itemName"] = "Recipe: Delicious Chocolate Cake"
-	LibTextbookDB[33954]["itemName"] = "Plans: Hammer of Righteous Might"
-	LibTextbookDB[33976]["itemName"] = "Brewfest Ram"
-	LibTextbookDB[33977]["itemName"] = "Swift Brewfest Ram"
-	LibTextbookDB[33993]["itemName"] = "Mojo"
-	LibTextbookDB[33999]["itemName"] = "Cenarion War Hippogryph"
-	LibTextbookDB[34061]["itemName"] = "Turbo-Charged Flying Machine Control"
-	LibTextbookDB[34060]["itemName"] = "Flying Machine Control"
-	LibTextbookDB[34200]["itemName"] = "Pattern: Quiver of a Thousand Feathers"
-	LibTextbookDB[34114]["itemName"] = "Schematic: Field Repair Bot 110G"
-	LibTextbookDB[34126]["itemName"] = "Recipe: Shoveltusk Soup"
-	LibTextbookDB[37332]["itemName"] = "Formula: Enchant Cloak - Superior Frost Resistance"
-	LibTextbookDB[37333]["itemName"] = "Formula: Enchant Cloak - Superior Nature Resistance"
-	LibTextbookDB[37344]["itemName"] = "Formula: Enchant Weapon - Icebreaker"
-	LibTextbookDB[37331]["itemName"] = "Formula: Enchant Cloak - Superior Fire Resistance"
-	LibTextbookDB[44484]["itemName"] = "Formula: Enchant Bracers - Greater Assault"
-	LibTextbookDB[44494]["itemName"] = "Formula: Enchant Weapon - Lifeward"
-	LibTextbookDB[37340]["itemName"] = "Formula: Enchant Chest - Exceptional Resilience"
-	LibTextbookDB[37334]["itemName"] = "Formula: Enchant Cloak - Superior Shadow Resistance"
-	LibTextbookDB[37347]["itemName"] = "Formula: Enchant Cloak - Titanweave"
-	LibTextbookDB[44473]["itemName"] = "Formula: Enchant Weapon - Scourgebane"
-	LibTextbookDB[37330]["itemName"] = "Formula: Enchant Cloak - Superior Arcane Resistance"
-	LibTextbookDB[37339]["itemName"] = "Formula: Enchant Weapon - Giant Slayer"
-	LibTextbookDB[44485]["itemName"] = "Formula: Enchant Gloves - Armsman"
-	LibTextbookDB[37349]["itemName"] = "Formula: Enchant Cloak - Shadow Armor"
-	LibTextbookDB[34092]["itemName"] = "Merciless Nether Drake"
-	LibTextbookDB[34218]["itemName"] = "Pattern: Netherscale Ammo Pouch"
-	LibTextbookDB[34201]["itemName"] = "Pattern: Netherscale Ammo Pouch"
-	LibTextbookDB[34689]["itemName"] = "Design: Chaotic Skyfire Diamond"
-	LibTextbookDB[34221]["itemName"] = "Design: Chaotic Skyfire Diamond"
-	LibTextbookDB[34261]["itemName"] = "Pattern: Green Winter Clothes"
-	LibTextbookDB[34262]["itemName"] = "Pattern: Winter Boots"
-	LibTextbookDB[34319]["itemName"] = "Pattern: Red Winter Clothes"
-	LibTextbookDB[34413]["itemName"] = "Recipe: Hot Apple Cider"
-	LibTextbookDB[34478]["itemName"] = "Tiny Sporebat"
-	LibTextbookDB[34491]["itemName"] = "Pattern: Bag of Many Hides"
-	LibTextbookDB[34492]["itemName"] = "Rocket Chicken"
-	LibTextbookDB[34493]["itemName"] = "Dragon Kite"
-	LibTextbookDB[34518]["itemName"] = "Golden Pig Coin"
-	LibTextbookDB[34519]["itemName"] = "Silver Pig Coin"
-	LibTextbookDB[39152]["itemName"] = "Manual: Heavy Frostweave Bandage"
-	LibTextbookDB[39692]["itemName"] = "Recipe: Succulent Orca Stew"
-	LibTextbookDB[43018]["itemName"] = "Recipe: Mega Mammoth Meal"
-	LibTextbookDB[43019]["itemName"] = "Recipe: Tender Shoveltusk Steak"
-	LibTextbookDB[43020]["itemName"] = "Recipe: Spiced Worm Burger"
-	LibTextbookDB[43021]["itemName"] = "Recipe: Very Burnt Worg"
-	LibTextbookDB[43022]["itemName"] = "Recipe: Mighty Rhino Dogs"
-	LibTextbookDB[43023]["itemName"] = "Recipe: Poached Northern Sculpin"
-	LibTextbookDB[43024]["itemName"] = "Recipe: Firecracker Salmon"
-	LibTextbookDB[43026]["itemName"] = "Recipe: Imperial Manta Steak"
-	LibTextbookDB[43025]["itemName"] = "Recipe: Spicy Blue Nettlefish"
-	LibTextbookDB[34834]["itemName"] = "Recipe: Captain Rumsey's Lager"
-	LibTextbookDB[34872]["itemName"] = "Formula: Void Shatter"
-	LibTextbookDB[34955]["itemName"] = "Scorched Stone"
-	LibTextbookDB[35191]["itemName"] = "Schematic: Wonderheal XT68 Shades"
-	LibTextbookDB[35187]["itemName"] = "Schematic: Justicebringer 3000 Specs"
-	LibTextbookDB[35189]["itemName"] = "Schematic: Powerheal 9000 Lens"
-	LibTextbookDB[35190]["itemName"] = "Schematic: Hyper-Magnified Moon Specs"
-	LibTextbookDB[35192]["itemName"] = "Schematic: Primal-Attuned Goggles"
-	LibTextbookDB[35186]["itemName"] = "Schematic: Annihilator Holo-Gogs"
-	LibTextbookDB[35193]["itemName"] = "Schematic: Lightning Etched Specs"
-	LibTextbookDB[35194]["itemName"] = "Schematic: Surestrike Goggles v3.0"
-	LibTextbookDB[35195]["itemName"] = "Schematic: Mayhem Projection Goggles"
-	LibTextbookDB[35196]["itemName"] = "Schematic: Hard Khorium Goggles"
-	LibTextbookDB[35197]["itemName"] = "Schematic: Quad Deathblow X44 Goggles"
-	LibTextbookDB[35198]["itemName"] = "Design: Loop of Forged Power"
-	LibTextbookDB[35199]["itemName"] = "Design: Ring of Flowing Life"
-	LibTextbookDB[35200]["itemName"] = "Design: Hard Khorium Band"
-	LibTextbookDB[35201]["itemName"] = "Design: Pendant of Sunfire"
-	LibTextbookDB[35202]["itemName"] = "Design: Amulet of Flowing Life"
-	LibTextbookDB[35203]["itemName"] = "Design: Hard Khorium Choker"
-	LibTextbookDB[35204]["itemName"] = "Pattern: Sunfire Handwraps"
-	LibTextbookDB[35544]["itemName"] = "Pattern: Hands of Eternal Light"
-	LibTextbookDB[35205]["itemName"] = "Pattern: Hands of Eternal Light"
-	LibTextbookDB[35206]["itemName"] = "Pattern: Sunfire Robe"
-	LibTextbookDB[35548]["itemName"] = "Pattern: Robe of Eternal Light"
-	LibTextbookDB[35207]["itemName"] = "Pattern: Robe of Eternal Light"
-	LibTextbookDB[35546]["itemName"] = "Pattern: Leather Gauntlets of the Sun"
-	LibTextbookDB[35212]["itemName"] = "Pattern: Leather Gauntlets of the Sun"
 	LibTextbookDB[35541]["itemName"] = "Pattern: Fletcher's Gloves of the Phoenix"
-	LibTextbookDB[35213]["itemName"] = "Pattern: Fletcher's Gloves of the Phoenix"
-	LibTextbookDB[35214]["itemName"] = "Pattern: Gloves of Immortal Dusk"
-	LibTextbookDB[35215]["itemName"] = "Pattern: Sun-Drenched Scale Gloves"
-	LibTextbookDB[35216]["itemName"] = "Pattern: Leather Chestguard of the Sun"
-	LibTextbookDB[35217]["itemName"] = "Pattern: Embrace of the Phoenix"
-	LibTextbookDB[35218]["itemName"] = "Pattern: Carapace of Sun and Shadow"
+	LibTextbookDB[35544]["itemName"] = "Pattern: Hands of Eternal Light"
+	LibTextbookDB[35546]["itemName"] = "Pattern: Leather Gauntlets of the Sun"
+	LibTextbookDB[35548]["itemName"] = "Pattern: Robe of Eternal Light"
 	LibTextbookDB[35549]["itemName"] = "Pattern: Sun-Drenched Scale Chestguard"
-	LibTextbookDB[35219]["itemName"] = "Pattern: Sun-Drenched Scale Chestguard"
-	LibTextbookDB[35208]["itemName"] = "Plans: Sunblessed Gauntlets"
 	LibTextbookDB[35553]["itemName"] = "Plans: Hard Khorium Battlefists"
-	LibTextbookDB[35209]["itemName"] = "Plans: Hard Khorium Battlefists"
-	LibTextbookDB[35210]["itemName"] = "Plans: Sunblessed Breastplate"
-	LibTextbookDB[35211]["itemName"] = "Plans: Hard Khorium Battleplate"
-	LibTextbookDB[35225]["itemName"] = "X-51 Nether-Rocket"
-	LibTextbookDB[35226]["itemName"] = "X-51 Nether-Rocket X-TREME"
-	LibTextbookDB[35273]["itemName"] = "Study of Advanced Smelting"
-	LibTextbookDB[35322]["itemName"] = "Design: Quick Dawnstone"
-	LibTextbookDB[35323]["itemName"] = "Design: Reckless Noble Topaz"
-	LibTextbookDB[35325]["itemName"] = "Design: Forceful Talasite"
-	LibTextbookDB[35349]["itemName"] = "Snarly's Bucket"
-	LibTextbookDB[35350]["itemName"] = "Chuck's Bucket"
-	LibTextbookDB[35498]["itemName"] = "Formula: Enchant Weapon - Deathfrost"
-	LibTextbookDB[35500]["itemName"] = "Formula: Enchant Chest - Defense"
-	LibTextbookDB[35502]["itemName"] = "Design: Eternal Earthstorm Diamond"
-	LibTextbookDB[35504]["itemName"] = "Phoenix Hatchling"
-	LibTextbookDB[35505]["itemName"] = "Design: Ember Skyfire Diamond"
-	LibTextbookDB[35513]["itemName"] = "Swift White Hawkstrider"
 	LibTextbookDB[35564]["itemName"] = "Recipe: Charred Bear Kabobs"
 	LibTextbookDB[35566]["itemName"] = "Recipe: Juicy Bear Burger"
 	LibTextbookDB[35582]["itemName"] = "Schematic: Rocket Boots Xtreme Lite"
@@ -20999,18 +21692,15 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[35754]["itemName"] = "Recipe: Redeemer's Alchemist Stone"
 	LibTextbookDB[35755]["itemName"] = "Recipe: Assassin's Alchemist Stone"
 	LibTextbookDB[35756]["itemName"] = "Formula: Enchant Cloak - Steelweave"
-	LibTextbookDB[35769]["itemName"] = "Design: Forceful Seaspray Emerald"
+	LibTextbookDB[35762]["itemName"] = "Design: Reckless Pyrestone"
+	LibTextbookDB[35763]["itemName"] = "Design: Quick Lionseye"
+	LibTextbookDB[35764]["itemName"] = "Design: Steady Seaspray Emerald"
 	LibTextbookDB[35765]["itemName"] = "Design: Forceful Seaspray Emerald"
 	LibTextbookDB[35766]["itemName"] = "Design: Steady Seaspray Emerald"
-	LibTextbookDB[35764]["itemName"] = "Design: Steady Seaspray Emerald"
 	LibTextbookDB[35767]["itemName"] = "Design: Reckless Pyrestone"
-	LibTextbookDB[35762]["itemName"] = "Design: Reckless Pyrestone"
 	LibTextbookDB[35768]["itemName"] = "Design: Quick Lionseye"
-	LibTextbookDB[35763]["itemName"] = "Design: Quick Lionseye"
-	LibTextbookDB[44471]["itemName"] = "Formula: Enchant Cloak - Mighty Armor"
-	LibTextbookDB[44472]["itemName"] = "Formula: Enchant Cloak - Greater Speed"
-	LibTextbookDB[44488]["itemName"] = "Formula: Enchant Cloak - Wisdom"
-	LibTextbookDB[44491]["itemName"] = "Formula: Enchant Boots - Tuskarr's Vitality"
+	LibTextbookDB[35769]["itemName"] = "Design: Forceful Seaspray Emerald"
+	LibTextbookDB[35906]["itemName"] = "Reins of the Black War Elekk"
 	LibTextbookDB[36955]["itemName"] = "Grimoire of Firebolt (Rank 9)"
 	LibTextbookDB[36959]["itemName"] = "Grimoire of  Blood Pact (Rank 7)"
 	LibTextbookDB[36960]["itemName"] = "Grimoire of Fire Shield (Rank 7)"
@@ -21021,148 +21711,153 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[36968]["itemName"] = "Grimoire of Suffering (Rank 7)"
 	LibTextbookDB[36970]["itemName"] = "Grimoire of Suffering (Rank 8)"
 	LibTextbookDB[37012]["itemName"] = "The Horseman's Reins"
-	LibTextbookDB[35906]["itemName"] = "Reins of the Black War Elekk"
 	LibTextbookDB[37297]["itemName"] = "Gold Medallion"
 	LibTextbookDB[37298]["itemName"] = "Competitor's Souvenir"
+	LibTextbookDB[37330]["itemName"] = "Formula: Enchant Cloak - Superior Arcane Resistance"
+	LibTextbookDB[37331]["itemName"] = "Formula: Enchant Cloak - Superior Fire Resistance"
+	LibTextbookDB[37332]["itemName"] = "Formula: Enchant Cloak - Superior Frost Resistance"
+	LibTextbookDB[37333]["itemName"] = "Formula: Enchant Cloak - Superior Nature Resistance"
+	LibTextbookDB[37334]["itemName"] = "Formula: Enchant Cloak - Superior Shadow Resistance"
+	LibTextbookDB[37339]["itemName"] = "Formula: Enchant Weapon - Giant Slayer"
+	LibTextbookDB[37340]["itemName"] = "Formula: Enchant Chest - Exceptional Resilience"
+	LibTextbookDB[37344]["itemName"] = "Formula: Enchant Weapon - Icebreaker"
+	LibTextbookDB[37347]["itemName"] = "Formula: Enchant Cloak - Titanweave"
+	LibTextbookDB[37349]["itemName"] = "Formula: Enchant Cloak - Shadow Armor"
 	LibTextbookDB[37504]["itemName"] = "Design: Purified Shadowsong Amethyst"
 	LibTextbookDB[37676]["itemName"] = "Vengeful Nether Drake"
 	LibTextbookDB[37719]["itemName"] = "Swift Zhevra"
+	LibTextbookDB[37827]["itemName"] = "Brewfest Kodo"
 	LibTextbookDB[37828]["itemName"] = "Great Brewfest Kodo"
 	LibTextbookDB[37915]["itemName"] = "Pattern: Dress Shoes"
 	LibTextbookDB[38050]["itemName"] = "Soul-Trader Beacon"
 	LibTextbookDB[38229]["itemName"] = "Pattern: Mycah's Botanical Bag"
 	LibTextbookDB[38327]["itemName"] = "Pattern: Haliscan Jacket"
 	LibTextbookDB[38328]["itemName"] = "Pattern: Haliscan Pantaloons"
-	LibTextbookDB[37827]["itemName"] = "Brewfest Kodo"
-	LibTextbookDB[44509]["itemName"] = "Pattern: Trapper's Traveling Pack"
-	LibTextbookDB[44510]["itemName"] = "Pattern: Mammoth Mining Bag"
 	LibTextbookDB[38576]["itemName"] = "Big Battle Bear"
 	LibTextbookDB[38628]["itemName"] = "Nether Ray Fry"
-	LibTextbookDB[39153]["itemName"] = "Manual: Dense Frostweave Bandage"
 	LibTextbookDB[38658]["itemName"] = "Vampiric Batling"
+	LibTextbookDB[39152]["itemName"] = "Manual: Heavy Frostweave Bandage"
+	LibTextbookDB[39153]["itemName"] = "Manual: Dense Frostweave Bandage"
 	LibTextbookDB[39286]["itemName"] = "Frosty's Collar"
-	LibTextbookDB[32430]["itemName"] = "Pattern: Bracers of Shackled Souls"
 	LibTextbookDB[39644]["itemName"] = "Recipe: Kungaloosh"
 	LibTextbookDB[39656]["itemName"] = "Tyrael's Hilt"
+	LibTextbookDB[39692]["itemName"] = "Recipe: Succulent Orca Stew"
+	LibTextbookDB[39896]["itemName"] = "Tickbird Hatchling"
+	LibTextbookDB[39898]["itemName"] = "Cobra Hatchling"
+	LibTextbookDB[39899]["itemName"] = "White Tickbird Hatchling"
 	LibTextbookDB[39973]["itemName"] = "Ghostly Skull"
-	LibTextbookDB[41576]["itemName"] = "Design: Bold Scarlet Ruby"
-	LibTextbookDB[41559]["itemName"] = "Design: Mystic Sun Crystal"
-	LibTextbookDB[41575]["itemName"] = "Design: Mysterious Shadow Crystal"
-	LibTextbookDB[41574]["itemName"] = "Design: Defender's Shadow Crystal"
-	LibTextbookDB[41566]["itemName"] = "Design: Resplendent Huge Citrine"
-	LibTextbookDB[41562]["itemName"] = "Design: Deadly Huge Citrine"
-	LibTextbookDB[41565]["itemName"] = "Design: Lucent Huge Citrine"
-	LibTextbookDB[41563]["itemName"] = "Design: Durable Huge Citrine"
-	LibTextbookDB[41561]["itemName"] = "Design: Reckless Huge Citrine"
-	LibTextbookDB[41564]["itemName"] = "Design: Empowered Huge Citrine"
-	LibTextbookDB[41567]["itemName"] = "Design: Vivid Dark Jade"
-	LibTextbookDB[41572]["itemName"] = "Design: Steady Dark Jade"
-	LibTextbookDB[41568]["itemName"] = "Design: Seer's Dark Jade"
-	LibTextbookDB[41571]["itemName"] = "Design: Turbid Dark Jade"
-	LibTextbookDB[41573]["itemName"] = "Design: Opaque Dark Jade"
-	LibTextbookDB[41570]["itemName"] = "Design: Tense Dark Jade"
-	LibTextbookDB[41569]["itemName"] = "Design: Shattered Dark Jade"
-	LibTextbookDB[44564]["itemName"] = "Recipe: Mighty Arcane Protection Potion"
-	LibTextbookDB[44566]["itemName"] = "Recipe: Mighty Frost Protection Potion"
-	LibTextbookDB[44568]["itemName"] = "Recipe: Mighty Shadow Protection Potion"
-	LibTextbookDB[44565]["itemName"] = "Recipe: Mighty Fire Protection Potion"
-	LibTextbookDB[44567]["itemName"] = "Recipe: Mighty Nature Protection Potion"
-	LibTextbookDB[41560]["itemName"] = "Design: Stormy Chalcedony"
-	LibTextbookDB[41577]["itemName"] = "Design: Delicate Scarlet Ruby"
-	LibTextbookDB[41718]["itemName"] = "Design: Runed Scarlet Ruby"
-	LibTextbookDB[41719]["itemName"] = "Design: Subtle Scarlet Ruby"
-	LibTextbookDB[41578]["itemName"] = "Design: Flashing Scarlet Ruby"
-	LibTextbookDB[41817]["itemName"] = "Design: Fractured Scarlet Ruby"
-	LibTextbookDB[41790]["itemName"] = "Design: Precise Scarlet Ruby"
-	LibTextbookDB[42138]["itemName"] = "Design: Solid Sky Sapphire"
-	LibTextbookDB[41581]["itemName"] = "Design: Lustrous Sky Sapphire"
-	LibTextbookDB[41728]["itemName"] = "Design: Stormy Sky Sapphire"
-	LibTextbookDB[41720]["itemName"] = "Design: Smooth Autumn's Glow"
-	LibTextbookDB[41580]["itemName"] = "Design: Rigid Autumn's Glow"
-	LibTextbookDB[41791]["itemName"] = "Design: Thick Autumn's Glow"
-	LibTextbookDB[41727]["itemName"] = "Design: Mystic Autumn's Glow"
-	LibTextbookDB[41579]["itemName"] = "Design: Quick Autumn's Glow"
-	LibTextbookDB[41784]["itemName"] = "Design: Sovereign Twilight Opal"
-	LibTextbookDB[41747]["itemName"] = "Design: Shifting Twilight Opal"
-	LibTextbookDB[41785]["itemName"] = "Design: Tenuous Twilight Opal"
-	LibTextbookDB[41725]["itemName"] = "Design: Glowing Twilight Opal"
-	LibTextbookDB[41783]["itemName"] = "Design: Purified Twilight Opal"
-	LibTextbookDB[41701]["itemName"] = "Design: Royal Twilight Opal"
-	LibTextbookDB[41740]["itemName"] = "Design: Mysterious Twilight Opal"
-	LibTextbookDB[41796]["itemName"] = "Design: Infused Twilight Opal"
-	LibTextbookDB[41703]["itemName"] = "Design: Regal Twilight Opal"
-	LibTextbookDB[41820]["itemName"] = "Design: Defender's Twilight Opal"
-	LibTextbookDB[41702]["itemName"] = "Design: Puissant Twilight Opal"
-	LibTextbookDB[41726]["itemName"] = "Design: Guardian's Twilight Opal"
-	LibTextbookDB[41789]["itemName"] = "Design: Inscribed Monarch Topaz"
-	LibTextbookDB[41777]["itemName"] = "Design: Etched Monarch Topaz"
-	LibTextbookDB[41780]["itemName"] = "Design: Champion's Monarch Topaz"
-	LibTextbookDB[41734]["itemName"] = "Design: Resplendent Monarch Topaz"
-	LibTextbookDB[41794]["itemName"] = "Design: Deadly Monarch Topaz"
-	LibTextbookDB[41582]["itemName"] = "Design: Glinting Monarch Topaz"
-	LibTextbookDB[41733]["itemName"] = "Design: Lucent Monarch Topaz"
-	LibTextbookDB[41792]["itemName"] = "Design: Deft Monarch Topaz"
-	LibTextbookDB[41689]["itemName"] = "Design: Luminous Monarch Topaz"
-	LibTextbookDB[41686]["itemName"] = "Design: Potent Monarch Topaz"
-	LibTextbookDB[41688]["itemName"] = "Design: Veiled Monarch Topaz"
-	LibTextbookDB[41730]["itemName"] = "Design: Durable Monarch Topaz"
-	LibTextbookDB[41690]["itemName"] = "Design: Reckless Monarch Topaz"
-	LibTextbookDB[41721]["itemName"] = "Design: Wicked Monarch Topaz"
-	LibTextbookDB[41732]["itemName"] = "Design: Empowered Monarch Topaz"
-	LibTextbookDB[41687]["itemName"] = "Design: Stark Monarch Topaz"
-	LibTextbookDB[41779]["itemName"] = "Design: Stalwart Monarch Topaz"
-	LibTextbookDB[41722]["itemName"] = "Design: Glimmering Monarch Topaz"
-	LibTextbookDB[41818]["itemName"] = "Design: Accurate Monarch Topaz"
-	LibTextbookDB[41795]["itemName"] = "Design: Timeless Forest Emerald"
-	LibTextbookDB[41723]["itemName"] = "Design: Jagged Forest Emerald"
-	LibTextbookDB[41698]["itemName"] = "Design: Vivid Forest Emerald"
-	LibTextbookDB[41697]["itemName"] = "Design: Enduring Forest Emerald"
-	LibTextbookDB[41738]["itemName"] = "Design: Steady Forest Emerald"
-	LibTextbookDB[41693]["itemName"] = "Design: Forceful Forest Emerald"
-	LibTextbookDB[41699]["itemName"] = "Design: Seer's Forest Emerald"
-	LibTextbookDB[41781]["itemName"] = "Design: Misty Forest Emerald"
-	LibTextbookDB[41782]["itemName"] = "Design: Shining Forest Emerald"
-	LibTextbookDB[41737]["itemName"] = "Design: Turbid Forest Emerald"
-	LibTextbookDB[41694]["itemName"] = "Design: Intricate Forest Emerald"
-	LibTextbookDB[41724]["itemName"] = "Design: Sundered Forest Emerald"
-	LibTextbookDB[41696]["itemName"] = "Design: Lambent Forest Emerald"
-	LibTextbookDB[41739]["itemName"] = "Design: Opaque Forest Emerald"
-	LibTextbookDB[41692]["itemName"] = "Design: Energized Forest Emerald"
-	LibTextbookDB[41819]["itemName"] = "Design: Radiant Forest Emerald"
-	LibTextbookDB[41736]["itemName"] = "Design: Tense Forest Emerald"
-	LibTextbookDB[41735]["itemName"] = "Design: Shattered Forest Emerald"
-	LibTextbookDB[41793]["itemName"] = "Design: Fierce Monarch Topaz"
-	LibTextbookDB[41778]["itemName"] = "Design: Resolute Monarch Topaz"
-	LibTextbookDB[34425]["itemName"] = "Clockwork Rocket Bot"
+	LibTextbookDB[40653]["itemName"] = "Reeking Pet Carrier"
 	LibTextbookDB[40775]["itemName"] = "Winged Steed of the Ebon Blade"
-	LibTextbookDB[43962]["itemName"] = "Reins of the White Polar Bear"
-	LibTextbookDB[41124]["itemName"] = "Plans: Reinforced Cobalt Shoulders"
-	LibTextbookDB[41123]["itemName"] = "Plans: Reinforced Cobalt Helm"
 	LibTextbookDB[41120]["itemName"] = "Plans: Reinforced Cobalt Legplates"
 	LibTextbookDB[41122]["itemName"] = "Plans: Reinforced Cobalt Chestpiece"
+	LibTextbookDB[41123]["itemName"] = "Plans: Reinforced Cobalt Helm"
+	LibTextbookDB[41124]["itemName"] = "Plans: Reinforced Cobalt Shoulders"
+	LibTextbookDB[41508]["itemName"] = "Mechano-hog"
+	LibTextbookDB[41559]["itemName"] = "Design: Mystic Sun Crystal"
+	LibTextbookDB[41560]["itemName"] = "Design: Stormy Chalcedony"
+	LibTextbookDB[41561]["itemName"] = "Design: Reckless Huge Citrine"
+	LibTextbookDB[41562]["itemName"] = "Design: Deadly Huge Citrine"
+	LibTextbookDB[41563]["itemName"] = "Design: Durable Huge Citrine"
+	LibTextbookDB[41564]["itemName"] = "Design: Empowered Huge Citrine"
+	LibTextbookDB[41565]["itemName"] = "Design: Lucent Huge Citrine"
+	LibTextbookDB[41566]["itemName"] = "Design: Resplendent Huge Citrine"
+	LibTextbookDB[41567]["itemName"] = "Design: Vivid Dark Jade"
+	LibTextbookDB[41568]["itemName"] = "Design: Seer's Dark Jade"
+	LibTextbookDB[41569]["itemName"] = "Design: Shattered Dark Jade"
+	LibTextbookDB[41570]["itemName"] = "Design: Tense Dark Jade"
+	LibTextbookDB[41571]["itemName"] = "Design: Turbid Dark Jade"
+	LibTextbookDB[41572]["itemName"] = "Design: Steady Dark Jade"
+	LibTextbookDB[41573]["itemName"] = "Design: Opaque Dark Jade"
+	LibTextbookDB[41574]["itemName"] = "Design: Defender's Shadow Crystal"
+	LibTextbookDB[41575]["itemName"] = "Design: Mysterious Shadow Crystal"
+	LibTextbookDB[41576]["itemName"] = "Design: Bold Scarlet Ruby"
+	LibTextbookDB[41577]["itemName"] = "Design: Delicate Scarlet Ruby"
+	LibTextbookDB[41578]["itemName"] = "Design: Flashing Scarlet Ruby"
+	LibTextbookDB[41579]["itemName"] = "Design: Quick Autumn's Glow"
+	LibTextbookDB[41580]["itemName"] = "Design: Rigid Autumn's Glow"
+	LibTextbookDB[41581]["itemName"] = "Design: Lustrous Sky Sapphire"
+	LibTextbookDB[41582]["itemName"] = "Design: Glinting Monarch Topaz"
+	LibTextbookDB[41686]["itemName"] = "Design: Potent Monarch Topaz"
+	LibTextbookDB[41687]["itemName"] = "Design: Stark Monarch Topaz"
+	LibTextbookDB[41688]["itemName"] = "Design: Veiled Monarch Topaz"
+	LibTextbookDB[41689]["itemName"] = "Design: Luminous Monarch Topaz"
+	LibTextbookDB[41690]["itemName"] = "Design: Reckless Monarch Topaz"
+	LibTextbookDB[41692]["itemName"] = "Design: Energized Forest Emerald"
+	LibTextbookDB[41693]["itemName"] = "Design: Forceful Forest Emerald"
+	LibTextbookDB[41694]["itemName"] = "Design: Intricate Forest Emerald"
+	LibTextbookDB[41696]["itemName"] = "Design: Lambent Forest Emerald"
+	LibTextbookDB[41697]["itemName"] = "Design: Enduring Forest Emerald"
+	LibTextbookDB[41698]["itemName"] = "Design: Vivid Forest Emerald"
+	LibTextbookDB[41699]["itemName"] = "Design: Seer's Forest Emerald"
+	LibTextbookDB[41701]["itemName"] = "Design: Royal Twilight Opal"
+	LibTextbookDB[41702]["itemName"] = "Design: Puissant Twilight Opal"
+	LibTextbookDB[41703]["itemName"] = "Design: Regal Twilight Opal"
+	LibTextbookDB[41704]["itemName"] = "Design: Chaotic Skyflare Diamond"
 	LibTextbookDB[41705]["itemName"] = "Design: Effulgent Skyflare Diamond"
+	LibTextbookDB[41706]["itemName"] = "Design: Ember Skyflare Diamond"
+	LibTextbookDB[41707]["itemName"] = "Design: Revitalizing Skyflare Diamond"
+	LibTextbookDB[41708]["itemName"] = "Design: Insightful Earthsiege Diamond"
+	LibTextbookDB[41709]["itemName"] = "Design: Invigorating Earthsiege Diamond"
+	LibTextbookDB[41710]["itemName"] = "Design: Relentless Earthsiege Diamond"
+	LibTextbookDB[41711]["itemName"] = "Design: Trenchant Earthsiege Diamond"
+	LibTextbookDB[41718]["itemName"] = "Design: Runed Scarlet Ruby"
+	LibTextbookDB[41719]["itemName"] = "Design: Subtle Scarlet Ruby"
+	LibTextbookDB[41720]["itemName"] = "Design: Smooth Autumn's Glow"
+	LibTextbookDB[41721]["itemName"] = "Design: Wicked Monarch Topaz"
+	LibTextbookDB[41722]["itemName"] = "Design: Glimmering Monarch Topaz"
+	LibTextbookDB[41723]["itemName"] = "Design: Jagged Forest Emerald"
+	LibTextbookDB[41724]["itemName"] = "Design: Sundered Forest Emerald"
+	LibTextbookDB[41725]["itemName"] = "Design: Glowing Twilight Opal"
+	LibTextbookDB[41726]["itemName"] = "Design: Guardian's Twilight Opal"
+	LibTextbookDB[41727]["itemName"] = "Design: Mystic Autumn's Glow"
+	LibTextbookDB[41728]["itemName"] = "Design: Stormy Sky Sapphire"
+	LibTextbookDB[41730]["itemName"] = "Design: Durable Monarch Topaz"
+	LibTextbookDB[41732]["itemName"] = "Design: Empowered Monarch Topaz"
+	LibTextbookDB[41733]["itemName"] = "Design: Lucent Monarch Topaz"
+	LibTextbookDB[41734]["itemName"] = "Design: Resplendent Monarch Topaz"
+	LibTextbookDB[41735]["itemName"] = "Design: Shattered Forest Emerald"
+	LibTextbookDB[41736]["itemName"] = "Design: Tense Forest Emerald"
+	LibTextbookDB[41737]["itemName"] = "Design: Turbid Forest Emerald"
+	LibTextbookDB[41738]["itemName"] = "Design: Steady Forest Emerald"
+	LibTextbookDB[41739]["itemName"] = "Design: Opaque Forest Emerald"
+	LibTextbookDB[41740]["itemName"] = "Design: Mysterious Twilight Opal"
+	LibTextbookDB[41742]["itemName"] = "Design: Enigmatic Skyflare Diamond"
 	LibTextbookDB[41743]["itemName"] = "Design: Forlorn Skyflare Diamond"
 	LibTextbookDB[41744]["itemName"] = "Design: Impassive Skyflare Diamond"
-	LibTextbookDB[41704]["itemName"] = "Design: Chaotic Skyflare Diamond"
+	LibTextbookDB[41747]["itemName"] = "Design: Shifting Twilight Opal"
+	LibTextbookDB[41777]["itemName"] = "Design: Etched Monarch Topaz"
+	LibTextbookDB[41778]["itemName"] = "Design: Resolute Monarch Topaz"
+	LibTextbookDB[41779]["itemName"] = "Design: Stalwart Monarch Topaz"
+	LibTextbookDB[41780]["itemName"] = "Design: Champion's Monarch Topaz"
+	LibTextbookDB[41781]["itemName"] = "Design: Misty Forest Emerald"
+	LibTextbookDB[41782]["itemName"] = "Design: Shining Forest Emerald"
+	LibTextbookDB[41783]["itemName"] = "Design: Purified Twilight Opal"
+	LibTextbookDB[41784]["itemName"] = "Design: Sovereign Twilight Opal"
+	LibTextbookDB[41785]["itemName"] = "Design: Tenuous Twilight Opal"
 	LibTextbookDB[41786]["itemName"] = "Design: Destructive Skyflare Diamond"
-	LibTextbookDB[41706]["itemName"] = "Design: Ember Skyflare Diamond"
-	LibTextbookDB[41742]["itemName"] = "Design: Enigmatic Skyflare Diamond"
 	LibTextbookDB[41787]["itemName"] = "Design: Thundering Skyflare Diamond"
-	LibTextbookDB[41708]["itemName"] = "Design: Insightful Earthsiege Diamond"
+	LibTextbookDB[41788]["itemName"] = "Design: Beaming Earthsiege Diamond"
+	LibTextbookDB[41789]["itemName"] = "Design: Inscribed Monarch Topaz"
+	LibTextbookDB[41790]["itemName"] = "Design: Precise Scarlet Ruby"
+	LibTextbookDB[41791]["itemName"] = "Design: Thick Autumn's Glow"
+	LibTextbookDB[41792]["itemName"] = "Design: Deft Monarch Topaz"
+	LibTextbookDB[41793]["itemName"] = "Design: Fierce Monarch Topaz"
+	LibTextbookDB[41794]["itemName"] = "Design: Deadly Monarch Topaz"
+	LibTextbookDB[41795]["itemName"] = "Design: Timeless Forest Emerald"
+	LibTextbookDB[41796]["itemName"] = "Design: Infused Twilight Opal"
+	LibTextbookDB[41797]["itemName"] = "Design: Austere Earthsiege Diamond"
 	LibTextbookDB[41798]["itemName"] = "Design: Bracing Earthsiege Diamond"
 	LibTextbookDB[41799]["itemName"] = "Design: Eternal Earthsiege Diamond"
-	LibTextbookDB[41710]["itemName"] = "Design: Relentless Earthsiege Diamond"
-	LibTextbookDB[41797]["itemName"] = "Design: Austere Earthsiege Diamond"
-	LibTextbookDB[41711]["itemName"] = "Design: Trenchant Earthsiege Diamond"
-	LibTextbookDB[41709]["itemName"] = "Design: Invigorating Earthsiege Diamond"
-	LibTextbookDB[41788]["itemName"] = "Design: Beaming Earthsiege Diamond"
-	LibTextbookDB[41707]["itemName"] = "Design: Revitalizing Skyflare Diamond"
-	LibTextbookDB[41508]["itemName"] = "Mechano-hog"
+	LibTextbookDB[41817]["itemName"] = "Design: Fractured Scarlet Ruby"
+	LibTextbookDB[41818]["itemName"] = "Design: Accurate Monarch Topaz"
+	LibTextbookDB[41819]["itemName"] = "Design: Radiant Forest Emerald"
+	LibTextbookDB[41820]["itemName"] = "Design: Defender's Twilight Opal"
+	LibTextbookDB[42138]["itemName"] = "Design: Solid Sky Sapphire"
 	LibTextbookDB[42172]["itemName"] = "Pattern: Red Lumberjack Shirt"
 	LibTextbookDB[42173]["itemName"] = "Pattern: Blue Lumberjack Shirt"
 	LibTextbookDB[42175]["itemName"] = "Pattern: Green Lumberjack Shirt"
-	LibTextbookDB[42177]["itemName"] = "Pattern: Red Workman's Shirt"
 	LibTextbookDB[42176]["itemName"] = "Pattern: Blue Workman's Shirt"
+	LibTextbookDB[42177]["itemName"] = "Pattern: Red Workman's Shirt"
 	LibTextbookDB[42178]["itemName"] = "Pattern: Rustic Workman's Shirt"
 	LibTextbookDB[42183]["itemName"] = "Pattern: Abyssal Bag"
 	LibTextbookDB[42184]["itemName"] = "Pattern: Glacial Bag"
@@ -21170,22 +21865,22 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[42187]["itemName"] = "Pattern: Brilliant Spellthread"
 	LibTextbookDB[42188]["itemName"] = "Pattern: Sapphire Spellthread"
 	LibTextbookDB[42298]["itemName"] = "Design: Bold Dragon's Eye"
-	LibTextbookDB[42301]["itemName"] = "Design: Delicate Dragon's Eye"
-	LibTextbookDB[42309]["itemName"] = "Design: Runed Dragon's Eye"
 	LibTextbookDB[42299]["itemName"] = "Design: Bright Dragon's Eye"
-	LibTextbookDB[42314]["itemName"] = "Design: Subtle Dragon's Eye"
-	LibTextbookDB[42302]["itemName"] = "Design: Flashing Dragon's Eye"
 	LibTextbookDB[42300]["itemName"] = "Design: Brilliant Dragon's Eye"
+	LibTextbookDB[42301]["itemName"] = "Design: Delicate Dragon's Eye"
+	LibTextbookDB[42302]["itemName"] = "Design: Flashing Dragon's Eye"
 	LibTextbookDB[42303]["itemName"] = "Design: Fractured Dragon's Eye"
 	LibTextbookDB[42304]["itemName"] = "Design: Lustrous Dragon's Eye"
 	LibTextbookDB[42305]["itemName"] = "Design: Mystic Dragon's Eye"
 	LibTextbookDB[42306]["itemName"] = "Design: Precise Dragon's Eye"
 	LibTextbookDB[42307]["itemName"] = "Design: Quick Dragon's Eye"
 	LibTextbookDB[42308]["itemName"] = "Design: Rigid Dragon's Eye"
+	LibTextbookDB[42309]["itemName"] = "Design: Runed Dragon's Eye"
 	LibTextbookDB[42310]["itemName"] = "Design: Smooth Dragon's Eye"
 	LibTextbookDB[42311]["itemName"] = "Design: Solid Dragon's Eye"
 	LibTextbookDB[42312]["itemName"] = "Design: Sparkling Dragon's Eye"
 	LibTextbookDB[42313]["itemName"] = "Design: Stormy Dragon's Eye"
+	LibTextbookDB[42314]["itemName"] = "Design: Subtle Dragon's Eye"
 	LibTextbookDB[42315]["itemName"] = "Design: Thick Dragon's Eye"
 	LibTextbookDB[42648]["itemName"] = "Design: Titanium Impact Band"
 	LibTextbookDB[42649]["itemName"] = "Design: Titanium Earthguard Ring"
@@ -21194,6 +21889,15 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[42652]["itemName"] = "Design: Titanium Earthguard Chain"
 	LibTextbookDB[42653]["itemName"] = "Design: Titanium Spellshock Necklace"
 	LibTextbookDB[43017]["itemName"] = "Recipe: Fish Feast"
+	LibTextbookDB[43018]["itemName"] = "Recipe: Mega Mammoth Meal"
+	LibTextbookDB[43019]["itemName"] = "Recipe: Tender Shoveltusk Steak"
+	LibTextbookDB[43020]["itemName"] = "Recipe: Spiced Worm Burger"
+	LibTextbookDB[43021]["itemName"] = "Recipe: Very Burnt Worg"
+	LibTextbookDB[43022]["itemName"] = "Recipe: Mighty Rhino Dogs"
+	LibTextbookDB[43023]["itemName"] = "Recipe: Poached Northern Sculpin"
+	LibTextbookDB[43024]["itemName"] = "Recipe: Firecracker Salmon"
+	LibTextbookDB[43025]["itemName"] = "Recipe: Spicy Blue Nettlefish"
+	LibTextbookDB[43026]["itemName"] = "Recipe: Imperial Manta Steak"
 	LibTextbookDB[43027]["itemName"] = "Recipe: Spicy Fried Herring"
 	LibTextbookDB[43028]["itemName"] = "Recipe: Rhinolicious Wormsteak"
 	LibTextbookDB[43029]["itemName"] = "Recipe: Critter Bites"
@@ -21205,71 +21909,87 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[43035]["itemName"] = "Recipe: Blackened Dragonfin"
 	LibTextbookDB[43036]["itemName"] = "Recipe: Dragonfin Filet"
 	LibTextbookDB[43037]["itemName"] = "Recipe: Tracker Snacks"
-	LibTextbookDB[44559]["itemName"] = "Pattern: Fur Lining - Fire Resist"
-	LibTextbookDB[44560]["itemName"] = "Pattern: Fur Lining - Frost Resist"
-	LibTextbookDB[44561]["itemName"] = "Pattern: Fur Lining - Shadow Resist"
-	LibTextbookDB[44562]["itemName"] = "Pattern: Fur Lining - Nature Resist"
-	LibTextbookDB[44563]["itemName"] = "Pattern: Fur Lining - Arcane Resist"
 	LibTextbookDB[43317]["itemName"] = "Design: Ring of Earthen Might"
 	LibTextbookDB[43318]["itemName"] = "Design: Ring of Scarlet Shadows"
 	LibTextbookDB[43319]["itemName"] = "Design: Windfire Band"
 	LibTextbookDB[43320]["itemName"] = "Design: Ring of Northern Tears"
 	LibTextbookDB[43485]["itemName"] = "Design: Savage Titanium Ring"
 	LibTextbookDB[43497]["itemName"] = "Design: Savage Titanium Band"
+	LibTextbookDB[43505]["itemName"] = "Recipe: Gigantic Feast"
+	LibTextbookDB[43506]["itemName"] = "Recipe: Small Feast"
 	LibTextbookDB[43507]["itemName"] = "Recipe: Tasty Cupcake"
 	LibTextbookDB[43508]["itemName"] = "Recipe: Last Week's Mammoth"
 	LibTextbookDB[43509]["itemName"] = "Recipe: Bad Clams"
 	LibTextbookDB[43510]["itemName"] = "Recipe: Haunted Herring"
-	LibTextbookDB[43505]["itemName"] = "Recipe: Gigantic Feast"
-	LibTextbookDB[43506]["itemName"] = "Recipe: Small Feast"
 	LibTextbookDB[43516]["itemName"] = "Brutal Nether Drake"
 	LibTextbookDB[43597]["itemName"] = "Design: Titanium Frostguard Ring"
 	LibTextbookDB[43599]["itemName"] = "Big Blizzard Bear"
 	LibTextbookDB[43698]["itemName"] = "Giant Sewer Rat"
 	LibTextbookDB[43876]["itemName"] = "A Guide to Northern Cloth Scavenging"
+	LibTextbookDB[43951]["itemName"] = "Reins of the Bronze Drake"
 	LibTextbookDB[43952]["itemName"] = "Reins of the Azure Drake"
 	LibTextbookDB[43953]["itemName"] = "Reins of the Blue Drake"
-	LibTextbookDB[43951]["itemName"] = "Reins of the Bronze Drake"
-	LibTextbookDB[43955]["itemName"] = "Reins of the Red Drake"
 	LibTextbookDB[43954]["itemName"] = "Reins of the Twilight Drake"
-	LibTextbookDB[43964]["itemName"] = "Reins of the Black Polar Bear"
-	LibTextbookDB[43963]["itemName"] = "Reins of the Brown Polar Bear"
-	LibTextbookDB[44496]["itemName"] = "Formula: Enchant Weapon - Accuracy"
-	LibTextbookDB[44492]["itemName"] = "Formula: Enchant Weapon - Berserking"
-	LibTextbookDB[44495]["itemName"] = "Formula: Enchant Weapon - Black Magic"
-	LibTextbookDB[43986]["itemName"] = "Reins of the Black Drake"
+	LibTextbookDB[43955]["itemName"] = "Reins of the Red Drake"
 	LibTextbookDB[43956]["itemName"] = "Reins of the Black War Mammoth"
-	LibTextbookDB[44077]["itemName"] = "Reins of the Black War Mammoth"
-	LibTextbookDB[44230]["itemName"] = "Reins of the Wooly Mammoth"
-	LibTextbookDB[44231]["itemName"] = "Reins of the Wooly Mammoth"
-	LibTextbookDB[44080]["itemName"] = "Reins of the Ice Mammoth"
 	LibTextbookDB[43958]["itemName"] = "Reins of the Ice Mammoth"
+	LibTextbookDB[43959]["itemName"] = "Reins of the Grand Black War Mammoth"
+	LibTextbookDB[43961]["itemName"] = "Reins of the Grand Ice Mammoth"
+	LibTextbookDB[43962]["itemName"] = "Reins of the White Polar Bear"
+	LibTextbookDB[43963]["itemName"] = "Reins of the Brown Polar Bear"
+	LibTextbookDB[43964]["itemName"] = "Reins of the Black Polar Bear"
+	LibTextbookDB[43986]["itemName"] = "Reins of the Black Drake"
+	LibTextbookDB[44077]["itemName"] = "Reins of the Black War Mammoth"
+	LibTextbookDB[44080]["itemName"] = "Reins of the Ice Mammoth"
+	LibTextbookDB[44083]["itemName"] = "Reins of the Grand Black War Mammoth"
+	LibTextbookDB[44086]["itemName"] = "Reins of the Grand Ice Mammoth"
+	LibTextbookDB[44151]["itemName"] = "Reins of the Blue Proto-Drake"
 	LibTextbookDB[44160]["itemName"] = "Reins of the Red Proto-Drake"
 	LibTextbookDB[44164]["itemName"] = "Reins of the Black Proto-Drake"
-	LibTextbookDB[44151]["itemName"] = "Reins of the Blue Proto-Drake"
 	LibTextbookDB[44168]["itemName"] = "Reins of the Time-Lost Proto-Drake"
 	LibTextbookDB[44175]["itemName"] = "Reins of the Plagued Proto-Drake"
 	LibTextbookDB[44177]["itemName"] = "Reins of the Violet Proto-Drake"
 	LibTextbookDB[44178]["itemName"] = "Reins of the Albino Drake"
-	LibTextbookDB[44225]["itemName"] = "Reins of the Armored Brown Bear"
-	LibTextbookDB[44226]["itemName"] = "Reins of the Armored Brown Bear"
 	LibTextbookDB[44223]["itemName"] = "Reins of the Black War Bear"
 	LibTextbookDB[44224]["itemName"] = "Reins of the Black War Bear"
+	LibTextbookDB[44225]["itemName"] = "Reins of the Armored Brown Bear"
+	LibTextbookDB[44226]["itemName"] = "Reins of the Armored Brown Bear"
+	LibTextbookDB[44230]["itemName"] = "Reins of the Wooly Mammoth"
+	LibTextbookDB[44231]["itemName"] = "Reins of the Wooly Mammoth"
+	LibTextbookDB[44234]["itemName"] = "Reins of the Traveler's Tundra Mammoth"
+	LibTextbookDB[44235]["itemName"] = "Reins of the Traveler's Tundra Mammoth"
 	LibTextbookDB[44413]["itemName"] = "Mekgineer's Chopper"
+	LibTextbookDB[44471]["itemName"] = "Formula: Enchant Cloak - Mighty Armor"
+	LibTextbookDB[44472]["itemName"] = "Formula: Enchant Cloak - Greater Speed"
+	LibTextbookDB[44473]["itemName"] = "Formula: Enchant Weapon - Scourgebane"
+	LibTextbookDB[44483]["itemName"] = "Formula: Enchant 2H Weapon - Massacre"
+	LibTextbookDB[44484]["itemName"] = "Formula: Enchant Bracers - Greater Assault"
+	LibTextbookDB[44485]["itemName"] = "Formula: Enchant Gloves - Armsman"
+	LibTextbookDB[44486]["itemName"] = "Formula: Enchant Weapon - Superior Potency"
+	LibTextbookDB[44487]["itemName"] = "Formula: Enchant Weapon - Mighty Spellpower"
+	LibTextbookDB[44488]["itemName"] = "Formula: Enchant Cloak - Wisdom"
+	LibTextbookDB[44489]["itemName"] = "Formula: Enchant Chest - Powerful Stats"
+	LibTextbookDB[44490]["itemName"] = "Formula: Enchant Boots - Greater Assault"
+	LibTextbookDB[44491]["itemName"] = "Formula: Enchant Boots - Tuskarr's Vitality"
+	LibTextbookDB[44492]["itemName"] = "Formula: Enchant Weapon - Berserking"
+	LibTextbookDB[44494]["itemName"] = "Formula: Enchant Weapon - Lifeward"
+	LibTextbookDB[44495]["itemName"] = "Formula: Enchant Weapon - Black Magic"
+	LibTextbookDB[44496]["itemName"] = "Formula: Enchant Weapon - Accuracy"
+	LibTextbookDB[44498]["itemName"] = "Formula: Enchant Bracer - Superior Spellpower"
+	LibTextbookDB[44502]["itemName"] = "Schematic: Mechano-hog"
+	LibTextbookDB[44503]["itemName"] = "Schematic: Mekgineer's Chopper"
+	LibTextbookDB[44509]["itemName"] = "Pattern: Trapper's Traveling Pack"
+	LibTextbookDB[44510]["itemName"] = "Pattern: Mammoth Mining Bag"
 	LibTextbookDB[44511]["itemName"] = "Pattern: Dragonscale Ammo Pouch"
 	LibTextbookDB[44512]["itemName"] = "Pattern: Nerubian Reinforced Quiver"
-	LibTextbookDB[44483]["itemName"] = "Formula: Enchant 2H Weapon - Massacre"
-	LibTextbookDB[44489]["itemName"] = "Formula: Enchant Chest - Powerful Stats"
 	LibTextbookDB[44513]["itemName"] = "Pattern: Eviscerator's Facemask"
 	LibTextbookDB[44514]["itemName"] = "Pattern: Eviscerator's Shoulderpads"
 	LibTextbookDB[44515]["itemName"] = "Pattern: Eviscerator's Chestguard"
 	LibTextbookDB[44516]["itemName"] = "Pattern: Eviscerator's Bindings"
 	LibTextbookDB[44517]["itemName"] = "Pattern: Eviscerator's Gauntlets"
 	LibTextbookDB[44518]["itemName"] = "Pattern: Eviscerator's Waistguard"
-	LibTextbookDB[44486]["itemName"] = "Formula: Enchant Weapon - Superior Potency"
 	LibTextbookDB[44519]["itemName"] = "Pattern: Eviscerator's Legguards"
 	LibTextbookDB[44520]["itemName"] = "Pattern: Eviscerator's Treads"
-	LibTextbookDB[44487]["itemName"] = "Formula: Enchant Weapon - Mighty Spellpower"
 	LibTextbookDB[44521]["itemName"] = "Pattern: Overcast Headguard"
 	LibTextbookDB[44522]["itemName"] = "Pattern: Overcast Spaulders"
 	LibTextbookDB[44523]["itemName"] = "Pattern: Overcast Chestguard"
@@ -21302,64 +22022,68 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[44551]["itemName"] = "Pattern: Trollwoven Girdle"
 	LibTextbookDB[44552]["itemName"] = "Pattern: Earthgiving Legguards"
 	LibTextbookDB[44553]["itemName"] = "Pattern: Earthgiving Boots"
-	LibTextbookDB[44490]["itemName"] = "Formula: Enchant Boots - Greater Assault"
-	LibTextbookDB[44498]["itemName"] = "Formula: Enchant Bracer - Superior Spellpower"
-	LibTextbookDB[44502]["itemName"] = "Schematic: Mechano-hog"
-	LibTextbookDB[44503]["itemName"] = "Schematic: Mekgineer's Chopper"
+	LibTextbookDB[44554]["itemName"] = "Flying Carpet"
+	LibTextbookDB[44555]["itemName"] = "Swift Mooncloth Carpet"
+	LibTextbookDB[44556]["itemName"] = "Swift Spellfire Carpet"
+	LibTextbookDB[44558]["itemName"] = "Magnificent Flying Carpet"
+	LibTextbookDB[44559]["itemName"] = "Pattern: Fur Lining - Fire Resist"
+	LibTextbookDB[44560]["itemName"] = "Pattern: Fur Lining - Frost Resist"
+	LibTextbookDB[44561]["itemName"] = "Pattern: Fur Lining - Shadow Resist"
+	LibTextbookDB[44562]["itemName"] = "Pattern: Fur Lining - Nature Resist"
+	LibTextbookDB[44563]["itemName"] = "Pattern: Fur Lining - Arcane Resist"
+	LibTextbookDB[44564]["itemName"] = "Recipe: Mighty Arcane Protection Potion"
+	LibTextbookDB[44565]["itemName"] = "Recipe: Mighty Fire Protection Potion"
+	LibTextbookDB[44566]["itemName"] = "Recipe: Mighty Frost Protection Potion"
+	LibTextbookDB[44567]["itemName"] = "Recipe: Mighty Nature Protection Potion"
+	LibTextbookDB[44568]["itemName"] = "Recipe: Mighty Shadow Protection Potion"
 	LibTextbookDB[44584]["itemName"] = "Pattern: Polar Vest"
 	LibTextbookDB[44585]["itemName"] = "Pattern: Polar Cord"
 	LibTextbookDB[44586]["itemName"] = "Pattern: Polar Boots"
 	LibTextbookDB[44587]["itemName"] = "Pattern: Icy Scale Chestguard"
 	LibTextbookDB[44588]["itemName"] = "Pattern: Icy Scale Belt"
 	LibTextbookDB[44589]["itemName"] = "Pattern: Icy Scale Boots"
-	LibTextbookDB[44602]["itemName"] = "Tome of Dalaran Intellect"
 	LibTextbookDB[44600]["itemName"] = "Tome of Polymorph: Serpent"
+	LibTextbookDB[44602]["itemName"] = "Tome of Dalaran Intellect"
 	LibTextbookDB[44689]["itemName"] = "Armored Snowy Gryphon"
 	LibTextbookDB[44690]["itemName"] = "Armored Blue Wind Rider"
 	LibTextbookDB[44707]["itemName"] = "Reins of the Green Proto-Drake"
 	LibTextbookDB[44709]["itemName"] = "Tome of Polymorph: Black Cat"
-	LibTextbookDB[44558]["itemName"] = "Magnificent Flying Carpet"
 	LibTextbookDB[44714]["itemName"] = "Tome of Dalaran Brilliance"
-	LibTextbookDB[39896]["itemName"] = "Tickbird Hatchling"
-	LibTextbookDB[39899]["itemName"] = "White Tickbird Hatchling"
 	LibTextbookDB[44721]["itemName"] = "Proto-Drake Whelp"
-	LibTextbookDB[39898]["itemName"] = "Cobra Hatchling"
 	LibTextbookDB[44723]["itemName"] = "Nurtured Penguin Egg"
-	LibTextbookDB[44235]["itemName"] = "Reins of the Traveler's Tundra Mammoth"
-	LibTextbookDB[44555]["itemName"] = "Swift Mooncloth Carpet"
-	LibTextbookDB[44556]["itemName"] = "Swift Spellfire Carpet"
-	LibTextbookDB[44234]["itemName"] = "Reins of the Traveler's Tundra Mammoth"
-	LibTextbookDB[44554]["itemName"] = "Flying Carpet"
-	LibTextbookDB[43959]["itemName"] = "Reins of the Grand Black War Mammoth"
-	LibTextbookDB[44083]["itemName"] = "Reins of the Grand Black War Mammoth"
-	LibTextbookDB[44086]["itemName"] = "Reins of the Grand Ice Mammoth"
-	LibTextbookDB[43961]["itemName"] = "Reins of the Grand Ice Mammoth"
 	LibTextbookDB[44738]["itemName"] = "Kirin Tor Familiar"
 	LibTextbookDB[44793]["itemName"] = "Tome of Polymorph: Rabbit"
 	LibTextbookDB[44794]["itemName"] = "Spring Rabbit's Foot"
 	LibTextbookDB[44819]["itemName"] = "Baby Blizzard Bear"
 	LibTextbookDB[44841]["itemName"] = "Little Fawn's Salt Lick"
-	LibTextbookDB[44843]["itemName"] = "Blue Dragonhawk Mount"
 	LibTextbookDB[44842]["itemName"] = "Red Dragonhawk Mount"
+	LibTextbookDB[44843]["itemName"] = "Blue Dragonhawk Mount"
+	LibTextbookDB[44916]["itemName"] = "Pattern: Festival Dress"
+	LibTextbookDB[44917]["itemName"] = "Pattern: Festival Suit"
+	LibTextbookDB[44918]["itemName"] = "Schematic: Cluster Launcher"
+	LibTextbookDB[44919]["itemName"] = "Schematic: Firework Launcher"
 	LibTextbookDB[44932]["itemName"] = "Pattern: Windripper Boots"
 	LibTextbookDB[44933]["itemName"] = "Pattern: Windripper Leggings"
-	LibTextbookDB[44938]["itemName"] = "Plans: Titanium Plating"
 	LibTextbookDB[44937]["itemName"] = "Plans: Titanium Plating"
+	LibTextbookDB[44938]["itemName"] = "Plans: Titanium Plating"
 	LibTextbookDB[44944]["itemName"] = "Formula: Enchant Bracer - Major Stamina"
 	LibTextbookDB[44945]["itemName"] = "Formula: Enchant Weapon - Titanguard"
 	LibTextbookDB[44954]["itemName"] = "Recipe: Worg Tartare"
+	LibTextbookDB[44956]["itemName"] = "Goblin's Guide to Elementium"
 	LibTextbookDB[44965]["itemName"] = "Teldrassil Sproutling"
 	LibTextbookDB[44970]["itemName"] = "Dun Morogh Cub"
 	LibTextbookDB[44971]["itemName"] = "Tirisfal Batling"
 	LibTextbookDB[44973]["itemName"] = "Durotar Scorpion"
 	LibTextbookDB[44974]["itemName"] = "Elwynn Lamb"
+	LibTextbookDB[44977]["itemName"] = "Recipe: Dig Rat Stew"
 	LibTextbookDB[44980]["itemName"] = "Mulgore Hatchling"
+	LibTextbookDB[44982]["itemName"] = "Enchanted Broom"
 	LibTextbookDB[44983]["itemName"] = "Strand Crawler"
 	LibTextbookDB[44984]["itemName"] = "Ammen Vale Lashling"
-	LibTextbookDB[44982]["itemName"] = "Enchanted Broom"
 	LibTextbookDB[44998]["itemName"] = "Argent Squire"
 	LibTextbookDB[45002]["itemName"] = "Mechanopeep"
 	LibTextbookDB[45022]["itemName"] = "Argent Gruntling"
+	LibTextbookDB[45050]["itemName"] = "Formula: Smoking Heart of the Mountain"
 	LibTextbookDB[45059]["itemName"] = "Formula: Enchant Staff - Greater Spellpower"
 	LibTextbookDB[45088]["itemName"] = "Plans: Belt of the Titans"
 	LibTextbookDB[45089]["itemName"] = "Plans: Battlelord's Plate Boots"
@@ -21381,13 +22105,13 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[45105]["itemName"] = "Pattern: Savior's Slippers"
 	LibTextbookDB[45125]["itemName"] = "Stormwind Steed"
 	LibTextbookDB[45180]["itemName"] = "Murkimus' Little Spear"
-	LibTextbookDB[45593]["itemName"] = "Darkspear Raptor"
 	LibTextbookDB[45586]["itemName"] = "Ironforge Ram"
-	LibTextbookDB[45591]["itemName"] = "Darnassian Nightsaber"
 	LibTextbookDB[45589]["itemName"] = "Gnomeregan Mechanostrider"
 	LibTextbookDB[45590]["itemName"] = "Exodar Elekk"
-	LibTextbookDB[45595]["itemName"] = "Orgrimmar Wolf"
+	LibTextbookDB[45591]["itemName"] = "Darnassian Nightsaber"
 	LibTextbookDB[45592]["itemName"] = "Thunder Bluff Kodo"
+	LibTextbookDB[45593]["itemName"] = "Darkspear Raptor"
+	LibTextbookDB[45595]["itemName"] = "Orgrimmar Wolf"
 	LibTextbookDB[45596]["itemName"] = "Silvermoon Hawkstrider"
 	LibTextbookDB[45597]["itemName"] = "Forsaken Warhorse"
 	LibTextbookDB[45606]["itemName"] = "Sen'jin Fetish"
@@ -21396,38 +22120,58 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[45774]["itemName"] = "Pattern: Emerald Bag"
 	LibTextbookDB[45801]["itemName"] = "Reins of the Ironbound Proto-Drake"
 	LibTextbookDB[45802]["itemName"] = "Reins of the Rusted Proto-Drake"
-	LibTextbookDB[46108]["itemName"] = "Technique: Rituals of the New Moon"
 	LibTextbookDB[46027]["itemName"] = "Formula: Enchant Weapon - Blade Ward"
-	LibTextbookDB[46348]["itemName"] = "Formula: Enchant Weapon - Blood Draining"
-	LibTextbookDB[46101]["itemName"] = "Blue Skeletal Warhorse"
-	LibTextbookDB[46100]["itemName"] = "White Kodo"
 	LibTextbookDB[46099]["itemName"] = "Horn of the Black Wolf"
+	LibTextbookDB[46100]["itemName"] = "White Kodo"
+	LibTextbookDB[46101]["itemName"] = "Blue Skeletal Warhorse"
 	LibTextbookDB[46102]["itemName"] = "Whistle of the Venomhide Ravasaur"
+	LibTextbookDB[46108]["itemName"] = "Technique: Rituals of the New Moon"
 	LibTextbookDB[46109]["itemName"] = "Sea Turtle"
 	LibTextbookDB[46171]["itemName"] = "Deadly Gladiator's Frostwyrm"
 	LibTextbookDB[46308]["itemName"] = "Black Skeletal Horse"
-	LibTextbookDB[46745]["itemName"] = "Great Red Elekk"
-	LibTextbookDB[46756]["itemName"] = "Great Red Elekk"
-	LibTextbookDB[46744]["itemName"] = "Swift Moonsaber"
-	LibTextbookDB[46759]["itemName"] = "Swift Moonsaber"
-	LibTextbookDB[46751]["itemName"] = "Swift Red Hawkstrider"
-	LibTextbookDB[46761]["itemName"] = "Swift Red Hawkstrider"
-	LibTextbookDB[46752]["itemName"] = "Swift Gray Steed"
-	LibTextbookDB[46758]["itemName"] = "Swift Gray Steed"
-	LibTextbookDB[46750]["itemName"] = "Great Golden Kodo"
-	LibTextbookDB[46755]["itemName"] = "Great Golden Kodo"
-	LibTextbookDB[46747]["itemName"] = "Turbostrider"
-	LibTextbookDB[46763]["itemName"] = "Turbostrider"
-	LibTextbookDB[46748]["itemName"] = "Swift Violet Ram"
-	LibTextbookDB[46762]["itemName"] = "Swift Violet Ram"
+	LibTextbookDB[46348]["itemName"] = "Formula: Enchant Weapon - Blood Draining"
 	LibTextbookDB[46743]["itemName"] = "Swift Purple Raptor"
-	LibTextbookDB[46760]["itemName"] = "Swift Purple Raptor"
+	LibTextbookDB[46744]["itemName"] = "Swift Moonsaber"
+	LibTextbookDB[46745]["itemName"] = "Great Red Elekk"
 	LibTextbookDB[46746]["itemName"] = "White Skeletal Warhorse"
-	LibTextbookDB[46764]["itemName"] = "White Skeletal Warhorse"
+	LibTextbookDB[46747]["itemName"] = "Turbostrider"
+	LibTextbookDB[46748]["itemName"] = "Swift Violet Ram"
 	LibTextbookDB[46749]["itemName"] = "Swift Burgundy Wolf"
+	LibTextbookDB[46750]["itemName"] = "Great Golden Kodo"
+	LibTextbookDB[46751]["itemName"] = "Swift Red Hawkstrider"
+	LibTextbookDB[46752]["itemName"] = "Swift Gray Steed"
+	LibTextbookDB[46755]["itemName"] = "Great Golden Kodo"
+	LibTextbookDB[46756]["itemName"] = "Great Red Elekk"
 	LibTextbookDB[46757]["itemName"] = "Swift Burgundy Wolf"
-	LibTextbookDB[46767]["itemName"] = "Battle-Bot Ignition Key"
-	LibTextbookDB[46778]["itemName"] = "Magic Rooster Egg"
+	LibTextbookDB[46926]["itemName"] = "Design: Stormy Majestic Zircon"
+	LibTextbookDB[46922]["itemName"] = "Design: Subtle Cardinal Ruby"
+	LibTextbookDB[46906]["itemName"] = "Design: Sundered Eye of Zul"
+	LibTextbookDB[46908]["itemName"] = "Design: Tense Eye of Zul"
+	LibTextbookDB[46946]["itemName"] = "Design: Tenuous Dreadstone"
+	LibTextbookDB[46931]["itemName"] = "Design: Thick King's Amber"
+	LibTextbookDB[46902]["itemName"] = "Design: Timeless Eye of Zul"
+	LibTextbookDB[46915]["itemName"] = "Design: Turbid Eye of Zul"
+	LibTextbookDB[46951]["itemName"] = "Design: Veiled Ametrine"
+	LibTextbookDB[46899]["itemName"] = "Design: Vivid Eye of Zul"
+	LibTextbookDB[47011]["itemName"] = "Design: Wicked Ametrine"
+	LibTextbookDB[728]["itemName"] = "Recipe: Westfall Stew"
+	LibTextbookDB[1132]["itemName"] = "Horn of the Timber Wolf"
+	LibTextbookDB[2406]["itemName"] = "Pattern: Fine Leather Boots"
+	LibTextbookDB[2407]["itemName"] = "Pattern: White Leather Jerkin"
+	LibTextbookDB[2408]["itemName"] = "Pattern: Fine Leather Gloves"
+	LibTextbookDB[2409]["itemName"] = "Pattern: Dark Leather Tunic"
+	LibTextbookDB[2411]["itemName"] = "Black Stallion Bridle"
+	LibTextbookDB[2414]["itemName"] = "Pinto Bridle"
+	LibTextbookDB[2553]["itemName"] = "Recipe: Elixir of Minor Agility"
+	LibTextbookDB[2555]["itemName"] = "Recipe: Swiftness Potion"
+	LibTextbookDB[2598]["itemName"] = "Pattern: Red Linen Robe"
+	LibTextbookDB[2601]["itemName"] = "Pattern: Gray Woolen Robe"
+	LibTextbookDB[2697]["itemName"] = "Recipe: Goretusk Liver Pie"
+	LibTextbookDB[2698]["itemName"] = "Recipe: Cooked Crab Claw"
+	LibTextbookDB[2699]["itemName"] = "Recipe: Redridge Goulash"
+	LibTextbookDB[2700]["itemName"] = "Recipe: Succulent Pork Ribs"
+	LibTextbookDB[2701]["itemName"] = "Recipe: Seasoned Wolf Kabob"
+	LibTextbookDB[2881]["itemName"] = "Plans: Runed Copper Breastplate"
 	LibTextbookReference["class"] = {
 		[1] = "Warrior",
 		[2] = "Paladin",
@@ -24050,6 +24794,99 @@ elseif loc == "ruRU" then
 	LibTextbookDB[46757]["itemName"] = "Стремительный пурпурный волк"
 	LibTextbookDB[46767]["itemName"] = "Ключ зажигания боевого робота"
 	LibTextbookDB[46778]["itemName"] = "Яйцо волшебного петуха"
+	LibTextbookDB[44557]["itemName"] = nil
+	LibTextbookDB[39303]["itemName"] = nil
+	LibTextbookDB[47179]["itemName"] = nil
+	LibTextbookDB[47180]["itemName"] = nil
+	LibTextbookDB[46815]["itemName"] = nil
+	LibTextbookDB[46816]["itemName"] = nil
+	LibTextbookDB[46814]["itemName"] = nil
+	LibTextbookDB[46813]["itemName"] = nil
+	LibTextbookDB[47101]["itemName"] = nil
+	LibTextbookDB[47100]["itemName"] = nil
+	LibTextbookDB[46802]["itemName"] = nil
+	LibTextbookDB[46545]["itemName"] = nil
+	LibTextbookDB[46544]["itemName"] = nil
+	LibTextbookDB[48112]["itemName"] = nil
+	LibTextbookDB[48114]["itemName"] = nil
+	LibTextbookDB[48116]["itemName"] = nil
+	LibTextbookDB[48118]["itemName"] = nil
+	LibTextbookDB[48120]["itemName"] = nil
+	LibTextbookDB[48122]["itemName"] = nil
+	LibTextbookDB[48124]["itemName"] = nil
+	LibTextbookDB[48126]["itemName"] = nil
+	LibTextbookDB[46821]["itemName"] = nil
+	LibTextbookDB[46820]["itemName"] = nil
+	LibTextbookDB[47010]["itemName"] = nil
+	LibTextbookDB[46934]["itemName"] = nil
+	LibTextbookDB[46917]["itemName"] = nil
+	LibTextbookDB[46919]["itemName"] = nil
+	LibTextbookDB[46930]["itemName"] = nil
+	LibTextbookDB[47015]["itemName"] = nil
+	LibTextbookDB[46900]["itemName"] = nil
+	LibTextbookDB[46949]["itemName"] = nil
+	LibTextbookDB[46941]["itemName"] = nil
+	LibTextbookDB[47020]["itemName"] = nil
+	LibTextbookDB[46918]["itemName"] = nil
+	LibTextbookDB[46952]["itemName"] = nil
+	LibTextbookDB[47016]["itemName"] = nil
+	LibTextbookDB[46897]["itemName"] = nil
+	LibTextbookDB[46912]["itemName"] = nil
+	LibTextbookDB[46953]["itemName"] = nil
+	LibTextbookDB[47019]["itemName"] = nil
+	LibTextbookDB[46923]["itemName"] = nil
+	LibTextbookDB[46904]["itemName"] = nil
+	LibTextbookDB[46921]["itemName"] = nil
+	LibTextbookDB[47012]["itemName"] = nil
+	LibTextbookDB[47008]["itemName"] = nil
+	LibTextbookDB[46936]["itemName"] = nil
+	LibTextbookDB[46942]["itemName"] = nil
+	LibTextbookDB[46945]["itemName"] = nil
+	LibTextbookDB[46948]["itemName"] = nil
+	LibTextbookDB[46910]["itemName"] = nil
+	LibTextbookDB[46901]["itemName"] = nil
+	LibTextbookDB[46909]["itemName"] = nil
+	LibTextbookDB[47021]["itemName"] = nil
+	LibTextbookDB[46947]["itemName"] = nil
+	LibTextbookDB[46927]["itemName"] = nil
+	LibTextbookDB[46905]["itemName"] = nil
+	LibTextbookDB[46943]["itemName"] = nil
+	LibTextbookDB[46932]["itemName"] = nil
+	LibTextbookDB[46914]["itemName"] = nil
+	LibTextbookDB[46950]["itemName"] = nil
+	LibTextbookDB[46920]["itemName"] = nil
+	LibTextbookDB[46956]["itemName"] = nil
+	LibTextbookDB[46944]["itemName"] = nil
+	LibTextbookDB[46937]["itemName"] = nil
+	LibTextbookDB[46933]["itemName"] = nil
+	LibTextbookDB[46911]["itemName"] = nil
+	LibTextbookDB[47007]["itemName"] = nil
+	LibTextbookDB[46940]["itemName"] = nil
+	LibTextbookDB[47018]["itemName"] = nil
+	LibTextbookDB[46928]["itemName"] = nil
+	LibTextbookDB[46939]["itemName"] = nil
+	LibTextbookDB[46916]["itemName"] = nil
+	LibTextbookDB[46903]["itemName"] = nil
+	LibTextbookDB[46913]["itemName"] = nil
+	LibTextbookDB[46938]["itemName"] = nil
+	LibTextbookDB[46907]["itemName"] = nil
+	LibTextbookDB[46929]["itemName"] = nil
+	LibTextbookDB[46924]["itemName"] = nil
+	LibTextbookDB[46935]["itemName"] = nil
+	LibTextbookDB[46925]["itemName"] = nil
+	LibTextbookDB[47017]["itemName"] = nil
+	LibTextbookDB[46898]["itemName"] = nil
+	LibTextbookDB[46926]["itemName"] = nil
+	LibTextbookDB[46922]["itemName"] = nil
+	LibTextbookDB[46906]["itemName"] = nil
+	LibTextbookDB[46908]["itemName"] = nil
+	LibTextbookDB[46946]["itemName"] = nil
+	LibTextbookDB[46931]["itemName"] = nil
+	LibTextbookDB[46902]["itemName"] = nil
+	LibTextbookDB[46915]["itemName"] = nil
+	LibTextbookDB[46951]["itemName"] = nil
+	LibTextbookDB[46899]["itemName"] = nil
+	LibTextbookDB[47011]["itemName"] = nil
 	LibTextbookReference["class"] = {
 		[1] = "Воин",
 		[2] = "Паладин",
