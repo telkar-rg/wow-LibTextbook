@@ -698,6 +698,214 @@ LibTextbookDB = {
 		["reqSkill"] = 165,
 		["reqSkillLevel"] = 170,
 		},
+	[47650] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67080,--Ensorcelled Nerubian Breastplate
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47628] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67136,--Ensorcelled Nerubian Breastplate
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47651] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67086,--Knightbane Carapace
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47634] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67142,--Knightbane Carapace
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47652] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67084,--Lunar Eclipse Chestguard
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47632] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67140,--Lunar Eclipse Chestguard
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47638] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67066,--Merlin's Robe
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47655] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67146,--Merlin's Robe
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47653] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67085,--Moonshadow Armguards
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47633] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67141,--Moonshadow Armguards
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47637] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67065,--Royal Moonshroud Bracers
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47656] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67147,--Royal Moonshroud Bracers
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47636] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67064,--Royal Moonshroud Robe
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47657] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67144,--Royal Moonshroud Robe
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47640] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67091,--Breastplate of the White Knight
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47622] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67130,--Breastplate of the White Knight
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47641] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67092,--Saronite Swordbreakers
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47623] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67131,--Saronite Swordbreakers
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47642] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67096,--Sunforged Bracers
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47627] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67135,--Sunforged Bracers
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47643] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67095,--Sunforged Breastplate
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47626] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67134,--Sunforged Breastplate
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47644] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67093,--Titanium Razorplate
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47624] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67132,--Titanium Razorplate
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47645] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67094,--Titanium Spikeguards
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
+	[47625] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67133,--Titanium Spikeguards
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		},
 	[5789] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 6705,--
@@ -19601,6 +19809,86 @@ LibTextbookDB = {
 		["reqSkill"] = 755,
 		["reqSkillLevel"] = 450,
 		},
+	[47639] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67079,--Bejeweled Wizard's Bracers
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47654] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67145,--Bejeweled Wizard's Bracers
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		},
+	[47646] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67081,--Black Chitin Bracers
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47629] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67137,--Black Chitin Bracers
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47647] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67087,--Bracers of Swift Death
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47635] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67139,--Bracers of Swift Death
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47648] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67083,--Crusader's Dragonscale Bracers
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47631] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67143,--Crusader's Dragonscale Bracers
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47649] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67082,--Crusader's Dragonscale Breastplate
+		["quality"] = 4,
+		["reqRaces"] = 2202,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
+	[47630] = {--ToC
+		["type"] = "RECIPE",
+		["teachesSpell"] = 67138,--Crusader's Dragonscale Breastplate
+		["quality"] = 4,
+		["reqRaces"] = 1380,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		},
 	[728] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 2543,--
@@ -19838,6 +20126,32 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[5786]["itemName"] = "Pattern: Murloc Scale Belt"
 	LibTextbookDB[5787]["itemName"] = "Pattern: Murloc Scale Breastplate"
 	LibTextbookDB[5788]["itemName"] = "Pattern: Thick Murloc Armor"
+	LibTextbookDB[47650]["itemName"] = "Pattern: Ensorcelled Nerubian Breastplate"
+	LibTextbookDB[47628]["itemName"] = "Pattern: Ensorcelled Nerubian Breastplate"
+	LibTextbookDB[47651]["itemName"] = "Pattern: Knightbane Carapace"
+	LibTextbookDB[47634]["itemName"] = "Pattern: Knightbane Carapace"
+	LibTextbookDB[47652]["itemName"] = "Pattern: Lunar Eclipse Chestguard"
+	LibTextbookDB[47632]["itemName"] = "Pattern: Lunar Eclipse Chestguard"
+	LibTextbookDB[47638]["itemName"] = "Pattern: Merlin's Robe"
+	LibTextbookDB[47655]["itemName"] = "Pattern: Merlin's Robe"
+	LibTextbookDB[47653]["itemName"] = "Pattern: Moonshadow Armguards"
+	LibTextbookDB[47633]["itemName"] = "Pattern: Moonshadow Armguards"
+	LibTextbookDB[47637]["itemName"] = "Pattern: Royal Moonshroud Bracers"
+	LibTextbookDB[47656]["itemName"] = "Pattern: Royal Moonshroud Bracers"
+	LibTextbookDB[47636]["itemName"] = "Pattern: Royal Moonshroud Robe"
+	LibTextbookDB[47657]["itemName"] = "Pattern: Royal Moonshroud Robe"
+	LibTextbookDB[47640]["itemName"] = "Plans: Breastplate of the White Knight"
+	LibTextbookDB[47622]["itemName"] = "Plans: Breastplate of the White Knight"
+	LibTextbookDB[47641]["itemName"] = "Plans: Saronite Swordbreakers"
+	LibTextbookDB[47623]["itemName"] = "Plans: Saronite Swordbreakers"
+	LibTextbookDB[47642]["itemName"] = "Plans: Sunforged Bracers"
+	LibTextbookDB[47627]["itemName"] = "Plans: Sunforged Bracers"
+	LibTextbookDB[47643]["itemName"] = "Plans: Sunforged Breastplate"
+	LibTextbookDB[47626]["itemName"] = "Plans: Sunforged Breastplate"
+	LibTextbookDB[47644]["itemName"] = "Plans: Titanium Razorplate"
+	LibTextbookDB[47624]["itemName"] = "Plans: Titanium Razorplate"
+	LibTextbookDB[47645]["itemName"] = "Plans: Titanium Spikeguards"
+	LibTextbookDB[47625]["itemName"] = "Plans: Titanium Spikeguards"
 	LibTextbookDB[5789]["itemName"] = "Pattern: Murloc Scale Bracers"
 	LibTextbookDB[5864]["itemName"] = "Gray Ram"
 	LibTextbookDB[5872]["itemName"] = "Brown Ram"
@@ -22154,6 +22468,16 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[46951]["itemName"] = "Design: Veiled Ametrine"
 	LibTextbookDB[46899]["itemName"] = "Design: Vivid Eye of Zul"
 	LibTextbookDB[47011]["itemName"] = "Design: Wicked Ametrine"
+	LibTextbookDB[47639]["itemName"] = "Pattern: Bejeweled Wizard's Bracers"
+	LibTextbookDB[47654]["itemName"] = "Pattern: Bejeweled Wizard's Bracers"
+	LibTextbookDB[47646]["itemName"] = "Pattern: Black Chitin Bracers"
+	LibTextbookDB[47629]["itemName"] = "Pattern: Black Chitin Bracers"
+	LibTextbookDB[47647]["itemName"] = "Pattern: Bracers of Swift Death"
+	LibTextbookDB[47635]["itemName"] = "Pattern: Bracers of Swift Death"
+	LibTextbookDB[47648]["itemName"] = "Pattern: Crusader's Dragonscale Bracers"
+	LibTextbookDB[47631]["itemName"] = "Pattern: Crusader's Dragonscale Bracers"
+	LibTextbookDB[47649]["itemName"] = "Pattern: Crusader's Dragonscale Breastplate"
+	LibTextbookDB[47630]["itemName"] = "Pattern: Crusader's Dragonscale Breastplate"
 	LibTextbookDB[728]["itemName"] = "Recipe: Westfall Stew"
 	LibTextbookDB[1132]["itemName"] = "Horn of the Timber Wolf"
 	LibTextbookDB[2406]["itemName"] = "Pattern: Fine Leather Boots"
@@ -22423,6 +22747,7 @@ if loc == "enUS" or loc == "enGB" then
 		[1118] = "Classic",
 		[1119] = "The Sons of Hodir",
 		[1126] = "The Frostborn",
+		[1124] = "The Sunreavers",
 		}
 	LibTextbookReference["reputation"] = {
 --		[0] = "Hated",
@@ -25138,6 +25463,7 @@ elseif loc == "ruRU" then
 		[1118] = "Classic",
 		[1119] = "Сыновья Ходира",
 		[1126] = "Зиморожденные",
+		[1124] = "Похитители Солнца",
 		}
 	LibTextbookReference["reputation"] = {
 --		[0] = "Ненависть",
