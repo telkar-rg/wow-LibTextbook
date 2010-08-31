@@ -1,4 +1,4 @@
-﻿## Interface: 30100
+﻿## Interface: 30300
 ## Title: LibTextbook
 ## Notes: Provides info about spell teaching items.
 ## Author: TAP3AH

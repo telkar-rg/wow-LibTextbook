@@ -1,6 +1,768 @@
 ﻿LibTextbookReference = {}
 
 LibTextbookDB = {
+	[4228] = {--
+		["type"] = "BOOK",
+		["teachesSpell"] = 8926,--
+		["quality"] = 1,
+		["reqLevel"] = 22,
+		["reqClasses"] = 2048,
+		["note"] = "fake",
+		},
+	[21168] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 25849,--
+		["quality"] = 1,
+		["note"] = "beta",
+		},
+	[23712] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 30152,--
+		["quality"] = 4,
+		["binding"] = 1,
+		["note"] = "fake",
+		},
+	[37329] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44510,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		["note"] = "fake",
+		},
+	[37335] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44500,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		["note"] = "fake",
+		},
+	[37337] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44616,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 400,
+		["note"] = "fake",
+		},
+	[37345] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44513,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 420,
+		["note"] = "fake",
+		},
+	[37346] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 44598,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 420,
+		["note"] = "fake",
+		},
+	[37348] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 47898,--
+		["quality"] = 1,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 425,
+		["note"] = "fake",
+		},
+	[41133] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 55068,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[44810] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 61773,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[44822] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 10713,--
+		["quality"] = 1,
+		},
+	[44858] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 62049,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 160,
+		["binding"] = 1,
+		},
+	[44859] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 62051,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 220,
+		["binding"] = 1,
+		},
+	[44860] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 62050,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 1,
+		["binding"] = 1,
+		},
+	[44861] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 62045,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 280,
+		["binding"] = 1,
+		},
+	[44862] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 62044,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 100,
+		["binding"] = 1,
+		},
+	[45942] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 64351,--
+		["quality"] = 1,
+		["note"] = "beta",
+		},
+	[46398] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 65358,--
+		["quality"] = 1,
+		},
+	[46707] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 44369,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[46708] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 64927,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["unique"] = 1,
+		},
+	[46710] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 65454,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 1,
+		["binding"] = 1,
+		},
+	[46803] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66038,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 1,
+		["binding"] = 1,
+		},
+	[46804] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66036,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 100,
+		["binding"] = 1,
+		},
+	[46805] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66035,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 160,
+		["binding"] = 1,
+		},
+	[46806] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66034,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 220,
+		["binding"] = 1,
+		},
+	[46807] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66037,--
+		["quality"] = 1,
+		["reqSkill"] = 185,
+		["reqSkillLevel"] = 280,
+		["binding"] = 1,
+		},
+	[47022] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66586,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		},
+	[47023] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 66587,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		},
+	[47840] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 67336,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["unique"] = 1,
+		},
+	[49044] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 68057,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqRaces"] = 2202,
+		},
+	[49046] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 68056,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqRaces"] = 1380,
+		},
+	[49050] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 68067,--
+		["quality"] = 3,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		},
+	[49096] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 68187,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqRaces"] = 2202,
+		},
+	[49098] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 68188,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["binding"] = 1,
+		["reqLevel"] = 40,
+		["reqRaces"] = 1380,
+		},
+	[49112] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 68253,--
+		["quality"] = 3,
+		["reqSkill"] = 755,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		},
+	[49282] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 51412,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["reqLevel"] = 40,
+		["unique"] = 1,
+		},
+	[49283] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 42776,--
+		["quality"] = 3,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["reqLevel"] = 20,
+		["unique"] = 1,
+		},
+	[49284] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 42777,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["reqLevel"] = 40,
+		["unique"] = 1,
+		},
+	[49285] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 46197,--
+		["quality"] = 3,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 225,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[49286] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 46199,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["reqLevel"] = 70,
+		["unique"] = 1,
+		},
+	[49287] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 68767,--
+		["quality"] = 4,
+		["binding"] = 1,
+		},
+	[49290] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 65917,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 150,
+		["reqLevel"] = 40,
+		["unique"] = 1,
+		},
+	[49343] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 68810,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[49362] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 69002,--
+		["quality"] = 1,
+		["binding"] = 5,
+		},
+	[49636] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 69395,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["unique"] = 1,
+		},
+	[49646] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 69452,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[49662] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 69535,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[49663] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 69536,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[49665] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 69541,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[49693] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 69677,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[49912] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 70613,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[49953] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70550,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49954] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70551,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49955] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70552,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49956] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70553,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49957] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70554,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49958] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70555,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49959] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70556,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49961] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70557,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49962] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70558,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49963] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70559,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49965] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70560,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49966] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70561,--
+		["quality"] = 4,
+		["reqSkill"] = 165,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49969] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70562,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49970] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70563,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49971] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70565,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49972] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70566,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[49973] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70567,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 6,
+		},
+	[49974] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 70568,--
+		["quality"] = 4,
+		["reqSkill"] = 164,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[50166] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 71101,--
+		["quality"] = 1,
+		["reqSkill"] = 773,
+		["reqSkillLevel"] = 250,
+		},
+	[50167] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 71015,--
+		["quality"] = 1,
+		["reqSkill"] = 773,
+		["reqSkillLevel"] = 375,
+		},
+	[50168] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 71102,--
+		["quality"] = 1,
+		["reqSkill"] = 773,
+		["reqSkillLevel"] = 375,
+		},
+	[50250] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 71342,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["binding"] = 1,
+		["reqLevel"] = 20,
+		},
+	[50406] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 71692,--
+		["quality"] = 2,
+		["reqSkill"] = 333,
+		["reqSkillLevel"] = 375,
+		["binding"] = 1,
+		},
+	[50446] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 71840,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[50818] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 72286,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["binding"] = 1,
+		["reqLevel"] = 20,
+		},
+	[51954] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 72808,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["unique"] = 1,
+		},
+	[51955] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 72807,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 300,
+		["binding"] = 1,
+		["reqLevel"] = 70,
+		["unique"] = 1,
+		},
+	[52022] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 72952,--
+		["quality"] = 4,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqSpell"] = 20222,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[52023] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 72953,--
+		["quality"] = 4,
+		["reqSkill"] = 202,
+		["reqSkillLevel"] = 450,
+		["binding"] = 1,
+		["reqSpell"] = 20219,
+		["reqFaction"] = 1156,
+		["reqReputation"] = 5,
+		},
+	[52200] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 73313,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["binding"] = 3,
+		["reqLevel"] = 20,
+		},
+	[53641] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 74932,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[54069] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 74856,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 225,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[54436] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 75134,--
+		["quality"] = 3,
+		["binding"] = 1,
+		},
+	[54797] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 75596,--
+		["quality"] = 4,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 425,
+		["binding"] = 1,
+		["reqSpell"] = 34091,
+		["reqLevel"] = 70,
+		},
+	[54798] = {--
+		["type"] = "RECIPE",
+		["teachesSpell"] = 75597,--
+		["quality"] = 3,
+		["reqSkill"] = 197,
+		["reqSkillLevel"] = 425,
+		["binding"] = 1,
+		},
+	[54811] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 75614,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 75,
+		["binding"] = 1,
+		["reqLevel"] = 20,
+		},
+	[54847] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 75906,--
+		["quality"] = 3,
+		["binding"] = 1,
+		["unique"] = 1,
+		},
+	[54860] = {--
+		["type"] = "MOUNT",
+		["teachesSpell"] = 75973,--
+		["quality"] = 4,
+		["reqSkill"] = 762,
+		["reqSkillLevel"] = 225,
+		["binding"] = 1,
+		["reqLevel"] = 60,
+		["unique"] = 1,
+		},
+	[56806] = {--
+		["type"] = "CRITTER",
+		["teachesSpell"] = 78381,--
+		["quality"] = 3,
+		["binding"] = 5,
+		},
 	[2882] = {--
 		["type"] = "RECIPE",
 		["teachesSpell"] = 3330,--
@@ -13591,6 +14353,7 @@ LibTextbookDB = {
 		["reqLevel"] = 30,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 75,
+		["note"] = "removed",
 		},
 	[33225] = {--
 		["type"] = "MOUNT",
@@ -13600,6 +14363,7 @@ LibTextbookDB = {
 		["reqLevel"] = 40,
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
+		["note"] = "removed",
 		},
 	[33305] = {--
 		["type"] = "RECIPE",
@@ -14287,6 +15051,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 225,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[35226] = {--
 		["type"] = "MOUNT",
@@ -14297,6 +15062,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 300,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[35238] = {--
 		["type"] = "RECIPE",
@@ -14778,6 +15544,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[44557] = {--Tailoring 450
 		["type"] = "MOUNT",
@@ -16317,6 +17084,7 @@ LibTextbookDB = {
 		["reqSkill"] = 762,
 		["reqSkillLevel"] = 150,
 		["unique"] = 1,
+		["note"] = "removed",
 		},
 	[38628] = {--
 		["type"] = "CRITTER",
@@ -20028,6 +20796,97 @@ LibTextbookDB = {
 
 local loc = GetLocale()
 if loc == "enUS" or loc == "enGB" then
+	LibTextbookDB[4228]["itemName"] = "Book of Moonfire IV"
+	LibTextbookDB[21168]["itemName"] = "Baby Shark"
+	LibTextbookDB[23712]["itemName"] = "White Tiger Cub"
+	LibTextbookDB[37329]["itemName"] = "Formula: Enchant Weapon - Exceptional Spirit"
+	LibTextbookDB[37335]["itemName"] = "Formula: Enchant Cloak - Superior Agility"
+	LibTextbookDB[37337]["itemName"] = "Formula: Enchant Bracer - Greater Stats"
+	LibTextbookDB[37345]["itemName"] = "Formula: Enchant Gloves - Greater Assault"
+	LibTextbookDB[37346]["itemName"] = "Formula: Enchant Bracer - Expertise"
+	LibTextbookDB[37348]["itemName"] = "Formula: Enchant Cloak - Haste"
+	LibTextbookDB[41133]["itemName"] = "Unhatched Mr. Chilly"
+	LibTextbookDB[44810]["itemName"] = "Turkey Cage"
+	LibTextbookDB[44822]["itemName"] = "Albino Snake"
+	LibTextbookDB[44858]["itemName"] = "Recipe: Cranberry Chutney"
+	LibTextbookDB[44859]["itemName"] = "Recipe: Candied Sweet Potato"
+	LibTextbookDB[44860]["itemName"] = "Recipe: Spice Bread Stuffing"
+	LibTextbookDB[44861]["itemName"] = "Recipe: Slow-Roasted Turkey"
+	LibTextbookDB[44862]["itemName"] = "Recipe: Pumpkin Pie"
+	LibTextbookDB[45942]["itemName"] = "XS-001 Constructor Bot"
+	LibTextbookDB[46398]["itemName"] = "Calico Cat"
+	LibTextbookDB[46707]["itemName"] = "Pint-Sized Pink Pachyderm"
+	LibTextbookDB[46708]["itemName"] = "Deadly Gladiator's Frost Wyrm"
+	LibTextbookDB[46710]["itemName"] = "Recipe: Bread of the Dead"
+	LibTextbookDB[46803]["itemName"] = "Recipe: Spice Bread Stuffing"
+	LibTextbookDB[46804]["itemName"] = "Recipe: Pumpkin Pie"
+	LibTextbookDB[46805]["itemName"] = "Recipe: Cranberry Chutney"
+	LibTextbookDB[46806]["itemName"] = "Recipe: Candied Sweet Potato"
+	LibTextbookDB[46807]["itemName"] = "Recipe: Slow-Roasted Turkey"
+	LibTextbookDB[47022]["itemName"] = "Design: Resolute Ametrine"
+	LibTextbookDB[47023]["itemName"] = "Design: Stark Ametrine"
+	LibTextbookDB[47840]["itemName"] = "Relentless Gladiator's Frost Wyrm"
+	LibTextbookDB[49044]["itemName"] = "Swift Alliance Steed"
+	LibTextbookDB[49046]["itemName"] = "Swift Horde Wolf"
+	LibTextbookDB[49050]["itemName"] = "Schematic: Jeeves"
+	LibTextbookDB[49096]["itemName"] = "Crusader's White Warhorse"
+	LibTextbookDB[49098]["itemName"] = "Crusader's Black Warhorse"
+	LibTextbookDB[49112]["itemName"] = "Design: Nightmare Tear"
+	LibTextbookDB[49282]["itemName"] = "Big Battle Bear"
+	LibTextbookDB[49283]["itemName"] = "Reins of the Spectral Tiger"
+	LibTextbookDB[49284]["itemName"] = "Reins of the Swift Spectral Tiger"
+	LibTextbookDB[49285]["itemName"] = "X-51 Nether-Rocket"
+	LibTextbookDB[49286]["itemName"] = "X-51 Nether-Rocket X-TREME"
+	LibTextbookDB[49287]["itemName"] = "Tuskarr Kite"
+	LibTextbookDB[49290]["itemName"] = "Magic Rooster Egg"
+	LibTextbookDB[49343]["itemName"] = "Spectral Tiger Cub"
+	LibTextbookDB[49362]["itemName"] = "Onyxian Whelpling"
+	LibTextbookDB[49636]["itemName"] = "Reins of the Onyxian Drake"
+	LibTextbookDB[49646]["itemName"] = "Core Hound Pup"
+	LibTextbookDB[49662]["itemName"] = "Gryphon Hatchling"
+	LibTextbookDB[49663]["itemName"] = "Wind Rider Cub"
+	LibTextbookDB[49665]["itemName"] = "Pandaren Monk"
+	LibTextbookDB[49693]["itemName"] = "Lil' Phylactery"
+	LibTextbookDB[49912]["itemName"] = "Perky Pug"
+	LibTextbookDB[49953]["itemName"] = "Pattern: Leggings of Woven Death"
+	LibTextbookDB[49954]["itemName"] = "Pattern: Deathfrost Boots"
+	LibTextbookDB[49955]["itemName"] = "Pattern: Lightweave Leggings"
+	LibTextbookDB[49956]["itemName"] = "Pattern: Sandals of Consecration"
+	LibTextbookDB[49957]["itemName"] = "Pattern: Legwraps of Unleashed Nature"
+	LibTextbookDB[49958]["itemName"] = "Pattern: Blessed Cenarion Boots"
+	LibTextbookDB[49959]["itemName"] = "Pattern: Bladeborn Leggings"
+	LibTextbookDB[49961]["itemName"] = "Pattern: Footpads of Impending Death"
+	LibTextbookDB[49962]["itemName"] = "Pattern: Lightning-Infused Leggings"
+	LibTextbookDB[49963]["itemName"] = "Pattern: Earthsoul Boots"
+	LibTextbookDB[49965]["itemName"] = "Pattern: Draconic Bonesplinter Legguards"
+	LibTextbookDB[49966]["itemName"] = "Pattern: Rock-Steady Treads"
+	LibTextbookDB[49969]["itemName"] = "Plans: Puresteel Legplates"
+	LibTextbookDB[49970]["itemName"] = "Plans: Protectors of Life"
+	LibTextbookDB[49971]["itemName"] = "Plans: Legplates of Painful Death"
+	LibTextbookDB[49972]["itemName"] = "Plans: Hellfrozen Bonegrinders"
+	LibTextbookDB[49973]["itemName"] = "Plans: Pillars of Might"
+	LibTextbookDB[49974]["itemName"] = "Plans: Boots of Kingly Upheaval"
+	LibTextbookDB[50166]["itemName"] = "Technique: Glyph of Eternal Water"
+	LibTextbookDB[50167]["itemName"] = "Technique: Glyph of Rapid Rejuvenation"
+	LibTextbookDB[50168]["itemName"] = "Technique: Glyph of Quick Decay"
+	LibTextbookDB[50250]["itemName"] = "Big Love Rocket"
+	LibTextbookDB[50406]["itemName"] = "Formula: Enchant Gloves - Angler"
+	LibTextbookDB[50446]["itemName"] = "Toxic Wasteling"
+	LibTextbookDB[50818]["itemName"] = "Invincible's Reins"
+	LibTextbookDB[51954]["itemName"] = "Reins of the Bloodbathed Frostbrood Vanquisher"
+	LibTextbookDB[51955]["itemName"] = "Reins of the Icebound Frostbrood Vanquisher"
+	LibTextbookDB[52022]["itemName"] = "Plans: Shatter Rounds"
+	LibTextbookDB[52023]["itemName"] = "Plans: Iceblade Arrow"
+	LibTextbookDB[52200]["itemName"] = "Reins of the Crimson Deathcharger"
+	LibTextbookDB[53641]["itemName"] = "Ice Chip"
+	LibTextbookDB[54069]["itemName"] = "Blazing Hippogryph"
+	LibTextbookDB[54436]["itemName"] = "Blue Clockwork Rocket Bot"
+	LibTextbookDB[54797]["itemName"] = "Frosty Flying Carpet"
+	LibTextbookDB[54798]["itemName"] = "Pattern: Frosty Flying Carpet"
+	LibTextbookDB[54811]["itemName"] = "Celestial Steed"
+	LibTextbookDB[54847]["itemName"] = "Lil' XT"
+	LibTextbookDB[54860]["itemName"] = "X-53 Touring Rocket"
+	LibTextbookDB[56806]["itemName"] = "Mini Thor"
 	LibTextbookDB[2882]["itemName"] = "Plans: Silvered Bronze Shoulders"
 	LibTextbookDB[2883]["itemName"] = "Plans: Deadly Bronze Poniard"
 	LibTextbookDB[2889]["itemName"] = "Recipe: Beer Basted Boar Ribs"
@@ -20051,7 +20910,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[3736]["itemName"] = "Recipe: Tasty Lion Steak"
 	LibTextbookDB[3737]["itemName"] = "Recipe: Soothing Turtle Bisque"
 	LibTextbookDB[3830]["itemName"] = "Recipe: Elixir of Fortitude"
-	LibTextbookDB[3831]["itemName"] = "Recipe: Mighty Troll's Blood Elixir"
+	LibTextbookDB[3831]["itemName"] = "Recipe: Major Troll's Blood Elixir"
 	LibTextbookDB[3832]["itemName"] = "Recipe: Elixir of Detect Lesser Invisibility"
 	LibTextbookDB[3866]["itemName"] = "Plans: Jade Serpentblade"
 	LibTextbookDB[3867]["itemName"] = "Plans: Golden Iron Destroyer"
@@ -20130,8 +20989,8 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[47628]["itemName"] = "Pattern: Ensorcelled Nerubian Breastplate"
 	LibTextbookDB[47651]["itemName"] = "Pattern: Knightbane Carapace"
 	LibTextbookDB[47634]["itemName"] = "Pattern: Knightbane Carapace"
-	LibTextbookDB[47652]["itemName"] = "Pattern: Lunar Eclipse Chestguard"
-	LibTextbookDB[47632]["itemName"] = "Pattern: Lunar Eclipse Chestguard"
+	LibTextbookDB[47652]["itemName"] = "Pattern: Lunar Eclipse Robes"
+	LibTextbookDB[47632]["itemName"] = "Pattern: Lunar Eclipse Robes"
 	LibTextbookDB[47638]["itemName"] = "Pattern: Merlin's Robe"
 	LibTextbookDB[47655]["itemName"] = "Pattern: Merlin's Robe"
 	LibTextbookDB[47653]["itemName"] = "Pattern: Moonshadow Armguards"
@@ -20516,7 +21375,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[13499]["itemName"] = "Recipe: Greater Shadow Protection Potion"
 	LibTextbookDB[13501]["itemName"] = "Recipe: Major Mana Potion"
 	LibTextbookDB[13517]["itemName"] = "Recipe: Alchemist's Stone"
-	LibTextbookDB[13518]["itemName"] = "Recipe: Flask of Petrification"
+	LibTextbookDB[13518]["itemName"] = "Recipe: Potion of Petrification"
 	LibTextbookDB[13519]["itemName"] = "Recipe: Flask of the Titans"
 	LibTextbookDB[13520]["itemName"] = "Recipe: Flask of Distilled Wisdom"
 	LibTextbookDB[13521]["itemName"] = "Recipe: Flask of Supreme Power"
@@ -20799,7 +21658,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[18239]["itemName"] = "Pattern: Shadowskin Gloves"
 	LibTextbookDB[18252]["itemName"] = "Pattern: Core Armor Kit"
 	LibTextbookDB[18257]["itemName"] = "Recipe: Major Rejuvenation Potion"
-	LibTextbookDB[18259]["itemName"] = "Formula: Enchant Weapon - Spell Power"
+	LibTextbookDB[18259]["itemName"] = "Formula: Enchant Weapon - Spellpower"
 	LibTextbookDB[18260]["itemName"] = "Formula: Enchant Weapon - Healing Power"
 	LibTextbookDB[18264]["itemName"] = "Plans: Elemental Sharpening Stone"
 	LibTextbookDB[18265]["itemName"] = "Pattern: Flarecore Wraps"
@@ -20828,7 +21687,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[18651]["itemName"] = "Schematic: Truesilver Transformer"
 	LibTextbookDB[18652]["itemName"] = "Schematic: Gyrofreeze Ice Reflector"
 	LibTextbookDB[18653]["itemName"] = "Schematic: Goblin Jumper Cables XL"
-	LibTextbookDB[18654]["itemName"] = "Schematic: Gnomish Alarm-O-Bot"
+	LibTextbookDB[18654]["itemName"] = "Schematic: Gnomish Alarm-o-Bot"
 	LibTextbookDB[18655]["itemName"] = "Schematic: Major Recombobulator"
 	LibTextbookDB[18656]["itemName"] = "Schematic: Powerful Seaforium Charge"
 	LibTextbookDB[18657]["itemName"] = "Schematic: Hyper-Radiant Flame Reflector"
@@ -20918,7 +21777,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[20011]["itemName"] = "Recipe: Mageblood Elixir"
 	LibTextbookDB[20012]["itemName"] = "Recipe: Greater Dreamless Sleep Potion"
 	LibTextbookDB[20013]["itemName"] = "Recipe: Living Action Potion"
-	LibTextbookDB[20014]["itemName"] = "Recipe: Major Troll's Blood Elixir"
+	LibTextbookDB[20014]["itemName"] = "Recipe: Mighty Troll's Blood Elixir"
 	LibTextbookDB[20040]["itemName"] = "Plans: Dark Iron Boots"
 	LibTextbookDB[20075]["itemName"] = "Recipe: Heavy Crocolisk Stew"
 	LibTextbookDB[20253]["itemName"] = "Pattern: Warbear Harness"
@@ -21860,7 +22719,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[46762]["itemName"] = "Swift Violet Ram"
 	LibTextbookDB[46763]["itemName"] = "Turbostrider"
 	LibTextbookDB[46764]["itemName"] = "White Skeletal Warhorse"
-	LibTextbookDB[46767]["itemName"] = "Battle-Bot Ignition Key"
+	LibTextbookDB[46767]["itemName"] = "Warbot Ignition Key"
 	LibTextbookDB[46778]["itemName"] = "Magic Rooster Egg"
 	LibTextbookDB[44557]["itemName"] = "Swift Ebonweave Carpet"
 	LibTextbookDB[39303]["itemName"] = "Swift Flying Carpet"
@@ -22441,7 +23300,7 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookDB[46102]["itemName"] = "Whistle of the Venomhide Ravasaur"
 	LibTextbookDB[46108]["itemName"] = "Technique: Rituals of the New Moon"
 	LibTextbookDB[46109]["itemName"] = "Sea Turtle"
-	LibTextbookDB[46171]["itemName"] = "Deadly Gladiator's Frostwyrm"
+	LibTextbookDB[46171]["itemName"] = "Furious Gladiator's Frost Wyrm"
 	LibTextbookDB[46308]["itemName"] = "Black Skeletal Horse"
 	LibTextbookDB[46348]["itemName"] = "Formula: Enchant Weapon - Blood Draining"
 	LibTextbookDB[46743]["itemName"] = "Swift Purple Raptor"
@@ -22780,6 +23639,97 @@ if loc == "enUS" or loc == "enGB" then
 	LibTextbookReference["racesLoc"] = "Races"
 	LibTextbookReference["classesLoc"] = "Classes"
 elseif loc == "ruRU" then
+	LibTextbookDB[21168]["itemName"] = "Акуленок"
+	LibTextbookDB[23712]["itemName"] = "[White Tiger Cub]"
+	LibTextbookDB[37329]["itemName"] = "[Formula: Enchant Weapon - Exceptional Spirit]"
+	LibTextbookDB[37335]["itemName"] = "[Formula: Enchant Cloak - Superior Agility]"
+	LibTextbookDB[37337]["itemName"] = "[Formula: Enchant Bracer - Greater Stats]"
+	LibTextbookDB[37345]["itemName"] = "[Formula: Enchant Gloves - Greater Assault]"
+	LibTextbookDB[37346]["itemName"] = "[Formula: Enchant Bracer - Expertise]"
+	LibTextbookDB[37348]["itemName"] = "[Formula: Enchant Cloak - Haste]"
+	LibTextbookDB[41133]["itemName"] = "Невылупившийся мистер Холодок"
+	LibTextbookDB[44810]["itemName"] = "Клетка с индейкой"
+	LibTextbookDB[44822]["itemName"] = "Змейка-альбинос"
+	LibTextbookDB[44858]["itemName"] = "Рецепт: клюквенный соус"
+	LibTextbookDB[44859]["itemName"] = "Рецепт: засахаренный батат"
+	LibTextbookDB[44860]["itemName"] = "Рецепт: пряная хлебная запеканка"
+	LibTextbookDB[44861]["itemName"] = "Рецепт: запеченная индейка"
+	LibTextbookDB[44862]["itemName"] = "Рецепт: тыквенный пирог"
+	LibTextbookDB[45942]["itemName"] = "Конструктобот XS-001"
+	LibTextbookDB[46398]["itemName"] = "Пятнистый кот"
+	LibTextbookDB[46707]["itemName"] = "Розовый толстокожий детеныш"
+	LibTextbookDB[46708]["itemName"] = "Ледяной змей смертоносного гладиатора"
+	LibTextbookDB[46710]["itemName"] = "Рецепт: поминальный хлеб"
+	LibTextbookDB[46803]["itemName"] = "Рецепт: пряная хлебная запеканка"
+	LibTextbookDB[46804]["itemName"] = "Рецепт: тыквенный пирог"
+	LibTextbookDB[46805]["itemName"] = "Рецепт: клюквенный соус"
+	LibTextbookDB[46806]["itemName"] = "Рецепт: засахаренный батат"
+	LibTextbookDB[46807]["itemName"] = "Рецепт: запеченная индейка"
+	LibTextbookDB[47022]["itemName"] = "Эскиз: затвердевший аметрин"
+	LibTextbookDB[47023]["itemName"] = "Эскиз: застывший аметрин"
+	LibTextbookDB[47840]["itemName"] = "Ледяной змей неумолимого гладиатора"
+	LibTextbookDB[49044]["itemName"] = "Стремительный скакун Альянса"
+	LibTextbookDB[49046]["itemName"] = "Стремительный ордынский волк"
+	LibTextbookDB[49050]["itemName"] = "Схема: Дживс"
+	LibTextbookDB[49096]["itemName"] = "Белый боевой конь крестоносца"
+	LibTextbookDB[49098]["itemName"] = "Вороной боевой конь крестоносца"
+	LibTextbookDB[49112]["itemName"] = "Эскиз: слеза кошмаров"
+	LibTextbookDB[49282]["itemName"] = "Большой боевой медведь"
+	LibTextbookDB[49283]["itemName"] = "Поводья призрачного тигра"
+	LibTextbookDB[49284]["itemName"] = "Поводья резвого призрачного тигра"
+	LibTextbookDB[49285]["itemName"] = "Ракета Пустоты X-51"
+	LibTextbookDB[49286]["itemName"] = "ИКС-ключительная ракета Пустоты X-51"
+	LibTextbookDB[49287]["itemName"] = "Клыкаррский воздушный змей"
+	LibTextbookDB[49290]["itemName"] = "Яйцо волшебного петуха"
+	LibTextbookDB[49343]["itemName"] = "Призрачный тигренок"
+	LibTextbookDB[49362]["itemName"] = "Дракончик Ониксии"
+	LibTextbookDB[49636]["itemName"] = "Поводья дракона Ониксии"
+	LibTextbookDB[49646]["itemName"] = "Щенок гончей Недр"
+	LibTextbookDB[49662]["itemName"] = "Птенец грифона"
+	LibTextbookDB[49663]["itemName"] = "Детеныш ветрокрыла"
+	LibTextbookDB[49665]["itemName"] = "Пандарен-монах"
+	LibTextbookDB[49693]["itemName"] = "Талисманчик"
+	LibTextbookDB[49912]["itemName"] = "Карликовый пугель"
+	LibTextbookDB[49953]["itemName"] = "Выкройка: поножи паутины смерти"
+	LibTextbookDB[49954]["itemName"] = "Выкройка: сапоги смертной стужи"
+	LibTextbookDB[49955]["itemName"] = "Выкройка: светлотканые поножи"
+	LibTextbookDB[49956]["itemName"] = "Выкройка: сандалии освящения"
+	LibTextbookDB[49957]["itemName"] = "Выкройка: бриджи одичавшей природы"
+	LibTextbookDB[49958]["itemName"] = "Выкройка: благословенные кенарийские сапоги"
+	LibTextbookDB[49959]["itemName"] = "Выкройка: поножи клинка"
+	LibTextbookDB[49961]["itemName"] = "Выкройка: сапоги надвигающейся смерти"
+	LibTextbookDB[49962]["itemName"] = "Выкройка: заряженные молнией поножи"
+	LibTextbookDB[49963]["itemName"] = "Выкройка: сапоги духа земли"
+	LibTextbookDB[49965]["itemName"] = "Выкройка: набедренники из осколков драконьих костей"
+	LibTextbookDB[49966]["itemName"] = "Выкройка: несносимые ботфорты"
+	LibTextbookDB[49969]["itemName"] = "Чертеж: ножные латы из чистой стали"
+	LibTextbookDB[49970]["itemName"] = "Чертеж: защитники жизни"
+	LibTextbookDB[49971]["itemName"] = "Чертеж: ножные латы мучительной смерти"
+	LibTextbookDB[49972]["itemName"] = "Чертеж: костомолы леденящего ада"
+	LibTextbookDB[49973]["itemName"] = "Чертеж: столпы мощи"
+	LibTextbookDB[49974]["itemName"] = "Чертеж: сапоги королевского бунта"
+	LibTextbookDB[50166]["itemName"] = "Технология: символ извечной воды"
+	LibTextbookDB[50167]["itemName"] = "Технология: символ стремительного омоложения"
+	LibTextbookDB[50168]["itemName"] = "Технология: символ быстрого разложения"
+	LibTextbookDB[50250]["itemName"] = "Большая ракета любви"
+	LibTextbookDB[50406]["itemName"] = "Формула чар для перчаток - рыболов"
+	LibTextbookDB[50446]["itemName"] = "Токсичный выбросец"
+	LibTextbookDB[50818]["itemName"] = "Поводья Непобедимого"
+	LibTextbookDB[51954]["itemName"] = "Поводья обагренного ледяного покорителя"
+	LibTextbookDB[51955]["itemName"] = "Поводья неуклонного ледяного покорителя"
+	LibTextbookDB[52022]["itemName"] = "Чертеж: осколочные патроны"
+	LibTextbookDB[52023]["itemName"] = "Чертеж: стрела с ледяным наконечником"
+	LibTextbookDB[52200]["itemName"] = "Поводья багрового коня смерти"
+	LibTextbookDB[53641]["itemName"] = "Осколочек льда"
+	LibTextbookDB[54069]["itemName"] = "Пламенеющий гиппогриф"
+	LibTextbookDB[54436]["itemName"] = "Синий заводной ракетобот"
+	LibTextbookDB[54797]["itemName"] = "Заиндевевший ковер-самолет"
+	LibTextbookDB[54798]["itemName"] = "Выкройка: заиндевевший ковер-самолет"
+	LibTextbookDB[54811]["itemName"] = "Небесный скакун"
+	LibTextbookDB[54847]["itemName"] = "Разрушитель XXS-002"
+	LibTextbookDB[54860]["itemName"] = "Прогулочная ракета X-53"
+	LibTextbookDB[56806]["itemName"] = "Игрушечный Тор"
+	LibTextbookDB[4228]["itemName"] = "[Book of Moonfire IV]"
 	LibTextbookDB[5656]["itemName"] = "Узда гнедого коня"
 	LibTextbookDB[2411]["itemName"] = "Узда вороного жеребца"
 	LibTextbookDB[2414]["itemName"] = "Узда пегого коня"
@@ -23924,7 +24874,7 @@ elseif loc == "ruRU" then
 	LibTextbookDB[22557]["itemName"] = "Формула чар для оружия - военачальник"
 	LibTextbookDB[22562]["itemName"] = "Формула: превосходное масло маны"
 	LibTextbookDB[22563]["itemName"] = "Формула: превосходное волшебное масло"
-	LibTextbookDB[22564]["itemName"] = nil
+	LibTextbookDB[22564]["itemName"] = "Формула: чародейная пыль"
 	LibTextbookDB[22565]["itemName"] = "Формула: большой радужный осколок"
 	LibTextbookDB[22683]["itemName"] = "Выкройка: облачение Геи"
 	LibTextbookDB[22647]["itemName"] = "Рецепт: хрустящий паучий десерт"
