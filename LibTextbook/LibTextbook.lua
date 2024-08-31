@@ -20794,6 +20794,42 @@ LibTextbookDB = {
 		},
 	}
 
+LibTextbookReference["englishClass"] = {
+	[1] = 	"WARRIOR",
+	[2] = 	"PALADIN",
+	[3] = 	"HUNTER",
+	[4] = 	"ROGUE",
+	[5] = 	"PRIEST",
+	[6] = 	"DEATHKNIGHT",
+	[7] = 	"SHAMAN",
+	[8] = 	"MAGE",
+	[9] = 	"WARLOCK",
+	[11] = 	"DRUID",
+	}
+-- create inverse table of englishClass for faster lookup
+LibTextbookReference["englishClass_inv"] = {}
+for k,v in pairs( LibTextbookReference["englishClass"] ) do
+	LibTextbookReference["englishClass_inv"][v] = k
+end
+
+LibTextbookReference["englishRace"] = {
+	[1] = 	"Human",
+	[3] = 	"Dwarf",
+	[4] = 	"NightElf",
+	[7] = 	"Gnome",
+	[11] = 	"Draenei",
+	[2] = 	"Orc",
+	[5] = 	"Scourge",
+	[6] = 	"Tauren",
+	[8] = 	"Troll",
+	[10] = 	"BloodElf",
+}
+-- create inverse table of englishRace for faster lookup
+LibTextbookReference["englishRace_inv"] = {}
+for k,v in pairs( LibTextbookReference["englishRace"] ) do
+	LibTextbookReference["englishRace_inv"][v] = k
+end
+	
 LibTextbookReference["reputation"] = {
 	-- [0] = FACTION_STANDING_LABEL1,
 	-- [1] = FACTION_STANDING_LABEL2,
@@ -20820,11 +20856,12 @@ LibTextbookReference["binding"] = {
 	[3] = ITEM_BIND_ON_USE,
 	[4] = ITEM_BIND_QUEST,
 	[6] = ITEM_BIND_TO_ACCOUNT,
-	[6] = ITEM_BIND_TO_ACCOUNT,
 	}
 LibTextbookReference["uniqueLoc"] = ITEM_UNIQUE_EQUIPPABLE
 LibTextbookReference["racesLoc"] = RACES
 
+
+-- LOCALE BEGIN ****************************************************************
 local loc = GetLocale()
 if loc == "enUS" or loc == "enGB" then
 	do
@@ -46198,6 +46235,19 @@ elseif loc == "zhTW" then
 	LibTextbookReference["classesLoc"] = "职业"
 	
 end
+-- LOCALE END ****************************************************************
+
+
+-- create a table with only profession skills and also the inverse table for quicker lookup
+local profession_skill_ids = { 171, 186, 202, 773, 755, 182, 393, 165, 164, 197, 333, 185 }
+LibTextbookReference["skill_profession"] = {}
+LibTextbookReference["skill_profession_inv"] = {}
+for _, skillID in pairs(profession_skill_ids) do
+	local nameLocale = LibTextbookReference["skill"][skillID]
+	LibTextbookReference["skill_profession"][ skillID ] = nameLocale
+	LibTextbookReference["skill_profession_inv"][ nameLocale ] = skillID
+end
+
 
 local function ClassesString(classBM)
 	if not classBM or classBM < 1 then
