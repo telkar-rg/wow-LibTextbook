@@ -46343,97 +46343,97 @@ for _, skillID in pairs(profession_skill_ids) do
 end
 
 
-local function ClassesString(classBM)
-	if not classBM or classBM < 1 then
-		return
-	end
-	local s = LibTextbookReference["classesLoc"] .. ": "
-	local x = classBM
-	local k = 0
-	while x > 0 do
-		local b = x % 2
-		x = (x - b) / 2
-		if b == 1 then
-			s = s .. LibTextbookReference["class"][k]
-			if x > 0 then
-				s = s .. ", "
-			end
-		end
-		k = k + 1
-	end
-	return s
-end
+-- local function ClassesString(classBM)
+	-- if not classBM or classBM < 1 then
+		-- return
+	-- end
+	-- local s = LibTextbookReference["classesLoc"] .. ": "
+	-- local x = classBM
+	-- local k = 0
+	-- while x > 0 do
+		-- local b = x % 2
+		-- x = (x - b) / 2
+		-- if b == 1 then
+			-- s = s .. LibTextbookReference["class"][k]
+			-- if x > 0 then
+				-- s = s .. ", "
+			-- end
+		-- end
+		-- k = k + 1
+	-- end
+	-- return s
+-- end
 
-local function RacesString(raceBM)
-	if not raceBM or raceBM < 1 then
-		return
-	end
-	local s = LibTextbookReference["racesLoc"] .. ": "
-	local x = raceBM
-	local k = 0
-	while x > 0 do
-		local b = x % 2
-		x = (x - b) / 2
-		if b == 1 then
-			s = s .. LibTextbookReference["race"][k]
-			if x > 0 then
-				s = s .. ", "
-			end
-		end
-		k = k + 1
-	end
-	return s
-end
+-- local function RacesString(raceBM)
+	-- if not raceBM or raceBM < 1 then
+		-- return
+	-- end
+	-- local s = LibTextbookReference["racesLoc"] .. ": "
+	-- local x = raceBM
+	-- local k = 0
+	-- while x > 0 do
+		-- local b = x % 2
+		-- x = (x - b) / 2
+		-- if b == 1 then
+			-- s = s .. LibTextbookReference["race"][k]
+			-- if x > 0 then
+				-- s = s .. ", "
+			-- end
+		-- end
+		-- k = k + 1
+	-- end
+	-- return s
+-- end
 
-local function UniqueString(uniqueNumber)
-	if not uniqueNumber or uniqueNumber < 1 then
-		return
-	end
-	local s = LibTextbookReference["uniqueLoc"]
-	if uniqueNumber > 1 then
-		s = s .. "(" .. tostring(uniqueNumber) .. ")"
-	end
-	return s
-end
+-- local function UniqueString(uniqueNumber)
+	-- if not uniqueNumber or uniqueNumber < 1 then
+		-- return
+	-- end
+	-- local s = LibTextbookReference["uniqueLoc"]
+	-- if uniqueNumber > 1 then
+		-- s = s .. "(" .. tostring(uniqueNumber) .. ")"
+	-- end
+	-- return s
+-- end
 
-function LibTextbookInfo(itemID,resolveText)
-	local itemData = LibTextbookDB[itemID]
-	assert(itemData,"LibTextbook: No data for itemID=" .. tostring(itemID))
-	if resolveText then
-		local spellName, spellRank = GetSpellInfo(itemData["teachesSpell"])
-		if spellRank and  spellRank ~= "" then
-			spellName = spellName .. ' (' .. spellRank .. ')'
-		end
-		local reqSpellName
-		if itemData["reqSpell"] then
-			reqSpellName = GetSpellInfo(itemData["reqSpell"])
-		end
-		return itemData["type"],
-			spellName,
-			LibTextbookReference["skill"][itemData["reqSkill"]],
-			itemData["reqSkillLevel"],
-			reqSpellName,
-			LibTextbookReference["binding"][itemData["binding"]],
-			LibTextbookReference["quality"][itemData["quality"]],
-			itemData["reqLevel"],
-			ClassesString(itemData["reqClasses"]),
-			RacesString(itemData["reqRaces"]),
-			LibTextbookReference["faction"][itemData["reqFaction"]],
-			LibTextbookReference["reputation"][itemData["reqReputation"]],
-			UniqueString(itemData["unique"]),itemData["note"]
-	end
-	return itemData["type"],
-		itemData["teachesSpell"],
-		itemData["reqSkill"],
-		itemData["reqSkillLevel"],
-		itemData["reqSpell"],
-		itemData["binding"],
-		itemData["quality"],
-		itemData["reqLevel"],
-		itemData["reqClasses"],
-		itemData["reqRaces"],
-		itemData["reqFaction"],
-		itemData["reqReputation"],
-		itemData["unique"],
-		itemData["note"]
-end
+-- function lib:LibTextbookInfo(itemID,resolveText)
+	-- local itemData = LibTextbookDB[itemID]
+	-- assert(itemData,"LibTextbook: No data for itemID=" .. tostring(itemID))
+	-- if resolveText then
+		-- local spellName, spellRank = GetSpellInfo(itemData["teachesSpell"])
+		-- if spellRank and  spellRank ~= "" then
+			-- spellName = spellName .. ' (' .. spellRank .. ')'
+		-- end
+		-- local reqSpellName
+		-- if itemData["reqSpell"] then
+			-- reqSpellName = GetSpellInfo(itemData["reqSpell"])
+		-- end
+		-- return itemData["type"],
+			-- spellName,
+			-- LibTextbookReference["skill"][itemData["reqSkill"]],
+			-- itemData["reqSkillLevel"],
+			-- reqSpellName,
+			-- LibTextbookReference["binding"][itemData["binding"]],
+			-- LibTextbookReference["quality"][itemData["quality"]],
+			-- itemData["reqLevel"],
+			-- ClassesString(itemData["reqClasses"]),
+			-- RacesString(itemData["reqRaces"]),
+			-- LibTextbookReference["faction"][itemData["reqFaction"]],
+			-- LibTextbookReference["reputation"][itemData["reqReputation"]],
+			-- UniqueString(itemData["unique"]),itemData["note"]
+	-- end
+	-- return itemData["type"],
+		-- itemData["teachesSpell"],
+		-- itemData["reqSkill"],
+		-- itemData["reqSkillLevel"],
+		-- itemData["reqSpell"],
+		-- itemData["binding"],
+		-- itemData["quality"],
+		-- itemData["reqLevel"],
+		-- itemData["reqClasses"],
+		-- itemData["reqRaces"],
+		-- itemData["reqFaction"],
+		-- itemData["reqReputation"],
+		-- itemData["unique"],
+		-- itemData["note"]
+-- end
