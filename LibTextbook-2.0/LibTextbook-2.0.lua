@@ -1,4 +1,98 @@
-﻿LibTextbookReference = {}
+﻿local MAJOR_VERSION = "LibTextbook-2.0"
+local MINOR_VERSION = 90000 + tonumber(("$Rev: 1 $"):match("%d+"))
+
+if not LibStub then error(MAJOR_VERSION .. " requires LibStub.") end
+local lib = LibStub:NewLibrary(MAJOR_VERSION, MINOR_VERSION)
+if not lib then return end
+
+local GAME_LOCALE = GetLocale()
+local LibTextbookReference, LibTextbookDB
+
+
+local function initReverse(table_orig, table_reverse)
+	-- work with temp table to not touch any "real" tables
+	-- until we are sure the whole table reversal can proceed
+	local temp = {}
+	-- create reversed data
+	for k,v in pairs(table_orig) do
+		if type(v) == "table" then
+			-- do not reverse if v is a table
+			return nil, format("Table %s not reversable.", tostring(table_orig) )
+		end
+		temp[v] = k
+	end
+	-- clear table_reverse entries
+	for k in pairs(table_reverse) do
+		table_reverse[k] = nil
+	end
+	-- fill "real" table_reverse with reversed data
+	for k,v in pairs(temp) do
+		table_reverse[k] = v
+	end
+	wipe(temp) 	-- clear temp table
+	return true
+end
+
+
+local function checkBitInNum(numCheck, bitPos)
+	local bitBin = bit.lshift(1, bitPos)
+	
+	-- return true or nil
+	if bit.band(numCheck, bitBin) > 0 then
+		return true
+	end
+end
+
+function lib:getProfessionLocale2SkillId(skillLocale)
+	return LibTextbookReference["skill_profession_inv"][skillLocale]
+end
+function lib:getClassId(enClass)
+	return LibTextbookReference["englishClass_inv"][enClass]
+end
+function lib:getClassBin(enClass)
+	local classId = LibTextbookReference["englishClass_inv"][enClass]
+	if classId then
+		return bit.lshift(1, classId)
+	end
+end
+function lib:getRaceId(enRace)
+	return LibTextbookReference["englishRace_inv"][enRace]
+end
+function lib:getRaceBin(enRace)
+	local raceId = LibTextbookReference["englishRace_inv"][enRace]
+	if raceId then
+		return bit.lshift(1, raceId)
+	end
+end
+
+function lib:getDbRaw(tbl)
+	if type(tbl) ~= "table" then return end
+	
+	-- clear return table
+	for k,v in pairs(tbl) do
+		tbl[k] = nil
+	end
+	
+	-- fill return table
+	for k,v in pairs(LibTextbookDB) do
+		tbl[k] = v
+	end
+	return true
+end
+function lib:getItemRaw(itemId)
+	return LibTextbookDB[itemId]
+end
+function lib:getItemName(itemId)
+	if LibTextbookDB[itemId] then
+		return LibTextbookDB[itemId]["itemName"]
+	end
+end
+
+function lib:getProfessionSkillId( skill_name_localized )
+	return LibTextbookReference["skill_profession_inv"][skill_name_localized]
+end
+
+LibTextbookReference = {}
 
 LibTextbookDB = {
 	[4228] = {--
