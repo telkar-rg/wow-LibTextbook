@@ -92,6 +92,7 @@ function lib:getProfessionSkillId( skill_name_localized )
 	return LibTextbookReference["skill_profession_inv"][skill_name_localized]
 end
 
+do
 LibTextbookReference = {}
 
 LibTextbookDB = {
@@ -46333,13 +46334,27 @@ end
 
 
 -- create a table with only profession skills and also the inverse table for quicker lookup
-local profession_skill_ids = { 171, 186, 202, 773, 755, 182, 393, 165, 164, 197, 333, 185 }
+	local profession_skill_ids = {
+		164, 	-- Blacksmithing
+		165, 	-- Leatherworking
+		171, 	-- Alchemy
+		182, 	-- Herbalism
+		186, 	-- Mining
+		197, 	-- Tailoring
+		202, 	-- Engineering
+		333, 	-- Enchanting
+		393, 	-- Skinning
+		773, 	-- Inscription
+		755, 	-- Jewelcrafting
+		185, 	-- Cooking
+	}
 LibTextbookReference["skill_profession"] = {}
 LibTextbookReference["skill_profession_inv"] = {}
 for _, skillID in pairs(profession_skill_ids) do
 	local nameLocale = LibTextbookReference["skill"][skillID]
 	LibTextbookReference["skill_profession"][ skillID ] = nameLocale
 	LibTextbookReference["skill_profession_inv"][ nameLocale ] = skillID
+end
 end
 
 
