@@ -20901,11 +20901,11 @@ LibTextbookReference["englishClass"] = {
 	[9] = 	"WARLOCK",
 	[11] = 	"DRUID",
 	}
+
 -- create inverse table of englishClass for faster lookup
 LibTextbookReference["englishClass_inv"] = {}
-for k,v in pairs( LibTextbookReference["englishClass"] ) do
-	LibTextbookReference["englishClass_inv"][v] = k
-end
+local bSuc,sErr = initReverse( LibTextbookReference["englishClass"], LibTextbookReference["englishClass_inv"] )
+assert( bSuc, tostring(sErr) )
 
 LibTextbookReference["englishRace"] = {
 	[1] = 	"Human",
@@ -20919,12 +20919,13 @@ LibTextbookReference["englishRace"] = {
 	[8] = 	"Troll",
 	[10] = 	"BloodElf",
 }
+
 -- create inverse table of englishRace for faster lookup
 LibTextbookReference["englishRace_inv"] = {}
-for k,v in pairs( LibTextbookReference["englishRace"] ) do
-	LibTextbookReference["englishRace_inv"][v] = k
-end
-	
+local bSuc,sErr = initReverse( LibTextbookReference["englishRace"], LibTextbookReference["englishRace_inv"] )
+assert( bSuc, tostring(sErr) )
+
+
 LibTextbookReference["reputation"] = {
 	-- [0] = FACTION_STANDING_LABEL1,
 	-- [1] = FACTION_STANDING_LABEL2,
